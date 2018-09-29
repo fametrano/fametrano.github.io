@@ -13,13 +13,19 @@ He is also founder and co-administrator of the QuantLib project, a comprehensive
 ### More Information
 
 [https://github.com/fametrano](https://github.com/fametrano)
+
 [https://twitter.com/Ferdinando1970](https://twitter.com/Ferdinando1970)
+
 [https://speakerdeck.com/nando1970](https://speakerdeck.com/nando1970)
+
 [https://www.reddit.com/user/Nando1970/](https://www.reddit.com/user/Nando1970/)
+
 [https://www.slideshare.net/Ferdinando1970](https://www.slideshare.net/Ferdinando1970)
+
 [https://it.linkedin.com/in/ferdinandoametrano](https://it.linkedin.com/in/ferdinandoametrano)
+
 [https://www.youtube.com/c/FerdinandoMAmetrano](https://www.youtube.com/c/FerdinandoMAmetrano)
 
-### Contact me
+### Contact Ferdinando
 
 [info@ametrano.net](mailto:info@ametrano.net)

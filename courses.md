@@ -4,6 +4,8 @@ title: Courses
 permalink: /courses/
 ---
 
+{{ page.url }}
+
 **Bitcoin and Blockchain Technology (2018)**
 1. Introduction
   * slides (ENG): <https://bit.ly/2jQjYxt>

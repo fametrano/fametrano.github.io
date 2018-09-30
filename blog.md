@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog with date 2
+title: Blog with date 3
 permalink: /blog/
 ---
 
@@ -10,7 +10,7 @@ permalink: /blog/
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <span class="date">{{ page.date | %Y-%m-%d" }}</span>
+      {{ page.date | %Y-%m-%d" }}
 
       <div class="entry">
         {{ post.excerpt }}

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Bitcoin (maximalist) & Blockchain Technology at Digital Gold Institute,
+Bitcoin (maximalis) & Blockchain Technology at Digital Gold Institute,
 Milano Bicocca, and Politecnico di Milano.
 Hayek Money promoter,
 [QuantLib](https://quantlib.org) founder,
@@ -17,6 +17,6 @@ including slides, code, videos, etc.
 as lecturer, speaker, panelist and my articles, interviews, videos, etc.
 *  and, of course, my [blog]({{ site.baseurl }}/blog/)!
 
-I am available for events: I waive my fee for scientific and community-organized
-non-profit events and conferences, anyway I do not work pro-bono for the commercial
-ones that charge a ticket or have sponsors.
+I am available pro-bono for scientific and community-organized
+non-profit events and conferences; I charge a fee for the commercial
+ones with admission price or sponsors.

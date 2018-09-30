@@ -5,7 +5,7 @@ permalink: /activities/
 ---
 
 YouTube English video playlist: <http://bit.ly/2zFNgYk>  
-YouTube Italian videos playlist: <http://bit.ly/2OnT2WV>
+YouTube Italian video playlist: <http://bit.ly/2OnT2WV>
 
 ---
 

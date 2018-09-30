@@ -33,9 +33,12 @@ layout: default
     </p>
 </div>
 
+<h1>Latest blog posts</h1>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
+      <span class="date">{{ post.date }}</span>
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 

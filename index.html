@@ -11,8 +11,10 @@ layout: default
         Interest Rate Derivatives Adjunct Professor at Milano Bicocca.
         Ex-physicist, Springsteen fan, husband, father of three.
     </p>
+  </div>
       
-    <p>
+  <div>
+      <p>
       Here you can find informations about:
       <ol>
         <li>
@@ -38,8 +40,7 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-      <span class="date">{{ post.date }}</span>
-
+      {{ page.date | date: "%b %e, %Y" }}
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
       <div class="entry">

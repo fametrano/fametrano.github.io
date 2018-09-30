@@ -15,15 +15,16 @@ Here you can find informations about:
 including slides, code, videos, etc.
 * my past and forthcoming [activities]({{ site.baseurl }}/activities/)
 as speaker, trainer, lecturer and my articles, interviews, videos, etc.
-* and, of course, my [blog]({{ site.baseurl }}/blog/)!
+*  and, of course, here it is: my blog!
+!
 
 # Latest posts
 
 {% for post in site.posts %}
   <article class="post">
 
+    {{ page.date | date: "%b %e, %Y" }}
     <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-    <span class="date">{{ post.date }}</span>
 
     <div class="entry">
       {{ post.excerpt }}

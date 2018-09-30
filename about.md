@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Bitcoin (maximalist) & Blockchain Technology at Digital Gold Institute, Milano Bicocca, and Politecnico di Milano. Hayek Money promoter, QuantLib founder, Interest Rate Derivatives Adjunct Professor at Milano Bicocca. Springsteen fan, husband, father of three.
+Bitcoin (maximalist) & Blockchain Technology at Digital Gold Institute, Milano Bicocca, and Politecnico di Milano. Hayek Money promoter, [QuantLib](https://www.quantlib.org) founder, Interest Rate Derivatives Adjunct Professor at Milano Bicocca. Springsteen fan, husband, father of three.
 
 
 ## Longer (formal) bio
@@ -15,7 +15,7 @@ Author of scientific publications, contributors to multiple media outlets, appre
 
 He is also founder and co-administrator of the [QuantLib](https://www.quantlib.org) project, a comprehensive free/open-source software framework for quantitative finance. Interest Rate Derivatives Adjunct Professor at the Milano-Bicocca University, he has relevant publications on this subject and has headed trading, quantitative, and risk-management teams in Banca IMI (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has also been co-founder and managing partner of RiskMap (now StatPro Italia).
 
-[info@ametrano.net](mailto:info@ametrano.net)   
+[info@ametrano.net](mailto:info@ametrano.net)  
 [https://github.com/fametrano](https://github.com/fametrano)  
 [https://twitter.com/Ferdinando1970](https://twitter.com/Ferdinando1970)  
 [https://speakerdeck.com/nando1970](https://speakerdeck.com/nando1970)  
@@ -23,3 +23,5 @@ He is also founder and co-administrator of the [QuantLib](https://www.quantlib.o
 [https://www.slideshare.net/Ferdinando1970](https://www.slideshare.net/Ferdinando1970)  
 [https://it.linkedin.com/in/ferdinandoametrano](https://it.linkedin.com/in/ferdinandoametrano)  
 [https://www.youtube.com/c/FerdinandoMAmetrano](https://www.youtube.com/c/FerdinandoMAmetrano)
+
+![Ferdinando M. Ametrano](images/201809AmetranoProfileRectangular.jpg)

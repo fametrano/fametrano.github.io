@@ -4,7 +4,9 @@ title: Courses
 permalink: /courses/
 ---
 
-**Bitcoin and Blockchain Technology (2018)**
+**Bitcoin and Blockchain Technology (2018)**  
+Department of Mathematics, Politecnico di Milano  
+Department of Statistics and Quantitative Methods, Università Milano-Bicocca
 
 1. Introduction: <https://bit.ly/2jQjYxt>
 2. Blockchain, Mining, and Distributed Consensus: <https://bit.ly/2KgS20R>
@@ -20,7 +22,8 @@ Python code and Excel spreadhseets are available on GitHub <http://bit.ly/2RawPt
 
 ---
 
-**Interest Rate Derivatives (2018)**
+**Interest Rate Derivatives (2018)**  
+Department of Statistics and Quantitative Methods, Università Milano-Bicocca
 
 [To be updated]
 

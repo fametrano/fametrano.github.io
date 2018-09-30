@@ -10,7 +10,9 @@ permalink: /blog/
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      {{ page.date | %Y-%m-%d" }}
+      <div>
+        {{ page.date | %Y-%m-%d" }}
+      </div>
 
       <div class="entry">
         {{ post.excerpt }}

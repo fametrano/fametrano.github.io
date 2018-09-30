@@ -7,6 +7,8 @@ permalink: /activities/
 YouTube English video playlist: <http://bit.ly/2zFNgYk>  
 YouTube Italian videos playlist: <http://bit.ly/2OnT2WV>
 
+---
+
 2018-05-30 iBicocca.it  
 iKnow: Alla scoperta di Bitcoin
 talk

@@ -21,6 +21,8 @@ Python code and Excel spreadhseets are available at <https://github.com/dginst/B
 
 ---
 
+---
+
 **Interest Rate Derivatives (2018)**
 
 [To be updated]

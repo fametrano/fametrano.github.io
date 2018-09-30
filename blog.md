@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog with date
+title: Blog with date 2
 permalink: /blog/
 ---
 

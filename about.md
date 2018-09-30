@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Bitcoin (maximalist) & Blockchain Technology at Digital Gold Institute, Milano Bicocca, and Politecnico di Milano. Hayek Money promoter, [QuantLib](https://www.quantlib.org) founder, Interest Rate Derivatives Adjunct Professor at Milano Bicocca. Springsteen fan, husband, father of three.
-
-# Longer (formal) bio
-
 Director of the Digital Gold Institute, Ferdinando Ametrano teaches "Bitcoin and Blockchain Technologies" at Politecnico di Milano and Milano-Bicocca University. Former [Head of Blockchain and Virtual Currencies](https://goo.gl/QdDTuN) in Intesa Sanpaolo bank, he is member of the [Scaling Bitcoin](https://scalingbitcoin.org/) Planning Committee and has been Chairman of [Scaling Bitcoin Conference 2016 in Milan](https://milan2016.scalingbitcoin.org/). 
 
 Author of scientific publications, contributors to multiple media outlets, appreciated speaker, lecturer and instructor, he has been invited to talk about bitcoin at the [United Nations](https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ), central banks, the Italian Parliament, universities, conferences, and workshops. His academic research focuses on price stability, advocating automated non-discretionary elastic monetary policy for a new generation of cryptocurrencies (Hayek Money).

@@ -3,54 +3,42 @@ layout: default
 ---
 
 <div>
-    <p>
-        Bitcoin (maximalist) & Blockchain Technology at Digital Gold Institute,
-        Milano Bicocca, and Politecnico di Milano.
-        Hayek Money promoter,
-        <a href="https://quantlib.org">QuantLib</a> founder,
-        Interest Rate Derivatives Adjunct Professor at Milano Bicocca.
-        Ex-physicist, Springsteen fan, husband, father of three.
-    </p>
-  </div>
+  <p>
+    Bitcoin (maximalist) & Blockchain Technology at Digital Gold Institute,
+    Milano Bicocca, and Politecnico di Milano.
+    Hayek Money promoter,
+    <a href="https://quantlib.org">QuantLib</a> founder,
+    Interest Rate Derivatives Adjunct Professor at Milano Bicocca.
+    Ex-physicist, Springsteen fan, husband, father of three.
+  </p>
+</div>
       
-  <div>
-      <p>
-      Here you can find informations about:
-      <ol>
-        <li>
-            my university 
-            <a href="{{ site.baseurl }}/courses/">courses</a>, including slides,
-            code, videos, etc.
-        </li>
-        <li>
-            my past and forthcoming
-            <a href="{{ site.baseurl }}/activities/">activities</a> as speaker,
-            trainer, lecturer and my articles, interviews, videos, etc.
-        </li>
-        <li>
-            and, of course, here it is: my blog!
-        </li>
-      </ol>
-      
-    </p>
+<div>
+  <p>
+    Here you can find informations about:
+    <ol>
+      <li>
+        my university 
+        <a href="{{ site.baseurl }}/courses/">courses</a>, including slides,
+        code, videos, etc.
+      </li>
+      <li>
+        my past and forthcoming
+        <a href="{{ site.baseurl }}/activities/">activities</a> as speaker,
+        trainer, lecturer and my articles, interviews, videos, etc.
+      </li>
+      <li>
+        and, of course, here it is: my <a href="{{ site.baseurl }}/blog/">blog</a>!
+      </li>
+    </ol>
+  </p>
 </div>
 
-<h1>Latest blog posts</h1>
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-      {{ page.date | date: "%b %e, %Y" }}
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-
-  <a href="{{ site.baseurl }}/blog/">All blog posts</a>
-
+<div>
+  <p>
+    I am available as lecturer, speaker, panelist, MC for events, etc.
+    I do not charge any fee for scientific and community-organized non-profit events and conferences;
+    anyway I do not work pro-bono for commercial events: if they charge a ticket or have sponsors, I charge a fee.
+  </p>
 </div>
+    

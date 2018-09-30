@@ -14,7 +14,7 @@ permalink: /courses/
 6. Wallets and Deterministic Keys Sequences
 7. Distributed Ledger Technology and Non-monetary Applications
 
-Python code and Excel spreadhseets are available at <https://github.com/dginst/BitcoinBlockchainTechnology>
+Python code and Excel spreadhseets are available on GitHub <http://bit.ly/2RawPtP>
 
 ---
 

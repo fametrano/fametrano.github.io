@@ -15,20 +15,11 @@ Author of scientific publications, contributors to multiple media outlets, appre
 
 He is also founder and co-administrator of the [QuantLib](https://www.quantlib.org) project, a comprehensive free/open-source software framework for quantitative finance. Interest Rate Derivatives Adjunct Professor at the Milano-Bicocca University, he has relevant publications on this subject and has headed trading, quantitative, and risk-management teams in Banca IMI (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has also been co-founder and managing partner of RiskMap (now StatPro Italia).
 
-### Social Networks
-
-[info@ametrano.net](mailto:info@ametrano.net)
- 
-[https://github.com/fametrano](https://github.com/fametrano)
-
-[https://twitter.com/Ferdinando1970](https://twitter.com/Ferdinando1970)
-
-[https://speakerdeck.com/nando1970](https://speakerdeck.com/nando1970)
-
-[https://www.reddit.com/user/Nando1970/](https://www.reddit.com/user/Nando1970/)
-
-[https://www.slideshare.net/Ferdinando1970](https://www.slideshare.net/Ferdinando1970)
-
-[https://it.linkedin.com/in/ferdinandoametrano](https://it.linkedin.com/in/ferdinandoametrano)
-
+[info@ametrano.net](mailto:info@ametrano.net)   
+[https://github.com/fametrano](https://github.com/fametrano)  
+[https://twitter.com/Ferdinando1970](https://twitter.com/Ferdinando1970)  
+[https://speakerdeck.com/nando1970](https://speakerdeck.com/nando1970)  
+[https://www.reddit.com/user/Nando1970/](https://www.reddit.com/user/Nando1970/)  
+[https://www.slideshare.net/Ferdinando1970](https://www.slideshare.net/Ferdinando1970)  
+[https://it.linkedin.com/in/ferdinandoametrano](https://it.linkedin.com/in/ferdinandoametrano)  
 [https://www.youtube.com/c/FerdinandoMAmetrano](https://www.youtube.com/c/FerdinandoMAmetrano)

@@ -27,31 +27,31 @@
           </div>
 
           <nav>
-              {% if {{ page.url} == "/"} %}
+              {% if page.url == "/"} %}
                 <u><a href="{{ site.baseurl }}/">Home</a></u>
               {% else %}
                 <a href="{{ site.baseurl }}/">Home</a>
               {% endif %}
 
-              {% if {{ page.url} == "/courses"} %}
+              {% if page.ur == "/courses"} %}
                 <u><a href="{{ site.baseurl }}/courses">Courses</a></u>
               {% else %}
                 <a href="{{ site.baseurl }}/courses">Courses</a>
               {% endif %}
 
-              {% if {{ page.url} == "/activities"} %}
+              {% if page.url == "/activities"} %}
                 <u><a href="{{ site.baseurl }}/activities">Activities</a></u>
               {% else %}
                 <a href="{{ site.baseurl }}/activities">Activities</a>
               {% endif %}
 
-              {% if {{ page.url} == "/blog"} %}
+              {% if page.url == "/blog"} %}
                 <u><a href="{{ site.baseurl }}/blog">Blog</a></u>
               {% else %}
                 <a href="{{ site.baseurl }}/blog">Blog</a>
               {% endif %}
 
-              {% if {{ page.url} == "/about"} %}
+              {% if page.url == "/about"} %}
                 <u><a href="{{ site.baseurl }}/about">About</a></u>
               {% else %}
                 <a href="{{ site.baseurl }}/about">About</a>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digital Gold Inst
+title: Digital Gold Institute
 permalink: /dgi/
 ---
 

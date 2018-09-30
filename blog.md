@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog with date 3
+title: Blog
 permalink: /blog/
 ---
 
@@ -16,10 +16,8 @@ permalink: /blog/
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more...</a>
     </article>
   {% endfor %}
-
-  <a href="{{ site.baseurl }}/blog/">All blog posts</a>
 
 </div>

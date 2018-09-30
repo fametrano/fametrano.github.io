@@ -4,38 +4,44 @@ title: Activities
 permalink: /activities/
 ---
 
-YouTube English video playlist: <https://www.youtube.com/playlist?list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ>  
-YouTube Italian videos playlist: <https://www.youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp>
+YouTube English video playlist: <http://bit.ly/2zFNgYk>  
+YouTube Italian videos playlist: <http://bit.ly/2OnT2WV>
 
 2018-05-30 iBicocca.it  
 iKnow: Alla scoperta di Bitcoin
+talk
 
 2018-05-21/22 Blockchain Academy, Milano  
-Bitcoin and Blockchain technology
+Bitcoin and Blockchain technology  
+seminar
 
 2018-05-03 3rd Banking Transformation & Innovation Summit, London  
-Bitcoin: The Digital Rush
+Bitcoin: The Digital Rush  
+talk
 
 2018-04-14 Università Cattolica, Milano  
-Bitcoin: The Digital Rush
-
-2018-03-23 Parco Scientifico Tecnologico Per L'Ambiente, Torino  
-Bitcoin Meetup
+Bitcoin: The Digital Rush  
+lecture
 
 2018-03-21 Camplus, Milano  
-Bitcoin: The Digital Rush
+Bitcoin: The Digital Rush  
+lecture
 
 2018-03-15 iKN, Milano  
-Bitcoin and Blockchain technology
+Bitcoin and Blockchain Technology  
+seminar
 
 2018-03-05 Sun Life Financial International, Milano  
-Bitcoin as Digital Gold
+Bitcoin as Digital Gold  
+talk
 
 2018-03-05 Istituto Gislieri, Pavia  
-Bitcoin: The Digital Rush
+Bitcoin: The Digital Rush  
+lecture
 
 2018-03-02 Istituto Luigi Sturzo, Roma  
-Bitcoin: The Digital Rush
+Bitcoin: The Digital Rush  
+lecture
 
 2018-02-23 Class CNBC  
 Guest expert on bitcoin
@@ -46,67 +52,67 @@ Guest expert on bitcoin
 
 2018-02-14 Le Iene - Italia 1  
 Cosa sono e come funzionano i Bitcoin  
-video: <https://goo.gl/EJN1jx>
+video (ITA): <https://goo.gl/EJN1jx>
 
 2018-02-13 Alground.com  
 Bitcoin. Basta balle: chi ci guadagna, e chi ha perso tutto.  
-<https://www.alground.com/site/bitcoin-inchiesta/51359/>
+article (ITA): <https://www.alground.com/site/bitcoin-inchiesta/51359/>
 
 2018-02-12 Radio3 Scienza  
 Blockchain, che cos'è  
-<https://goo.gl/BAHJ9s>
+audio (ITA): <https://goo.gl/BAHJ9s>
 
 2018-02-01 United Nations (Department of Economic and Social Affairs), New York  
 Bitcoin as Digital Gold  
-video: <https://goo.gl/NkEC9w>  
-slides: <https://goo.gl/szzBXh>  
-more info and material: <https://goo.gl/XoQNfA>
+talk  
+video (ENG): <https://goo.gl/NkEC9w>  
+slides (ENG): <https://goo.gl/szzBXh>  
+more info and material (ENG): <https://goo.gl/XoQNfA>
 
 2018-01-31 SkyTG24 - Speciale Economia  
 Guest expert on bitcoin
 
 2018-01-29 Interlogica, Venezia  
-Intervista in sette parti su Bitcoin  
-<https://goo.gl/XLAoaX>
+video (ITA): <https://goo.gl/XLAoaX>
 
 2018-01-27 "Liberi di Scegliere", Piacenza  
 Bitcoin e blockchain. Ci attende una rivoluzione?
 
 2018-01-25 Storie di Eccellenza  
-<https://goo.gl/HywF5u>
+article (ITA): <https://goo.gl/HywF5u>
 
 2018-01-19 Cà Foscari, Bitcoin Meetup Venezia  
 Bitcoin: The Digital Rush  
-video: <https://goo.gl/zwfuXK>  
-video (Q&A): <https://goo.gl/nkyBew>  
-slide: <https://speakerdeck.com/nando1970/bitcoin-the-digital-rush>
+video (ITA): <https://goo.gl/zwfuXK>  
+video Q&A (ITA)): <https://goo.gl/nkyBew>  
+slides (ENG): <https://speakerdeck.com/nando1970/bitcoin-the-digital-rush>
 
 2018-01-17 IlSole24Ore  
 Bitcoin, ecco perché non è una moneta.  
-<https://goo.gl/Nngh1i>
+article (ITA): <https://goo.gl/Nngh1i>
 
 2018-01-12 La Repubblica  
 Bitcoin, arriva il film: una produzione 100% italiana  
-<https://goo.gl/72A8b5>
+article (ITA): <https://goo.gl/72A8b5>
 
 2018-01-11 Notizie.it  
 Il futuro dei Bitcoin secondo Ferdinando Ametrano  
-<https://www.notizie.it/futuro-bitcoin-ferdinando-ametrano/>
+article (ITA): <https://www.notizie.it/futuro-bitcoin-ferdinando-ametrano/>
 
-2018-01-10 Corriere della Sera (Bergamo)  
+2018-01-10 Corriere della Sera (Bergamo):  
 Bitcoin, nel documentario di Aralla le istruzioni per l’uso  
-<https://goo.gl/ZBy42e>
+article (ITA): <https://goo.gl/ZBy42e>
 
 2018-01-09 TGCom24 - Dentro i fatti  
 Bitcoin e geopolitica
 
 2018-01-08 Nòva IlSole24Ore  
 Oltre l’oro digitale? Ben poco altro  
-<https://goo.gl/VgRkXp>
+article (ITA): <https://goo.gl/VgRkXp>
 
 2018-01-07 Il Fatto Quotidiano  
 Bitcoin, a furia di correre  
-<https://goo.gl/aEJdaX>
+article (ITA): <https://goo.gl/aEJdaX>
 
 2017-12-27 SkyTG24 Economia  
 Guest expert on bitcoin
@@ -116,64 +122,64 @@ Guest expert on bitcoin
 
 2017-12-27 IlSole24Ore  
 I bitcoin nell’agenda del prossimo G20  
-<https://goo.gl/RMQtSU>
+article (ITA): <https://goo.gl/RMQtSU>
 
 2017-12-21 The Digital Rush - trailer  
-<https://goo.gl/G8LPKh>
+video (ENG): <https://goo.gl/G8LPKh>
 
 2017-12-19 Bicocca University, Milan  
 Digital Gold: Bitcoin as Investment Asset  
-slide: <https://goo.gl/MuxT8x>  
-video: <https://goo.gl/v9Tcn7>
+slides (ENG): <https://goo.gl/MuxT8x>  
+video (ITA): <https://goo.gl/v9Tcn7>
 
 2017-12-19 TGCOM24 - Paura Bitcoin  
 Guest expert on bitcoin  
-<https://goo.gl/Roksux>
+video (ITA): <https://goo.gl/Roksux>
 
 2017-12-16 Radio Popolare  
 Abbobitcoin con PopUp all’Ostello Bello  
-<https://goo.gl/1tc4a5>
+audio (ITA): <https://goo.gl/1tc4a5>
 
 2017-12-15 Lab Parlamento  
 Bitcoin: bolla? No, spillo che può farne scoppiare altre  
-<https://goo.gl/W7MHtk>
+article (ITA): <https://goo.gl/W7MHtk>
 
 2017-12-14 Radio Montecarlo - Erina e Stefano  
 Guest expert on bitcoin
 
 2017-12-12 Rai Radio 1 - Radio anch'io  
 Guest expert on bitcoin  
-<https://goo.gl/UKcmQu>
+audio (ITA): <https://goo.gl/UKcmQu>
 
 2017-12-11 Mister Trend  
 Il Bitcoin spiegato dal Prof. Ferdinando Ametrano  
-<https://goo.gl/wWN1oV>
+audio (ITA): <https://goo.gl/wWN1oV>
 
 2017-12-11 SkyTG24 Economia  
 Guest expert on bitcoin  
-<https://goo.gl/oqPPKW>
+video (ITA): <https://goo.gl/oqPPKW>
 
 2017-12-09 TGCOM24 Pil & contro Pil  
 Guest expert on bitcoin  
-<https://goo.gl/Ucn6Ud>
+video (ITA): <https://goo.gl/Ucn6Ud>
 
 2017-12-06 Radio24 - Focus Economia  
 Nuovo record per i Bitcoin  
-<https://goo.gl/Kbuvod>
+audio (ITA): <https://goo.gl/Kbuvod>
 
 2017-12-06 Rai Radio 1 - 6 su Radio 1  
 Guest expert on bitcoin
 
 2017-12-02 Radio24 - I Conti della belva  
 Febbre da bitcoin  
-<https://goo.gl/ki7G6Y>
+audio (ITA): <https://goo.gl/ki7G6Y>
 
 2017-12-01 CNBC Milano Finanza - Report  
 Guest expert on bitcoin
 
 2017-12-01 Donna Moderna  
 Vale la pena investire in bitcoin?  
-<https://goo.gl/Wh7Xua>
+article (ITA): <https://goo.gl/Wh7Xua>
 
 2017-12-00 Wired Italia  
 XXXXXX
@@ -186,25 +192,25 @@ Bitcoin, Blockchain e le nuove forme di finanziamento
 
 2017-11-16 IFAF - Scuola di Finanza  
 Blockchain, registro condiviso e notarizzazione: quale evoluzione per il Bitcoin?  
-<https://goo.gl/bo1ME4>
+video (ITA): <https://goo.gl/bo1ME4>
 
 2017-11-14 IULM University of Milan  
 Bitcoin: oro digitale e stabilità dei prezzi
 
 2017-10-25 Forum Banca  
 Intervista: Blockchain, Bitcoin e DLT  
-<https://goo.gl/V6qdaF>
+video (ITA): <https://goo.gl/V6qdaF>
 
 2017-10-14 The IFTA 30th Annual Conference, Milan  
 Keynote Speech: Bitcoin as Investment Asset  
-<http://www.ifta-conferences.org/speakers-page/>
+event programme (ENG): <http://www.ifta-conferences.org/speakers-page/>
 
 2017-10-9/10 Blockchain Academy, Munich  
 2 days workshop on Bitcoin, Blockchain and DLT
 
 2017-09-25 Forum Banca  
 Unlocking Blockchain and DLT Technologies  
-video: <https://goo.gl/Vf8HsG>
+video (ITA): <https://goo.gl/Vf8HsG>
 
 2017-09-17 Business Insider Italia  
 Initial coin offering: una soluzione innovativa per finanziare il lancio di criptovalute e startup o speculazione selvaggia?  
@@ -262,10 +268,10 @@ Vertice a Malta della cyber-payment community
 
 2017-04-14 International University of Monaco, MBA  
 Bitcoin and Blockchain Technology: An Introduction  
-slides: <https://goo.gl/gxkhJe>
+slides (ENG): <https://goo.gl/gxkhJe>
 
 2017-04-06 RAI Radio 1 - Restate Scomodi  
-(ITA) bitcoin interview  
+(ITA): bitcoin interview  
 <https://goo.gl/DF7EUC> (at 1m38s)
 
 2017-04-05 Il Sole 24 Ore  
@@ -283,26 +289,25 @@ Bitcoin, Hayek Money, and The Future of Money
 2017-03-20 IDC Pan European Utilities Executive Summit, Lisbon  
 Bitcoin, Blockchain, and Distributed Ledger Technology: Hype or Reality  
 <http://idcutilitiessummit.com/>  
-slides: <https://goo.gl/ykmUaz>
+slides (ENG): <https://goo.gl/ykmUaz>
 
 2017-03-15 Quant Summit Europe, London  
-Bitcoin, Blockchain, and the DLT Chimera  
-<http://events.risk.net/quantsummiteurope>
+Bitcoin, Blockchain, and the DLT Chimera
 
 2017-03-13/14 Blockchain Business Board, London>
 Blockchain Academy  
 event: <https://goo.gl/JoeI5s>
 
 2017-03-08 Triwu  
-(ITA) video interview: Bitcoin Totale  
+(ITA): video interview: Bitcoin Totale  
 <https://vimeo.com/207371888>
 
 2017-03-03 StartupItalia!  
-(ITA) interview: Bitcoin è la luna, ma il Sole (24Ore) guarda il dito  
+(ITA): interview: Bitcoin è la luna, ma il Sole (24Ore) guarda il dito  
 <https://goo.gl/KVV29t>
 
 2017-02-23 Interlogica  
-(ITA) video interview: Inside Blockchain  
+(ITA): video interview: Inside Blockchain  
 <https://goo.gl/9Wzg8w>
 
 2017-02 Blockchain Business Board  
@@ -312,7 +317,7 @@ part 2 <https://goo.gl/rLW6lS>
 part 3 <https://goo.gl/ZWBR8A>
 
 2017-02-09 Class CNBC  
-(ITA) Bitcoin come strumento di investimento  
+(ITA): Bitcoin come strumento di investimento  
 video (original): <https://goo.gl/8e5HGh>  
 video (only the bitcoin segment): <https://youtu.be/K8ZEz5f_LnY>
 
@@ -345,7 +350,7 @@ video interview (ITA): <https://goo.gl/zInFVA>
 
 2016-11-22 Consob, Roma  
 About Bitcoin, Blockchain, and the Distributed ledger Chimera  
-slides: <https://goo.gl/dE5uNM>
+slides (ENG): <https://goo.gl/dE5uNM>
 
 2016-11-16 The Swift Institute  
 Bitcoin, Blockchain and the DLT Chimera  
@@ -359,7 +364,7 @@ Hayek Money: The Cryptocurrency Price Stability Solution
 
 2016-11-10 International Chamber of Commerce, Rome  
 <http://www.iccitalia.org/atti_convegno_blockchain.htm>
-slides: <https://goo.gl/Oh0HdC>
+slides (ENG): <https://goo.gl/Oh0HdC>
 
 2016-11-07 "Blockchain : Money" conference, London  
 <<https://conference.bitcoin.com/>  
@@ -368,11 +373,11 @@ interview: <https://goo.gl/C2SkhY>
 
 2016-11-01 Post-Trade Distributed Ledger Working Group, London  
 DLT Applied to Securities Markets  
-slides: <https://goo.gl/q6232X>
+slides (ENG): <https://goo.gl/q6232X>
 
 2016-10-24 EFMA Blockchain Conference, Barcelona  
 <https://www.efma.com/event/overview/475>  
-slide: <https://goo.gl/Xc1UMP>
+slides (ENG): <https://goo.gl/Xc1UMP>
 
 2016-10-23 Il Sole 24 Ore  
 La blockchain entra all’Università  
@@ -380,12 +385,12 @@ La blockchain entra all’Università
 
 2016-10-17 Scuola di Economia e Statistica, Milano-Bicocca University  
 Opening of the 2016-2015 Academic Year  
-slides: <https://goo.gl/hC2xTS>
+slides (ENG): <https://goo.gl/hC2xTS>
 
 2016-10-03 Blockchain for Finance Conference, London  
 Bitcoin, Blockchain, and the DLT Chimera  
 http://blockchain.fintecnet.com/  
-slides: <https://goo.gl/1ETHLK>  
+slides (ENG): <https://goo.gl/1ETHLK>  
 video: <https://goo.gl/40mim9>
 
 2016-09-22 Digital Payment Revolution, Rome  
@@ -395,7 +400,7 @@ interview (ITA): <https://goo.gl/edF3BX>
 
 2016-09-08 2nd International Workshop P2P Financial Systems, London  
 Hayek Money: The Cryptocurrency Price Stability Solution  
-slides: <https://goo.gl/iKoEgC>
+slides (ENG): <https://goo.gl/iKoEgC>
 
 2016-09-02 Response to ESMA on DLT for Securities Market  
 https://goo.gl/KWyyBE  
@@ -403,11 +408,11 @@ paper: <https://goo.gl/PuAAF3>
 
 2016-07-07 European Banking Federation, Bruxelles  
 About Bitcoin And Blockchain: A Cultural Paradigme Shift  
-slides: <https://goo.gl/4uui6b>
+slides (ENG): <https://goo.gl/4uui6b>
 
 2016-06-21 Bank of Italy Workshop on Virtual Currencies, Rome  
 About Bitcoin And Blockchain: A Cultural Paradigme Shift  
-slides: <https://goo.gl/6QSzY4>
+slides (ENG): <https://goo.gl/6QSzY4>
 
 2016-06-07 Payments Conference and Exhibition EBAday, Milan  
 How mainstream can Blockchain be?  
@@ -427,11 +432,11 @@ roundtable
 
 2016-02-25 FonDir executive education program, Milan  
 Luci ed ombre della criptofinanza  
-slides <https://goo.gl/Ctc0ee>
+slides (ENG): <https://goo.gl/Ctc0ee>
 
 2015-11-30 QuantLib User Meeting, Düsseldorf  
 The abcd of Forward Rate Bootstrapping  
-slides <https://goo.gl/ekqNpc>
+slides (ENG): <https://goo.gl/ekqNpc>
 
 2015-11-24 IlSole24Ore  
 Il bitcoin è oro digitale e sancirà la fine del contante  
@@ -439,20 +444,20 @@ interview (ITA): <http://goo.gl/SUZMnd>
 
 2015-10-08 Digital Currency Summit, Barcelona  
 A Cryptocurrency Price Stability Solution  
-slides: <https://goo.gl/cgSleH>
+slides (ENG): <https://goo.gl/cgSleH>
 
 2015-06-16 Università degli Studi, Milan  
 Blockchain Revolution and the Future of Money  
-slides <https://goo.gl/9cBi3j>
+slides (ENG): <https://goo.gl/9cBi3j>
 
 2015-05-20 Labex Seminar Series, ESSEC Business School, Paris  
 The Cryptocurrency Frontier in Commodity Monetary Standard  
-slides: <https://goo.gl/r14bzR>  
+slides (ENG): <https://goo.gl/r14bzR>  
 video: <https://goo.gl/hYsQmX>
 
 2015-05-19 ESSEC Business School, Cergy-Pontoise  
 Blockchain Revolution and the Future of Money  
-slides <https://goo.gl/G12CpW>
+slides (ENG): <https://goo.gl/G12CpW>
 
 2015-05-03 IlSole24Ore  
 Criptovalute tra opportunità e voglia di regolamentazione  
@@ -460,39 +465,39 @@ roundtable (ITA): transcript <http://goo.gl/1i435b>
 
 2015-04-22 Radio24 SmartCity, Maurizio Melis  
 Soldi, trasparenza, anonimato e bitcoin  
-interview <http://goo.gl/1rXW0R>
+audio (ITA): <http://goo.gl/1rXW0R>
 
 2015-03-20 Radio24 SmartCity, Maurizio Melis  
 La scomparsa del contante, bitcoin ed Hayek Money  
-interview <http://goo.gl/uD5Vd6>
+audio (ITA): <http://goo.gl/uD5Vd6>
 
 2015-03-13 Camplus, Milan  
 Distributed Public Ledger Revolution & the Future of Money  
-slides <https://goo.gl/HsL7XV>
+slides (ENG): <https://goo.gl/HsL7XV>
 
 2015-03-05 InsideBitcoins, Berlin  
 The Future of Money: Hayek Money, Seigniorage Shares, Reserve Bank, and Proof-of-Payment  
-slides: <https://goo.gl/BhXSEF>
-video: <https://youtu.be/ndT59662sog?t=12m8s>
+slides (ENG): <https://goo.gl/BhXSEF>
+video (ENG): <https://youtu.be/ndT59662sog?t=12m8s>
 
 2014-12 Intesa Sanpaolo Executive Education Educasts  
 video (ITA): <https://youtu.be/3UzHB8EfqWk?list=PLrVvuryXHYTfX6dg884fSGYLbLJgX6vAQ>
 
 2014-12-09 RiskMinds International Conference, Amsterdam  
 Bitcoin and Cryptocurrencies: Elastic Money Supply  
-slides <https://goo.gl/aEb8ik>
+slides (ENG): <https://goo.gl/aEb8ik>
 
 2014-12-05 QuantLib User Meeting, Düsseldorf  
 EONIA Jumps and Proper Euribor Forwarding  
-slides <https://goo.gl/mTS95O>
+slides (ENG): <https://goo.gl/mTS95O>
 
 2014-12-04 Keynote speech, QuantLib User Meeting, Düsseldorf  
-Open Source Finance: QuantLib, OpenGamma, Bitcoin  
-slides <https://goo.gl/tllC3V>
+Open Source Finance: QuantLib, OpenGamma, and Bitcoin  
+slides (ENG): <https://goo.gl/tllC3V>
 
 2014-09-30 Hogan Lovells, Milan/Rome  
 Distributed Public Ledger Revolution & the Future of Money  
-slides <https://goo.gl/LnYm9U>
+slides (ENG): <https://goo.gl/LnYm9U>
 
 2014-07-03 Bitcoin Finance 2014, Dublin  
 The Governance and Economics of Bitcoin  
@@ -500,17 +505,17 @@ roundtable
 
 2014-07-01 Milano-Bicocca University, Milan  
 Bitcoin + Hayek Money: blockchain revolution & price stability  
-slides <https://goo.gl/W3CB8c>
+slides (ENG): <https://goo.gl/W3CB8c>
 
 2014-06-11 Montecitorio Italian Parliament Lower Chamber, Rome  
 Bitcoin + Hayek Money: blockchain revolution & price stability  
-slides: <https://goo.gl/66rWb6>
+slides (ENG): <https://goo.gl/66rWb6>
 video (ITA): <https://goo.gl/3mEjJ9>
 
 2014-06-09 Bank of Italy, Rome  
 Hayek Money: the Cryptocurrency Price Stability Solution  
-slides <https://goo.gl/UY4GFl>
+slides (ENG): <https://goo.gl/UY4GFl>
 
 2014-05-14 SSRN  
 Hayek Money: The Cryptocurrency Price Stability Solution  
-article: <https://ssrn.com/abstract=2425270>
+paper (ENG): <https://ssrn.com/abstract=2425270>

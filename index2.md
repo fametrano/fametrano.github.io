@@ -14,24 +14,9 @@ Here you can find informations about:
 * my university [courses]({{ site.baseurl }}/courses/),
 including slides, code, videos, etc.
 * my past and forthcoming [activities]({{ site.baseurl }}/activities/)
-as speaker, trainer, lecturer and my articles, interviews, videos, etc.
-*  and, of course, here it is: my blog!
-!
+as lecturer, speaker, panelist and my articles, interviews, videos, etc.
+*  and, of course, my [blog]({{ site.baseurl }}/blog/)!
 
-# Latest posts
-
-{% for post in site.posts %}
-  <article class="post">
-
-    {{ page.date | date: "%b %e, %Y" }}
-    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
-    <div class="entry">
-      {{ post.excerpt }}
-    </div>
-
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more...</a>
-  </article>
-{% endfor %}
-
-[All blog posts]({{ site.baseurl }}/blog/)
+I am available for events: I waive my fee for scientific and community-organized
+non-profit events and conferences, anyway I do not work pro-bono for the commercial
+ones that charge a ticket or have sponsors.

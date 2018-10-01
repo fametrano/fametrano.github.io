@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Bitcoin (maximalis) & Blockchain Technology at Digital Gold Institute,
+Bitcoin & Blockchain Technology at Digital Gold Institute,
 Milano Bicocca, and Politecnico di Milano.
 Hayek Money promoter,
 [QuantLib](https://quantlib.org) founder,

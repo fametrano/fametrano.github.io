@@ -21,7 +21,7 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 
 ### Python code and Excel spreadhseets:
 
-https://github.com/dginst/BitcoinBlockchainTechnology
+<https://github.com/dginst/BitcoinBlockchainTechnology>
 
 ### Papers:
 

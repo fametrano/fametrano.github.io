@@ -19,7 +19,7 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 6. Wallets and Deterministic Keys Sequences
 7. Distributed Ledger Technology and Non-monetary Applications
 
-### Python code and Excel spreadhseets:
+### Python code and Excel spreadsheets:
 
 <https://github.com/dginst/BitcoinBlockchainTechnology>
 

@@ -52,7 +52,7 @@ https://github.com/dginst/BitcoinBlockchainTechnology
 
 * Saifedean Ammous, _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_, Wiley
 * Friedrich A. Hayek, _"Denationalisation of Money: The Argument Refined"_,  
-  <https://mises-media.s3.amazonaws.com/Denationalisation%20of%20Money%20The%20Argument%20Refined_5.pdf>
+  <http://bit.ly/2DJYcZ8>
 
 ---
 

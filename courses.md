@@ -45,7 +45,6 @@ https://github.com/dginst/BitcoinBlockchainTechnology
 
 * Christof Paar, Jan Pelzl, _"Understanding Cryptography"_,  
   <https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
-  <http://khosach.info/store/msresource/it/book/Understanding-Cryptography.pdf>
 * Dan Boneh, _"Cryptography"_, Stanford University  
   <https://www.coursera.org/learn/crypto>
 
@@ -66,4 +65,5 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 [To be updated]
 
 ### Excel addin, spreadsheets, and C++ code:
+
 <https://quantlib.org>

@@ -25,34 +25,25 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 
 ### Papers:
 
-* Satoshi Nakamoto, _"Bitcoin: A Peer-to-Peer Electronic Cash System"_  
-  <https://bitcoin.org/bitcoin.pdf>
-* Ferdinando Ametrano, _"Hayek Money: The Cryptocurrency Price Stability Solution"_,  
-  <https://ssrn.com/abstract=2425270>
-* Ferdinando Ametrano, _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_,  
-  <https://ssrn.com/abstract=2832249>
+* Satoshi Nakamoto, _"Bitcoin: A Peer-to-Peer Electronic Cash System"_, <https://bitcoin.org/bitcoin.pdf>
+* Ferdinando M. Ametrano, _"Hayek Money: The Cryptocurrency Price Stability Solution"_, <https://ssrn.com/abstract=2425270>
+* Ferdinando M. Ametrano, _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_, <https://ssrn.com/abstract=2832249>
 
 ### Technical books:
 
-* Andreas M. Antonopoulos, _"Mastering Bitcoin"_ 2nd edition,  
-  <https://github.com/bitcoinbook/bitcoinbook>
-* A. Narayanan, et al., _"Bitcoin and Cryptocurrency Technologies"_,  
-  <http://bitcoinbook.cs.princeton.edu/>  
-  <https://lopp.net/pdf/princeton_bitcoin_book.pdf>
+* Andreas M. Antonopoulos, _"Mastering Bitcoin"_ 2nd edition, <https://github.com/bitcoinbook/bitcoinbook>
+* A. Narayanan, et al., _"Bitcoin and Cryptocurrency Technologies"_, <http://bitcoinbook.cs.princeton.edu/>, <https://lopp.net/pdf/princeton_bitcoin_book.pdf>
 * Pedro Franco, “Understanding Bitcoin”, Wiley
 
 ### Cryptography:
 
-* Christof Paar, Jan Pelzl, _"Understanding Cryptography"_,  
-  <https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
-* Dan Boneh, _"Cryptography"_, Stanford University  
-  <https://www.coursera.org/learn/crypto>
+* Christof Paar, Jan Pelzl, _"Understanding Cryptography"_, <https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
+* Dan Boneh, _"Cryptography"_, Stanford University, <https://www.coursera.org/learn/crypto>
 
 ### Monetary books:
 
 * Saifedean Ammous, _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_, Wiley
-* Friedrich A. Hayek, _"Denationalisation of Money: The Argument Refined"_,  
-  <http://bit.ly/2DJYcZ8>
+* Friedrich A. Hayek, _"Denationalisation of Money: The Argument Refined"_, <http://bit.ly/2DJYcZ8>
 
 ---
 

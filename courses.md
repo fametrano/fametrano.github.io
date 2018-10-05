@@ -4,6 +4,6 @@ title: Courses
 permalink: /courses/
 ---
 
-## <a href="{{ site.baseurl }}/bbt/">Bitcoin and Blockchain Technology (2016-2018)</a>
+## [Bitcoin and Blockchain Technology (2016-2018)]({{ site.baseurl }}/bbt/)
 
-## <a href="{{ site.baseurl }}/ird/">Interest Rate Derivatives (2013-2018)</a>
+## [Interest Rate Derivatives (2013-2018)]({{ site.baseurl }}/ird/)

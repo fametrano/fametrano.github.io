@@ -9,7 +9,7 @@ permalink: /bbt/
 _Department of Mathematics, Politecnico di Milano_  
 _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 
-### Lessons' slides:
+### Slides:
 
 1. Introduction: <https://bit.ly/2jQjYxt>
 2. Blockchain, Mining, and Distributed Consensus: <https://bit.ly/2KgS20R>

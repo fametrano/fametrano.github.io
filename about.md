@@ -14,9 +14,8 @@ Author of scientific publications, contributors to multiple media outlets, appre
 He is also founder and co-administrator of the
 [QuantLib](https://www.quantlib.org) project,
 a comprehensive free/open-source software framework for quantitative finance.
-[Interest Rate Derivatives (2013-2018)]({{ site.baseurl }}/ird/) Adjunct Professor at the Milano-Bicocca University, he has relevant publications on this subject and has headed trading, quantitative, and risk-management teams in Banca IMI (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has also been co-founder and managing partner of RiskMap (now StatPro Italia).
+[Interest Rate Derivatives]({{ site.baseurl }}/ird/) Adjunct Professor at the Milano-Bicocca University, he has relevant publications on this subject and has headed trading, quantitative, and risk-management teams in Banca IMI (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has also been co-founder and managing partner of RiskMap (now StatPro Italia).
 
-[info@ametrano.net](mailto:info@ametrano.net)  
 [https://github.com/fametrano](https://github.com/fametrano)  
 [https://twitter.com/Ferdinando1970](https://twitter.com/Ferdinando1970)  
 [https://speakerdeck.com/nando1970](https://speakerdeck.com/nando1970)  

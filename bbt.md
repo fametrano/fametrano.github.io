@@ -15,10 +15,10 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 1. Introduction: <https://bit.ly/2jQjYxt>
 2. Blockchain, Mining, and Distributed Consensus: <https://bit.ly/2KgS20R>
 3. Elliptic Curve Asymmetric Cryptography: <https://bit.ly/2LecIba>
-4. Addresses, Transactions, and Blocks
-5. Monetary Engineering: <http://bit.ly/2JV31xx>
-6. Wallets and Deterministic Keys Sequences
-7. Distributed Ledger Technology and Non-monetary Applications
+4. Addresses, Transactions, and Blocks <http://bit.ly/2NuNBAL>
+5. Monetary (and Token) Engineering: <http://bit.ly/2JV31xx>
+6. Wallets and Deterministic Key Sequences
+7. Distributed Ledger Technology and Non-monetary Applications <http://bit.ly/2PjqKdk>
 
 ### Python code and Excel spreadsheets
 

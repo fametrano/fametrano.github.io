@@ -44,12 +44,13 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 ### Technical books
 
 * Andreas M. Antonopoulos, _"Mastering Bitcoin"_ 2nd edition, <https://github.com/bitcoinbook/bitcoinbook>
-* A. Narayanan, et al., _"Bitcoin and Cryptocurrency Technologies"_, <http://bitcoinbook.cs.princeton.edu/>, <https://lopp.net/pdf/princeton_bitcoin_book.pdf>
+* A. Narayanan, et al., _"Bitcoin and Cryptocurrency Technologies"_,
+<https://www.coursera.org/learn/cryptocurrency>, <http://bitcoinbook.cs.princeton.edu/>, <https://lopp.net/pdf/princeton_bitcoin_book.pdf>
 * Pedro Franco, “Understanding Bitcoin”, Wiley
 
 ### Cryptography
 
-* Christof Paar, Jan Pelzl, _"Understanding Cryptography"_, <https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
+* Christof Paar, Jan Pelzl, _"Understanding Cryptography"_, <http://www.crypto-textbook.com/>, <http://wiki.crypto.rub.de/Buch/en/slides.php>, <https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Dan Boneh, _"A Graduate Course in Applied Cryptography"_, Stanford University,
 <https://www.coursera.org/learn/crypto>,
 <https://toc.cryptobook.us/>

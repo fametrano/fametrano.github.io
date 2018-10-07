@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Director of the Digital Gold Institute, Ferdinando Ametrano teaches
+Director of the
+[Digital Gold Institute](https://www.digitalgoldinstitute.org),
+Ferdinando Ametrano teaches
 "[Bitcoin and Blockchain Technology]("{{ site.baseurl }}/bbt/")"
 at Politecnico di Milano and Milano-Bicocca University.
 Former [Head of Blockchain and Virtual Currencies](https://goo.gl/QdDTuN)

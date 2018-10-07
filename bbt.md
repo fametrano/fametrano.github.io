@@ -6,7 +6,7 @@ permalink: /bbt/
 
 ## **Bitcoin and Blockchain Technology (2016-2018)**
 
-_Digital Gold Institute_  
+_[Digital Gold Institute](https://www.digitalgoldinstitute.org)_  
 _Department of Mathematics, Politecnico di Milano_  
 _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 

@@ -38,6 +38,7 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 
 * Satoshi Nakamoto, _"Bitcoin: A Peer-to-Peer Electronic Cash System"_, <https://bitcoin.org/bitcoin.pdf>
 * Ferdinando M. Ametrano, _"Hayek Money: The Cryptocurrency Price Stability Solution"_, <https://ssrn.com/abstract=2425270>
+* Robert Sams, _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_, <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
 * Ferdinando M. Ametrano, _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_, <https://ssrn.com/abstract=2832249>
 
 ### Technical books

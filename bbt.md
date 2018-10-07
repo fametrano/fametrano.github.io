@@ -36,26 +36,44 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 
 ### Papers
 
-* Satoshi Nakamoto, _"Bitcoin: A Peer-to-Peer Electronic Cash System"_, <https://bitcoin.org/bitcoin.pdf>
-* Ferdinando M. Ametrano, _"Hayek Money: The Cryptocurrency Price Stability Solution"_, <https://ssrn.com/abstract=2425270>
-* Robert Sams, _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_, <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
-* Ferdinando M. Ametrano, _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_, <https://ssrn.com/abstract=2832249>
+* Satoshi Nakamoto,
+  _"Bitcoin: A Peer-to-Peer Electronic Cash System"_,
+  <https://bitcoin.org/bitcoin.pdf>
+* Ferdinando M. Ametrano,
+  _"Hayek Money: The Cryptocurrency Price Stability Solution"_,
+  <https://ssrn.com/abstract=2425270>
+* Robert Sams,
+  _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_,
+  <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
+* Ferdinando M. Ametrano,
+  _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_,
+  <https://ssrn.com/abstract=2832249>
 
 ### Technical books
 
-* Andreas M. Antonopoulos, _"Mastering Bitcoin"_ 2nd edition, <https://github.com/bitcoinbook/bitcoinbook>
+* Andreas M. Antonopoulos, _"Mastering Bitcoin"_ 2nd edition,
+  <https://github.com/bitcoinbook/bitcoinbook>
 * A. Narayanan, et al., _"Bitcoin and Cryptocurrency Technologies"_,
-<https://www.coursera.org/learn/cryptocurrency>, <http://bitcoinbook.cs.princeton.edu/>, <https://lopp.net/pdf/princeton_bitcoin_book.pdf>
+  <https://www.coursera.org/learn/cryptocurrency>,
+  <http://bitcoinbook.cs.princeton.edu/>,
+  <https://lopp.net/pdf/princeton_bitcoin_book.pdf>
 * Pedro Franco, “Understanding Bitcoin”, Wiley
 
 ### Cryptography
 
-* Christof Paar, Jan Pelzl, _"Understanding Cryptography"_, <http://www.crypto-textbook.com/>, <http://wiki.crypto.rub.de/Buch/en/slides.php>, <https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
-* Dan Boneh, _"A Graduate Course in Applied Cryptography"_, Stanford University,
-<https://www.coursera.org/learn/crypto>,
-<https://toc.cryptobook.us/>
+* Christof Paar, Jan Pelzl,
+  _"Understanding Cryptography"_,
+  <http://www.crypto-textbook.com/>,
+  <http://wiki.crypto.rub.de/Buch/en/slides.php>,
+  <https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
+* Dan Boneh,
+  _"A Graduate Course in Applied Cryptography"_, Stanford University, <https://www.coursera.org/learn/crypto>, <https://toc.cryptobook.us/>
 
 ### Monetary books
 
-* Saifedean Ammous, _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_, Wiley
-* Friedrich A. Hayek, _"Denationalisation of Money: The Argument Refined"_, <http://bit.ly/2DJYcZ8>
+* Saifedean Ammous,
+  _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_,
+  Wiley
+* Friedrich A. Hayek,
+  _"Denationalisation of Money: The Argument Refined"_,
+  <http://bit.ly/2DJYcZ8>

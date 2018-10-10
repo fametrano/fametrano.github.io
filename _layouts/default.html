@@ -41,6 +41,18 @@
                 <a href="{{ site.baseurl }}/">Home</a>
               {% endif %}
 
+              {% if page.url == "/papers/"} %}
+                <b><u><a href="{{ site.baseurl }}/papers/">Papers</a></u></b>
+              {% else %}
+                <a href="{{ site.baseurl }}/papers/">Papers</a>
+              {% endif %}
+
+              {% if page.url == "/courses/"} %}
+                <b><u><a href="{{ site.baseurl }}/courses/">Courses</a></u></b>
+              {% else %}
+                <a href="{{ site.baseurl }}/courses/">Courses</a>
+              {% endif %}
+
               {% if page.url == "/events/"} %}
                 <b><u><a href="{{ site.baseurl }}/events/">Events</a></u></b>
               {% else %}
@@ -57,18 +69,6 @@
                 <b><u><a href="{{ site.baseurl }}/blog/">Blog</a></u></b>
               {% else %}
                 <a href="{{ site.baseurl }}/blog/">Blog</a>
-              {% endif %}
-
-              {% if page.url == "/papers/"} %}
-                <b><u><a href="{{ site.baseurl }}/papers/">Papers</a></u></b>
-              {% else %}
-                <a href="{{ site.baseurl }}/papers/">Papers</a>
-              {% endif %}
-
-              {% if page.url == "/courses/"} %}
-                <b><u><a href="{{ site.baseurl }}/courses/">Courses</a></u></b>
-              {% else %}
-                <a href="{{ site.baseurl }}/courses/">Courses</a>
               {% endif %}
 
               {% if page.url == "/about/"} %}

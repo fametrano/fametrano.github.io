@@ -30,11 +30,12 @@ Bitcoin and Blockchain: Between Hype and Reality
 talk
 
 2018-10-16 Regione Lombardia, Milan  
-Bitcoin and Blockchain technology  
+Bitcoin and Blockchain Technology  
 talk
+![Bitcoin and Blockchain Technology](/images/Lombardia.jpg)
 
 2018-10-15/16 EFMA Innovation Summit: Payments & Wallets, Lisbon  
-Bitcoin and blockchain: between money, digital gold, and payment systems
+Bitcoin and blockchain: between money, digital gold, and payment systems  
 <https://www.efma.com/conference/program/619>
 talk
 

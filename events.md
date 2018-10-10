@@ -12,7 +12,7 @@ seminar (€100 with coupon code AMETRANO)
 
 2018-11-23 Master in Business Intelligence & Big Data Analytics, Università Milano-Bicocca, Milan  
 Bitcoin and Blockchain Technology  
-<http://www.crisp-org.it/bimaster/>
+<http://www.crisp-org.it/bimaster/>  
 seminar
 
 2018-11-22 Politecnico di Milano, Milan  
@@ -25,7 +25,7 @@ seminar
 
 2018-11-20 Borsa Italiana, Milan  
 Bitcoin and Blockchain Technology  
-<https://www.lseg.com/it/markets-products-and-services/business-services/academy/academy-italy-campus/course-calendar-italy>  
+<http://bit.ly/2QLPKdJ>  
 seminar
 
 2018-11-12 Blockchain Summit, Dubai  
@@ -36,7 +36,7 @@ talk
 2018-10-24 Explore Talks - Spaces, Milan  
 Blockchain Economy  
 <https://www.eventbrite.it/e/biglietti-explore-talks-blockchain-economy-50278971758>  
-talk
+talk  
 ![ExPLORE Talk](/images/20181018-explore.png)
 
 2018-10-18/19 ExPLORE 2018 _The Future of Work_, OpenZone - Bresso, Milan  

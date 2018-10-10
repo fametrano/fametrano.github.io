@@ -5,23 +5,23 @@ permalink: /events/
 ---
 
 2018-11-26/27 Blockchain Academy, Luxembourg  
-Bitcoin and Blockchain technology  
+Bitcoin and Blockchain Technology  
 seminar
 
 2018-11-23 Master, Università Milano-Bicocca, Milan  
-Bitcoin and Blockchain technology  
+Bitcoin and Blockchain Technology  
 seminar
 
 2018-11-22 Politecnico di Milano, Milan  
-Bitcoin and Blockchain technology  
+Bitcoin and Blockchain Technology  
 seminar
 
 2018-11-21 Assoagenti, Genoa  
-Bitcoin and Blockchain technology  
+Bitcoin and Blockchain Technology  
 seminar
 
 2018-11-20 Borsa Italiana, Milan  
-Bitcoin and Blockchain technology  
+Bitcoin and Blockchain Technology  
 seminar
 
 2018-11-12 Blockchain Summit, Dubai  
@@ -36,7 +36,7 @@ talk
 
 2018-10-15/16 EFMA Innovation Summit: Payments & Wallets, Lisbon  
 Bitcoin and blockchain: between money, digital gold, and payment systems  
-<https://www.efma.com/conference/program/619>
+<https://www.efma.com/conference/program/619>  
 talk
 
 2018-10-05 Four Seasons Hotel, Milan  

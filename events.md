@@ -6,22 +6,26 @@ permalink: /events/
 
 2018-11-26/27 Blockchain Academy, Luxembourg  
 Bitcoin and Blockchain Technology  
+<http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018/?v=cd32106bcb6d>  
 seminar
+![Bitcoin and Blockchain Technology](/images/Block_AcademyLux.png)
 
-2018-11-23 Master, Università Milano-Bicocca, Milan  
+2018-11-23 Master in Business Intelligence & Big Data Analytics, Università Milano-Bicocca, Milan  
 Bitcoin and Blockchain Technology  
+<http://www.crisp-org.it/bimaster/>
 seminar
 
 2018-11-22 Politecnico di Milano, Milan  
 Bitcoin and Blockchain Technology  
 seminar
 
-2018-11-21 Assoagenti, Genoa  
+2018-11-21 Assagenti, Genoa  
 Bitcoin and Blockchain Technology  
 seminar
 
 2018-11-20 Borsa Italiana, Milan  
 Bitcoin and Blockchain Technology  
+<https://www.lseg.com/it/markets-products-and-services/business-services/academy/academy-italy-campus/course-calendar-italy>  
 seminar
 
 2018-11-12 Blockchain Summit, Dubai  
@@ -37,7 +41,8 @@ talk
 2018-10-15/16 EFMA Innovation Summit: Payments & Wallets, Lisbon  
 Bitcoin and blockchain: between money, digital gold, and payment systems  
 <https://www.efma.com/conference/program/619>  
-talk
+talk  
+![EFMA Lisbon](/images/efma-lisbon.png)
 
 2018-10-05 Four Seasons Hotel, Milan  
 Bitcoin as Digital Gold

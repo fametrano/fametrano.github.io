@@ -59,9 +59,10 @@ talk
 Bitcoin as Digital Gold
 talk
 
-2018-07-25 Webinar Ambrosetti, Milan  
-Undestanding Blockchain  
-seminar
+2018-07-25 Ambrosetti Live, Milan  
+Understanding Blockchain: potenzialità e applicazioni di una tecnologia rivoluzionaria  
+<https://live.ambrosetti.eu/20180625ametrano>  
+webinar
 
 2018-05-30 iBicocca.it, Milan  
 iKnow: Alla scoperta di Bitcoin
@@ -99,10 +100,10 @@ lecture
 Bitcoin: The Digital Rush  
 lecture
 
-2018-02-21 Webinar Ambrosetti, Milan  
-Understanding Bitcoin
-<http://www.ambrosettilive.com/index.php/incontri/show/8820>
-seminar
+2018-02-21 Ambrosetti Live, Milan  
+Undestanding Bitcoin: una rivoluzione fatta per durare?  
+<https://live.ambrosetti.eu/20180221ametrano>  
+webinar
 
 2018-02-01 United Nations (Department of Economic and Social Affairs), New York  
 Bitcoin as Digital Gold  

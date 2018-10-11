@@ -8,7 +8,7 @@ permalink: /ird/
 
 _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 
-course page: <https://elearning.unimib.it/course/view.php?id=19623>
+2018-2019 course page: <https://elearning.unimib.it/course/view.php?id=19623>
 
 **Compilare al più presto il [modulo](https://docs.google.com/forms/d/1KAcSd4Vh9mLL-Ub9WKtw5f77t2Eg-aHtRpeNBvSgKKg) per iscriversi alla mailing list e formare i gruppi di lavoro per le esercitazioni**
 

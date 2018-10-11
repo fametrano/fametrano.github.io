@@ -236,5 +236,9 @@ audio (ITA): <http://goo.gl/1rXW0R>
 La scomparsa del contante, bitcoin ed Hayek Money  
 audio (ITA): <http://goo.gl/uD5Vd6>
 
+2015-02-26 Limes, rivista italiana di geopolitica  
+Bitcoin: come funziona una moneta virtuale, di Raffaele Mauro  
+<http://www.limesonline.com/cartaceo/bitcoin-come-funziona-una-moneta-virtuale>
+
 2014-12 Intesa Sanpaolo Executive Education Educasts  
 video (ITA): <https://youtu.be/3UzHB8EfqWk?list=PLrVvuryXHYTfX6dg884fSGYLbLJgX6vAQ>

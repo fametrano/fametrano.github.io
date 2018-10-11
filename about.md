@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Director of the
+Executive Director of the
 [Digital Gold Institute](https://www.digitalgoldinstitute.org),
 Ferdinando Ametrano teaches
 "[Bitcoin and Blockchain Technology]("{{ site.baseurl }}/bbt/")"

@@ -40,7 +40,7 @@ disqus:
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
+# Used for the sitemap.xml and the RSS feed.xml
 url:
 
 # If you're hosting your site at a Project repository on GitHub pages

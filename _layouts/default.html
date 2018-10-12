@@ -30,10 +30,10 @@
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
           
           <div class="site-info">
-              <h3 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h3>
-              {% include svg-icons.html %}
+              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <p class="site-description">{{ site.description }}</p>
           </div>
-
+  
           <nav>
               {% if page.url == "/"} %}
                 <b><u><a href="{{ site.baseurl }}/">Home</a></u></b>

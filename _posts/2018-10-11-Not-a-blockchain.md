@@ -20,7 +20,7 @@ guarantee validity, correctness, or accuracy of the content being
 time-stamped. So, despite landing on a legitimate web page, whatever has
 been notarized on the blockchain and is displayed on the web page 
 can be false.
-You can order pizzas via email, but it cannot be delivered by email.
+You can order pizza via email, but it cannot be delivered by email.
 
 Finally, if https is not used, if the notarizations are not signed, if a
 non-bitcoin blockchain is used, all these details do compromise the

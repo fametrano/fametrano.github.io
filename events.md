@@ -4,10 +4,14 @@ title: Events
 permalink: /events/
 ---
 
+2018-11-28 CERIF, Università Cattolica, Milan  
+Bitcoin and Blockchain Technology  
+seminar
+
 2018-11-26/27 Blockchain Academy, Luxembourg  
 Bitcoin and Blockchain Technology  
 <http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
-seminar (€100 with coupon code AMETRANO)
+seminar (€100 discount with coupon code AMETRANO)
 ![Bitcoin and Blockchain Technology](/images/Block_AcademyLux.png)
 
 2018-11-23 Master in Business Intelligence & Big Data Analytics, Università Milano-Bicocca, Milan  

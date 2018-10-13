@@ -145,8 +145,8 @@ Initial coin offering: una soluzione innovativa per finanziare il lancio di crip
 Tra frodi e speculazioni è boom di criptovalute  
 <https://goo.gl/tcGm6C>
 
-2017-06-11 IlSole24Ore  
-Il Far West dell’oro digitale  
+**2017-06-11 IlSole24Ore**  
+**Il Far West dell’oro digitale**  
 <http://nova.ilsole24ore.com/progetti/il-far-west-delloro-digitale/>
 
 2017-05-21 Nòva IlSole24Ore  
@@ -169,8 +169,8 @@ Vertice a Malta della cyber-payment community
 (ITA): bitcoin interview  
 <https://goo.gl/DF7EUC> (at 1m38s)
 
-2017-04-05 Il Sole 24 Ore  
-Chi governa il bitcoin? Tredici domande per capire quale vincerà fra le visioni a confronto  
+**2017-04-05 Il Sole 24 Ore**  
+**Chi governa il bitcoin? Tredici domande per capire quale vincerà fra le visioni a confronto**  
 <https://goo.gl/X3kAjg>
 
 2017-03-08 Triwu  
@@ -204,20 +204,20 @@ Life After SegWit? Bitcoin Gridlock Takes the Stage
 Il valore vero della blockchain  
 article (ITA): <https://goo.gl/wlRF5F>
 
-2017-01-04 CoinDesk  
-Why 2017 Will Prove 'Blockchain' Was a Bad Idea  
+**2017-01-04 CoinDesk**  
+**Why 2017 Will Prove 'Blockchain' Was a Bad Idea**  
 article: <https://goo.gl/Lq7Ncu>
 
-2016-11-16 The Swift Institute  
-Bitcoin, Blockchain and the DLT Chimera  
+**2016-11-16 The Swift Institute**  
+**Bitcoin, Blockchain and the DLT Chimera**  
 article: <https://goo.gl/KIKT32>
 
 2016-10-23 Il Sole 24 Ore  
 La blockchain entra all’Università  
 <https://goo.gl/ZJXiPu>
 
-2016-06-01 Finextra interview  
-Blockchain needs a native digital asset  
+**2016-06-01 Finextra interview**  
+**Blockchain needs a native digital asset**  
 <https://goo.gl/QdDTuN>
 
 2015-11-24 IlSole24Ore  

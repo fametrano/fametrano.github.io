@@ -28,4 +28,4 @@ Reference text book: _Options, Futures and Other Derivatives_, John Hull
 
 ### Excel addin, spreadsheets, and C++ code:
 
-<https://quantlib.org>
+<https://www.quantlib.org>

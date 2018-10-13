@@ -21,7 +21,7 @@ invited to talk about bitcoin at the
 central banks, the Italian Parliament, universities, conferences, and
 workshops. His academic research focuses on price stability, advocating
 automated non-discretionary elastic monetary policy for a new generation
-of cryptocurrencies ([Hayek Money](https://ssrn.com/abstract=2832249)).
+of cryptocurrencies ([Hayek Money](https://ssrn.com/abstract=2425270)).
 
 He is also founder and co-administrator of the
 [QuantLib](https://www.quantlib.org) project,

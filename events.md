@@ -4,37 +4,22 @@ title: Events
 permalink: /events/
 ---
 
-2018-11-28 CERIF, Università Cattolica, Milan  
-Bitcoin and Blockchain Technology  
-seminar
+# Forthcoming events
 
-2018-11-26/27 Blockchain Academy, Luxembourg  
-Bitcoin and Blockchain Technology  
-<http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
-seminar (€100 discount with coupon code AMETRANO)
-![Bitcoin and Blockchain Technology](/images/Block_AcademyLux.png)
+2018-10-15/16 EFMA Innovation Summit: Payments & Wallets, Lisbon  
+Bitcoin and blockchain: between money, digital gold, and payment systems  
+<https://www.efma.com/conference/program/619>  
+talk  
+![EFMA Lisbon](/images/efma-lisbon.png)
 
-2018-11-23 Master in Business Intelligence & Big Data Analytics, Università Milano-Bicocca, Milan  
+2018-10-16 Regione Lombardia, Milan  
 Bitcoin and Blockchain Technology  
-<http://www.crisp-org.it/bimaster/>  
-seminar
+talk
+![Bitcoin and Blockchain Technology](/images/Lombardia.jpg)
 
-2018-11-22 Politecnico di Milano, Milan  
+2018-10-18/19 ExPLORE 2018 _The Future of Work_, OpenZone - Bresso, Milan  
 Bitcoin and Blockchain Technology  
-seminar
-
-2018-11-21 Assagenti, Genoa  
-Bitcoin and Blockchain Technology  
-seminar
-
-2018-11-20 Borsa Italiana, Milan  
-Bitcoin and Blockchain Technology  
-<http://bit.ly/2QLPKdJ>  
-seminar
-
-2018-11-12 Blockchain Summit, Dubai  
-Bitcoin and Blockchain: Between Hype and Reality  
-<http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/>
+<https://www.eventbrite.it/e/explore-2018-the-future-of-work-tickets-46074027657>  
 talk
 
 2018-10-24 Explore Talks - Spaces, Milan  
@@ -43,21 +28,42 @@ Blockchain Economy
 talk  
 ![ExPLORE Talk](/images/20181018-explore.png)
 
-2018-10-18/19 ExPLORE 2018 _The Future of Work_, OpenZone - Bresso, Milan  
-Bitcoin and Blockchain Technology  
-<https://www.eventbrite.it/e/explore-2018-the-future-of-work-tickets-46074027657>  
+2018-11-12 Blockchain Summit, Dubai  
+Bitcoin and Blockchain: Between Hype and Reality  
+<http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/>
 talk
 
-2018-10-16 Regione Lombardia, Milan  
+2018-11-20 Borsa Italiana, Milan  
 Bitcoin and Blockchain Technology  
-talk
-![Bitcoin and Blockchain Technology](/images/Lombardia.jpg)
+<http://bit.ly/2QLPKdJ>  
+seminar
 
-2018-10-15/16 EFMA Innovation Summit: Payments & Wallets, Lisbon  
-Bitcoin and blockchain: between money, digital gold, and payment systems  
-<https://www.efma.com/conference/program/619>  
-talk  
-![EFMA Lisbon](/images/efma-lisbon.png)
+2018-11-21 Assagenti, Genoa  
+Bitcoin and Blockchain Technology  
+seminar
+
+2018-11-22 Politecnico di Milano, Milan  
+Bitcoin and Blockchain Technology  
+seminar
+
+2018-11-23 Master in Business Intelligence & Big Data Analytics, Università Milano-Bicocca, Milan  
+Bitcoin and Blockchain Technology  
+<http://www.crisp-org.it/bimaster/>  
+seminar
+
+2018-11-26/27 Blockchain Academy, Luxembourg  
+Bitcoin and Blockchain Technology  
+<http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
+seminar (€100 discount with coupon code AMETRANO)
+![Bitcoin and Blockchain Technology](/images/Block_AcademyLux.png)
+
+2018-11-28 CERIF, Università Cattolica, Milan  
+Bitcoin and Blockchain Technology  
+seminar
+
+---
+
+# Past events
 
 2018-10-05 Four Seasons Hotel, Milan  
 Bitcoin as Digital Gold

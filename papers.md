@@ -40,7 +40,7 @@ Ametrano, Ferdinando M. and Bianchetti, Marco
 <https://ssrn.com/abstract=2219548>
 
 2009-04-02  
-**Bootstrapping the Illiquidity: Multiple Yield Curves Construction for Market Coherent Forward Rates Estimation**
+**Bootstrapping the Illiquidity: Multiple Yield Curves Construction for Market Coherent Forward Rates Estimation**  
 Ametrano, Ferdinando M. and Bianchetti, Marco  
 A version of this paper has been published as chapter 1 in "Modeling Interest Rates", edited by Fabio Mercurio, Risk Books, 1 May 2009, ISBN 9781906348137  
 <https://ssrn.com/abstract=1371311>

@@ -19,7 +19,7 @@ talk
 
 2018-10-18/19 ExPLORE 2018 _The Future of Work_, OpenZone - Bresso, Milan  
 Bitcoin and Blockchain Technology  
-<http://exploretalks.com/explore/>
+<http://exploretalks.com/explore/>  
 talk  
 ![ExPLORE The Future of Work](/images/20181018-explore.png)
 

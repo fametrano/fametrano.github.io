@@ -30,9 +30,12 @@ The [IBM Food Trust](https://www.ibm.com/blockchain/solutions/food-trust),
 the
 [EY Wine Blockchain](https://www.ey.com/it/it/services/advisory/ey-blockchain),
 this Carrefour attempt, and similar campaigns are just
-dishonest marketing gimmick.
+dishonest marketing gimmick, i.e. misleading advertising.
 
 What is infuriating about these initiatives is the attempt to promote trust
-in non-sound technological choices, i.e. misleading advertising.
+in non-sound technological choices: noted security expert Bruce Schneier
+called supply-chain security “an insurmountably hard problem.”, it is
+a daunting task for electronics
+(see Bruce Schneier on [The Washington Post](https://www.washingtonpost.com/news/posteverything/wp/2018/05/08/banning-chinese-phones-wont-fix-security-problems-with-our-electronic-supply-chain/?noredirect=on&utm_term=.928e050a15cb)), and chickens.
 
 ![chicken blockchain](/images/chicken-blockchain.jpg)

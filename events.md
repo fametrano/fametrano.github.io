@@ -19,14 +19,15 @@ talk
 
 2018-10-18/19 ExPLORE 2018 _The Future of Work_, OpenZone - Bresso, Milan  
 Bitcoin and Blockchain Technology  
-<https://www.eventbrite.it/e/explore-2018-the-future-of-work-tickets-46074027657>  
-talk
+<http://exploretalks.com/explore/>
+talk  
+![ExPLORE The Future of Work](/images/20181018-explore.png)
 
 2018-10-24 Explore Talks - Spaces, Milan  
 Blockchain Economy  
 <https://www.eventbrite.it/e/biglietti-explore-talks-blockchain-economy-50278971758>  
 talk  
-![ExPLORE Talk](/images/20181018-explore.png)
+![ExPLORE Talk](/images/20181024-explore.png)
 
 2018-11-12 Blockchain Summit, Dubai  
 Bitcoin and Blockchain: Between Hype and Reality  

@@ -33,10 +33,10 @@ has headed trading, quantitative, and risk-management teams in Banca IMI
 (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has
 also been co-founder and managing partner of RiskMap (now StatPro Italia).
 
-[Contact Ferdinando](https://docs.google.com/forms/d/101nW2MzLYJDN69ELY6fdJCys-dNOTEKMUsDni5wW9Aw/edit)  
-[Papers (SSRN)](https://ssrn.com/author=510135)  
+**[Contact Ferdinando](https://docs.google.com/forms/d/101nW2MzLYJDN69ELY6fdJCys-dNOTEKMUsDni5wW9Aw/edit)**  
 [https://github.com/fametrano](https://github.com/fametrano)  
 [https://onename.com/nando1970](https://onename.com/nando1970)  
+[https://ssrn.com/author=510135](https://ssrn.com/author=510135)  
 [https://twitter.com/Ferdinando1970](https://twitter.com/Ferdinando1970)  
 [https://speakerdeck.com/nando1970](https://speakerdeck.com/nando1970)  
 [https://www.reddit.com/user/Nando1970/](https://www.reddit.com/user/Nando1970/)  

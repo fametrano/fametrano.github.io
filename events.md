@@ -30,7 +30,7 @@ talk
 
 2018-11-12 Blockchain Summit, Dubai  
 Bitcoin and Blockchain: Between Hype and Reality  
-<http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/>
+<http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/>  
 talk
 
 2018-11-20 Borsa Italiana, Milan  

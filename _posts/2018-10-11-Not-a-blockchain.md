@@ -10,6 +10,8 @@ attachment, the implausibility would have probably been lost for most
 people, as almost nobody was familiar with email at the time. Similarly,
 today Carrefour Italia claims to track food using blockchain.
 
+[![Dilbert blockchain](/images/dilbert-blockchain.jpg)](http://blog.dilbert.com/2018/05/09/all-of-the-dilbert-comics-on-blockchain-bitcoin-or-cryptocurrency/)
+
 Whoever promotes QR encoded URLs as blockchain must be ridiculed.
 A legitimate QR code can be simply copied on illegitimate products:
 as such the landing web page is not reliable.

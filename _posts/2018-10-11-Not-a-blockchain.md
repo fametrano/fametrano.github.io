@@ -36,6 +36,6 @@ What is infuriating about these initiatives is the attempt to promote trust
 in non-sound technological choices: noted security expert Bruce Schneier
 called supply-chain security “an insurmountably hard problem.”, it is
 a daunting task for electronics
-(see Bruce Schneier on [The Washington Post](https://www.washingtonpost.com/news/posteverything/wp/2018/05/08/banning-chinese-phones-wont-fix-security-problems-with-our-electronic-supply-chain/?noredirect=on&utm_term=.928e050a15cb)), and chickens.
+(see Bruce Schneier on [The Washington Post](https://www.washingtonpost.com/news/posteverything/wp/2018/05/08/banning-chinese-phones-wont-fix-security-problems-with-our-electronic-supply-chain)), and chickens too.
 
 ![chicken blockchain](/images/chicken-blockchain.jpg)

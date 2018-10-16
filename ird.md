@@ -14,6 +14,20 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 [modulo](https://docs.google.com/forms/d/1KAcSd4Vh9mLL-Ub9WKtw5f77t2Eg-aHtRpeNBvSgKKg)
 per iscriversi alla mailing list e formare i gruppi di lavoro per le esercitazioni**
 
+<iframe id="forum_embed"
+  src="javascript:void(0)"
+  scrolling="no"
+  frameborder="0"
+  width="900"
+  height="700">
+</iframe>
+<script type="text/javascript">
+  document.getElementById('forum_embed').src =
+     'https://groups.google.com/a/ametrano.net/forum/embed/?place=forum/2018ird-bicocca'
+     + '&showsearch=true&showpopout=true&showtabs=false'
+     + '&parenturl=' + encodeURIComponent(window.location.href);
+</script>
+
 Reference text book: _Options, Futures and Other Derivatives_, 8th edition, John Hull
 
 1. 2018-10-11 11:30-14:30 U7 Lab 719  

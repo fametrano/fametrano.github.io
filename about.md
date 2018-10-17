@@ -7,7 +7,7 @@ permalink: /about/
 Executive Director of the
 [Digital Gold Institute](https://www.digitalgoldinstitute.org),
 Ferdinando Ametrano teaches
-"[Bitcoin and Blockchain Technology]("{{ site.baseurl }}/bbt/")"
+"[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)"
 at Politecnico di Milano and Milano-Bicocca University.
 Former [Head of Blockchain and Virtual Currencies](https://goo.gl/QdDTuN)
 in Intesa Sanpaolo bank, he is member of the [Scaling Bitcoin](https://scalingbitcoin.org/)

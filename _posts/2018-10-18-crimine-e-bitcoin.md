@@ -26,4 +26,4 @@ Ad oggi bitcoin resta uno straordinario esperimento: la creazione della scarsit�
 
 ---
 
-Aggiornamento: è appena uscito il report Q3 <https://ciphertrace.com/wp-content/uploads/2018/10/crypto_aml_report_2018q3.pdf>, anche se nel dibattito pubblico la discussione è ancora sul report Q2 <>, a cui abbiamo fatto riferimento sopra
+Aggiornamento: è appena uscito il report Q3 <https://ciphertrace.com/wp-content/uploads/2018/10/crypto_aml_report_2018q3.pdf>, anche se nel dibattito pubblico la discussione è ancora sul report Q2, a cui abbiamo fatto riferimento sopra.

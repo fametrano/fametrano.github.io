@@ -8,6 +8,8 @@ published: true
 Ha avuto in questi giorni una certa diffusione il [Cryptocurrency
 Anti-Money Laundering Report Q2](https://cdn2.hubspot.net/hubfs/4345106/crypto_aml_report_2018q2.pdf?submissionGuid=cba5b329-4964-431c-92bd-652d70d249d3), che tenta di far luce sull'utilizzo di bitcoin ed affini nel riciclaggio. Il report documenta un fenomeno in crescita, ma non riesce a contestualizzarlo appropriatamente.
 
+![Crimine e bitcoin](/images/bitcoin-crime.jpg)
+
 Anzitutto perché non distingue tra il crimine che colpisce gli intermediari come le borse di scambio con falle nei loro sistemi di sicurezza (rubando bitcoin), dal crimine che invece usa bitcoin nei ricatti online (ransomware), o infine dall’utilizzo in attività criminali tradizionali (spaccio, vendita di armi, terrorismo).
 
 I tre fenomeni hanno crescente rilevanza e per l’ultimo (socialmente il più importante) non viene fornita alcuna evidenza significativa: questo perché il dollaro statunitense rimane lo strumento preferenziale per il traffico internazionale di droga ed armi e non c’è [alcuna evidenza](<https://speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-an-introduction-1?slide=15>) dell’uso di bitcoin nell’attività terroristica.

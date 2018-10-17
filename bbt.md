@@ -21,11 +21,11 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
    slides (2018 ENG): <https://bit.ly/2LecIba>
 4. Addresses, Transactions, and Blocks  
    slides (2018 ENG): <http://bit.ly/2NuNBAL>
-5. Monetary (and Token) Engineering  
+5. Wallets and Deterministic Key Sequences  
+   slides (2018 ENG): http://bit.ly/2C1kp2s
+6. Monetary (and Token) Engineering  
    slides (2018 ENG): <http://bit.ly/2JV31xx>  
    video (2017 ITA) <http://bit.ly/2MyYPVD>
-6. Wallets and Deterministic Key Sequences  
-   slides (2018 ENG): http://bit.ly/2C1kp2s
 7. Distributed Ledger Technology and Non-monetary Applications  
    slides (2018 ENG): <http://bit.ly/2PjqKdk>  
    video (2017 ITA) <http://bit.ly/2yhCmt5>

@@ -6,12 +6,6 @@ permalink: /events/
 
 # Forthcoming events
 
-2018-10-18/19 ExPLORE 2018 _The Future of Work_, OpenZone - Bresso, Milan  
-Bitcoin and Blockchain Technology  
-<http://exploretalks.com/explore/>  
-talk  
-![ExPLORE The Future of Work](/images/20181018-explore.png)
-
 2018-10-24 Explore Talks - Spaces, Milan  
 Blockchain Economy  
 <https://www.eventbrite.it/e/biglietti-explore-talks-blockchain-economy-50278971758>  
@@ -54,6 +48,12 @@ seminar
 ---
 
 # Past events
+
+2018-10-18/19 ExPLORE 2018 _The Future of Work_, OpenZone - Bresso, Milan  
+Bitcoin and Blockchain Technology  
+<http://exploretalks.com/explore/>  
+talk  
+![ExPLORE The Future of Work](/images/20181018-explore.png)
 
 2018-10-16 Regione Lombardia, Milan  
 Bitcoin and Blockchain Technology  

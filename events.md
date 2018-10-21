@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 ---
 
-# Forthcoming events
+# Upcoming events
 
 2018-10-24 Explore Talks - Spaces, Milan  
 Blockchain Economy  
@@ -53,12 +53,11 @@ seminar
 2018-10-18/19 ExPLORE 2018 _The Future of Work_, OpenZone - Bresso, Milan  
 Bitcoin and Blockchain Technology  
 <http://exploretalks.com/explore/>  
-talk  
 ![ExPLORE The Future of Work](/images/20181018-explore.png)
 
 2018-10-16 Regione Lombardia, Milan  
 Bitcoin and Blockchain Technology  
-talk
+video (ITA): <http://blockchain.carrefour.it/?lot=315123&skunr=PRD100023&shelflifedate=17.10.2018>  
 ![Bitcoin and Blockchain Technology](/images/Lombardia.jpg)
 
 2018-10-15/16 EFMA Innovation Summit: Payments & Wallets, Lisbon  

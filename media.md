@@ -9,6 +9,10 @@ YouTube Italian video playlist: <http://bit.ly/2OnT2WV>
 
 ---
 
+2018-10-16 Regione Lombardia, Milan  
+Bitcoin and Blockchain Technology  
+video (ITA): <http://blockchain.carrefour.it/?lot=315123&skunr=PRD100023&shelflifedate=17.10.2018>  
+
 2018-02-23 Class CNBC  
 Guest expert on bitcoin
 

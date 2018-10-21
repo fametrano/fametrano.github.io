@@ -7,8 +7,8 @@ published: true
 
 If 25 years ago somebody would have claimed to deliver pizza as email
 attachment, the implausibility would have probably been lost for most
-people, as almost nobody was familiar with email at the time. Similarly,
-today Carrefour Italia claims to track food using blockchain.
+people, as almost nobody was familiar with e-mail at the time. Similarly,
+today [Carrefour Italia](http://blockchain.carrefour.it/?lot=315123&skunr=PRD100023&shelflifedate=17.10.2018) claims to track food using blockchain.
 
 [![Dilbert blockchain](/images/dilbert-blockchain.jpg)](http://blog.dilbert.com/2018/05/09/all-of-the-dilbert-comics-on-blockchain-bitcoin-or-cryptocurrency/)
 
@@ -22,7 +22,7 @@ guarantee validity, correctness, or accuracy of the content being
 time-stamped. So, despite landing on a legitimate web page, whatever has
 been notarized on the blockchain and is displayed on the web page 
 can be false.
-You can order pizza via email, but it cannot be delivered by email.
+You can order pizza via e-mail, but it cannot be delivered by e-mail.
 
 Finally, if https is not used, if the notarizations are not signed, if a
 non-bitcoin blockchain is used, all these details do compromise the

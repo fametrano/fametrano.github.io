@@ -10,16 +10,18 @@ Ferdinando Ametrano teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)"
 at Politecnico di Milano and Milano-Bicocca University.
 Former [Head of Blockchain and Virtual Currencies](https://goo.gl/QdDTuN)
-in Intesa Sanpaolo bank, he is member of the [Scaling Bitcoin](https://scalingbitcoin.org/)
-Planning Committee and has been Chairman of
-[Scaling Bitcoin Conference 2016 in Milan](https://milan2016.scalingbitcoin.org/). 
+in Intesa Sanpaolo bank, he is Planning Committee member of the
+[Scaling Bitcoin Conference](https://scalingbitcoin.org/)
+that he chaired in 2016 in [Milan](https://milan2016.scalingbitcoin.org/).
 
 Author of scientific publications, contributors to multiple media outlets,
 appreciated speaker, panelist, lecturer, and instructor, he has been
 invited to talk about bitcoin at the
 [United Nations](https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ),
 central banks, the Italian Parliament, universities, conferences, and
-workshops. His academic research focuses on price stability, advocating
+workshops.
+
+His academic research focuses on price stability, advocating
 automated non-discretionary elastic monetary policy for a new generation
 of cryptocurrencies ([Hayek Money](https://ssrn.com/abstract=2425270)).
 

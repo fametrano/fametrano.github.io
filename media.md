@@ -11,7 +11,7 @@ YouTube Italian video playlist: <http://bit.ly/2OnT2WV>
 
 2018-10-16 Regione Lombardia, Milan  
 Bitcoin and Blockchain Technology  
-video (ITA): <https://www.youtube.com/watch?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&v=rux8XNwfIOA>  
+video (ITA): <http://bit.ly/2EHgmev>  
 
 2018-02-23 Class CNBC  
 Guest expert on bitcoin
@@ -142,7 +142,7 @@ Intervista: Blockchain, Bitcoin e DLT
 video (ITA): <https://goo.gl/V6qdaF>
 
 2017-09-17 Business Insider Italia  
-Initial coin offering: una soluzione innovativa per finanziare il lancio di criptovalute e startup o speculazione selvaggia?  
+Initial coin offering: una soluzione innovativa o speculazione selvaggia?  
 <https://goo.gl/AU657K>
 
 2017-08-11 IlSole24Ore  
@@ -245,4 +245,4 @@ Bitcoin: come funziona una moneta virtuale, di Raffaele Mauro
 <http://www.limesonline.com/cartaceo/bitcoin-come-funziona-una-moneta-virtuale>
 
 2014-12 Intesa Sanpaolo Executive Education Educasts  
-video (ITA): <https://youtu.be/3UzHB8EfqWk?list=PLrVvuryXHYTfX6dg884fSGYLbLJgX6vAQ>
+video (ITA): <http://bit.ly/2J9KzSd>

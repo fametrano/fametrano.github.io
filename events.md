@@ -67,7 +67,7 @@ Bitcoin and Blockchain Technology
 
 2018-10-16 Regione Lombardia, Milan  
 Bitcoin and Blockchain Technology  
-video (ITA): <https://www.youtube.com/watch?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&v=rux8XNwfIOA>
+video (ITA): <http://bit.ly/2EHgmev>
 
 2018-10-15/16 EFMA Innovation Summit: Payments & Wallets, Lisbon  
 Bitcoin and blockchain: between money, digital gold, and payment systems  
@@ -268,7 +268,7 @@ slides (ENG): <https://goo.gl/1ETHLK>
 video: <https://goo.gl/40mim9>
 
 2016-09-22 Digital Payment Revolution, Rome  
-roundtable: Rivoluzione Blockchain, l’Internet of banking: una Uber per le transazioni finanziarie?  
+Rivoluzione Blockchain, l’Internet of banking: una Uber per le transazioni finanziarie?  
 <https://goo.gl/kKWy1T>  
 interview (ITA): <https://goo.gl/edF3BX>
 

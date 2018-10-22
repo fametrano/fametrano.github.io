@@ -30,7 +30,7 @@ Tentative program:
 5. 2018-11-15 11:30-14:30 U7 Lab 719  
    Cap Floor (with Carlo Clerici)
 6. 2018-11-22 11:30-14:30 U7 Lab 719  
-   Swaption (with Setafno De Nuccio)
+   Swaption (with Stefano De Nuccio)
 7. 2018-11-29 11:30-14:30  
    Workshop on Cap, Floor, and Swaptions (with Paolo Mazzocchi)
 8. 2018-12-06 11:30-14:30 U7 Lab 718  

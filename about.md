@@ -49,5 +49,6 @@ also been co-founder and managing partner of RiskMap (now StatPro Italia).
 [https://www.facebook.com/ferdinando.ametrano](https://www.facebook.com/ferdinando.ametrano)  
 [https://www.youtube.com/c/FerdinandoMAmetrano](https://www.youtube.com/c/FerdinandoMAmetrano)  
 [https://www.linkedin.com/in/ferdinandoametrano](https://www.linkedin.com/in/ferdinandoametrano)
+Donation BTC address (also used for message signing): [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
 
 ![Ferdinando M. Ametrano](images/201809AmetranoProfileRectangular.jpg)

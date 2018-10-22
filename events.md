@@ -12,6 +12,12 @@ Blockchain Economy
 talk  
 ![ExPLORE Talk](/images/20181024-explore.png)
 
+2018-11-09 Salone dei Pagamenti, Milano  
+Criptovalute: cosa sono e come funzionano  
+<http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
+roundtable  
+![Salone dei Pagamenti Criptovalute](/images/20181109-salone-pagamenti.png)
+
 2018-11-12 Blockchain Summit, Dubai  
 Bitcoin and Blockchain: Between Hype and Reality  
 <http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/>  

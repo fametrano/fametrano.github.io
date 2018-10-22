@@ -64,7 +64,7 @@ Bitcoin and Blockchain Technology
 
 2018-10-16 Regione Lombardia, Milan  
 Bitcoin and Blockchain Technology  
-video (ITA): <http://blockchain.carrefour.it/?lot=315123&skunr=PRD100023&shelflifedate=17.10.2018>  
+video (ITA): <https://www.youtube.com/watch?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&v=rux8XNwfIOA>  
 ![Bitcoin and Blockchain Technology](/images/Lombardia.jpg)
 
 2018-10-15/16 EFMA Innovation Summit: Payments & Wallets, Lisbon  

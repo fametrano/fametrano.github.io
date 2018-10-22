@@ -19,8 +19,9 @@ talk
 
 2018-11-20 Borsa Italiana, Milan  
 Bitcoin and Blockchain Technology  
-<http://bit.ly/2QLPKdJ>  
-seminar
+<https://www.assosim.it/scheda/?id=20181019150403.xml>  
+seminar  
+![LSEG Borsa Italiana Blockchain](/images/20181120 lseg.png)
 
 2018-11-21 Assagenti, Genoa  
 Bitcoin and Blockchain Technology  

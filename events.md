@@ -33,8 +33,8 @@ seminar
 Bitcoin and Blockchain Technology  
 seminar
 
-2018-11-22 16:30 Politecnico di Milano, Milan  
-Aula S.0.2 Edificio 3, Campus Leonardo  
+2018-11-22 Politecnico di Milano, Milan  
+16:30 Aula S.0.2 Edificio 3, Campus Leonardo  
 [Bitcoin e Blockchain: Introduzione e Prospettive](/images/20181122 Poli.pdf)  
 seminar
 

@@ -27,7 +27,7 @@ talk
 Bitcoin and Blockchain Technology  
 <https://www.assosim.it/scheda/?id=20181019150403.xml>  
 seminar  
-![LSEG Borsa Italiana Blockchain](/images/20181120 lseg.png)
+![LSEG](/images/20181120-lseg.png)
 
 2018-11-21 Assagenti, Genoa  
 Bitcoin and Blockchain Technology  

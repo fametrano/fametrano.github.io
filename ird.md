@@ -21,24 +21,24 @@ Reference text book: _Options, Futures and Other Derivatives_, 8th edition, John
 2. 2018-10-18 11:30-14:30 U7 Lab 719  
    Rate Curves Calibration <http://bit.ly/2yEidKS>
 3. 2018-10-25 11:30-14:30 U7 Lab 719  
-   Workshop on Interest Rate
+   Workshop on Interest Rate (with Paolo Mazzocchi)
 
 Tentative program:
 
 4. 2018-11-08 11:30-14:30 U7 Lab 719  
    Black Model
 5. 2018-11-15 11:30-14:30 U7 Lab 719  
-   Cap Floor
+   Cap Floor (with Carlo Clerici)
 6. 2018-11-22 11:30-14:30 U7 Lab 719  
-   Swaption
+   Swaption (with Setafno De Nuccio)
 7. 2018-11-29 11:30-14:30  
-   Workshop on Cap, Floor, and Swaptions
+   Workshop on Cap, Floor, and Swaptions (with Paolo Mazzocchi)
 8. 2018-12-06 11:30-14:30 U7 Lab 718  
    Credit Derivatives
 9. 2018-12-13 11:30-14:30  
-   Workshop on Credit
+   Workshop on Credit (with Paolo Mazzocchi)
 10. 2018-12-20 11:30-14:30 U7 Lab 718  
-   XVAs
+   XVAs (with Andrea Prampolini)
 11. 2019-01-10 12:30-15:30 U6 26  
    Short Rate Models
 

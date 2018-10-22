@@ -60,19 +60,16 @@ seminar
 
 2018-10-18/19 ExPLORE 2018 _The Future of Work_, OpenZone - Bresso, Milan  
 Bitcoin and Blockchain Technology  
-<http://exploretalks.com/explore/>  
-![ExPLORE The Future of Work](/images/20181018-explore.png)
+<http://exploretalks.com/explore/>
 
 2018-10-16 Regione Lombardia, Milan  
 Bitcoin and Blockchain Technology  
-video (ITA): <https://www.youtube.com/watch?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&v=rux8XNwfIOA>  
-![Bitcoin and Blockchain Technology](/images/Lombardia.jpg)
+video (ITA): <https://www.youtube.com/watch?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&v=rux8XNwfIOA>
 
 2018-10-15/16 EFMA Innovation Summit: Payments & Wallets, Lisbon  
 Bitcoin and blockchain: between money, digital gold, and payment systems  
 <https://www.efma.com/conference/program/619>  
-talk  
-![EFMA Lisbon](/images/efma-lisbon.png)
+talk
 
 2018-10-05 Four Seasons Hotel, Milan  
 Bitcoin as Digital Gold

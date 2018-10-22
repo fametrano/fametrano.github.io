@@ -22,6 +22,7 @@ roundtable
 Bitcoin and Blockchain: Between Hype and Reality  
 <http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/>  
 talk
+![Blockchain Summit Dubai](/images/20181112-dubai.png)
 
 2018-11-20 Borsa Italiana, Milan  
 Bitcoin and Blockchain Technology  

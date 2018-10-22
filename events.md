@@ -6,7 +6,7 @@ permalink: /events/
 
 # Upcoming events
 
-2018-10-24 Explore Talks - Spaces, Milan  
+2018-10-24 ExPLORE TALKS - Spaces, Milan  
 Blockchain Economy  
 <https://www.eventbrite.it/e/biglietti-explore-talks-blockchain-economy-50278971758>  
 talk  
@@ -18,15 +18,16 @@ Criptovalute: cosa sono e come funzionano
 roundtable  
 ![Salone dei Pagamenti Criptovalute](/images/20181109-salone-pagamenti.png)
 
-2018-11-12 Blockchain Summit, Dubai  
+2018-11-12 Blockchain Summit 2018, Dubai  
 Bitcoin and Blockchain: Between Hype and Reality  
 <http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/>  
 talk
 ![Blockchain Summit Dubai](/images/20181112-dubai.png)
 
 2018-11-20 Borsa Italiana, Milan  
-Bitcoin and Blockchain Technology  
-<https://www.assosim.it/scheda/?id=20181019150403.xml>  
+Bitcoin e Digital Economy  
+[registrazione LSEG Borsa Italiana](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario)  
+[registrazione AssooSIM](https://www.assosim.it/scheda/?id=20181019150403.xml)  
 seminar  
 ![LSEG](/images/20181120-lseg.png)
 

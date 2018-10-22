@@ -41,9 +41,11 @@ seminar
 seminar
 
 2018-11-23 Master in Business Intelligence & Big Data Analytics, Università Milano-Bicocca, Milan  
-Bitcoin and Blockchain Technology  
+Bitcoin e Blockchain: fra esagerazione e realtà  
+<https://seminario23novblockchai.eventbrite.it>  
 <http://www.crisp-org.it/bimaster/>  
 seminar
+![LSEG](/images/20181123-bicocca.png)
 
 2018-11-26/27 Blockchain Academy, Luxembourg  
 Bitcoin and Blockchain Technology  

@@ -10,53 +10,71 @@ permalink: /events/
 Blockchain Economy  
 <https://www.eventbrite.it/e/biglietti-explore-talks-blockchain-economy-50278971758>  
 talk  
-![ExPLORE Talk](/images/20181024-explore.png)
+[![ExPLORE Talk](/images/20181024-explore.png)](https://www.eventbrite.it/e/biglietti-explore-talks-blockchain-economy-50278971758)
+
+---
 
 2018-11-09 Salone dei Pagamenti, Milano  
 Criptovalute: cosa sono e come funzionano  
 <http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
 roundtable  
-![Salone dei Pagamenti Criptovalute](/images/20181109-salone-pagamenti.png)
+[![Salone dei Pagamenti Criptovalute](/images/20181109-salone-pagamenti.png)](http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano)
+
+---
 
 2018-11-12 Blockchain Summit 2018, Dubai  
 Bitcoin and Blockchain: Between Hype and Reality  
 <http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/>  
-talk
-![Blockchain Summit Dubai](/images/20181112-dubai.png)
+talk  
+[![Blockchain Summit Dubai](/images/20181112-dubai.png)](http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/)
+
+---
 
 2018-11-20 Borsa Italiana, Milan  
 Bitcoin e Digital Economy  
-[registrazione LSEG Borsa Italiana](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario)  
-[registrazione AssooSIM](https://www.assosim.it/scheda/?id=20181019150403.xml)  
+[LSEG Borsa Italiana](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario)  
+[AssosIM](https://www.assosim.it/scheda/?id=20181019150403.xml)  
 seminar  
-![LSEG](/images/20181120-lseg.png)
+[![LSEG](/images/20181120-lseg.png)](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario)
+
+---
 
 2018-11-21 Assagenti, Genoa  
 Bitcoin and Blockchain Technology  
 seminar
+
+---
 
 2018-11-22 Politecnico di Milano, Milan  
 16:30 Aula S.0.2 Edificio 3, Campus Leonardo  
 [Bitcoin e Blockchain: Introduzione e Prospettive](/images/20181122 Poli.pdf)  
 seminar
 
+---
+
 2018-11-23 Master in Business Intelligence & Big Data Analytics, Università Milano-Bicocca, Milan  
 Bitcoin e Blockchain: fra esagerazione e realtà  
 <https://seminario23novblockchai.eventbrite.it>  
 <http://www.crisp-org.it/bimaster/>  
-seminar
-![LSEG](/images/20181123-bicocca.png)
+seminar  
+[![LSEG](/images/20181123-bicocca.png)](https://seminario23novblockchai.eventbrite.it)
+
+---
 
 2018-11-26/27 Blockchain Academy, Luxembourg  
 Bitcoin and Blockchain Technology  
 <http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
 seminar (€100 discount with coupon code AMETRANO)
-![Bitcoin and Blockchain Technology](/images/Block_AcademyLux.png)
+[![Bitcoin and Blockchain Technology](/images/Block_AcademyLux.png)](http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018)
+
+---
 
 2018-11-28 CERIF, Università Cattolica, Milan  
 Bitcoin and Blockchain Technology  
 seminar
 
+---
+---
 ---
 
 # Past events

@@ -25,8 +25,7 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
    slides (2018 ENG): <http://bit.ly/2C1kp2s>
 6. Monetary (and Token) Engineering  
    slides (2018 ENG): <http://bit.ly/2JV31xx>  
-   video (2017 ITA): <http://bit.ly/2MyYPVD>  
-   paper (ITA): <http://bit.ly/2NQg9VJ>
+   video (2017 ITA): <http://bit.ly/2MyYPVD>
 7. Distributed Ledger Technology and Non-monetary Applications  
    slides (2018 ENG): <http://bit.ly/2PjqKdk>  
    video (2017 ITA): <http://bit.ly/2yhCmt5>
@@ -37,18 +36,22 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 
 ### Papers
 
-* Satoshi Nakamoto,
-  _"Bitcoin: A Peer-to-Peer Electronic Cash System"_,
+* Satoshi Nakamoto,  
+  _"Bitcoin: A Peer-to-Peer Electronic Cash System"_,  
   <https://bitcoin.org/bitcoin.pdf>
-* Ferdinando M. Ametrano,
-  _"Hayek Money: The Cryptocurrency Price Stability Solution"_,
+* Ferdinando M. Ametrano,  
+  _"Hayek Money: The Cryptocurrency Price Stability Solution"_,  
   <https://ssrn.com/abstract=2425270>
-* Robert Sams,
-  _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_,
+* Robert Sams,  
+  _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_,  
   <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
-* Ferdinando M. Ametrano,
-  _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_,
+* Ferdinando M. Ametrano,  
+  _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_,  
   <https://ssrn.com/abstract=2832249>
+* Ferdinando M. Ametrano,  
+  _"Bitcoin: oro digitale e stabilità dei prezzi"_  
+  <http://bit.ly/2NQg9VJ>
+
 
 ### Technical books
 

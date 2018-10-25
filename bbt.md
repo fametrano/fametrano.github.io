@@ -14,7 +14,7 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 
 1. Introduction  
    slides (2018 ENG): <https://bit.ly/2jQjYxt>  
-   video (2017 ITA) <http://bit.ly/2t2Cvvt>
+   video (2017 ITA): <http://bit.ly/2t2Cvvt>
 2. Blockchain, Mining, and Distributed Consensus  
    slides (2018 ENG): <https://bit.ly/2KgS20R>
 3. Elliptic Curve Asymmetric Cryptography  
@@ -25,10 +25,11 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
    slides (2018 ENG): <http://bit.ly/2C1kp2s>
 6. Monetary (and Token) Engineering  
    slides (2018 ENG): <http://bit.ly/2JV31xx>  
-   video (2017 ITA) <http://bit.ly/2MyYPVD>
+   video (2017 ITA): <http://bit.ly/2MyYPVD>
+   paper (ITA): <http://bit.ly/2NQg9VJ>
 7. Distributed Ledger Technology and Non-monetary Applications  
    slides (2018 ENG): <http://bit.ly/2PjqKdk>  
-   video (2017 ITA) <http://bit.ly/2yhCmt5>
+   video (2017 ITA): <http://bit.ly/2yhCmt5>
 
 ### Python code and Excel spreadsheets
 

@@ -33,16 +33,17 @@ Tentative:
 6. 2018-11-22 11:30-14:30 U7 Lab 719  
    Black Model  
    Volatility (with Nicola Moreni)
-*  2018-11-29 11:30-14:30 ??
 7. 2018-12-06 11:30-14:30 U7 Lab 718  
    Cap Floor (with Carlo Clerici)  
    Workshop on Cap, Floor (with Paolo Mazzocchi)
-*  2018-12-13 11:30-14:30 ??
 8. 2018-12-20 11:30-14:30 U7 Lab 718  
    Swaption (with Stefano De Nuccio)  
    Workshop on Swaptions (with Paolo Mazzocchi)
 9. 2019-01-10 12:30-15:30 U6 26  
    Short Rate Models
+
+*  2018-11-29 11:30-14:30 ??
+*  2018-12-13 11:30-14:30 ??
 
 ### Excel addin, spreadsheets, and C++ code:
 

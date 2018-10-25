@@ -25,7 +25,7 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
    slides (2018 ENG): <http://bit.ly/2C1kp2s>
 6. Monetary (and Token) Engineering  
    slides (2018 ENG): <http://bit.ly/2JV31xx>  
-   video (2017 ITA): <http://bit.ly/2MyYPVD>
+   video (2017 ITA): <http://bit.ly/2MyYPVD>  
    paper (ITA): <http://bit.ly/2NQg9VJ>
 7. Distributed Ledger Technology and Non-monetary Applications  
    slides (2018 ENG): <http://bit.ly/2PjqKdk>  

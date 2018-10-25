@@ -37,19 +37,19 @@ _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 ### Papers
 
 * Satoshi Nakamoto,  
-  _"Bitcoin: A Peer-to-Peer Electronic Cash System"_,  
+  _"Bitcoin: A Peer-to-Peer Electronic Cash System"_ (2008),  
   <https://bitcoin.org/bitcoin.pdf>
 * Ferdinando M. Ametrano,  
-  _"Hayek Money: The Cryptocurrency Price Stability Solution"_,  
+  _"Hayek Money: The Cryptocurrency Price Stability Solution"_ (2014),  
   <https://ssrn.com/abstract=2425270>
 * Robert Sams,  
-  _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_,  
+  _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_ (2015),  
   <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
 * Ferdinando M. Ametrano,  
-  _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_,  
+  _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_ (2017),  
   <https://ssrn.com/abstract=2832249>
 * Ferdinando M. Ametrano,  
-  _"Bitcoin: oro digitale e stabilità dei prezzi"_  
+  _"Bitcoin: oro digitale e stabilità dei prezzi"_  (2018),
   <http://bit.ly/2NQg9VJ>
 
 

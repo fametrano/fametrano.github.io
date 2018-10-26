@@ -22,9 +22,6 @@ Reference text book: _Options, Futures and Other Derivatives_, 8th edition, John
    Rate Curves Calibration <http://bit.ly/2yEidKS>
 3. 2018-10-25 11:30-14:30 U7 Lab 719  
    Workshop on Interest Rate Basics (with Paolo Mazzocchi)
-
-Tentative:
-
 4. 2018-11-08 11:30-14:30 U7 Lab 719  
    Credit Derivatives  
    XVAs (with Andrea Prampolini)

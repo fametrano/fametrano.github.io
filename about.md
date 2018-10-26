@@ -36,7 +36,8 @@ Milano-Bicocca University, he has
 [relevant publications](https://ssrn.com/author=510135) on this subject and
 has headed trading, quantitative, and risk-management teams in Banca IMI
 (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has
-also been co-founder and managing partner of RiskMap (now StatPro Italia).
+also been co-founder and managing partner of RiskMap
+(now [StatPro](https://www.statpro.com/) Italia).
 
 **[Email contact form](https://docs.google.com/forms/d/101nW2MzLYJDN69ELY6fdJCys-dNOTEKMUsDni5wW9Aw/edit)**  
 [https://github.com/fametrano](https://github.com/fametrano)  

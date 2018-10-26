@@ -13,6 +13,8 @@ My current and upcoming university courses:
 For events and conferences where I have been engaged
 as speaker, panelist, MC, or lecturer see the dedicated [events]({{ site.baseurl }}/events/) page.
 
+---
+
 Past university courses:
 
 * Bitcoin and Blockchain Technology, Milano-Bicocca, Spring 2018

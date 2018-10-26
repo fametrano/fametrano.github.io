@@ -26,7 +26,7 @@ talk
 
 2018-11-20  
 Borsa Italiana, Milan  
-Bitcoin e Digital Economy  
+Bitcoin e digital economy: sfide e opportunità per il mondo finanziario  
 [LSEG Borsa Italiana](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario)  
 [AssosIM](https://www.assosim.it/scheda/?id=20181019150403.xml)  
 seminar  
@@ -36,7 +36,7 @@ seminar
 
 2018-11-21  
 Assagenti, Genoa  
-Shipping and Blockchain: applicazioni attuali e prospettive future  
+Shipping & Blockchain: applicazioni attuali e prospettive future  
 <http://bit.ly/2JfVYQd>  
 seminar
 [![Assagenti](/images/20181121-assagenti.jpg)](http://bit.ly/2JfVYQd)

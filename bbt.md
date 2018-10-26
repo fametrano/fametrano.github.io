@@ -4,31 +4,38 @@ title: Bitcoin and Blockchain Technology Course
 permalink: /bbt/
 ---
 
-## **Bitcoin and Blockchain Technology (2016-2018)**
+## **Bitcoin and Blockchain Technology, Fall 2018**
 
-_[Digital Gold Institute](https://www.digitalgoldinstitute.org)_  
 _Department of Mathematics, Politecnico di Milano_  
-_Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 
 ### Lessons
 
-1. Introduction  
+1. 2018-09-20  
+   Introduction  
    slides (2018 ENG): <https://bit.ly/2jQjYxt>  
    video (2017 ITA): <http://bit.ly/2t2Cvvt>
-2. Blockchain, Mining, and Distributed Consensus  
+2. 2018-09-27  
+   Blockchain, Mining, and Distributed Consensus  
    slides (2018 ENG): <https://bit.ly/2KgS20R>
-3. Elliptic Curve Asymmetric Cryptography  
+3. 2018-10-04  
+   Elliptic Curve Asymmetric Cryptography  
    slides (2018 ENG): <https://bit.ly/2LecIba>
-4. Addresses, Transactions, and Blocks  
+4. 2018-10-11  
+   Addresses, Transactions, and Blocks  
    slides (2018 ENG): <http://bit.ly/2NuNBAL>
-5. Wallets and Deterministic Key Sequences  
+5. 2018-10-18  
+   Wallets and Deterministic Key Sequences  
    slides (2018 ENG): <http://bit.ly/2C1kp2s>
-6. Monetary (and Token) Engineering  
+6. 2018-10-25  
+   Monetary (and Token) Engineering  
    slides (2018 ENG): <http://bit.ly/2JV31xx>  
    video (2017 ITA): <http://bit.ly/2MyYPVD>
-7. Distributed Ledger Technology and Non-monetary Applications  
+7. 2018-11-08  
+   Distributed Ledger Technology and Non-monetary Applications  
    slides (2018 ENG): <http://bit.ly/2PjqKdk>  
    video (2017 ITA): <http://bit.ly/2yhCmt5>
+8. 2018-11-15
+   Workshop: Bitcoin Core, Electrum, OpenTimestamps  
 
 ### Python code and Excel spreadsheets
 

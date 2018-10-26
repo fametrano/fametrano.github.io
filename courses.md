@@ -4,6 +4,23 @@ title: Courses
 permalink: /courses/
 ---
 
-## [Bitcoin and Blockchain Technology (2016-2018)]({{ site.baseurl }}/bbt/)
+Current and upcoming university courses:
 
-## [Interest Rate Derivatives (2013-2018)]({{ site.baseurl }}/ird/)
+* Bitcoin and Blockchain Technology, Milano-Bicocca, Spring 2019
+* [Interest Rate Derivatives, Milano-Bicocca, Fall-Winter 2018]({{ site.baseurl }}/ird/)
+* [Bitcoin and Blockchain Technology, Politecnico di Milano, Fall 2018]({{ site.baseurl }}/bbt/)
+
+For the events and conferences where I have been engaged
+as speaker, panelist, MC, or lecturer see the [events]({{ site.baseurl }}/events/) page.
+
+Past university courses:
+
+* Bitcoin and Blockchain Technology, Milano-Bicocca, Spring 2018
+* Interest Rate Derivatives, Milano-Bicocca, Fall 2017
+* Bitcoin and Blockchain Technology, Politecnico di Milano, Fall 2017
+* Bitcoin and Blockchain Technology, Milano-Bicocca, Spring 2017
+* Interest Rate Derivatives, Milano-Bicocca, Fall 2016
+* Bitcoin and Blockchain Technology, Politecnico di Milano, Fall 2016
+* Interest Rate Derivatives, Milano-Bicocca, Fall 2015
+* Interest Rate Derivatives, Milano-Bicocca, Fall 2014
+* Interest Rate Derivatives, Milano-Bicocca, Fall 2013

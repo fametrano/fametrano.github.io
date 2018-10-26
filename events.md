@@ -4,6 +4,14 @@ title: Events
 permalink: /events/
 ---
 
+Depending on agenda and interest, I can be available pro-bono for scientific
+and community-organized non-profit events and conferences
+as speaker, panelist, MC, or lecturer;
+anyway, I charge a fee for the commercial ones with admission price or sponsors
+and whenever I am requested for teaching or consulting.
+I can be contacted using this
+[form](https://docs.google.com/forms/d/101nW2MzLYJDN69ELY6fdJCys-dNOTEKMUsDni5wW9Aw/edit).
+
 # Upcoming events
 
 2018-11-09  

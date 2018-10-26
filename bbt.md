@@ -6,7 +6,7 @@ permalink: /bbt/
 
 ## Bitcoin and Blockchain Technology, Fall 2018
 
-##_Department of Mathematics, Politecnico di Milano_  
+_Department of Mathematics, Politecnico di Milano_  
 
 ### Lessons
 

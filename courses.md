@@ -4,7 +4,7 @@ title: Courses
 permalink: /courses/
 ---
 
-My current and upcoming university courses:
+### My current and upcoming university courses:
 
 * Bitcoin and Blockchain Technology, Spring 2019  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
@@ -18,7 +18,7 @@ as speaker, panelist, MC, or lecturer see the dedicated [events]({{ site.baseurl
 
 ---
 
-Past university courses:
+### Past university courses:
 
 * Bitcoin and Blockchain Technology, Spring 2018  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
@@ -26,14 +26,12 @@ Past university courses:
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 * Bitcoin and Blockchain Technology, Fall 2017  
   _Department of Mathematics, Politecnico di Milano_
-
 * Bitcoin and Blockchain Technology, Spring 2017  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 * Interest Rate Derivatives, Fall 2016  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 * Bitcoin and Blockchain Technology, Fall 2016  
   _Department of Mathematics, Politecnico di Milano_
-
 * Interest Rate Derivatives, Fall 2015  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 * Interest Rate Derivatives, Fall 2014  

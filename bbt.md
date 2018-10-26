@@ -4,38 +4,38 @@ title: Bitcoin and Blockchain Technology Course
 permalink: /bbt/
 ---
 
-## **Bitcoin and Blockchain Technology, Fall 2018**
+## Bitcoin and Blockchain Technology, Fall 2018
 
-_Department of Mathematics, Politecnico di Milano_  
+##_Department of Mathematics, Politecnico di Milano_  
 
 ### Lessons
 
-1. 2018-09-20  
-   Introduction  
+1. 2018-09-20 08:15-10:15 D.2.3  
+   _Introduction_  
    slides (2018 ENG): <https://bit.ly/2jQjYxt>  
    video (2017 ITA): <http://bit.ly/2t2Cvvt>
-2. 2018-09-27  
-   Blockchain, Mining, and Distributed Consensus  
+2. 2018-09-27 08:15-10:15 D.2.3  
+   _Blockchain, Mining, and Distributed Consensus_  
    slides (2018 ENG): <https://bit.ly/2KgS20R>
-3. 2018-10-04  
-   Elliptic Curve Asymmetric Cryptography  
+3. 2018-10-04 08:15-10:15 D.2.3  
+   _Elliptic Curve Asymmetric Cryptography_  
    slides (2018 ENG): <https://bit.ly/2LecIba>
-4. 2018-10-11  
-   Addresses, Transactions, and Blocks  
+4. 2018-10-11 08:15-10:15 D.2.3  
+   _Addresses, Transactions, and Blocks_  
    slides (2018 ENG): <http://bit.ly/2NuNBAL>
-5. 2018-10-18  
-   Wallets and Deterministic Key Sequences  
+5. 2018-10-18 08:15-10:15 D.2.3  
+   _Wallets and Deterministic Key Sequences_  
    slides (2018 ENG): <http://bit.ly/2C1kp2s>
-6. 2018-10-25  
-   Monetary (and Token) Engineering  
+6. 2018-10-25 08:15-10:15 D.2.3  
+   _Monetary (and Token) Engineering_  
    slides (2018 ENG): <http://bit.ly/2JV31xx>  
    video (2017 ITA): <http://bit.ly/2MyYPVD>
-7. 2018-11-08  
-   Distributed Ledger Technology and Non-monetary Applications  
+7. 2018-11-08 08:15-10:15 D.2.3  
+   _Distributed Ledger Technology and Non-monetary Applications_  
    slides (2018 ENG): <http://bit.ly/2PjqKdk>  
    video (2017 ITA): <http://bit.ly/2yhCmt5>
-8. 2018-11-15
-   Workshop: Bitcoin Core, Electrum, OpenTimestamps  
+8. 2018-11-15 08:15-10:15 D.2.3  
+   _Workshop: Bitcoin Core, Electrum, OpenTimestamps_  
 
 ### Python code and Excel spreadsheets
 

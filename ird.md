@@ -4,26 +4,25 @@ title: Interest Rate Derivatives Course
 permalink: /ird/
 ---
 
-## Interest Rate Derivatives, Fall 2018
+# Interest Rate Derivatives, Fall 2018
 
 _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 
-course page: <https://elearning.unimib.it/course/view.php?id=19623>
+course page: <https://elearning.unimib.it/course/view.php?id=19623>  
+Please subscribe the course mailing list sending an e-email to
+[2018ird-bicocca+unsubscribe@ametrano.net](mailto:2018ird-bicocca+unsubscribe@ametrano.net)
 
-**Please subscribe the course mailing list sending an e-email to
-[2018ird-bicocca+unsubscribe@ametrano.net](mailto:2018ird-bicocca+unsubscribe@ametrano.net)**
-
-Reference text book: _Options, Futures and Other Derivatives_, 8th edition, John Hull
+Reference text book: _Options, Futures and Other Derivatives_, 8th edition, John Hull  
+Excel library used for assignments: <https://www.quantlib.org/quantlibxl/>
 
 1. 2018-10-11 11:30-14:30 U7 Lab 719  
-   _Interest Rate Basics_  
-   <http://bit.ly/2A5lnte>
+   _Interest Rate Basics_ (slides: <http://bit.ly/2A5lnte>)
 2. 2018-10-18 11:30-14:30 U7 Lab 719  
-   _Rate Curves Calibration_ <http://bit.ly/2yEidKS>
+   _Rate Curves Calibration_ (slides: <http://bit.ly/2yEidKS>)
 3. 2018-10-25 11:30-14:30 U7 Lab 719  
    _Workshop on Interest Rate Basics_ (with Paolo Mazzocchi)
    <https://drive.google.com/open?id=188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1>
-   *Assignments to be submitted before 2018-11-08*
+   **Assignments to be submitted before 2018-11-08**
 4. 2018-11-08 11:30-14:30 U7 Lab 719  
    _Credit Derivatives_  
    _XVAs_ (with Andrea Prampolini)
@@ -43,7 +42,3 @@ Reference text book: _Options, Futures and Other Derivatives_, 8th edition, John
 
 *  2018-11-29 11:30-14:30 ??
 *  2018-12-13 11:30-14:30 ??
-
-### Excel addin, spreadsheets, and C++ code:
-
-<https://www.quantlib.org>

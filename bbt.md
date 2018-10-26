@@ -4,11 +4,11 @@ title: Bitcoin and Blockchain Technology Course
 permalink: /bbt/
 ---
 
-## Bitcoin and Blockchain Technology, Fall 2018
+# Bitcoin and Blockchain Technology, Fall 2018
 
 _Department of Mathematics, Politecnico di Milano_  
 
-### Lessons
+## Lessons
 
 1. 2018-09-20 08:15-10:15 D.2.3  
    _Introduction_  
@@ -37,11 +37,11 @@ _Department of Mathematics, Politecnico di Milano_
 8. 2018-11-15 08:15-10:15 D.2.3  
    _Workshop: Bitcoin Core, Electrum, OpenTimestamps_  
 
-### Python code and Excel spreadsheets
+## Python code and Excel spreadsheets
 
 <https://github.com/dginst/BitcoinBlockchainTechnology>
 
-### Papers
+## Papers
 
 * Satoshi Nakamoto,  
   _"Bitcoin: A Peer-to-Peer Electronic Cash System"_ (2008),  
@@ -60,7 +60,7 @@ _Department of Mathematics, Politecnico di Milano_
   <http://bit.ly/2NQg9VJ>
 
 
-### Technical books
+## Technical books
 
 * Andreas M. Antonopoulos, _"Mastering Bitcoin"_ 2nd edition,
   <https://github.com/bitcoinbook/bitcoinbook>
@@ -70,7 +70,7 @@ _Department of Mathematics, Politecnico di Milano_
   <https://lopp.net/pdf/princeton_bitcoin_book.pdf>
 * Pedro Franco, “Understanding Bitcoin”, Wiley
 
-### Cryptography
+## Cryptography
 
 * Christof Paar, Jan Pelzl,
   _"Understanding Cryptography"_,
@@ -80,7 +80,7 @@ _Department of Mathematics, Politecnico di Milano_
 * Dan Boneh,
   _"A Graduate Course in Applied Cryptography"_, Stanford University, <https://www.coursera.org/learn/crypto>, <https://toc.cryptobook.us/>
 
-### Monetary books
+## Monetary books
 
 * Saifedean Ammous,
   _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_,

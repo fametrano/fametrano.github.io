@@ -6,15 +6,8 @@ permalink: /events/
 
 # Upcoming events
 
-2018-10-24 ExPLORE TALKS - Spaces, Milan  
-Blockchain Economy  
-<https://www.eventbrite.it/e/biglietti-explore-talks-blockchain-economy-50278971758>  
-talk  
-[![ExPLORE Talk](/images/20181024-explore.png)](https://www.eventbrite.it/e/biglietti-explore-talks-blockchain-economy-50278971758)
-
----
-
-2018-11-09 Salone dei Pagamenti, Milano  
+2018-11-09  
+Salone dei Pagamenti, Milano  
 Criptovalute: cosa sono e come funzionano  
 <http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
 roundtable  
@@ -22,7 +15,8 @@ roundtable
 
 ---
 
-2018-11-12 Blockchain Summit 2018, Dubai  
+2018-11-12  
+Blockchain Summit 2018, Dubai  
 Bitcoin and Blockchain: Between Hype and Reality  
 <http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/>  
 talk  
@@ -30,7 +24,8 @@ talk
 
 ---
 
-2018-11-20 Borsa Italiana, Milan  
+2018-11-20  
+Borsa Italiana, Milan  
 Bitcoin e Digital Economy  
 [LSEG Borsa Italiana](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario)  
 [AssosIM](https://www.assosim.it/scheda/?id=20181019150403.xml)  
@@ -39,20 +34,25 @@ seminar
 
 ---
 
-2018-11-21 Assagenti, Genoa  
-Bitcoin and Blockchain Technology  
+2018-11-21  
+Assagenti, Genoa  
+Shipping and Blockchain: applicazioni attuali e prospettive future  
+<http://bit.ly/2JfVYQd>  
 seminar
+[![Assagenti](/images/20181121-assagenti.jpg)](http://bit.ly/2JfVYQd)
 
 ---
 
-2018-11-22 Politecnico di Milano, Milan  
+2018-11-22  
+Politecnico di Milano, Milan  
 16:30 Aula S.0.2 Edificio 3, Campus Leonardo  
 [Bitcoin e Blockchain: Introduzione e Prospettive](/images/20181122 Poli.pdf)  
 seminar
 
 ---
 
-2018-11-23 Master in Business Intelligence & Big Data Analytics, Università Milano-Bicocca, Milan  
+2018-11-23  
+Master in Business Intelligence & Big Data Analytics, Università Milano-Bicocca, Milan  
 Bitcoin e Blockchain: fra esagerazione e realtà  
 <https://seminario23novblockchai.eventbrite.it>  
 <http://www.crisp-org.it/bimaster/>  
@@ -61,7 +61,8 @@ seminar
 
 ---
 
-2018-11-26/27 Blockchain Academy, Luxembourg  
+2018-11-26/27  
+Blockchain Academy, Luxembourg  
 Bitcoin and Blockchain Technology  
 <http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
 seminar (€100 discount with coupon code AMETRANO)
@@ -69,7 +70,8 @@ seminar (€100 discount with coupon code AMETRANO)
 
 ---
 
-2018-11-28 CERIF, Università Cattolica, Milan  
+2018-11-28  
+CERIF, Università Cattolica, Milan  
 Bitcoin and Blockchain Technology  
 seminar
 
@@ -79,15 +81,23 @@ seminar
 
 # Past events
 
-2018-10-18/19 ExPLORE 2018 _The Future of Work_, OpenZone - Bresso, Milan  
+2018-10-24  
+ExPLORE TALKS - Spaces, Milan  
+Blockchain Economy  
+<http://exploretalks.com/>
+
+2018-10-18/19  
+ExPLORE 2018 _The Future of Work_, OpenZone - Bresso, Milan  
 Bitcoin and Blockchain Technology  
 <http://exploretalks.com/explore/>
 
-2018-10-16 Regione Lombardia, Milan  
+2018-10-16  
+Regione Lombardia, Milan  
 Bitcoin and Blockchain Technology  
 video (ITA): <http://bit.ly/2EHgmev>
 
-2018-10-15/16 EFMA Innovation Summit: Payments & Wallets, Lisbon  
+2018-10-15/16  
+EFMA Innovation Summit: Payments & Wallets, Lisbon  
 Bitcoin and blockchain: between money, digital gold, and payment systems  
 <https://www.efma.com/conference/program/619>  
 talk

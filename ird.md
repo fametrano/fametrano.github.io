@@ -4,7 +4,7 @@ title: Interest Rate Derivatives Course
 permalink: /ird/
 ---
 
-## Interest Rate Derivatives (2013-2018)
+## Interest Rate Derivatives, Fall 2018
 
 _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 

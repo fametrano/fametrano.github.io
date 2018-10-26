@@ -4,6 +4,8 @@ title: Events
 permalink: /events/
 ---
 
+For my university courses see the dedicated [courses]({{ site.baseurl }}/courses/) page.
+
 Depending on agenda and interest, I can be available pro-bono for scientific
 and community-organized non-profit events and conferences
 as speaker, panelist, MC, or lecturer;

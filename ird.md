@@ -8,11 +8,10 @@ permalink: /ird/
 
 _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 
-2018-2019 course page: <https://elearning.unimib.it/course/view.php?id=19623>
+course page: <https://elearning.unimib.it/course/view.php?id=19623>
 
-**Compilare al più presto il
-[modulo](https://docs.google.com/forms/d/1KAcSd4Vh9mLL-Ub9WKtw5f77t2Eg-aHtRpeNBvSgKKg)
-per iscriversi alla mailing list e formare i gruppi di lavoro per le esercitazioni**
+**Please subscribe the course mailing list sending an e-email to
+[2018ird-bicocca+unsubscribe@ametrano.net](mailto:2018ird-bicocca+unsubscribe@ametrano.net)**
 
 Reference text book: _Options, Futures and Other Derivatives_, 8th edition, John Hull
 
@@ -22,6 +21,8 @@ Reference text book: _Options, Futures and Other Derivatives_, 8th edition, John
    Rate Curves Calibration <http://bit.ly/2yEidKS>
 3. 2018-10-25 11:30-14:30 U7 Lab 719  
    Workshop on Interest Rate Basics (with Paolo Mazzocchi)
+   <https://drive.google.com/open?id=188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1>
+   *Assignments to be submitted before 2018-11-08*
 4. 2018-11-08 11:30-14:30 U7 Lab 719  
    Credit Derivatives  
    XVAs (with Andrea Prampolini)

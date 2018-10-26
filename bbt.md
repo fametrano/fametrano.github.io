@@ -56,7 +56,7 @@ _Department of Mathematics, Politecnico di Milano_
   _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_ (2017),  
   <https://ssrn.com/abstract=2832249>
 * Ferdinando M. Ametrano,  
-  _"Bitcoin: oro digitale e stabilità dei prezzi"_  (2018),
+  _"Bitcoin: oro digitale e stabilità dei prezzi"_ (2018),  
   <http://bit.ly/2NQg9VJ>
 
 

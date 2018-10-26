@@ -41,9 +41,9 @@ also been co-founder and managing partner of RiskMap
 
 **[Email contact form](https://docs.google.com/forms/d/101nW2MzLYJDN69ELY6fdJCys-dNOTEKMUsDni5wW9Aw/edit)**  
 [https://github.com/fametrano](https://github.com/fametrano)  
-[https://medium.com/@nando1970](https://medium.com/@nando1970)  
 [https://ssrn.com/author=510135](https://ssrn.com/author=510135)  
 [https://onename.com/nando1970](https://onename.com/nando1970)  
+[https://medium.com/@nando1970](https://medium.com/@nando1970)  
 [https://twitter.com/Ferdinando1970](https://twitter.com/Ferdinando1970)  
 [https://speakerdeck.com/nando1970](https://speakerdeck.com/nando1970)  
 [https://www.reddit.com/user/Nando1970/](https://www.reddit.com/user/Nando1970/)  

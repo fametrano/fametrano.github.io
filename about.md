@@ -39,18 +39,19 @@ has headed trading, quantitative, and risk-management teams in Banca IMI
 also been co-founder and managing partner of RiskMap
 (now [StatPro](https://www.statpro.com/) Italia).
 
-**[Email contact form](https://docs.google.com/forms/d/101nW2MzLYJDN69ELY6fdJCys-dNOTEKMUsDni5wW9Aw/edit)**  
-[https://github.com/fametrano](https://github.com/fametrano)  
-[https://ssrn.com/author=510135](https://ssrn.com/author=510135)  
-[https://onename.com/nando1970](https://onename.com/nando1970)  
-[https://medium.com/@nando1970](https://medium.com/@nando1970)  
-[https://twitter.com/Ferdinando1970](https://twitter.com/Ferdinando1970)  
-[https://speakerdeck.com/nando1970](https://speakerdeck.com/nando1970)  
-[https://www.reddit.com/user/Nando1970/](https://www.reddit.com/user/Nando1970/)  
-[https://www.slideshare.net/Ferdinando1970](https://www.slideshare.net/Ferdinando1970)  
-[https://www.facebook.com/ferdinando.ametrano](https://www.facebook.com/ferdinando.ametrano)  
-[https://www.linkedin.com/in/ferdinandoametrano](https://www.linkedin.com/in/ferdinandoametrano)  
-[https://www.youtube.com/c/FerdinandoMAmetrano](https://www.youtube.com/c/FerdinandoMAmetrano)
+**email contact form: https://bit.ly/contactametrano**
+
+<https://github.com/fametrano>  
+<https://ssrn.com/author=510135>  
+<https://onename.com/nando1970>  
+<https://medium.com/@nando1970>  
+<https://twitter.com/Ferdinando1970>  
+<https://speakerdeck.com/nando1970>  
+<https://www.reddit.com/user/Nando1970/>  
+<https://www.slideshare.net/Ferdinando1970>  
+<https://www.facebook.com/ferdinando.ametrano>  
+<https://www.linkedin.com/in/ferdinandoametrano>  
+<https://www.youtube.com/c/FerdinandoMAmetrano>
 
 Donation BTC address (also used for message signing): [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
 

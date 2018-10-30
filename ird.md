@@ -38,7 +38,7 @@ Excel library used for assignments: <https://www.quantlib.org/quantlibxl/>
    _Swaption_ with Stefano De Nuccio (slides: ...)  
    _Workshop on Swaptions_ with Paolo Mazzocchi
 9. 2018-12-20 11:30-14:30 U7 Lab 718  
-   _Short Rate Models_ (slides: ...)
+   _Short Rate Models_ (slides: ...)  
    _Workshop on Bermudan Swaptions_ with Paolo Mazzocchi
 10. 2019-01-10 12:30-15:30 U6 26  
     Guest lecturer to be announced

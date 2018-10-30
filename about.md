@@ -39,7 +39,7 @@ has headed trading, quantitative, and risk-management teams in Banca IMI
 also been co-founder and managing partner of RiskMap
 (now [StatPro](https://www.statpro.com/) Italia).
 
-**email contact form: https://bit.ly/contactametrano**
+**email contact form**: <https://bit.ly/contactametrano>
 
 <https://github.com/fametrano>  
 <https://ssrn.com/author=510135>  

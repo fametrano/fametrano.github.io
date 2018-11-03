@@ -21,7 +21,7 @@ Salone dei Pagamenti, Milano
 Criptovalute: cosa sono e come funzionano  
 <http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
 roundtable  
-[![Salone dei Pagamenti Criptovalute](/images/20181109-salone-pagamenti.png)](http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano)
+[![Salone dei Pagamenti Criptovalute](/images/20181109-salone-pagamenti.jpg)](http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano)
 
 ---
 
@@ -30,7 +30,7 @@ Blockchain Summit 2018, Dubai
 Bitcoin and Blockchain: Between Hype and Reality  
 <http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/>  
 talk  
-[![Blockchain Summit Dubai](/images/20181112-dubai.png)](http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/)
+[![Blockchain Summit Dubai](/images/20181112-dubai.jpg)](http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/)
 
 ---
 
@@ -40,7 +40,7 @@ Bitcoin e digital economy: sfide e opportunità per il mondo finanziario
 [LSEG Borsa Italiana](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario)  
 [AssosIM](https://www.assosim.it/scheda/?id=20181019150403.xml)  
 seminar  
-[![LSEG](/images/20181120-lseg.png)](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario)
+[![LSEG](/images/20181120-lseg.jpg)](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario)
 
 ---
 
@@ -67,7 +67,7 @@ Bitcoin e Blockchain: fra esagerazione e realtà
 <https://seminario23novblockchai.eventbrite.it>  
 <http://www.crisp-org.it/bimaster/>  
 seminar  
-[![LSEG](/images/20181123-bicocca.png)](https://seminario23novblockchai.eventbrite.it)
+[![LSEG](/images/20181123-bicocca.jpg)](https://seminario23novblockchai.eventbrite.it)
 
 ---
 
@@ -76,7 +76,7 @@ Blockchain Academy, Luxembourg
 Bitcoin and Blockchain Technology  
 <http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
 seminar (€100 discount with coupon code AMETRANO)
-[![Bitcoin and Blockchain Technology](/images/Block_AcademyLux.png)](http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018)
+[![Bitcoin and Blockchain Technology](/images/Block_AcademyLux.jpg)](http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018)
 
 ---
 

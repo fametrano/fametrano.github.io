@@ -55,9 +55,10 @@ seminar
 
 2018-11-22  
 Politecnico di Milano, Milan  
-16:30 Aula S.0.2 Edificio 3, Campus Leonardo  
-[Bitcoin e Blockchain: Introduzione e Prospettive](/images/20181122 Poli.pdf)  
-seminar
+17:15 Auditorium Casa dello Studente, Campus Leonardo, Via Giovanni Pascoli 53  
+<https://www.aim-mate.it/it/>
+[Bitcoin e Blockchain: uno sguardo al futuro](/images/20181122-locandina.pdf)  
+[![Politecnico](/images/20181122-politecnico.jpg)](https://www.aim-mate.it/it/)
 
 ---
 
@@ -86,7 +87,6 @@ CERIF, Milan
 Bitcoin and Blockchain Technology  
 <https://cerif.it/macro-micro-la-congiuntura-economica-3/>  
 [![CERIF](/images/20181128-cerif.jpg)](https://cerif.it/macro-micro-la-congiuntura-economica-3/)
-seminar
 
 2018-12-11  
 ESSEC Business School, Paris  
@@ -94,7 +94,6 @@ ESSEC Business School, Paris
 Bitcoin and Blockchain Technology: An Introduction  
 <http://energy-commodity-finance.essec.edu/events/ecomfin-monthly-webinar>  
 [![ESSEC Business School](/images/20181211-essec.jpg)](http://energy-commodity-finance.essec.edu/events/ecomfin-monthly-webinar)
-webinar
 
 ---
 ---

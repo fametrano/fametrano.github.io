@@ -82,11 +82,19 @@ seminar (€100 discount with coupon code AMETRANO)
 
 2018-11-28  
 CERIF, Milan  
-[14:00- 18:00 Cripta Aula Magna, Università Cattolica, Largo Gemelli 1](/images/20181128-cerif-locandina.pdf)  
+[14:00-18:00 Cripta Aula Magna, Università Cattolica, Largo Gemelli 1](/images/20181128-cerif-locandina.pdf)  
 Bitcoin and Blockchain Technology  
 <https://cerif.it/macro-micro-la-congiuntura-economica-3/>  
 [![CERIF](/images/20181128-cerif.jpg)](https://cerif.it/macro-micro-la-congiuntura-economica-3/)
 seminar
+
+2018-12-11  
+ESSEC Business School, Paris  
+[12:00-13:00 Webinar](/images/20181211-essec-locandina.pdf)  
+Bitcoin and Blockchain Technology: An Introduction  
+<http://energy-commodity-finance.essec.edu/events/ecomfin-monthly-webinar>  
+[![ESSEC Business School](/images/20181211-essec.jpg)](http://energy-commodity-finance.essec.edu/events/ecomfin-monthly-webinar)
+webinar
 
 ---
 ---

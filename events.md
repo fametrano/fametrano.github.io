@@ -56,7 +56,7 @@ seminar
 2018-11-22  
 Politecnico di Milano, Milan  
 17:15 Auditorium Casa dello Studente, Campus Leonardo, Via Giovanni Pascoli 53  
-<https://www.aim-mate.it/it/>
+<https://www.aim-mate.it/it/>  
 [Bitcoin e Blockchain: uno sguardo al futuro](/images/20181122-locandina.pdf)  
 [![Politecnico](/images/20181122-politecnico.jpg)](https://www.aim-mate.it/it/)
 

@@ -20,12 +20,11 @@ Excel library used for assignments: <https://www.quantlib.org/quantlibxl/>
 2. 2018-10-18 11:30-14:30 U7 Lab 719  
    _Rate Curves Calibration_ (slides: <http://bit.ly/2yEidKS>)
 3. 2018-10-25 11:30-14:30 U7 Lab 719  
-   _Workshop on Interest Rate Basics_ with Paolo Mazzocchi
-   <https://drive.google.com/open?id=188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1>
+   _Workshop on Interest Rate Basics_ with Paolo Mazzocchi (material: <https://drive.google.com/open?id=188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1>)  
    **Assignments to be submitted before 2018-11-08**
 4. 2018-11-08 11:30-14:30 U7 Lab 719  
    _Credit Derivatives_ (slides: ...)  
-   _XVAs_ with Andrea Prampolini (slides: ...)
+   _XVAs_ with Andrea Prampolini (slides: <https://www.dropbox.com/s/gyzmm2ao9alu8id/intro-xva-prampolini-18.pdf?dl=0>)
 5. 2018-11-15 11:30-14:30 U7 Lab 719  
    _Black Model_ (slides: ...)  
    _Volatility_ with Nicola Moreni (slides: ...)

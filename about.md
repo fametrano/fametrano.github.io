@@ -14,9 +14,10 @@ in Intesa Sanpaolo bank, he is Planning Committee member of the
 [Scaling Bitcoin Conference](https://scalingbitcoin.org/)
 that he chaired in [Milan 2016](https://milan2016.scalingbitcoin.org/).
 
-Author of scientific publications, contributors to multiple
-[media]({{ site.baseurl }}/media/) outlets,
-appreciated speaker, panelist, lecturer, and instructor, he has been
+Fintech innovator, technologist, and open source developer,
+he is author of [scientific publications]({{ site.baseurl }}/papers/)
+and contributors to multiple [media]({{ site.baseurl }}/media/) outlets.
+Appreciated [professor]({{ site.baseurl }}/courses/), speaker, panelist, lecturer, and instructor, he has been
 invited to [events]({{ site.baseurl }}/events/)
 about bitcoin at the
 [United Nations](https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ),

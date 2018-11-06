@@ -16,7 +16,7 @@ that he chaired in [Milan 2016](https://milan2016.scalingbitcoin.org/).
 
 Fintech innovator, technologist, and open source developer,
 he is author of [scientific publications]({{ site.baseurl }}/papers/)
-and contributors to multiple [media]({{ site.baseurl }}/media/) outlets.
+and contributor to multiple [media]({{ site.baseurl }}/media/) outlets.
 Appreciated [professor]({{ site.baseurl }}/courses/), speaker, panelist, lecturer, and instructor, he has been
 invited to [events]({{ site.baseurl }}/events/)
 about bitcoin at the

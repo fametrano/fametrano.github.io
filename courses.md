@@ -8,7 +8,7 @@ permalink: /courses/
 
 * Bitcoin and Blockchain Technology, Spring 2019  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
-* [Interest Rate Derivatives, Fall-Winter 2018]({{ site.baseurl }}/ird/)  
+* [Interest Rate Derivatives, Fall 2018]({{ site.baseurl }}/ird/)  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 * [Bitcoin and Blockchain Technology, Fall 2018]({{ site.baseurl }}/bbt/)  
   _Department of Mathematics, Politecnico di Milano_

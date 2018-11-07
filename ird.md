@@ -23,7 +23,7 @@ Excel library used for assignments: <https://www.quantlib.org/quantlibxl/>
    _Workshop on Interest Rate Basics_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/open?id=188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1>))  
    **Assignments to be submitted before 2018-11-08**
 4. 2018-11-08 11:30-14:30 U7 Lab 719  
-   _Credit Derivatives_ (slides)  
+   _Credit Derivatives_ ([slides](https://www.dropbox.com/s/dcqb23wer56wb44/Credit%20Risk.pdf?dl=0))  
    _XVAs_ with [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/) ([slides](<https://www.dropbox.com/s/gyzmm2ao9alu8id/intro-xva-prampolini-18.pdf?dl=0>))
 5. 2018-11-15 11:30-14:30 U7 Lab 719  
    _Black Model_ (slides)  

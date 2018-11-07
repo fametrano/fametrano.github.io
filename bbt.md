@@ -12,29 +12,30 @@ _Department of Mathematics, Politecnico di Milano_
 
 1. 2018-09-20 08:15-10:15 D.2.3  
    _Introduction_  
-   slides (2018 ENG): <https://bit.ly/2jQjYxt>  
+   slides (2018 ENG): <https://speakerdeck.com/nando1970/introduction-to-bitcoin-and-blockchain-technology>  
    video (2017 ITA): <http://bit.ly/2t2Cvvt>
 2. 2018-09-27 08:15-10:15 D.2.3  
    _Blockchain, Mining, and Distributed Consensus_  
-   slides (2018 ENG): <https://bit.ly/2KgS20R>
+   slides (2018 ENG): <https://speakerdeck.com/nando1970/blockchain-and-distributed-consensus>
 3. 2018-10-04 08:15-10:15 D.2.3  
    _Elliptic Curve Asymmetric Cryptography_  
-   slides (2018 ENG): <https://bit.ly/2LecIba>
+   slides (2018 ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
 4. 2018-10-11 08:15-10:15 D.2.3  
    _Addresses, Transactions, and Blocks_  
-   slides (2018 ENG): <http://bit.ly/2NuNBAL>
+   slides (2018 ENG): <https://speakerdeck.com/nando1970/addresses-transactions-and-blocks>
 5. 2018-10-18 08:15-10:15 D.2.3  
    _Wallets and Deterministic Key Sequences_  
-   slides (2018 ENG): <http://bit.ly/2C1kp2s>
+   slides (2018 ENG): https://speakerdeck.com/nando1970/wallets-and-deterministic-key-sequences>
 6. 2018-10-25 08:15-10:15 D.2.3  
    _Monetary (and Token) Engineering_  
-   slides (2018 ENG): <http://bit.ly/2JV31xx>  
+   slides (2018 ENG): <https://speakerdeck.com/nando1970/monetary-engineering>  
    video (2017 ITA): <http://bit.ly/2MyYPVD>
 7. 2018-11-08 08:15-10:15 D.2.3  
    _Distributed Ledger Technology and Non-monetary Applications_  
-   slides (2018 ENG): <http://bit.ly/2PjqKdk>  
+   slides (2018 ENG): <https://speakerdeck.com/nando1970/beyond-bitcoin>  
    video (2017 ITA): <http://bit.ly/2yhCmt5>
 8. 2018-11-15 08:15-10:15 D.2.3  
+   _Course wrap-up: Q&A_  
    _Workshop: Bitcoin Core, Electrum, OpenTimestamps_  
 
 ## Python code and Excel spreadsheets
@@ -56,7 +57,7 @@ _Department of Mathematics, Politecnico di Milano_
   _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_ (2017),  
   <https://ssrn.com/abstract=2832249>
 * Ferdinando M. Ametrano,  
-  _"Bitcoin: oro digitale e stabilità dei prezzi"_ (2018),  
+  _"Bitcoin: crittovaluta di riserva per nuovi standard monetari"_ (2018),  
   <http://bit.ly/2NQg9VJ>
 
 

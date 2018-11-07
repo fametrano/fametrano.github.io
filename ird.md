@@ -34,7 +34,7 @@ Excel library used for assignments: <https://www.quantlib.org/quantlibxl/>
    _Cap Floor_ with [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/) (slides)  
    _Workshop on Cap, Floor_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) (material)
 8. 2018-12-13 11:30-14:30 U6-37  
-   _Swaption_ with [Stefano De Nuccio](https://www.linkedin.com/in/stefano-de-nuccio-89117a8/) (slides)  
+   _Swaption_ (slides)  
    _Workshop on Swaptions_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) (material)
 9. 2018-12-20 11:30-14:30 U7 Lab 718  
    _Short Rate Models_ (slides)  

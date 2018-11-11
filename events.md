@@ -16,24 +16,6 @@ I can be contacted using this
 
 # Upcoming events
 
-2018-11-09  
-Salone dei Pagamenti, Milano  
-Criptovalute: cosa sono e come funzionano  
-<http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
-roundtable  
-[![Salone dei Pagamenti Criptovalute](/images/20181109-salone-pagamenti.jpg)](http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano)
-
----
-
-2018-11-12  
-Blockchain Summit 2018, Dubai  
-Bitcoin and Blockchain: Between Hype and Reality  
-<http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/>  
-talk  
-[![Blockchain Summit Dubai](/images/20181112-dubai.jpg)](http://www.unicomlearning.com/Blockchain-Summit-Dubai-2018/)
-
----
-
 2018-11-20  
 Borsa Italiana, Milan  
 Bitcoin e digital economy: sfide e opportunità per il mondo finanziario  
@@ -100,6 +82,13 @@ Bitcoin and Blockchain Technology: An Introduction
 ---
 
 # Past events
+
+2018-11-09  
+Salone dei Pagamenti, Milano  
+Criptovalute: cosa sono e come funzionano  
+<http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
+<http://www.salonedeipagamenti.com/galleries/criptovalute-cosa-sono-e-come-funzionano>
+roundtable  
 
 2018-10-24  
 ExPLORE TALKS - Spaces, Milan  

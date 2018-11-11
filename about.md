@@ -54,6 +54,6 @@ also been co-founder and managing partner of RiskMap
 <https://www.linkedin.com/in/ferdinandoametrano>  
 <https://www.youtube.com/c/FerdinandoMAmetrano>
 
-Donation BTC address (also used for message signing): [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
+Bitcoin donation address (also used for message signing): [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
 
 ![Ferdinando M. Ametrano](images/201809AmetranoProfileRectangular.jpg)

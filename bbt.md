@@ -13,7 +13,7 @@ _Department of Mathematics, Politecnico di Milano_
 1. 2018-09-20 08:15-10:15 D.2.3  
    _Introduction_  
    slides (2018 ENG): <https://speakerdeck.com/nando1970/introduction-to-bitcoin-and-blockchain-technology>  
-   video (2017 ITA): <http://bit.ly/2t2Cvvt>
+   video (2017 ITA): <https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=1>
 2. 2018-09-27 08:15-10:15 D.2.3  
    _Blockchain, Mining, and Distributed Consensus_  
    slides (2018 ENG): <https://speakerdeck.com/nando1970/blockchain-and-distributed-consensus>
@@ -29,11 +29,11 @@ _Department of Mathematics, Politecnico di Milano_
 6. 2018-10-25 08:15-10:15 D.2.3  
    _Monetary (and Token) Engineering_  
    slides (2018 ENG): <https://speakerdeck.com/nando1970/monetary-engineering>  
-   video (2017 ITA): <http://bit.ly/2MyYPVD>
+   video (2017 ITA): <https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=2>>
 7. 2018-11-08 08:15-10:15 D.2.3  
    _Distributed Ledger Technology and Non-monetary Applications_  
    slides (2018 ENG): <https://speakerdeck.com/nando1970/beyond-bitcoin>  
-   video (2017 ITA): <http://bit.ly/2yhCmt5>
+   video (2017 ITA): <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=3>
 8. 2018-11-15 08:15-10:15 D.2.3  
    _Course wrap-up: Q&A_  
    _Workshop: Bitcoin Core, Electrum, OpenTimestamps_  
@@ -88,4 +88,8 @@ _Department of Mathematics, Politecnico di Milano_
   Wiley
 * Friedrich A. Hayek,
   _"Denationalisation of Money: The Argument Refined"_,
-  <http://bit.ly/2DJYcZ8>
+  <https://mises-media.s3.amazonaws.com/Denationalisation%20of%20Money%20The%20Argument%20Refined_5.pdf>
+
+## Bitcoin donation address
+
+[1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)

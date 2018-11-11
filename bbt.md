@@ -87,8 +87,7 @@ _Department of Mathematics, Politecnico di Milano_
 
 * Saifedean Ammous, _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_,
   Wiley
-* Friedrich A. Hayek,
-  _"Denationalisation of Money: The Argument Refined"_,  
+* Friedrich A. Hayek, _"Denationalisation of Money: The Argument Refined"_,  
   <https://mises.org/library/denationalisation-money-argument-refined>
 
 Bitcoin donation address [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)

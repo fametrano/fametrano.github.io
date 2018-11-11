@@ -63,33 +63,32 @@ _Department of Mathematics, Politecnico di Milano_
 
 ## Technical books
 
-* Andreas M. Antonopoulos, _"Mastering Bitcoin"_ 2nd edition,
+* Andreas M. Antonopoulos, _"Mastering Bitcoin"_ (2nd edition, 2017),  
   <https://github.com/bitcoinbook/bitcoinbook>
-* A. Narayanan, et al., _"Bitcoin and Cryptocurrency Technologies"_,
-  <https://www.coursera.org/learn/cryptocurrency>,
-  <http://bitcoinbook.cs.princeton.edu/>,
+* A. Narayanan, et al., _"Bitcoin and Cryptocurrency Technologies"_,  
+  <https://www.coursera.org/learn/cryptocurrency>,  
+  <http://bitcoinbook.cs.princeton.edu/>,  
   <https://lopp.net/pdf/princeton_bitcoin_book.pdf>
 * Pedro Franco, “Understanding Bitcoin”, Wiley
 
 ## Cryptography
 
-* Christof Paar, Jan Pelzl,
-  _"Understanding Cryptography"_,
-  <http://www.crypto-textbook.com/>,
-  <http://wiki.crypto.rub.de/Buch/en/slides.php>,
+* Christof Paar, Jan Pelzl, _"Understanding Cryptography"_,  
+  <http://www.crypto-textbook.com/>,  
+  <http://wiki.crypto.rub.de/Buch/en/slides.php>,  
   <https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Dan Boneh,
-  _"A Graduate Course in Applied Cryptography"_, Stanford University, <https://www.coursera.org/learn/crypto>, <https://toc.cryptobook.us/>
+  _"A Graduate Course in Applied Cryptography"_,  
+  Stanford University  
+  <https://www.coursera.org/learn/crypto>,  
+  <https://toc.cryptobook.us/>
 
 ## Monetary books
 
-* Saifedean Ammous,
-  _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_,
+* Saifedean Ammous, _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_,
   Wiley
 * Friedrich A. Hayek,
-  _"Denationalisation of Money: The Argument Refined"_,
-  <https://mises-media.s3.amazonaws.com/Denationalisation%20of%20Money%20The%20Argument%20Refined_5.pdf>
+  _"Denationalisation of Money: The Argument Refined"_,  
+  <https://mises.org/library/denationalisation-money-argument-refined>
 
-## Bitcoin donation address
-
-[1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
+Bitcoin donation address [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)

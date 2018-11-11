@@ -12,27 +12,27 @@ _Department of Mathematics, Politecnico di Milano_
 
 1. 2018-09-20 08:15-10:15 D.2.3  
    _Introduction_  
-   slides (2018 ENG): <https://speakerdeck.com/nando1970/introduction-to-bitcoin-and-blockchain-technology>  
+   slides (ENG): <https://speakerdeck.com/nando1970/introduction-to-bitcoin-and-blockchain-technology>  
    video (2017 ITA): <https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=1>
 2. 2018-09-27 08:15-10:15 D.2.3  
    _Blockchain, Mining, and Distributed Consensus_  
-   slides (2018 ENG): <https://speakerdeck.com/nando1970/blockchain-and-distributed-consensus>
+   slides (ENG): <https://speakerdeck.com/nando1970/blockchain-and-distributed-consensus>
 3. 2018-10-04 08:15-10:15 D.2.3  
    _Elliptic Curve Asymmetric Cryptography_  
-   slides (2018 ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
+   slides (ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
 4. 2018-10-11 08:15-10:15 D.2.3  
    _Addresses, Transactions, and Blocks_  
-   slides (2018 ENG): <https://speakerdeck.com/nando1970/addresses-transactions-and-blocks>
+   slides (ENG): <https://speakerdeck.com/nando1970/addresses-transactions-and-blocks>
 5. 2018-10-18 08:15-10:15 D.2.3  
    _Wallets and Deterministic Key Sequences_  
-   slides (2018 ENG): https://speakerdeck.com/nando1970/wallets-and-deterministic-key-sequences>
+   slides (ENG): https://speakerdeck.com/nando1970/wallets-and-deterministic-key-sequences>
 6. 2018-10-25 08:15-10:15 D.2.3  
    _Monetary (and Token) Engineering_  
-   slides (2018 ENG): <https://speakerdeck.com/nando1970/monetary-engineering>  
+   slides (ENG): <https://speakerdeck.com/nando1970/monetary-engineering>  
    video (2017 ITA): <https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=2>>
 7. 2018-11-08 08:15-10:15 D.2.3  
    _Distributed Ledger Technology and Non-monetary Applications_  
-   slides (2018 ENG): <https://speakerdeck.com/nando1970/beyond-bitcoin>  
+   slides (ENG): <https://speakerdeck.com/nando1970/beyond-bitcoin>  
    video (2017 ITA): <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=3>
 8. 2018-11-15 08:15-10:15 D.2.3  
    _Course wrap-up: Q&A_  

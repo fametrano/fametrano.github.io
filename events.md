@@ -6,13 +6,13 @@ permalink: /events/
 
 For my university courses see the dedicated [courses]({{ site.baseurl }}/courses/) page.
 
-Depending on agenda and interest, I can be available pro-bono for scientific
-and community-organized non-profit events, seminars, and conferences
-as speaker, panelist, MC, or lecturer;
+Depending on agenda and interest, I can be available pro-bono
+as speaker, panelist, lecturer, or MC
+for scientific, academic, and community-organized non-profit events;
 anyway, I charge a fee for the commercial ones with admission price or sponsors
-and whenever I am requested for teaching or consulting.
+and whenever I am requested for consulting.
 I can be contacted using this
-[form](https://docs.google.com/forms/d/101nW2MzLYJDN69ELY6fdJCys-dNOTEKMUsDni5wW9Aw/edit).
+[form](https://bit.ly/contactametrano).
 
 # Upcoming events
 

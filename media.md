@@ -4,8 +4,10 @@ title: Media
 permalink: /media/
 ---
 
-YouTube English video playlist: <http://bit.ly/2zFNgYk>  
-YouTube Italian video playlist: <http://bit.ly/2OnT2WV>
+YouTube English video playlist: <http://bit.ly/2zFNgYk>
+
+YouTube Italian video playlist: <http://bit.ly/2OnT2WV>  
+    Three lessons (in Italian) from my 2017 Bitcoin and Blockchain Technology course: https://www.youtube.com/playlist?list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b
 
 ---
 

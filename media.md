@@ -14,7 +14,7 @@ English:
 
 Italian:
  * Il Foglio: _Tenete il resto della rivoluzione Bitcoin_ <https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164>
-* Le Iene: video-intervista <https://www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448>
+* Le Iene: _video-intervista_ <https://www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448>
 * Milano Bicocca: _Tre lezioni dal corso Bitcoin and Blockchain Technology (edizione 2017)_ <https://www.youtube.com/playlist?list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b>
 * YouTube playlist completa: <https://www.youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp>
 

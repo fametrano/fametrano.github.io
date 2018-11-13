@@ -11,6 +11,22 @@ YouTube Italian video playlist: <http://bit.ly/2OnT2WV>
 
 ---
 
+2018-11-11 Il Foglio  
+Tenete il resto della rivoluzione Bitcoin  
+article (ITA): <https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164/>
+
+2018-11-08 Radio3 Scienza  
+Dieci anni di Bitcoin  
+audio (ITA): <https://www.raiplayradio.it/audio/2018/11/RADIO3-SCIENZA-Dieci-anni-di-Bitcoin-c75c5378-e404-419b-84d2-6cea1b4a9f3b.html>
+
+2018-11-02 Medium  
+Finanza e pagamenti, tra blockchain e bitcoin  
+article (ITA): <https://medium.com/@nando1970/finanza-e-pagamenti-tra-blockchain-e-bitcoin-c916a6a810>
+
+2018-10-30 IlSole24Ore  
+Bitcoin 10 anni dopo: un mondo ad alta volatilità tra speculazione, promesse e rivoluzione  
+article (ITA): <https://www.ilsole24ore.com/art/tecnologie/2018-10-30/il-bitcoin-dieci-anni-dopo-mondo-ad-alta-volatilita-speculazione-promesse-e-rivoluzione-134755.shtml>
+
 2018-10-16 Regione Lombardia, Milan  
 Bitcoin and Blockchain Technology  
 video (ITA): <http://bit.ly/2EHgmev>  

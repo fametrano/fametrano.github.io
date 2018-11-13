@@ -107,9 +107,8 @@ video (ITA): <http://bit.ly/2EHgmev>
 
 2018-10-15/16  
 EFMA Innovation Summit: Payments & Wallets, Lisbon  
-Bitcoin and blockchain: between money, digital gold, and payment systems  
+talk: Bitcoin and blockchain: between money, digital gold, and payment systems  
 <https://www.efma.com/conference/program/619>  
-talk
 
 2018-10-05 Four Seasons Hotel, Milan  
 Bitcoin as Digital Gold
@@ -157,9 +156,8 @@ Bitcoin: The Digital Rush
 lecture
 
 2018-02-21 Ambrosetti Live, Milan  
-Undestanding Bitcoin: una rivoluzione fatta per durare?  
+Webinar: Undestanding Bitcoin: una rivoluzione fatta per durare?  
 <https://live.ambrosetti.eu/20180221ametrano>  
-webinar
 
 2018-02-01 United Nations (Department of Economic and Social Affairs), New York  
 Bitcoin as Digital Gold  

@@ -1,11 +1,9 @@
 ---
 layout: post
 comments: true
-title: My website is back!
+title: Bitcoin, Blockchain e la Chimera DLT
 published: true
 ---
-
-# Bitcoin, Blockchain e la Chimera DLT
 
 *Le promesse incerte della tecnologia distributed ledger per i mercati finanziari*[^*]
 

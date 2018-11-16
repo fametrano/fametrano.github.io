@@ -5,7 +5,7 @@ title: Bitcoin, Blockchain e la Chimera DLT
 published: true
 ---
 
-*Le promesse incerte della tecnologia distributed ledger per i mercati finanziari*<sup id="f1">[1](#f1)</sup>
+*Le promesse incerte della tecnologia distributed ledger per i mercati finanziari*<sup name="a1">[*](#f1)</sup>
 
 La _distributed ledger technology_ (DLT), basata su un registro contabile condiviso e distribuito, è in una fase iniziale di sviluppo. A volte confusa con la tecnologia blockchain utilizzata da bitcoin, si suppone ne sia l'evoluzione sviluppata per evitare le scelte architetturali che rendono la blockchain inadatta per il regolamento delle operazioni finanziarie. DLT beneficia della popolarità di blockchain che, a sua volta, deriva dalla resilienza di bitcoin; in realtà mancano implementazioni DLT in ambiti di produzione e non ci sono nemmeno specifiche tecniche rigorose che la descrivano, oltre il generico concetto di libro mastro condiviso che utilizza strumenti crittografici.
 
@@ -31,4 +31,4 @@ La DLT ha generato finora aspettative non realistiche: non abbiamo ancora visto 
 
 Piuttosto, si dovrebbe dedicare maggiore attenzione alla disponibilità, per la prima volta in assoluto in ambito digitale, di un bene scarso, trasferibile ma non duplicabile: bitcoin. Questo potrebbe rivelarsi l'equivalente digitale dell’oro, potenzialmente rilevante nella storia della civilizzazione, della moneta e della finanza tanto quanto lo è stato l'oro fisico. La moneta di Internet, lo _stack TCP/IP_ per la trasmissione del valore: una dinamica ben più interessante della chimera blockchain o DTL. C’è da sviluppare l’intero ecosistema di servizi finanziari per questo nuovo asset: ad oggi ci sono le prime borse di scambio e sono arrivati i contratti _futures_ a Chicago, ma ancora mancano opzioni e soprattutto banche depositarie. Non è utile oggi una blockchain per la finanza, piuttosto è urgente la finanza della blockchain.
 
-<b id="f1">1</b> originariamente pubblicato per [Borsa Italiana](https://www.borsaitaliana.it/borsaitaliana/academy/bitcoin-blockchain-chimera-dlt.htm). [↩](#a1)
+<a name="f1">*</a> _Originariamente pubblicato per [Borsa Italiana](https://www.borsaitaliana.it/borsaitaliana/academy/bitcoin-blockchain-chimera-dlt.htm)_. [↩](#a1)

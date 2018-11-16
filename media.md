@@ -24,6 +24,14 @@ Italian:
 
 ## Cronological Media Coverage
 
+2018-11-16 Borsa Italiana  
+Bitcoin, Blockchain e la Chimera DLT  
+article (ITA): <https://www.borsaitaliana.it/borsaitaliana/academy/bitcoin-blockchain-chimera-dlt.htm?fbclid=IwAR0I4IO5rhvO_oYThrMwWPv9y2ISTWeE60H_e-Jzg56ddhXNQuj8q0SaNVY>
+
+2018-11-15 Gellify
+promo per lezione "Bitcoin e Blockchain"
+video (ITA): <https://vimeo.com/297901828/84d3980079>
+
 2018-11-11 Il Foglio  
 Tenete il resto della rivoluzione Bitcoin  
 article (ITA): <https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164/>

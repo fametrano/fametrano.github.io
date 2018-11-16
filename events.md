@@ -86,9 +86,9 @@ Bitcoin and Blockchain Technology: An Introduction
 2018-11-09  
 Salone dei Pagamenti, Milano  
 Criptovalute: cosa sono e come funzionano  
-<http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
-<http://www.salonedeipagamenti.com/galleries/criptovalute-cosa-sono-e-come-funzionano>
-roundtable  
+agenda: <http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
+gallery: <http://www.salonedeipagamenti.com/galleries/criptovalute-cosa-sono-e-come-funzionano>
+ 
 
 2018-10-24  
 ExPLORE TALKS - Spaces, Milan  
@@ -107,25 +107,22 @@ video (ITA): <http://bit.ly/2EHgmev>
 
 2018-10-15/16  
 EFMA Innovation Summit: Payments & Wallets, Lisbon  
-talk: Bitcoin and blockchain: between money, digital gold, and payment systems  
+seminar: Bitcoin and blockchain: between money, digital gold, and payment systems  
 <https://www.efma.com/conference/program/619>  
 
 2018-10-05 Four Seasons Hotel, Milan  
 Bitcoin as Digital Gold
-talk
 
 2018-07-25 Ambrosetti Live, Milan  
 Understanding Blockchain: potenzialità e applicazioni di una tecnologia rivoluzionaria  
-<https://live.ambrosetti.eu/20180625ametrano>  
-webinar
+Webinar: <https://live.ambrosetti.eu/20180625ametrano>
 
 2018-05-30 iBicocca.it, Milan  
 iKnow: Alla scoperta di Bitcoin
 talk
 
 2018-05-21/22 Blockchain Academy, Milan  
-Bitcoin and Blockchain technology  
-seminar
+seminar: Bitcoin and Blockchain technology  
 
 2018-05-03 3rd Banking Transformation & Innovation Summit, London  
 Bitcoin: The Digital Rush  

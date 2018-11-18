@@ -48,7 +48,7 @@ also been co-founder and managing partner of RiskMap
 <https://medium.com/@nando1970>  
 <https://twitter.com/Ferdinando1970>  
 <https://speakerdeck.com/nando1970>  
-<https://www.reddit.com/user/Nando1970/>  
+<https://www.reddit.com/user/Nando1970>  
 <https://www.slideshare.net/Ferdinando1970>  
 <https://www.facebook.com/ferdinando.ametrano>  
 <https://www.linkedin.com/in/ferdinandoametrano>  

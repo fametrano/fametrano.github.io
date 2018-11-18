@@ -16,62 +16,52 @@ I can be contacted using this
 
 # Upcoming events
 
-2018-11-20  
-Borsa Italiana, Milan  
+2018-11-20 Borsa Italiana, Milan  
 Bitcoin e digital economy: sfide e opportunità per il mondo finanziario  
-[LSEG Borsa Italiana](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario)  
-[AssosIM](https://www.assosim.it/scheda/?id=20181019150403.xml)  
-seminar  
+[LSEG Borsa Italiana](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario), [AssosIM](https://www.assosim.it/scheda/?id=20181019150403.xml)  
 [![LSEG](/images/20181120-lseg.jpg)](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario)
 
 ---
 
-2018-11-21  
-Assagenti, Genoa  
+2018-11-21 Assagenti, Genoa  
 Shipping & Blockchain: applicazioni attuali e prospettive future  
 <http://bit.ly/2JfVYQd>  
-seminar
 [![Assagenti](/images/20181121-assagenti.jpg)](http://bit.ly/2JfVYQd)
 
 ---
 
-2018-11-22  
-Politecnico di Milano, Milan  
-17:15 Auditorium Casa dello Studente, Campus Leonardo, Via Giovanni Pascoli 53  
+2018-11-22 Politecnico di Milano, Milan  
+Auditorium Casa dello Studente, Campus Leonardo, Via Giovanni Pascoli 53  
 <https://www.aim-mate.it/it/>  
 [Bitcoin e Blockchain: uno sguardo al futuro](/images/20181122-locandina.pdf)  
 [![Politecnico](/images/20181122-politecnico.jpg)](https://www.aim-mate.it/it/)
 
 ---
 
-2018-11-23  
-Master in Business Intelligence & Big Data Analytics, Università Milano-Bicocca, Milan  
+2018-11-23 Università Milano-Bicocca, Milan
+Master in Business Intelligence & Big Data Analytics
 Bitcoin e Blockchain: fra esagerazione e realtà  
 <https://seminario23novblockchai.eventbrite.it>  
 <http://www.crisp-org.it/bimaster/>  
-seminar  
 [![LSEG](/images/20181123-bicocca.jpg)](https://seminario23novblockchai.eventbrite.it)
 
 ---
 
-2018-11-26/27  
-Blockchain Academy, Luxembourg  
+2018-11-26/27 Blockchain Academy, Luxembourg  
 Bitcoin and Blockchain Technology  
 <http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
-seminar (€100 discount with coupon code AMETRANO)
+seminar (*€100 discount with coupon code AMETRANO*)
 [![Bitcoin and Blockchain Technology](/images/Block_AcademyLux.jpg)](http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018)
 
 ---
 
-2018-11-28  
-CERIF, Milan  
-[14:00-18:00 Cripta Aula Magna, Università Cattolica, Largo Gemelli 1](/images/20181128-cerif-locandina.pdf)  
+2018-11-28 14:00-18:00 CERIF, Milan  
+[Cripta Aula Magna, Università Cattolica, Largo Gemelli 1](/images/20181128-cerif-locandina.pdf)  
 Bitcoin and Blockchain Technology  
 <https://cerif.it/macro-micro-la-congiuntura-economica-3/>  
 [![CERIF](/images/20181128-cerif.jpg)](https://cerif.it/macro-micro-la-congiuntura-economica-3/)
 
-2018-12-11  
-ESSEC Business School, Paris  
+2018-12-11 12:00-13:00 ESSEC Business School, Paris  
 [12:00-13:00 Webinar](/images/20181211-essec-locandina.pdf)  
 Bitcoin and Blockchain Technology: An Introduction  
 <http://energy-commodity-finance.essec.edu/events/ecomfin-monthly-webinar>  

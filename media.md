@@ -4,10 +4,33 @@ title: Media
 permalink: /media/
 ---
 
-YouTube English video playlist: <http://bit.ly/2zFNgYk>  
-YouTube Italian video playlist: <http://bit.ly/2OnT2WV>
+## Selected Contributions
+
+English:
+
+* CoinDesk: _Why 2017 Will Prove 'Blockchain' Was a Bad Idea_ <https://www.coindesk.com/2017-will-prove-blockchain-bad-idea>
+* The Swift Institute: _Bitcoin, Blockchain and the DLT Chimera_ <https://swiftinstitute.org/newsletters/guest-article-bitcoin-blockchain-and-the-dlt-chimera/>
+* United Nations, New York: _Bitcoin as Digital Gold_ <https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=10>
+* Comprehensive YouTube playlist: <https://www.youtube.com/playlist?list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ>
+
+Italian:
+
+* Il Foglio: _Tenete il resto della rivoluzione Bitcoin_ <https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164>
+* Le Iene: _video-intervista_ <https://www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448>
+* Milano Bicocca: _Tre lezioni dal corso Bitcoin and Blockchain Technology (edizione 2017)_ <https://www.youtube.com/playlist?list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b>
+* YouTube playlist completa: <https://www.youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp>
 
 ---
+
+## Cronological Media Coverage
+
+2018-11-16 Borsa Italiana  
+Bitcoin, Blockchain e la Chimera DLT  
+article (ITA): <https://www.borsaitaliana.it/borsaitaliana/academy/bitcoin-blockchain-chimera-dlt.htm>
+
+2018-11-15 Gellify
+promo per lezione "Bitcoin e Blockchain"
+video (ITA): <https://vimeo.com/297901828/84d3980079>
 
 2018-11-11 Il Foglio  
 Tenete il resto della rivoluzione Bitcoin  
@@ -32,6 +55,10 @@ video (ITA): <http://bit.ly/2EHgmev>
 2018-02-23 Class CNBC  
 Guest expert on bitcoin
 
+2018-02-21 Ambrosetti Live, Milan  
+Webinar: Undestanding Bitcoin: una rivoluzione fatta per durare?  
+<https://live.ambrosetti.eu/20180221ametrano>  
+
 2018-02-19 Radio Monte Carlo  
 Oscillazioni delle quotazioni dei Bitcoin  
 Guest expert on bitcoin
@@ -40,6 +67,9 @@ Guest expert on bitcoin
 Cosa sono e come funzionano i Bitcoin  
 video (ITA): <https://goo.gl/EJN1jx>
 
+2018-02-14 Le Iene - Italia 1  
+Intervista: <https://www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448>
+
 2018-02-13 Alground.com  
 Bitcoin. Basta balle: chi ci guadagna, e chi ha perso tutto.  
 article (ITA): <https://www.alground.com/site/bitcoin-inchiesta/51359/>
@@ -47,6 +77,9 @@ article (ITA): <https://www.alground.com/site/bitcoin-inchiesta/51359/>
 2018-02-12 Radio3 Scienza  
 Blockchain, che cos'è  
 audio (ITA): <https://goo.gl/BAHJ9s>
+
+2018-02-01 United Nations (Department of Economic and Social Affairs), New York  
+Bitcoin as Digital Gold: <https://goo.gl/NkEC9w>  
 
 2018-01-31 SkyTG24 - Speciale Economia  
 Guest expert on bitcoin
@@ -193,8 +226,8 @@ Vertice a Malta della cyber-payment community
 **Chi governa il bitcoin? Tredici domande per capire quale vincerà fra le visioni a confronto**  
 <https://goo.gl/X3kAjg>
 
-2017-03-08 Triwu  
-(ITA): video interview: Bitcoin Totale  
+**2017-03-08 Triwu**  
+**(ITA): video interview: Bitcoin Totale**  
 <https://vimeo.com/207371888>
 
 2017-03-03 StartupItalia!  

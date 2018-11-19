@@ -26,8 +26,8 @@ Excel library used for assignments: <https://www.quantlib.org/quantlibxl/>
    _Credit Derivatives_ ([slides](https://www.dropbox.com/s/dcqb23wer56wb44/Credit%20Risk.pdf?dl=0))  
    _XVAs_ with [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/) ([slides](<https://www.dropbox.com/s/gyzmm2ao9alu8id/intro-xva-prampolini-18.pdf?dl=0>))
 5. 2018-11-15 11:30-14:30 U7 Lab 719  
-   _Black Model_ (slides)  
-   _Volatility_ with [Nicola Moreni](https://www.linkedin.com/in/nicola-moreni-a636a7/) (slides)
+   _Black Model_ ([slides](https://www.dropbox.com/s/0rzl7wyzauxg34p/Black%20Model.pdf?dl=0))  
+   _Volatility_ with [Nicola Moreni](https://www.linkedin.com/in/nicola-moreni-a636a7/) ([slides](https://www.dropbox.com/s/q4kc6t90sp19yim/20181115%20Moreni%20Volatility.pdf?dl=0))
 6. 2018-11-29 11:30-14:30 U7 Lab 716  
    _Workshop on Rate and Credit Curve Bootstrapping_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) (material)
 7. 2018-12-06 11:30-14:30 U7 Lab 718  

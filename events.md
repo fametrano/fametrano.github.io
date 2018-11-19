@@ -16,27 +16,21 @@ I can be contacted using this
 
 # Upcoming events
 
-2018-11-20  
-Borsa Italiana, Milan  
+2018-11-20 Borsa Italiana, Milan  
 Bitcoin e digital economy: sfide e opportunità per il mondo finanziario  
-[LSEG Borsa Italiana](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario)  
-[AssosIM](https://www.assosim.it/scheda/?id=20181019150403.xml)  
-seminar  
+[LSEG Borsa Italiana](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario), [AssosIM](https://www.assosim.it/scheda/?id=20181019150403.xml)  
 [![LSEG](/images/20181120-lseg.jpg)](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario)
 
 ---
 
-2018-11-21  
-Assagenti, Genoa  
+2018-11-21 Assagenti, Genoa  
 Shipping & Blockchain: applicazioni attuali e prospettive future  
 <http://bit.ly/2JfVYQd>  
-seminar
 [![Assagenti](/images/20181121-assagenti.jpg)](http://bit.ly/2JfVYQd)
 
 ---
 
-2018-11-22  
-Politecnico di Milano, Milan  
+2018-11-22 Politecnico di Milano, Milan  
 17:15 Via Edoardo Bonardi 3, Edificio 11 (architettura) Aula A
 <https://www.aim-mate.it/it/>  
 [Bitcoin e Blockchain: uno sguardo al futuro](/images/20181122-locandina.pdf)  
@@ -44,34 +38,30 @@ Politecnico di Milano, Milan
 
 ---
 
-2018-11-23  
-Master in Business Intelligence & Big Data Analytics, Università Milano-Bicocca, Milan  
+2018-11-23 Università Milano-Bicocca, Milan
+Master in Business Intelligence & Big Data Analytics
 Bitcoin e Blockchain: fra esagerazione e realtà  
 <https://seminario23novblockchai.eventbrite.it>  
 <http://www.crisp-org.it/bimaster/>  
-seminar  
 [![LSEG](/images/20181123-bicocca.jpg)](https://seminario23novblockchai.eventbrite.it)
 
 ---
 
-2018-11-26/27  
-Blockchain Academy, Luxembourg  
+2018-11-26/27 Blockchain Academy, Luxembourg  
 Bitcoin and Blockchain Technology  
 <http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
-seminar (€100 discount with coupon code AMETRANO)
+seminar (*€100 discount with coupon code AMETRANO*)
 [![Bitcoin and Blockchain Technology](/images/Block_AcademyLux.jpg)](http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018)
 
 ---
 
-2018-11-28  
-CERIF, Milan  
-[14:00-18:00 Cripta Aula Magna, Università Cattolica, Largo Gemelli 1](/images/20181128-cerif-locandina.pdf)  
+2018-11-28 14:00-18:00 CERIF, Milan  
+[Cripta Aula Magna, Università Cattolica, Largo Gemelli 1](/images/20181128-cerif-locandina.pdf)  
 Bitcoin and Blockchain Technology  
 <https://cerif.it/macro-micro-la-congiuntura-economica-3/>  
 [![CERIF](/images/20181128-cerif.jpg)](https://cerif.it/macro-micro-la-congiuntura-economica-3/)
 
-2018-12-11  
-ESSEC Business School, Paris  
+2018-12-11 12:00-13:00 ESSEC Business School, Paris  
 [12:00-13:00 Webinar](/images/20181211-essec-locandina.pdf)  
 Bitcoin and Blockchain Technology: An Introduction  
 <http://energy-commodity-finance.essec.edu/events/ecomfin-monthly-webinar>  
@@ -86,9 +76,9 @@ Bitcoin and Blockchain Technology: An Introduction
 2018-11-09  
 Salone dei Pagamenti, Milano  
 Criptovalute: cosa sono e come funzionano  
-<http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
-<http://www.salonedeipagamenti.com/galleries/criptovalute-cosa-sono-e-come-funzionano>
-roundtable  
+agenda: <http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
+gallery: <http://www.salonedeipagamenti.com/galleries/criptovalute-cosa-sono-e-come-funzionano>
+ 
 
 2018-10-24  
 ExPLORE TALKS - Spaces, Milan  
@@ -107,26 +97,22 @@ video (ITA): <http://bit.ly/2EHgmev>
 
 2018-10-15/16  
 EFMA Innovation Summit: Payments & Wallets, Lisbon  
-Bitcoin and blockchain: between money, digital gold, and payment systems  
+seminar: Bitcoin and blockchain: between money, digital gold, and payment systems  
 <https://www.efma.com/conference/program/619>  
-talk
 
 2018-10-05 Four Seasons Hotel, Milan  
 Bitcoin as Digital Gold
-talk
 
 2018-07-25 Ambrosetti Live, Milan  
 Understanding Blockchain: potenzialità e applicazioni di una tecnologia rivoluzionaria  
-<https://live.ambrosetti.eu/20180625ametrano>  
-webinar
+Webinar: <https://live.ambrosetti.eu/20180625ametrano>
 
 2018-05-30 iBicocca.it, Milan  
 iKnow: Alla scoperta di Bitcoin
 talk
 
 2018-05-21/22 Blockchain Academy, Milan  
-Bitcoin and Blockchain technology  
-seminar
+seminar: Bitcoin and Blockchain technology  
 
 2018-05-03 3rd Banking Transformation & Innovation Summit, London  
 Bitcoin: The Digital Rush  
@@ -157,9 +143,8 @@ Bitcoin: The Digital Rush
 lecture
 
 2018-02-21 Ambrosetti Live, Milan  
-Undestanding Bitcoin: una rivoluzione fatta per durare?  
+Webinar: Undestanding Bitcoin: una rivoluzione fatta per durare?  
 <https://live.ambrosetti.eu/20180221ametrano>  
-webinar
 
 2018-02-01 United Nations (Department of Economic and Social Affairs), New York  
 Bitcoin as Digital Gold  

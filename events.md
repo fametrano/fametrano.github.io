@@ -16,13 +16,6 @@ I can be contacted using this
 
 # Upcoming events
 
-2018-11-20 Borsa Italiana, Milan  
-Bitcoin e digital economy: sfide e opportunità per il mondo finanziario  
-[LSEG Borsa Italiana](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario), [AssosIM](https://www.assosim.it/scheda/?id=20181019150403.xml)  
-[![LSEG](/images/20181120-lseg.jpg)](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario)
-
----
-
 2018-11-21 Assagenti, Genoa  
 Shipping & Blockchain: applicazioni attuali e prospettive future  
 <http://bit.ly/2JfVYQd>  
@@ -31,10 +24,9 @@ Shipping & Blockchain: applicazioni attuali e prospettive future
 ---
 
 2018-11-22 Politecnico di Milano, Milan  
-17:15 Via Edoardo Bonardi 3, Edificio 11 (architettura) Aula A
+17:15 Via Edoardo Bonardi 3, Edificio 11 (architettura) Aula A  
 <https://www.aim-mate.it/it/>  
-[Bitcoin e Blockchain: uno sguardo al futuro](/images/20181122-locandina.pdf)  
-[![Politecnico](/images/20181122-politecnico.jpg)](https://www.aim-mate.it/it/)
+[Bitcoin e Blockchain: uno sguardo al futuro](/images/20181122-politecnico.jpg)  
 
 ---
 
@@ -72,6 +64,10 @@ Bitcoin and Blockchain Technology: An Introduction
 ---
 
 # Past events
+
+2018-11-20 Borsa Italiana, Milan  
+Bitcoin e digital economy: sfide e opportunità per il mondo finanziario  
+[LSEG Borsa Italiana](https://www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario), [AssosIM](https://www.assosim.it/scheda/?id=20181019150403.xml)  
 
 2018-11-09  
 Salone dei Pagamenti, Milano  

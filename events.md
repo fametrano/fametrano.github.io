@@ -24,7 +24,7 @@ Shipping & Blockchain: applicazioni attuali e prospettive future
 ---
 
 2018-11-22 Politecnico di Milano, Milan  
-17:15 Via Edoardo Bonardi 3, Edificio 11 (architettura) Aula A  
+17:15 Via Edoardo Bonardi 3, Edificio 11 Architettura, Aula A (ingresso da Polishop)  
 <https://www.aim-mate.it/it/>  
 [Bitcoin e Blockchain: uno sguardo al futuro](/images/20181122-politecnico.jpg)  
 

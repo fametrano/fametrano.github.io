@@ -16,20 +16,6 @@ I can be contacted using this
 
 # Upcoming events
 
-2018-11-21 Assagenti, Genoa  
-Shipping & Blockchain: applicazioni attuali e prospettive future  
-<http://bit.ly/2JfVYQd>  
-[![Assagenti](/images/20181121-assagenti.jpg)](http://bit.ly/2JfVYQd)
-
----
-
-2018-11-22 Politecnico di Milano, Milan  
-17:15 Via Edoardo Bonardi 3, Edificio 11 Architettura, Aula A (ingresso da Polishop)  
-<https://www.aim-mate.it/it/>  
-[Bitcoin e Blockchain: uno sguardo al futuro](/images/20181122-politecnico.jpg)  
-
----
-
 2018-11-23 Università Milano-Bicocca, Milan
 Master in Business Intelligence & Big Data Analytics
 Bitcoin e Blockchain: fra esagerazione e realtà  
@@ -64,6 +50,13 @@ Bitcoin and Blockchain Technology: An Introduction
 ---
 
 # Past events
+
+2018-11-21 Assagenti, Genoa  
+Shipping & Blockchain: applicazioni attuali e prospettive future  
+<http://bit.ly/2JfVYQd>  
+
+2018-11-22 Politecnico di Milano, Milan  
+Bitcoin & Blockchain: stato dell'arte e prospettive future  
 
 2018-11-20 Borsa Italiana, Milan  
 Bitcoin e digital economy: sfide e opportunità per il mondo finanziario  

@@ -39,6 +39,8 @@ Bitcoin and Blockchain Technology
 <https://cerif.it/macro-micro-la-congiuntura-economica-3/>  
 [![CERIF](/images/20181128-cerif.jpg)](https://cerif.it/macro-micro-la-congiuntura-economica-3/)
 
+---
+
 2018-12-11 12:00-13:00 ESSEC Business School, Paris  
 [12:00-13:00 Webinar](/images/20181211-essec-locandina.pdf)  
 Bitcoin and Blockchain Technology: An Introduction  

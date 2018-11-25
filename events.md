@@ -16,15 +16,6 @@ I can be contacted using this
 
 # Upcoming events
 
-2018-11-23 Università Milano-Bicocca, Milan
-Master in Business Intelligence & Big Data Analytics
-Bitcoin e Blockchain: fra esagerazione e realtà  
-<https://seminario23novblockchai.eventbrite.it>  
-<http://www.crisp-org.it/bimaster/>  
-[![LSEG](/images/20181123-bicocca.jpg)](https://seminario23novblockchai.eventbrite.it)
-
----
-
 2018-11-26/27 Blockchain Academy, Luxembourg  
 Bitcoin and Blockchain Technology  
 <http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
@@ -53,8 +44,12 @@ Bitcoin and Blockchain Technology: An Introduction
 
 # Past events
 
+2018-11-23 Università Milano-Bicocca, Milan
+Master in Business Intelligence & Big Data Analytics
+Bitcoin e Blockchain: fra esagerazione e realtà  
+
 2018-11-21 Assagenti, Genoa  
-Shipping & Blockchain: applicazioni attuali e prospettive future  
+Blockchain for the shipping industry  
 <http://bit.ly/2JfVYQd>  
 
 2018-11-22 Politecnico di Milano, Milan  

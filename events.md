@@ -16,14 +16,6 @@ I can be contacted using this
 
 # Upcoming events
 
-2018-11-26/27 Blockchain Academy, Luxembourg  
-Bitcoin and Blockchain Technology  
-<http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
-seminar (*€100 discount with coupon code AMETRANO*)
-[![Bitcoin and Blockchain Technology](/images/Block_AcademyLux.jpg)](http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018)
-
----
-
 2018-11-28 14:00-18:00 CERIF, Milan  
 [Cripta Aula Magna, Università Cattolica, Largo Gemelli 1](/images/20181128-cerif-locandina.pdf)  
 Bitcoin and Blockchain Technology  
@@ -43,6 +35,10 @@ Bitcoin and Blockchain Technology: An Introduction
 ---
 
 # Past events
+
+2018-11-26/27 Luxembourg  
+Blockchain Academy  
+<http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
 
 2018-11-23 Università Milano-Bicocca, Milan
 Master in Business Intelligence & Big Data Analytics

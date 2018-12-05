@@ -4,19 +4,21 @@ title: About
 permalink: /about/
 ---
 
-[Digital Gold Institute](https://www.digitalgoldinstitute.org)  
+1. [Digital Gold Institute](https://www.digitalgoldinstitute.org)  
 Executive Director  
 <https://www.digitalgoldinstitute.org>
 
-Università Milano-Bicocca - Department of Statistics and Quantitative Methods  
+2. Università Milano-Bicocca - Department of Statistics and Quantitative Methods  
 Adjunct Professor
 
-Politecnico di Milano - Department of Mathematics  
+3. Politecnico di Milano - Department of Mathematics  
 Adjunct Professor
 
-[QuantLib](https://www.quantlib.org)  
+4. [QuantLib](https://www.quantlib.org)  
 Founder and co-admin  
 <http://quantlib.org>
+
+---
 
 Executive Director of the
 [Digital Gold Institute](https://www.digitalgoldinstitute.org),
@@ -53,6 +55,8 @@ has headed trading, quantitative, and risk-management teams in Banca IMI
 (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has
 also been co-founder and managing partner of RiskMap
 (now [StatPro](https://www.statpro.com/) Italia).
+
+---
 
 **email contact form**: <https://bit.ly/contactametrano>
 

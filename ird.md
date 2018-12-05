@@ -20,7 +20,7 @@ Excel library used for assignments: <https://www.quantlib.org/quantlibxl/>
 2. 2018-10-18 11:30-14:30 U7 Lab 719  
    _Rate Curves Calibration_ ([slides](http://bit.ly/2yEidKS))
 3. 2018-10-25 11:30-14:30 U7 Lab 719  
-   _Workshop on Interest Rate Basics_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/open?id=188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1>))  
+   _Workshop on Interest Rate Basics_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/open?id=188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1))  
    **Assignments to be submitted before 2018-11-08**
 4. 2018-11-08 11:30-14:30 U7 Lab 719  
    _Credit Derivatives_ ([slides](https://www.dropbox.com/s/dcqb23wer56wb44/Credit%20Risk.pdf?dl=0))  
@@ -29,7 +29,7 @@ Excel library used for assignments: <https://www.quantlib.org/quantlibxl/>
    _Black Model_ ([slides](https://www.dropbox.com/s/0rzl7wyzauxg34p/Black%20Model.pdf?dl=0))  
    _Volatility_ with [Nicola Moreni](https://www.linkedin.com/in/nicola-moreni-a636a7/) ([slides](https://www.dropbox.com/s/q4kc6t90sp19yim/20181115%20Moreni%20Volatility.pdf?dl=0))
 6. 2018-11-29 11:30-14:30 U7 Lab 716  
-   _Workshop on Rate and Credit Curve Bootstrapping_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) (material)
+   _Workshop on Rate and Credit Curve Bootstrapping_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/drive/u/0/folders/1kM0W48q9w4Zt2WDBwKlYn3zXm3iHkhXm))  
 7. 2018-12-06 11:30-14:30 U7 Lab 718  
    _Cap Floor_ with [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/) (slides)  
    _Workshop on Cap, Floor_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) (material)

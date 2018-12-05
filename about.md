@@ -5,18 +5,18 @@ permalink: /about/
 ---
 
 1. [Digital Gold Institute](https://www.digitalgoldinstitute.org)  
-Executive Director  
-<https://www.digitalgoldinstitute.org>
+   Executive Director  
+   <https://www.digitalgoldinstitute.org> 2
 
 2. Università Milano-Bicocca - Department of Statistics and Quantitative Methods  
-Adjunct Professor
+   Adjunct Professor
 
 3. Politecnico di Milano - Department of Mathematics  
-Adjunct Professor
+   Adjunct Professor
 
 4. [QuantLib](https://www.quantlib.org)  
-Founder and co-admin  
-<http://quantlib.org>
+   Founder and co-admin  
+   <http://quantlib.org>
 
 ---
 

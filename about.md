@@ -4,6 +4,20 @@ title: About
 permalink: /about/
 ---
 
+[Digital Gold Institute](https://www.digitalgoldinstitute.org)  
+Executive Director  
+<https://www.digitalgoldinstitute.org>
+
+Università Milano-Bicocca - Department of Statistics and Quantitative Methods  
+Adjunct Professor
+
+Politecnico di Milano - Department of Mathematics  
+Adjunct Professor
+
+[QuantLib](https://www.quantlib.org)  
+Founder and co-admin  
+<http://quantlib.org>
+
 Executive Director of the
 [Digital Gold Institute](https://www.digitalgoldinstitute.org),
 Ferdinando Ametrano teaches
@@ -52,7 +66,8 @@ also been co-founder and managing partner of RiskMap
 <https://www.slideshare.net/Ferdinando1970>  
 <https://www.facebook.com/ferdinando.ametrano>  
 <https://www.linkedin.com/in/ferdinandoametrano>  
-<https://www.youtube.com/c/FerdinandoMAmetrano>
+<https://www.youtube.com/c/FerdinandoMAmetrano>  
+<https://scholar.google.com/citations?user=dFSSrwwAAAAJ>
 
 Bitcoin donation address (also used for message signing): [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
 

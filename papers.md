@@ -4,6 +4,9 @@ title: Papers
 permalink: /papers/
 ---
 
+Google Scholar: <https://scholar.google.com/citations?user=dFSSrwwAAAAJ>  
+SSRN: <https://ssrn.com/author=510135>  
+
 2016-09-02  
 **Response to [ESMA Consultation](https://www.esma.europa.eu/press-news/esma-news/esma-assesses-usefulness-distributed-ledger-technologies) on _The Distributed Ledger Technology Applied to Securities Markets_**  
 Ametrano, Ferdinando M. and Barucci, Emilio and Marazzina, Daniele and Zanero, Stefano  

@@ -30,6 +30,11 @@ La scarsità in ambito digitale: la missione del [Digital Gold Institute](www.di
 Ingresso gratuito, registrazione obbligatoria: <https://aperitech7-blockchainedu-milano.eventbrite.it>
 [![Ingresso gratuito, registrazione obbligatoria](/images/20181211-BEN.jpg)](https://aperitech7-blockchainedu-milano.eventbrite.it)
 
+2018-12-15 11:00-12:30 Master in Fintech & Innovation  
+Economics and Technology of Digital Assets  
+Free English webinar, register with an email to [fintech@lumsa.it](mailto:fintech@lumsa.it?subject=Webinar%20Ametrano) with "Webinar Ametrano" as subject
+[![Register for the free webinar](/images/20181215-webinar.png)](mailto:fintech@lumsa.it?subject=Webinar%20Ametrano)
+
 ---
 ---
 ---

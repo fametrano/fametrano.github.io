@@ -26,7 +26,7 @@ Bitcoin and Blockchain Technology: An Introduction
 
 2018-12-11 19:00-21:00 #Aperitech BlockchainEDU  
 Milano LUISS Hub, Via Massimo D'Azeglio 3, 20154 Milano  
-La scarsità in ambito digitale: la missione del [Digital Gold Institute](www.digitalgoldinstitute.org)  
+La scarsità in ambito digitale: la missione del [Digital Gold Institute](www.dgi.io)  
 Ingresso gratuito, registrazione obbligatoria: <https://aperitech7-blockchainedu-milano.eventbrite.it>
 [![Ingresso gratuito, registrazione obbligatoria](/images/20181211-BEN.jpg)](https://aperitech7-blockchainedu-milano.eventbrite.it)
 

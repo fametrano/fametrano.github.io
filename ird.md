@@ -6,7 +6,7 @@ permalink: /ird/
 
 # Interest Rate Derivatives, Fall 2018
 
-_Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
+Department of Statistics and Quantitative Methods, Università Milano-Bicocca
 
 course page: <https://elearning.unimib.it/course/view.php?id=19623>  
 Please subscribe the course mailing list sending an e-email to
@@ -20,7 +20,7 @@ Excel library used for assignments: <https://www.quantlib.org/quantlibxl/>
 2. 2018-10-18 11:30-14:30 U7 Lab 719  
    _Rate Curves Calibration_ ([slides](http://bit.ly/2yEidKS))
 3. 2018-10-25 11:30-14:30 U7 Lab 719  
-   _Workshop on Interest Rate Basics_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/open?id=188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1>))  
+   _Workshop on Interest Rate Basics_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/drive/folders/188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1))  
    **Assignments to be submitted before 2018-11-08**
 4. 2018-11-08 11:30-14:30 U7 Lab 719  
    _Credit Derivatives_ ([slides](https://www.dropbox.com/s/dcqb23wer56wb44/Credit%20Risk.pdf?dl=0))  

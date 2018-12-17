@@ -29,15 +29,15 @@ Excel library used for assignments: <https://www.quantlib.org/quantlibxl/>
    _Black Model_ ([slides](https://www.dropbox.com/s/0rzl7wyzauxg34p/Black%20Model.pdf?dl=0))  
    _Volatility_ with [Nicola Moreni](https://www.linkedin.com/in/nicola-moreni-a636a7/) ([slides](https://www.dropbox.com/s/q4kc6t90sp19yim/20181115%20Moreni%20Volatility.pdf?dl=0))
 6. 2018-11-29 11:30-14:30 U7 Lab 716  
-   _Workshop on Rate and Credit Curve Bootstrapping_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) (material)
+   _Workshop on Rate and Credit Curve Bootstrapping_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/open?id=188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1>))
 7. 2018-12-06 11:30-14:30 U7 Lab 718  
    _Cap Floor_ with [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/) (slides)  
-   _Workshop on Cap, Floor_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) (material)
+   _Workshop on Cap, Floor_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/open?id=188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1>))
 8. 2018-12-13 11:30-14:30 U6-37  
-   _Swaption_ (slides)  
-   _Workshop on Swaptions_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) (material)
+   _Swaption_ ([slides](https://www.dropbox.com/s/pge5gzzafk31sqk/20181213%20De%20Nuccio%20Swaption.pdf?dl=0))  
+   _Workshop on Credit_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/open?id=188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1>))
 9. 2018-12-20 11:30-14:30 U7 Lab 718  
-   _Short Rate Models_ (slides)  
-   _Workshop on Bermudan Swaptions_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) (material)
+   _Short Rate Models_ ([slides](https://www.dropbox.com/s/uelte1lvn3uqnea/Interest%20Rate%20Models.pdf?dl=0))  
+   _Workshop on Greeks and Hedging_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/open?id=188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1>))
 10. 2019-01-10 12:30-15:30 U6 26  
     Guest lecturer to be announced

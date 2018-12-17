@@ -24,6 +24,10 @@ Italian:
 
 ## Cronological Media Coverage
 
+2018-12-05 Corriere della Sera  
+Crolla l'illusione del bitcoin  
+article (ITA): <https://www.ametrano.net/images/20181205-Crolla-illusione-bitcoin.pdf>
+
 2018-11-16 Borsa Italiana  
 Bitcoin, Blockchain e la Chimera DLT  
 article (ITA): <https://www.borsaitaliana.it/borsaitaliana/academy/bitcoin-blockchain-chimera-dlt.htm>

@@ -16,33 +16,35 @@ I can be contacted using this
 
 # Upcoming events
 
-2018-11-26/27 Blockchain Academy, Luxembourg  
-Bitcoin and Blockchain Technology  
-<http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
-seminar (*€100 discount with coupon code AMETRANO*)
-[![Bitcoin and Blockchain Technology](/images/Block_AcademyLux.jpg)](http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018)
-
----
-
-2018-11-28 14:00-18:00 CERIF, Milan  
-[Cripta Aula Magna, Università Cattolica, Largo Gemelli 1](/images/20181128-cerif-locandina.pdf)  
-Bitcoin and Blockchain Technology  
-<https://cerif.it/macro-micro-la-congiuntura-economica-3/>  
-[![CERIF](/images/20181128-cerif.jpg)](https://cerif.it/macro-micro-la-congiuntura-economica-3/)
-
----
-
-2018-12-11 12:00-13:00 ESSEC Business School, Paris  
-[12:00-13:00 Webinar](/images/20181211-essec-locandina.pdf)  
-Bitcoin and Blockchain Technology: An Introduction  
-<http://energy-commodity-finance.essec.edu/events/ecomfin-monthly-webinar>  
-[![ESSEC Business School](/images/20181211-essec.jpg)](http://energy-commodity-finance.essec.edu/events/ecomfin-monthly-webinar)
+2018-12-17 14:30 – 16:30, iBicocca, Milano  
+Edificio U6 aula 01F, Università degli Studi di Milano-Bicocca, Piazza dell'Ateneo Nuovo 1, 20126 Milano  
+Alla scoperta di Bitcoin  
+[Registrazione](https://www.eventbrite.it/e/biglietti-iknow-alla-scoperta-di-bitcoin-con-ferdinando-ametrano-51544404702)
 
 ---
 ---
 ---
 
 # Past events
+
+2018-12-15 Master in Fintech & Innovation  
+Economics and Technology of Digital Assets  
+Webinar
+
+2018-12-11 #Aperitech BlockchainEDU, Milano LUISS Hub  
+La scarsità in ambito digitale: la missione del [Digital Gold Institute](www.dgi.io)
+
+2018-12-11 ESSEC Business School, Paris  
+Bitcoin and Blockchain Technology: An Introduction  
+Webinar
+
+2018-11-28 14:00-18:00 CERIF, Università Cattolica, Milan  
+Bitcoin and Blockchain Technology  
+<https://cerif.it/macro-micro-la-congiuntura-economica-3/>  
+
+2018-11-26/27 Luxembourg  
+Blockchain Academy  
+<http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
 
 2018-11-23 Università Milano-Bicocca, Milan
 Master in Business Intelligence & Big Data Analytics

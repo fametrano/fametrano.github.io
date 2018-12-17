@@ -16,30 +16,27 @@ I can be contacted using this
 
 # Upcoming events
 
-2018-12-11 12:00-13:00 ESSEC Business School, Paris  
-[12:00-13:00 Webinar](/images/20181211-essec-locandina.pdf)  
-Bitcoin and Blockchain Technology: An Introduction  
-<http://energy-commodity-finance.essec.edu/events/ecomfin-monthly-webinar>  
-[![ESSEC Business School](/images/20181211-essec.jpg)](http://energy-commodity-finance.essec.edu/events/ecomfin-monthly-webinar)
-
----
-
-2018-12-11 19:00-21:00 #Aperitech BlockchainEDU  
-Milano LUISS Hub, Via Massimo D'Azeglio 3, 20154 Milano  
-La scarsità in ambito digitale: la missione del [Digital Gold Institute](www.dgi.io)  
-Ingresso gratuito, registrazione obbligatoria: <https://aperitech7-blockchainedu-milano.eventbrite.it>
-[![Ingresso gratuito, registrazione obbligatoria](/images/20181211-BEN.jpg)](https://aperitech7-blockchainedu-milano.eventbrite.it)
-
-2018-12-15 11:00-12:30 Master in Fintech & Innovation  
-Economics and Technology of Digital Assets  
-Free English webinar, register with an email to [fintech@lumsa.it](mailto:fintech@lumsa.it?subject=Webinar%20Ametrano) with "Webinar Ametrano" as subject
-[![Register for the free webinar](/images/20181215-webinar.png)](mailto:fintech@lumsa.it?subject=Webinar%20Ametrano)
+2018-12-17 14:30 – 16:30, iBicocca, Milano  
+Edificio U6 aula 01F, Università degli Studi di Milano-Bicocca, Piazza dell'Ateneo Nuovo 1, 20126 Milano  
+Alla scoperta di Bitcoin  
+[Registrazione](https://www.eventbrite.it/e/biglietti-iknow-alla-scoperta-di-bitcoin-con-ferdinando-ametrano-51544404702)
 
 ---
 ---
 ---
 
 # Past events
+
+2018-12-15 Master in Fintech & Innovation  
+Economics and Technology of Digital Assets  
+Webinar
+
+2018-12-11 #Aperitech BlockchainEDU, Milano LUISS Hub  
+La scarsità in ambito digitale: la missione del [Digital Gold Institute](www.dgi.io)
+
+2018-12-11 ESSEC Business School, Paris  
+Bitcoin and Blockchain Technology: An Introduction  
+Webinar
 
 2018-11-28 14:00-18:00 CERIF, Università Cattolica, Milan  
 Bitcoin and Blockchain Technology  

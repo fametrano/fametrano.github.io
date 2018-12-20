@@ -40,4 +40,5 @@ Excel library used for assignments: <https://www.quantlib.org/quantlibxl/>
    _Short Rate Models_ ([slides](https://www.dropbox.com/s/uelte1lvn3uqnea/Interest%20Rate%20Models.pdf?dl=0))  
    _Workshop on Greeks and Hedging_ with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/open?id=188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1>))
 10. 2019-01-10 12:30-15:30 U6 26  
-    Guest lecturer to be announced
+   _Workshop on Bermudan Swaption and Final Assignment_ [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/open?id=188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1>))
+   

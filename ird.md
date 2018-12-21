@@ -13,7 +13,7 @@ Please subscribe the course mailing list sending an e-email to
 [2018ird-bicocca+unsubscribe@ametrano.net](mailto:2018ird-bicocca+unsubscribe@ametrano.net)
 
 Reference text book: _Options, Futures and Other Derivatives_, 8th edition, John Hull  
-Excel library used for assignments: <https://www.quantlib.org/quantlibxl/>
+Excel library used for assignments: <https://www.quantlib.org/quantlibxl/>  
 Workshops with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/drive/folders/188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1))
 
 1. 2018-10-11 11:30-14:30 U7 Lab 719  

@@ -83,6 +83,15 @@ _Department of Mathematics, Politecnico di Milano_
   Stanford University  
   <https://www.coursera.org/learn/crypto>,  
   <https://toc.cryptobook.us/>
+* Standards for Efficient Cryptography Group  
+  SEC 1: Elliptic Curve Cryptography, March 2009. Version 2.0.  
+  <http://www.secg.org/sec1-v2.pdf>
+* Standards for Efficient Cryptography Group  
+  SEC 2: Recommended Elliptic Curve Domain Parameters, March 2009. Version 2.0.  
+  <http://www.secg.org/sec2-v2.pdf>
+* Guidelines for Efficient Cryptography  
+  GEC 2: Test Vectors for SEC 1, September 1999. Version 0.3.  
+  <http://read.pudn.com/downloads168/doc/772358/TestVectorsforSEC%201-gec2.pdf>
 
 ## Monetary books
 

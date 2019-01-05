@@ -8,7 +8,7 @@ permalink: /bbt/
 
 Department of Mathematics, Politecnico di Milano
 
-## Lessons
+## Slides (and videos)
 
 1. 2018-09-20 08:15-10:15 D.2.3  
    _Introduction_  
@@ -43,9 +43,9 @@ Department of Mathematics, Politecnico di Milano
 
 <http://github.com/dginst/btclib>
 
-## Python scripts and Excel spreadsheets
+## Python scripts, Excel spreadsheets, reg-test lab material
 
-moved: to be updated
+<https://github.com/fametrano/bbt>
 
 ## Papers
 

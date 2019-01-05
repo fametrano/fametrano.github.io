@@ -6,7 +6,7 @@ permalink: /bbt/
 
 # Bitcoin and Blockchain Technology, Fall 2018
 
-_Department of Mathematics, Politecnico di Milano_  
+Department of Mathematics, Politecnico di Milano
 
 ## Lessons
 
@@ -35,13 +35,17 @@ _Department of Mathematics, Politecnico di Milano_
    slides (ENG): <https://speakerdeck.com/nando1970/beyond-bitcoin>  
    video (2017 ITA): <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=3>
 8. 2018-11-15 08:15-10:15 D.2.3  
-   _Workshop: Bitcoin Core, Electrum, OpenTimestamps_: <https://github.com/dginst/BitcoinBlockchainTechnology/tree/master/regtest-lab>  
+   _Workshop: Bitcoin Core, Electrum, OpenTimestamps_  
    _Course wrap-up: Q&A_  
    _Course evaluation form_: <https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit>
 
-## Python code and Excel spreadsheets
+## Python library
 
-<https://github.com/dginst/BitcoinBlockchainTechnology>
+<http://github.com/dginst/btclib>
+
+## Python scripts and Excel spreadsheets
+
+moved: to be updated
 
 ## Papers
 
@@ -60,7 +64,6 @@ _Department of Mathematics, Politecnico di Milano_
 * Ferdinando M. Ametrano,  
   _"Bitcoin: crittovaluta di riserva per nuovi standard monetari"_ (2018),  
   <http://bit.ly/2NQg9VJ>
-
 
 ## Technical books
 

@@ -43,7 +43,7 @@ Department of Mathematics, Politecnico di Milano
 
 <http://github.com/dginst/btclib>
 
-## Python scripts, Excel spreadsheets, reg-test lab material
+## Python scripts, Excel spreadsheets, and reg-test lab material
 
 <https://github.com/fametrano/bbt>
 

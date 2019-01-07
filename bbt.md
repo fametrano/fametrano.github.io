@@ -4,38 +4,32 @@ title: Bitcoin and Blockchain Technology Course
 permalink: /bbt/
 ---
 
-# Bitcoin and Blockchain Technology, Fall 2018
+# Bitcoin and Blockchain Technology, Spring 2019
 
-Department of Mathematics, Politecnico di Milano
+Department of Statistics and Quantitative Methods, Università Milano-Bicocca
+
+Lessons' calendar to be announced later
 
 ## Slides (and videos)
 
-1. 2018-09-20 08:15-10:15 D.2.3  
-   _Introduction_  
+1. _Introduction_  
    slides (ENG): <https://speakerdeck.com/nando1970/introduction-to-bitcoin-and-blockchain-technology>  
    video (2017 ITA): <https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=1>
-2. 2018-09-27 08:15-10:15 D.2.3  
-   _Blockchain, Mining, and Distributed Consensus_  
+2. _Blockchain, Mining, and Distributed Consensus_  
    slides (ENG): <https://speakerdeck.com/nando1970/blockchain-and-distributed-consensus>
-3. 2018-10-04 08:15-10:15 D.2.3  
-   _Elliptic Curve Asymmetric Cryptography_  
+3. _Elliptic Curve Asymmetric Cryptography_  
    slides (ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
-4. 2018-10-11 08:15-10:15 D.2.3  
-   _Addresses, Transactions, and Blocks_  
+4. _Addresses, Transactions, and Blocks_  
    slides (ENG): <https://speakerdeck.com/nando1970/addresses-transactions-and-blocks>
-5. 2018-10-18 08:15-10:15 D.2.3  
-   _Wallets and Deterministic Key Sequences_  
+5. _Wallets and Deterministic Key Sequences_  
    slides (ENG): https://speakerdeck.com/nando1970/wallets-and-deterministic-key-sequences>
-6. 2018-10-25 08:15-10:15 D.2.3  
-   _Monetary (and Token) Engineering_  
+6. _Monetary (and Token) Engineering_  
    slides (ENG): <https://speakerdeck.com/nando1970/monetary-engineering>  
    video (2017 ITA): <https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=2>>
-7. 2018-11-08 08:15-10:15 D.2.3  
-   _Distributed Ledger Technology and Non-monetary Applications_  
+7. _Distributed Ledger Technology and Non-monetary Applications_  
    slides (ENG): <https://speakerdeck.com/nando1970/beyond-bitcoin>  
    video (2017 ITA): <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=3>
-8. 2018-11-15 08:15-10:15 D.2.3  
-   _Workshop: Bitcoin Core, Electrum, OpenTimestamps_  
+8. _Workshop: Bitcoin Core, Electrum, OpenTimestamps_  
    _Course wrap-up: Q&A_  
    _Course evaluation form_: <https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit>
 

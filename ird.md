@@ -56,7 +56,7 @@ Usually Italian, English if foreign students are present.
 
 ## Lessons' calendar and material
 
-Workshops with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/drive/folders/188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1))
+Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/) ([material](https://drive.google.com/drive/folders/188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1))
 
 1. 2018-10-11 11:30-14:30 U7 Lab 719  
    _Interest Rate Basics_ ([slides](https://speakerdeck.com/nando1970/interest-rate-basics))

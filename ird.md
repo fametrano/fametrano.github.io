@@ -82,5 +82,5 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
    _Interest Rate Models_ ([slides](https://www.dropbox.com/s/uelte1lvn3uqnea/20181220%20Interest%20Rate%20Models.pdf?dl=0))  
    _Workshop on Greeks and Hedging_
 10. 2019-01-10 12:30-14:30 U6 26  
-   _Workshop on Bermudan Swaptions and Final Assignment_
+   _Workshop on Bermudan Swaptions and Final Assignment_  
    Anonymous course evaluation [forms](https://www.dropbox.com/s/s9hysk3lwhr200q/20190110%20Course%20Valuation%20Form.pdf?dl=0) will be collected

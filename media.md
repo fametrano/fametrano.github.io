@@ -24,6 +24,10 @@ Italian:
 
 ## Cronological Media Coverage
 
+2019-01-05 Il Sole 24 Ore  
+Criptovalute, quotazioni a picco. Ma Facebook lavora al suo Bitcoin  
+article (ITA): <https://www.ilsole24ore.com/art/finanza-e-mercati/2019-01-04/criptovalute-quotazioni-picco-ma-facebook-lavora-suo-bitcoin-192628.shtml>
+
 2018-12-05 Corriere della Sera  
 Crolla l'illusione del bitcoin  
 article (ITA): <https://www.ametrano.net/images/20181205-Crolla-illusione-bitcoin.pdf>

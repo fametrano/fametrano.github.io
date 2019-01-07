@@ -16,16 +16,14 @@ I can be contacted using this
 
 # Upcoming events
 
-2018-12-17 14:30 – 16:30, iBicocca, Milano  
-Edificio U6 aula 01F, Università degli Studi di Milano-Bicocca, Piazza dell'Ateneo Nuovo 1, 20126 Milano  
-Alla scoperta di Bitcoin  
-[Registrazione](https://www.eventbrite.it/e/biglietti-iknow-alla-scoperta-di-bitcoin-con-ferdinando-ametrano-51544404702)
-
 ---
 ---
 ---
 
 # Past events
+
+2018-12-17 iBicocca, niversità degli Studi di Milano-Bicocca  
+Alla scoperta di Bitcoin  
 
 2018-12-15 Master in Fintech & Innovation  
 Economics and Technology of Digital Assets  

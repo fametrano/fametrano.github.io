@@ -6,9 +6,9 @@ permalink: /bbt/
 
 # Bitcoin and Blockchain Technology, Fall 2018
 
-_Department of Mathematics, Politecnico di Milano_  
+Department of Mathematics, Politecnico di Milano
 
-## Lessons
+## Slides (and videos)
 
 1. 2018-09-20 08:15-10:15 D.2.3  
    _Introduction_  
@@ -35,13 +35,17 @@ _Department of Mathematics, Politecnico di Milano_
    slides (ENG): <https://speakerdeck.com/nando1970/beyond-bitcoin>  
    video (2017 ITA): <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=3>
 8. 2018-11-15 08:15-10:15 D.2.3  
-   _Workshop: Bitcoin Core, Electrum, OpenTimestamps_: <https://github.com/dginst/BitcoinBlockchainTechnology/tree/master/regtest-lab>  
+   _Workshop: Bitcoin Core, Electrum, OpenTimestamps_  
    _Course wrap-up: Q&A_  
    _Course evaluation form_: <https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit>
 
-## Python code and Excel spreadsheets
+## Python library
 
-<https://github.com/dginst/BitcoinBlockchainTechnology>
+<http://github.com/dginst/btclib>
+
+## Python scripts, Excel spreadsheets, and reg-test lab material
+
+<https://github.com/fametrano/bbt>
 
 ## Papers
 
@@ -60,7 +64,6 @@ _Department of Mathematics, Politecnico di Milano_
 * Ferdinando M. Ametrano,  
   _"Bitcoin: crittovaluta di riserva per nuovi standard monetari"_ (2018),  
   <http://bit.ly/2NQg9VJ>
-
 
 ## Technical books
 
@@ -83,6 +86,15 @@ _Department of Mathematics, Politecnico di Milano_
   Stanford University  
   <https://www.coursera.org/learn/crypto>,  
   <https://toc.cryptobook.us/>
+* Standards for Efficient Cryptography Group  
+  SEC 1: Elliptic Curve Cryptography, March 2009. Version 2.0.  
+  <http://www.secg.org/sec1-v2.pdf>
+* Standards for Efficient Cryptography Group  
+  SEC 2: Recommended Elliptic Curve Domain Parameters, March 2009. Version 2.0.  
+  <http://www.secg.org/sec2-v2.pdf>
+* Guidelines for Efficient Cryptography  
+  GEC 2: Test Vectors for SEC 1, September 1999. Version 0.3.  
+  <http://read.pudn.com/downloads168/doc/772358/TestVectorsforSEC%201-gec2.pdf>
 
 ## Monetary books
 

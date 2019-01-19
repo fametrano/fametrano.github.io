@@ -22,7 +22,7 @@ I can be contacted using this
 
 # Past events
 
-2018-12-17 iBicocca, niversità degli Studi di Milano-Bicocca  
+2018-12-17 iBicocca, Università degli Studi di Milano-Bicocca  
 Alla scoperta di Bitcoin  
 
 2018-12-15 Master in Fintech & Innovation  

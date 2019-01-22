@@ -10,34 +10,106 @@ Department of Statistics and Quantitative Methods, Università Milano-Bicocca
 
 Lessons' calendar to be announced later
 
-## Slides (and videos)
+## Learning objectives
 
-1. _Introduction_  
-   slides (ENG): <https://speakerdeck.com/nando1970/introduction-to-bitcoin-and-blockchain-technology>  
-   video (2017 ITA): <https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=1>
-2. _Blockchain, Mining, and Distributed Consensus_  
-   slides (ENG): <https://speakerdeck.com/nando1970/blockchain-and-distributed-consensus>
-3. _Elliptic Curve Asymmetric Cryptography_  
-   slides (ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
-4. _Addresses, Transactions, and Blocks_  
-   slides (ENG): <https://speakerdeck.com/nando1970/addresses-transactions-and-blocks>
-5. _Wallets and Deterministic Key Sequences_  
-   slides (ENG): https://speakerdeck.com/nando1970/wallets-and-deterministic-key-sequences>
-6. _Monetary (and Token) Engineering_  
-   slides (ENG): <https://speakerdeck.com/nando1970/monetary-engineering>  
-   video (2017 ITA): <https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=2>>
-7. _Distributed Ledger Technology and Non-monetary Applications_  
-   slides (ENG): <https://speakerdeck.com/nando1970/beyond-bitcoin>  
-   video (2017 ITA): <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=3>
-8. _Workshop: Bitcoin Core, Electrum, OpenTimestamps_  
-   _Course wrap-up: Q&A_  
-   _Course evaluation form_: <https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit>
+The course is an introduction to bitcoin and the associated blockchain
+technology.
+
+Starting from a computationally focused approach to elliptic curves and
+presenting the discrete logarithm problem as cornerstone of public-key
+cryptography, bitcoin’s cryptography is introduced as an interesting
+application of number theory and the algebraic structure of elliptic
+curves over finite fields.
+
+The game theory, computer science (distributed systems, distributed
+consensus), and monetary theory elements of bitcoin are also represented
+in the attempt to convey the interdisciplinarity of the topic.
+
+## Contents
+
+* Hash functions, hash pointers, blockchain, Merkle tree
+* Modular arithmetic and algebra of sets
+* Elliptic curves over real numbers and a finite field 𝐹
+* Asymmetric cryptography on elliptic curves
+* Elliptic curve digital signature algorithm
+* Elliptic curve Schnorr signature algorithm: Mu(lti)Sig(nature),
+  threshold signature, batch verification
+* Diffie-Hellman
+* Pedersen commitment
+* Confidential transactions
+* Design of a simplified digital currency
+* Distributed consensus
+* Mining
+* P2P network
+* Protocol governance
+* Addresses and WIFs
+* Hierarchical deterministic wallets: BIP32, BIP43, BIP44
+* Mnemonic phrase: BIP39 and Electrum
+* TxIns, TxOs, UTxO, nLockTime
+* Bitcoin script language
+* Transactions
+* Blocks
+* Wallets and Bitcoin Core
+* Testnet, regtest, and wallet workshop
+* Money and innovation: monetary and token engineering
+* Hayek money and dual asset ledger money
+* Blockchain beyond bitcoin
+* Finance and blockchain
+* Timestamping, notarization, and anchoring
+* Smart contracts
+* Distributed ledger technology
+
+## Prerequisites
+
+There are no strict prerequisites, even if previous familiarity with number
+theory, algebra, and a computer science mindset might help to appreciate the
+course. Curiosity towards the cultural relevance of the interplay between
+theory, practice, economic incentives, technology, and politics might result
+more relevant than a rigorous formal mathematical approach.
+
+## Teaching method
+
+* Slide based lessons with rich associated bibliography
+* Python 3 programming assignments and technology assignments
+* Workshop labs on Bitcoin Core, Electrum, and OpenTimestamps
+
+At the end of the course students are invited to compile the _course evaluation form_: <https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit>
+
+## Assessment method
+
+Oral examination based on the lessons’ material and the included references.
+
+## Teaching language
+
+Italian or English
+
+## Lessons
+
+* _Introduction_  
+  slides (ENG): https://speakerdeck.com/nando1970/introduction-to-bitcoin-and-blockchain-technology>  
+  video (2017 ITA): <https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=1>
+* _Blockchain, Mining, and Distributed Consensus_  
+  slides (ENG): <https://speakerdeck.com/nando1970/blockchain-and-distributed-consensus>
+* _Elliptic Curve Cryptography_  
+  slides (ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
+* _Advanced Elliptic Curve Cryptography_  
+  slides (ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
+* _Addresses, Transactions, and Blocks_  
+  slides (ENG): <https://speakerdeck.com/nando1970/addresses-transactions-and-blocks>
+* _Wallets and Deterministic Key Sequences_  
+  slides (ENG): <https://speakerdeck.com/nando1970/wallets-and-deterministic-key-sequences>
+* _Monetary (and Token) Engineering_  
+  slides (ENG): <https://speakerdeck.com/nando1970/monetary-engineering>  
+  video (2017 ITA): <https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=2>>
+* _Distributed Ledger Technology and Non-monetary Applications_  
+  slides (ENG): <https://speakerdeck.com/nando1970/beyond-bitcoin>  
+  video (2017 ITA): <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=3>
 
 ## Python library
 
 <http://github.com/dginst/btclib>
 
-## Python scripts, Excel spreadsheets, and reg-test lab material
+## Python scripts, Excel spreadsheets, and regtest lab material
 
 <https://github.com/fametrano/bbt>
 

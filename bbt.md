@@ -28,10 +28,12 @@ in the attempt to convey the interdisciplinarity of the topic.
 ## Prerequisites
 
 There are no strict prerequisites, even if previous familiarity with number
-theory, algebra, and a computer science mindset might help to appreciate the
-course. Curiosity towards the cultural relevance of the interplay between
-theory, practice, economic incentives, technology, and politics might result
-more relevant than a rigorous formal mathematical approach.
+theory, algebra, and finance, along with a computer science mindset,
+might help to appreciate the course.
+Curiosity towards the cultural relevance of the interplay between
+theory, practice, economic incentives, technology, monetary theory,
+and politics might result more relevant than a rigorous formal approach
+on so many and so different knowledge areas.
 
 ## Contents
 

@@ -25,6 +25,14 @@ The game theory, computer science (distributed systems, distributed
 consensus), and monetary theory elements of bitcoin are also represented
 in the attempt to convey the interdisciplinarity of the topic.
 
+## Prerequisites
+
+There are no strict prerequisites, even if previous familiarity with number
+theory, algebra, and a computer science mindset might help to appreciate the
+course. Curiosity towards the cultural relevance of the interplay between
+theory, practice, economic incentives, technology, and politics might result
+more relevant than a rigorous formal mathematical approach.
+
 ## Contents
 
 * Hash functions, hash pointers, blockchain, Merkle tree
@@ -58,14 +66,6 @@ in the attempt to convey the interdisciplinarity of the topic.
 * Timestamping, notarization, and anchoring
 * Smart contracts
 * Distributed ledger technology
-
-## Prerequisites
-
-There are no strict prerequisites, even if previous familiarity with number
-theory, algebra, and a computer science mindset might help to appreciate the
-course. Curiosity towards the cultural relevance of the interplay between
-theory, practice, economic incentives, technology, and politics might result
-more relevant than a rigorous formal mathematical approach.
 
 ## Teaching method
 

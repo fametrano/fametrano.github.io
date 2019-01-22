@@ -8,8 +8,6 @@ permalink: /bbt/
 
 Department of Statistics and Quantitative Methods, Università Milano-Bicocca
 
-Lessons' calendar to be announced later
-
 ## Learning objectives
 
 The course is an introduction to bitcoin and the associated blockchain
@@ -87,25 +85,30 @@ Italian or English
 
 ## Lessons
 
-* _Introduction_  
-  slides (ENG): https://speakerdeck.com/nando1970/introduction-to-bitcoin-and-blockchain-technology>  
-  video (2017 ITA): <https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=1>
-* _Blockchain, Mining, and Distributed Consensus_  
-  slides (ENG): <https://speakerdeck.com/nando1970/blockchain-and-distributed-consensus>
-* _Elliptic Curve Cryptography_  
-  slides (ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
-* _Advanced Elliptic Curve Cryptography_  
-  slides (ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
-* _Addresses, Transactions, and Blocks_  
-  slides (ENG): <https://speakerdeck.com/nando1970/addresses-transactions-and-blocks>
-* _Wallets and Deterministic Key Sequences_  
-  slides (ENG): <https://speakerdeck.com/nando1970/wallets-and-deterministic-key-sequences>
-* _Monetary (and Token) Engineering_  
-  slides (ENG): <https://speakerdeck.com/nando1970/monetary-engineering>  
-  video (2017 ITA): <https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=2>>
-* _Distributed Ledger Technology and Non-monetary Applications_  
-  slides (ENG): <https://speakerdeck.com/nando1970/beyond-bitcoin>  
-  video (2017 ITA): <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=3>
+1. 2019-02-22 09:30-11:30  
+   _Introduction_  
+   slides (ENG): https://speakerdeck.com/nando1970/introduction-to-bitcoin-and-blockchain-technology>  
+   video (2017 ITA): <https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=1>
+2. 2019-03-01 09:30-11:30  
+   _Blockchain, Mining, and Distributed Consensus_  
+   slides (ENG): <https://speakerdeck.com/nando1970/blockchain-and-distributed-consensus>
+3. 2019-03-05 11:30-13:30  
+   _Elliptic Curve Cryptography_  
+   slides (ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
+4. 2019-03-15 09:30-11:30  
+   _Addresses, Wallets, and Deterministic Key Sequences_  
+   slides (ENG): <https://speakerdeck.com/nando1970/addresses-transactions-and-blocks>
+5. 2019-03-12 09:30-11:30  
+   _Transactions and Blocks_  
+   slides (ENG): <https://speakerdeck.com/nando1970/wallets-and-deterministic-key-sequences>
+6. 2019-03-29 09:30-11:30  
+   _Monetary (and Token) Engineering_  
+   slides (ENG): <https://speakerdeck.com/nando1970/monetary-engineering>  
+   video (2017 ITA): <https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=2>>
+7. 2019-04-05 09:30-11:30  
+   _Distributed Ledger Technology and Non-monetary Applications_  
+   slides (ENG): <https://speakerdeck.com/nando1970/beyond-bitcoin>  
+   video (2017 ITA): <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=3>
 
 ## Python library
 

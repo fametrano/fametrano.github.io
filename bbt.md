@@ -15,18 +15,17 @@ technology.
 
 Starting from a computationally focused approach to elliptic curves and
 presenting the discrete logarithm problem as cornerstone of public-key
-cryptography, bitcoin’s cryptography is introduced as an interesting
+cryptography, bitcoin is introduced as an interesting
 application of number theory and the algebraic structure of elliptic
 curves over finite fields.
 
 The game theory, computer science (distributed systems, distributed
-consensus), and monetary theory elements of bitcoin are also represented
-in the attempt to convey the interdisciplinarity of the topic.
+consensus), and monetary theory elements of bitcoin are then examined
+in the attempt to properly convey the interdisciplinarity of the topic.
 
 ## Prerequisites
 
-There are no strict prerequisites, even if previous familiarity with number
-theory, algebra, and finance, along with a computer science mindset,
+There are no strict prerequisites, even if a computer science mindset and previous familiarity with number theory, algebra, and finance
 might help to appreciate the course.
 Curiosity towards the cultural relevance of the interplay between
 theory, practice, economic incentives, technology, monetary theory,
@@ -75,13 +74,9 @@ on so many and so different knowledge areas.
 
 At the end of the course students are invited to compile the _course evaluation form_: <https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit>
 
-## Assessment method
-
-Oral examination based on the lessons’ material and the included references.
-
 ## Teaching language
 
-Italian or English
+Italian or English, the latter if foreign students are present.
 
 ## Lessons
 
@@ -98,7 +93,7 @@ Italian or English
 4. 2019-03-15 09:30-11:30  
    _Addresses, Wallets, and Deterministic Key Sequences_  
    slides (ENG): <https://speakerdeck.com/nando1970/addresses-transactions-and-blocks>
-5. 2019-03-12 09:30-11:30  
+5. 2019-03-22 09:30-11:30  
    _Transactions and Blocks_  
    slides (ENG): <https://speakerdeck.com/nando1970/wallets-and-deterministic-key-sequences>
 6. 2019-03-29 09:30-11:30  

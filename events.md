@@ -16,23 +16,21 @@ I can be contacted using this
 
 # Upcoming events
 
-2018-01-23 SingularityU Milan Chapter  
-Blockchain Futures  
-Il futuro della blockchain: bitcoin  
-<https://www.eventbrite.it/e/biglietti-singularityu-milan-chapter-incontro-17-54914976172>  
-[![Blockchain Futures](/images/20190123-singularity.jpg)](https://www.eventbrite.it/e/biglietti-singularityu-milan-chapter-incontro-17-54914976172)
-
-2018-01-25 Università degli Studi di Milano-Bicocca  
-La certificazione blockchain nell’education  
-Blockchain: tra bitcoin e OpenTimestamps  
-<https://www.unimib.it/sites/default/files/eventi/loc_blockchain-def.pdf>  
-[![La certificazione blockchain nell’education](/images/20190125-bicocca.jpg)](https://www.unimib.it/sites/default/files/eventi/loc_blockchain-def.pdf)
-
 ---
 ---
 ---
 
 # Past events
+
+2018-01-25 Università degli Studi di Milano-Bicocca  
+La certificazione blockchain nell’education  
+Blockchain Certification: Bitcoin & OpenTimestamps  
+<https://speakerdeck.com/nando1970/blockchain-certification-bitcoin-and-opentimestamps>  
+
+2018-01-23 SingularityU Milan Chapter  
+Blockchain Futures  
+Il futuro della blockchain: bitcoin  
+<https://youtu.be/jKuNbOAJGTw?t=1266>
 
 2018-12-17 iBicocca, Università degli Studi di Milano-Bicocca  
 Alla scoperta di Bitcoin  

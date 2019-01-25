@@ -40,7 +40,7 @@ Economics and Technology of Digital Assets
 Webinar
 
 2018-12-11 #Aperitech BlockchainEDU, Milano LUISS Hub  
-La scarsità in ambito digitale: la missione del [Digital Gold Institute](www.dgi.io)
+La scarsità in ambito digitale: la missione del [Digital Gold Institute](http://www.dgi.io)
 
 2018-12-11 ESSEC Business School, Paris  
 Bitcoin and Blockchain Technology: An Introduction  

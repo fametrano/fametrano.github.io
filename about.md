@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-* [Digital Gold Institute](https://www.dgi.io)  
+* [Digital Gold Institute](www.dgi.io)  
   Executive Director  
-  <https://www.dgi.io>
+  <www.dgi.io>
 
 * Università Milano-Bicocca - Department of Statistics and Quantitative Methods  
   Adjunct Professor
@@ -14,14 +14,14 @@ permalink: /about/
 * Politecnico di Milano - Department of Mathematics  
   Adjunct Professor
 
-* [QuantLib](https://www.quantlib.org)  
+* [QuantLib](www.quantlib.org)  
   Founder and co-admin  
-  <http://quantlib.org>
+  <www.quantlib.org>
 
 ---
 
 Executive Director of the
-[Digital Gold Institute](https://www.dgi.io),
+[Digital Gold Institute](www.dgi.io),
 Ferdinando Ametrano teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)"
 at Politecnico di Milano and Milano-Bicocca University.

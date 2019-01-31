@@ -91,7 +91,7 @@ Italian or English, the latter if foreign students are present.
    _Elliptic Curve Cryptography_  
    slides (ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
 4. 2019-03-15 09:30-11:30 Edificio U6 aula 20  
-   _Addresses, Wallets, and Deterministic Key Sequences_  
+   _Key Encodings, Wallets, and Deterministic Sequences_  
    slides (ENG): <https://speakerdeck.com/nando1970/addresses-transactions-and-blocks>
 5. 2019-03-22 09:30-11:30 Edificio U6 aula 20  
    _Transactions and Blocks_  

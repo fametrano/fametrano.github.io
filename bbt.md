@@ -80,27 +80,27 @@ Italian or English, the latter if foreign students are present.
 
 ## Lessons
 
-1. 2019-02-22 09:30-11:30  
+1. 2019-02-22 09:30-11:30 Edificio U6 aula 21  
    _Introduction_  
    slides (ENG): https://speakerdeck.com/nando1970/introduction-to-bitcoin-and-blockchain-technology>  
    video (2017 ITA): <https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=1>
-2. 2019-03-01 09:30-11:30  
+2. 2019-03-01 09:30-11:30 Edificio U6 aula 20  
    _Blockchain, Mining, and Distributed Consensus_  
    slides (ENG): <https://speakerdeck.com/nando1970/blockchain-and-distributed-consensus>
-3. 2019-03-05 11:30-13:30  
+3. 2019-03-05 11:30-13:30 Edificio U6 aula 24  
    _Elliptic Curve Cryptography_  
    slides (ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
-4. 2019-03-15 09:30-11:30  
+4. 2019-03-15 09:30-11:30 Edificio U6 aula 20  
    _Addresses, Wallets, and Deterministic Key Sequences_  
    slides (ENG): <https://speakerdeck.com/nando1970/addresses-transactions-and-blocks>
-5. 2019-03-22 09:30-11:30  
+5. 2019-03-22 09:30-11:30 Edificio U6 aula 20  
    _Transactions and Blocks_  
    slides (ENG): <https://speakerdeck.com/nando1970/wallets-and-deterministic-key-sequences>
-6. 2019-03-29 09:30-11:30  
+6. 2019-03-29 09:30-11:30 Edificio U6 aula 20  
    _Monetary (and Token) Engineering_  
    slides (ENG): <https://speakerdeck.com/nando1970/monetary-engineering>  
    video (2017 ITA): <https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=2>>
-7. 2019-04-05 09:30-11:30  
+7. 2019-04-05 09:30-11:30 Edificio U6 aula 20  
    _Distributed Ledger Technology and Non-monetary Applications_  
    slides (ENG): <https://speakerdeck.com/nando1970/beyond-bitcoin>  
    video (2017 ITA): <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=3>
@@ -128,7 +128,7 @@ Italian or English, the latter if foreign students are present.
   _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_ (2017),  
   <https://ssrn.com/abstract=2832249>
 * Ferdinando M. Ametrano,  
-  _"Bitcoin: crittovaluta di riserva per nuovi standard monetari"_ (2018),  
+  _"Bitcoin: oro digitale per nuovi standard monetari"_ (2018),  
   <http://bit.ly/2NQg9VJ>
 
 ## Technical books

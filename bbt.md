@@ -68,7 +68,7 @@ on so many and so different knowledge areas.
 
 ## Teaching method
 
-* Slide based lessons with rich associated bibliography
+* Slide based lessons with associated bibliography
 * Python 3 programming assignments and technology assignments
 * Workshop labs on Bitcoin Core, Electrum, and OpenTimestamps
 

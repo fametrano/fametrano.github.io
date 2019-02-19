@@ -26,7 +26,7 @@ Ferdinando Ametrano teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)"
 at Politecnico di Milano and Milano-Bicocca University.
 Former [Head of Blockchain and Virtual Currencies](https://goo.gl/QdDTuN)
-in Intesa Sanpaolo bank, he is Planning Committee member of the
+in Intesa Sanpaolo bank, he has been Planning Committee member of the
 [Scaling Bitcoin Conference](https://scalingbitcoin.org/)
 that he chaired in [Milan 2016](https://milan2016.scalingbitcoin.org/).
 

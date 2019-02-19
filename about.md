@@ -9,7 +9,7 @@ permalink: /about/
   <http://www.dgi.io>
 
 * Università Milano-Bicocca - Department of Statistics and Quantitative Methods  
-  Adjunct Professor
+  [Adjunct Professor](https://www.unimib.it/ferdinando-maria-ametrano)
 
 * Politecnico di Milano - Department of Mathematics  
   Adjunct Professor

@@ -8,7 +8,7 @@ permalink: /about/
   <http://www.dgi.io>
 
 * Università Milano-Bicocca - Department of Statistics and Quantitative Methods  
-  Adjunct Professor
+  Adjunct Professor  
   <https://www.unimib.it/ferdinando-maria-ametrano>
 
 * Politecnico di Milano - Department of Mathematics  
@@ -77,6 +77,6 @@ Bitcoin public address for receiving donation and message signing: [1FEz167JCVgB
 
 ![Ferdinando M. Ametrano](images/201809AmetranoProfileRectangular.jpg)
 
-profile picture 1: <{{ site.baseurl }}/images/201809AmetranoProfile.jpg>
+[profile picture 338x338](images/201809AmetranoProfile.jpg)
 
-profile picture 2: <{{ site.baseurl }}/images/201710AmetranoProfile.jpg>
+[profile picture 1217x1533](images/201710AmetranoProfile.jpg)

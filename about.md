@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 * [Digital Gold Institute](http://www.dgi.io)  
   Executive Director  
   <http://www.dgi.io>
@@ -77,3 +76,7 @@ also been co-founder and managing partner of RiskMap
 Bitcoin public address for receiving donation and message signing: [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
 
 ![Ferdinando M. Ametrano](images/201809AmetranoProfileRectangular.jpg)
+
+profile picture 1: <{{ site.baseurl }}/images/201809AmetranoProfile.jpg>
+
+profile picture 2: <{{ site.baseurl }}/images/201710AmetranoProfile.jpg>

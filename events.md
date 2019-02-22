@@ -16,6 +16,16 @@ I can be contacted using this
 
 # Upcoming events
 
+2019-03-17 TEDx Livorno  
+<https://tedxlivorno.com/>
+
+2019-04-06 Palazzo Vecchio, Firenze  
+Seminario sulle monete virtuali
+
+2019-04-09 Harvard Extension Student Environmental Club 
+Webinar: Economics and Technology of Bitcoin and Blockchain
+<https://hesec.extension.harvard.edu>
+
 ---
 ---
 ---

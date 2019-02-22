@@ -3,13 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 * [Digital Gold Institute](http://www.dgi.io)  
   Executive Director  
   <http://www.dgi.io>
 
 * Università Milano-Bicocca - Department of Statistics and Quantitative Methods  
-  Adjunct Professor
+  Adjunct Professor  
+  <https://www.unimib.it/ferdinando-maria-ametrano>
 
 * Politecnico di Milano - Department of Mathematics  
   Adjunct Professor
@@ -26,7 +26,7 @@ Ferdinando Ametrano teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)"
 at Politecnico di Milano and Milano-Bicocca University.
 Former [Head of Blockchain and Virtual Currencies](https://goo.gl/QdDTuN)
-in Intesa Sanpaolo bank, he is Planning Committee member of the
+in Intesa Sanpaolo bank, he has been Planning Committee member of the
 [Scaling Bitcoin Conference](https://scalingbitcoin.org/)
 that he chaired in [Milan 2016](https://milan2016.scalingbitcoin.org/).
 
@@ -76,3 +76,7 @@ also been co-founder and managing partner of RiskMap
 Bitcoin public address for receiving donation and message signing: [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
 
 ![Ferdinando M. Ametrano](images/201809AmetranoProfileRectangular.jpg)
+
+[profile picture 338x338](images/201809AmetranoProfile.jpg)
+
+[profile picture 1217x1533](images/201710AmetranoProfile.jpg)

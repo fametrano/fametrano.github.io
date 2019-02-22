@@ -8,8 +8,10 @@ permalink: /courses/
 
 * [Bitcoin and Blockchain Technology, Spring 2019]({{ site.baseurl }}/bbt/)  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
-* [Interest Rate Derivatives, Fall 2018]({{ site.baseurl }}/ird/)  
+* [Interest Rate Derivatives, Fall 2019]({{ site.baseurl }}/ird/)  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
+* [Bitcoin and Blockchain Technology, Fall 2019]({{ site.baseurl }}/bbt/)  
+  _Department of Mathematics, Politecnico di Milano_
 
 For events, seminars, and conferences where I have been engaged
 as speaker, panelist, MC, or lecturer see the dedicated [events]({{ site.baseurl }}/events/) page.
@@ -18,6 +20,8 @@ as speaker, panelist, MC, or lecturer see the dedicated [events]({{ site.baseurl
 
 # Past university courses
 
+* Interest Rate Derivatives, Fall 2018  
+  _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 * Bitcoin and Blockchain Technology, Fall 2018  
   _Department of Mathematics, Politecnico di Milano_
 * Bitcoin and Blockchain Technology, Spring 2018  

@@ -22,9 +22,13 @@ I can be contacted using this
 2019-04-06 Palazzo Vecchio, Firenze  
 Seminario sulle monete virtuali
 
-2019-04-09 Harvard Extension Student Environmental Club 
-Webinar: Economics and Technology of Bitcoin and Blockchain
+2019-04-09 Harvard Extension Student Environmental Club  
+Webinar: Economics and Technology of Bitcoin and Blockchain  
 <https://hesec.extension.harvard.edu>
+
+2019-06-14 ISCTE Business School - Instituto Universitário de Lisboa  
+Economics and Technology of Bitcoin and Blockchain  
+<http://ibs.iscte-iul.pt/en/>
 
 ---
 ---

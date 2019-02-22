@@ -8,6 +8,11 @@ permalink: /bbt/
 
 Department of Statistics and Quantitative Methods, Università Milano-Bicocca
 
+Course page: <https://elearning.unimib.it/course/view.php?id=17369>  
+
+Please subscribe the course mailing list sending an e-email to
+[2019bbt-bicocca+subscribe@ametrano.net](mailto:2019bbt-bicocca+subscribe@ametrano.net)
+
 ## Learning objectives
 
 The course is an introduction to bitcoin and the associated blockchain

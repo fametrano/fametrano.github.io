@@ -87,7 +87,7 @@ Italian or English, the latter if foreign students are present.
 
 1. 2019-02-22 09:30-11:30 Edificio U6 aula 21  
    _Introduction_  
-   slides (ENG): https://speakerdeck.com/nando1970/introduction-to-bitcoin-and-blockchain-technology>  
+   slides (ENG): <https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho/view?usp=sharing>  
    video (2017 ITA): <https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=1>
 2. 2019-03-01 09:30-11:30 Edificio U6 aula 20  
    _Blockchain, Mining, and Distributed Consensus_  

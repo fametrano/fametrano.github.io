@@ -11,7 +11,7 @@ Department of Statistics and Quantitative Methods, Università Milano-Bicocca
 Course page: <https://elearning.unimib.it/course/view.php?id=19623>  
 
 Please subscribe the course mailing list sending an e-email to
-[2018ird-bicocca+unsubscribe@ametrano.net](mailto:2018ird-bicocca+unsubscribe@ametrano.net)
+[2018ird-bicocca+subscribe@ametrano.net](mailto:2018ird-bicocca+subscribe@ametrano.net)
 
 ## Learning objectives
 

@@ -87,11 +87,11 @@ Italian or English, the latter if foreign students are present.
 
 1. Friday 2019-02-22 09:30-11:30 Edificio U6 aula 21  
    _Introduction_  
-   slides (ENG): <https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho/view?usp=sharing>  
+   slides (ENG): <https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho>  
    video (2017 ITA): <https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=1>
 2. Friday 2019-03-01 09:30-11:30 Edificio U6 aula 20  
    _Blockchain, Mining, and Distributed Consensus_  
-   slides (ENG): <https://speakerdeck.com/nando1970/blockchain-and-distributed-consensus>
+   slides (ENG): <https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz>
 3. Tuesday 2019-03-12 11:30-13:30 Edificio U6 aula 20  
    _Distributed Ledger Technology and Non-monetary Applications_  
    slides (ENG): <https://speakerdeck.com/nando1970/beyond-bitcoin>  

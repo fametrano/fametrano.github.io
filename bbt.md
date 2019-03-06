@@ -92,24 +92,25 @@ Italian or English, the latter if foreign students are present.
 2. Friday 2019-03-01 09:30-11:30 Edificio U6 aula 20  
    _Blockchain, Mining, and Distributed Consensus_  
    slides (ENG): <https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz>
-3. Tuesday 2019-03-12 11:30-13:30 Edificio U6 aula 20  
+3. Friday 2019-03-08 09:30-11:30 aula da indicare  
+   and also  
+   Tuesday 2019-03-12 11:30-13:30 Edificio U6 aula 20  
+   _Elliptic Curve Cryptography_  
+   slides (ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
+4. Friday 2019-03-15 09:30-11:30 Edificio U6 aula 20  
+   _Key Encodings, Wallets, and Deterministic Sequences_  
+   slides (ENG): <https://speakerdeck.com/nando1970/addresses-transactions-and-blocks>
+5. Friday 2019-03-22 09:30-11:30 Edificio U6 aula 20  
+   _Transactions and Blocks_  
+   slides (ENG): <https://speakerdeck.com/nando1970/wallets-and-deterministic-key-sequences>
+6. Friday 2019-03-29 09:30-11:30 Edificio U6 aula 20  
    _Distributed Ledger Technology and Non-monetary Applications_  
    slides (ENG): <https://speakerdeck.com/nando1970/beyond-bitcoin>  
    video (2017 ITA): <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=3>
-4. Friday 2019-03-15 09:30-11:30 Edificio U6 aula 20  
-   _Elliptic Curve Cryptography_  
-   slides (ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
-5. Friday 2019-03-22 09:30-11:30 Edificio U6 aula 20  
-   _Key Encodings, Wallets, and Deterministic Sequences_  
-   slides (ENG): <https://speakerdeck.com/nando1970/addresses-transactions-and-blocks>
-6. Friday 2019-03-29 09:30-11:30 Edificio U6 aula 20  
-   _Transactions and Blocks_  
-   slides (ENG): <https://speakerdeck.com/nando1970/wallets-and-deterministic-key-sequences>
 7. Friday 2019-04-05 09:30-11:30 Edificio U6 aula 20  
    _Monetary (and Token) Engineering_  
    slides (ENG): <https://speakerdeck.com/nando1970/monetary-engineering>  
    video (2017 ITA): <https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=2>>
-
 
 ## Python library
 

@@ -96,7 +96,7 @@ Italian or English, the latter if foreign students are present.
    and also  
    Tuesday 2019-03-12 11:30-13:30 Edificio U6 aula 20  
    _Elliptic Curve Cryptography_  
-   slides (ENG): <https://speakerdeck.com/nando1970/elliptic-curve-cryptography>
+   slides (ENG): <https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W>
 4. Friday 2019-03-15 09:30-11:30 Edificio U6 aula 20  
    _Key Encodings, Wallets, and Deterministic Sequences_  
    slides (ENG): <https://speakerdeck.com/nando1970/addresses-transactions-and-blocks>

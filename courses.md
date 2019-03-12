@@ -8,6 +8,8 @@ permalink: /courses/
 
 * [Bitcoin and Blockchain Technology, Spring 2019]({{ site.baseurl }}/bbt/)  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
+* [Bitcoin and Blockchain Technology, Spring 2019](http://sites.google.com/uniupo.it/manfinelectives/electives-in-finanza/smart-contracts-bitcoin-block-chain)  
+  _Dipartimento di Studi per l'Economia e l'Impresa, Università del Piemonte Orientale_
 * [Interest Rate Derivatives, Fall 2019]({{ site.baseurl }}/ird/)  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 * [Bitcoin and Blockchain Technology, Fall 2019]({{ site.baseurl }}/bbt/)  

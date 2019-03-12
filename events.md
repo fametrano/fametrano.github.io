@@ -17,10 +17,16 @@ I can be contacted using this
 # Upcoming events
 
 2019-03-17 TEDx Livorno  
-<https://tedxlivorno.com/>
+Bitcoin: l'oro della civilizzazione digitale  
+[![TEDx Livorno](/images/20190317-livorno.jpg)](http://tedxlivorno.com/)
+
+2019-03-25 Dipartimento di Ingegneria dell'Informazione, Università degli Studi di Padova  
+Bitcoin e Blockchain oltre l'Hype  
+[![Bitcoin e Blockchain oltre l'Hype](/images/20190325-padova.png)](http://www.eventbrite.it/e/biglietti-bitcoin-e-blockchain-oltre-lhype-universita-degli-studi-di-padova-58636882494)
 
 2019-04-06 Palazzo Vecchio, Firenze  
 Seminario sulle monete virtuali
+![Seminario sulle monete virtuali](/images/20190406-firenze.jpg)
 
 2019-04-09 Harvard Extension Student Environmental Club  
 Webinar: Economics and Technology of Bitcoin and Blockchain  
@@ -28,7 +34,7 @@ Webinar: Economics and Technology of Bitcoin and Blockchain
 
 2019-06-14 ISCTE Business School - Instituto Universitário de Lisboa  
 Economics and Technology of Bitcoin and Blockchain  
-<http://ibs.iscte-iul.pt/en/>
+<http://ibs.iscte-iul.pt/en//?pt=newtrendsinfintechandcrowdfunding>
 
 ---
 ---
@@ -88,7 +94,6 @@ Salone dei Pagamenti, Milano
 Criptovalute: cosa sono e come funzionano  
 agenda: <http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
 gallery: <http://www.salonedeipagamenti.com/galleries/criptovalute-cosa-sono-e-come-funzionano>
- 
 
 2018-10-24  
 ExPLORE TALKS - Spaces, Milan  
@@ -295,7 +300,7 @@ slides (ENG): <https://goo.gl/hC2xTS>
 
 2016-10-03 Blockchain for Finance Conference, London  
 Bitcoin, Blockchain, and the DLT Chimera  
-http://blockchain.fintecnet.com/  
+<http://blockchain.fintecnet.com/>  
 slides (ENG): <https://goo.gl/1ETHLK>  
 video: <https://goo.gl/40mim9>
 
@@ -318,7 +323,7 @@ slides (ENG): <https://goo.gl/6QSzY4>
 
 2016-06-07 Payments Conference and Exhibition EBAday, Milan  
 How mainstream can Blockchain be?  
-https://goo.gl/P9xsGN>
+<https://goo.gl/P9xsGN>
 
 2016-05-12 Deloitte Blockchain Conference, Milan  
 roundtable: Will Blockchain radically transform payments ecosystem?  

@@ -92,7 +92,7 @@ Italian or English, the latter if foreign students are present.
 2. Friday 2019-03-01 09:30-11:30 Edificio U6 aula 20  
    _Blockchain, Mining, and Distributed Consensus_  
    slides (ENG): <https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz>
-3. Friday 2019-03-08 09:30-11:30 aula da indicare  
+3. Friday 2019-03-08 09:30-11:30  
    and also  
    Tuesday 2019-03-12 11:30-13:30 Edificio U6 aula 20  
    _Elliptic Curve Cryptography_  

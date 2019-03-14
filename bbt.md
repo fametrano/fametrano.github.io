@@ -95,7 +95,7 @@ Italian or English, the latter if foreign students are present.
 3. Friday 2019-03-08 09:30-11:30  
    and also  
    Tuesday 2019-03-12 11:30-13:30 Edificio U6 aula 20  
-   _Elliptic Curve Cryptography_  
+   _Elliptic Curve Digital Signature Algorithm_  
    slides (ENG): <https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W>
 4. Friday 2019-03-15 09:30-11:30 Edificio U6 aula 20  
    _Wallets: Key Encodings and Deterministic Sequences_  
@@ -110,7 +110,7 @@ Italian or English, the latter if foreign students are present.
 7. Friday 2019-04-05 09:30-11:30 Edificio U6 aula 20  
    _Monetary (and Token) Engineering_  
    slides (ENG): <https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj>  
-   video (2017 ITA): <https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=2>>
+   video (2017 ITA): <https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=2>
 
 ## Python library
 

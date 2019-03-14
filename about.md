@@ -73,6 +73,9 @@ also been co-founder and managing partner of RiskMap
 <https://www.youtube.com/c/FerdinandoMAmetrano>  
 <https://scholar.google.com/citations?user=dFSSrwwAAAAJ>
 
+Europass CV: <https://www.ametrano.net/cv/CV-Europass-20181029-Ametrano-EN.pdf>
+Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
+
 Bitcoin public address for receiving donation and message signing: [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
 
 ![Ferdinando M. Ametrano](images/201809AmetranoProfileRectangular.jpg)

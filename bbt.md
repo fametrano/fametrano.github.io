@@ -99,18 +99,18 @@ Italian or English, the latter if foreign students are present.
    slides (ENG): <https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W>
 4. Friday 2019-03-15 09:30-11:30 Edificio U6 aula 20  
    _Wallets: Key Encodings and Deterministic Sequences_  
-   slides (ENG): <https://drive.google.com/open?id=19UoXwZYOw5xBQF91k5sn2dZd1RrruzA3>
+   slides (ENG): <https://drive.google.com/open?id=1zWuYqRip3TfgjjV2a0YL_C_KlJGc0o57>
 5. Friday 2019-03-22 09:30-11:30 Edificio U6 aula 20  
    _Transactions and Blocks_  
    slides (ENG): <https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA>
 6. Friday 2019-03-29 09:30-11:30 Edificio U6 aula 20  
-   _Beyond Bitcoin: Timestamping and DLT_  
-   slides (ENG): <https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z>  
-   video (2017 ITA): <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=3>
-7. Friday 2019-04-05 09:30-11:30 Edificio U6 aula 20  
    _Monetary (and Token) Engineering_  
    slides (ENG): <https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj>  
    video (2017 ITA): <https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=2>
+7. Friday 2019-04-05 09:30-11:30 Edificio U6 aula 20  
+   _Beyond Bitcoin: Timestamping and DLT_  
+   slides (ENG): <https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z>  
+   video (2017 ITA): <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b&index=3>
 
 ## Python library
 

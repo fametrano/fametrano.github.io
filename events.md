@@ -16,31 +16,26 @@ I can be contacted using this
 
 # Upcoming events
 
-2019-03-17 TEDx Livorno  
-Bitcoin: l'oro della civilizzazione digitale  
-[![TEDx Livorno](/images/20190317-livorno.jpg)](http://tedxlivorno.com/)
-
-2019-03-25 Dipartimento di Ingegneria dell'Informazione, Università degli Studi di Padova  
-Bitcoin e Blockchain oltre l'Hype  
-[![Bitcoin e Blockchain oltre l'Hype](/images/20190325-padova.png)](http://www.eventbrite.it/e/biglietti-bitcoin-e-blockchain-oltre-lhype-universita-degli-studi-di-padova-58636882494)
-
 2019-04-06 Palazzo Vecchio, Firenze  
 Seminario sulle monete virtuali
 ![Seminario sulle monete virtuali](/images/20190406-firenze.jpg)
 
 2019-04-09 Harvard Extension Student Environmental Club  
-Webinar: Economics and Technology of Bitcoin and Blockchain  
+Bitcoin and Blockchain Technology: Economics and Environmental Sustainability (webinar)  
 <https://hesec.extension.harvard.edu>
-
-2019-06-14 ISCTE Business School - Instituto Universitário de Lisboa  
-Economics and Technology of Bitcoin and Blockchain  
-<http://ibs.iscte-iul.pt/en//?pt=newtrendsinfintechandcrowdfunding>
 
 ---
 ---
 ---
 
 # Past events
+
+2019-03-25 Dipartimento di Ingegneria dell'Informazione, Università degli Studi di Padova  
+Cryptography and Distributed Consensus: Tools for Better Money
+
+2019-03-17 TEDx Livorno  
+Bitcoin: l'oro della civilizzazione digitale  
+<http://tedxlivorno.com>
 
 2018-01-25 Università degli Studi di Milano-Bicocca  
 La certificazione blockchain nell’education  

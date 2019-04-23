@@ -4,7 +4,7 @@ title: Courses
 permalink: /courses/
 ---
 
-# My current and upcoming university courses
+# Current and upcoming university courses
 
 * [Bitcoin and Blockchain Technology, Spring 2019]({{ site.baseurl }}/bbt/)  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
@@ -20,7 +20,7 @@ as speaker, panelist, MC, or lecturer see the dedicated [events]({{ site.baseurl
 
 ---
 
-# Past university courses
+## Past university courses
 
 * Interest Rate Derivatives, Fall 2018  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_

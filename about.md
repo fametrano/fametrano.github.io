@@ -7,7 +7,7 @@ permalink: /about/
   Executive Director  
   <http://www.dgi.io>
 
-* Università Milano-Bicocca - Department of Statistics and Quantitative Methods  
+* Milano-Bicocca University - Department of Statistics and Quantitative Methods  
   Adjunct Professor  
   <https://www.unimib.it/ferdinando-maria-ametrano>
 

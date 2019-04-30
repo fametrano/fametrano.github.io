@@ -3,22 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-* [Digital Gold Institute](http://www.dgi.io)  
-  Executive Director  
-  <http://www.dgi.io>
 
-* Università Milano-Bicocca - Department of Statistics and Quantitative Methods  
-  Adjunct Professor  
-  <https://www.unimib.it/ferdinando-maria-ametrano>
-
-* Politecnico di Milano - Department of Mathematics  
-  Adjunct Professor
-
-* [QuantLib](http://www.quantlib.org)  
-  Founder and co-admin  
-  <http://www.quantlib.org>
-
----
+## Bio
 
 Executive Director of the
 [Digital Gold Institute](http://www.dgi.io),
@@ -56,9 +42,33 @@ has headed trading, quantitative, and risk-management teams in Banca IMI
 also been co-founder and managing partner of RiskMap
 (now [StatPro](https://www.statpro.com/) Italia).
 
----
+Europass CV: <https://www.ametrano.net/cv/CV-Europass-20181029-Ametrano-EN.pdf>
+Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 **email contact form**: <https://bit.ly/contactametrano>
+
+---
+
+## Affiliations
+
+* [Digital Gold Institute](http://www.dgi.io)  
+  Executive Director  
+  <http://www.dgi.io>
+
+* Università Milano-Bicocca - Department of Statistics and Quantitative Methods  
+  Adjunct Professor  
+  <https://www.unimib.it/ferdinando-maria-ametrano>
+
+* Politecnico di Milano - Department of Mathematics  
+  Adjunct Professor
+
+* [QuantLib](http://www.quantlib.org)  
+  Founder and co-admin  
+  <http://www.quantlib.org>
+
+---
+
+## Social Networks
 
 <https://github.com/fametrano>  
 <https://ssrn.com/author=510135>  
@@ -72,9 +82,6 @@ also been co-founder and managing partner of RiskMap
 <https://www.linkedin.com/in/ferdinandoametrano>  
 <https://www.youtube.com/c/FerdinandoMAmetrano>  
 <https://scholar.google.com/citations?user=dFSSrwwAAAAJ>
-
-Europass CV: <https://www.ametrano.net/cv/CV-Europass-20181029-Ametrano-EN.pdf>
-Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 Bitcoin public address for receiving donation and message signing: [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
 

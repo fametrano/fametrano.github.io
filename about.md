@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## Bio
-
 Executive Director of the
 [Digital Gold Institute](http://www.dgi.io),
 Ferdinando Ametrano teaches
@@ -55,7 +53,7 @@ Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
   Executive Director  
   <http://www.dgi.io>
 
-* Università Milano-Bicocca - Department of Statistics and Quantitative Methods  
+* Milano-Bicocca University - Department of Statistics and Quantitative Methods  
   Adjunct Professor  
   <https://www.unimib.it/ferdinando-maria-ametrano>
 

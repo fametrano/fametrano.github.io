@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+## Profile
+
 Executive Director of the
 [Digital Gold Institute](http://www.dgi.io),
 Ferdinando Ametrano teaches

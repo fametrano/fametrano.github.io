@@ -28,7 +28,7 @@ as speaker, panelist, MC, or lecturer see the dedicated [events]({{ site.baseurl
   _Department of Mathematics, Politecnico di Milano_
 * Bitcoin and Blockchain Technology, Spring 2018  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
-* Interest Rate Derivatives, Università di Milano Bicocca, Fall 2017  
+* Interest Rate Derivatives, Università di Milano-Bicocca, Fall 2017  
   _Department of Statistics and Quantitative Methods, Università Milano-Bicocca_
 * Bitcoin and Blockchain Technology, Fall 2017  
   _Department of Mathematics, Politecnico di Milano_

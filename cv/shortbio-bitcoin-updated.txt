@@ -1,10 +1,10 @@
 Prof. Ferdinando M. Ametrano
 
-Ferdinando teaches "Bitcoin and Blockchain Technologies" at Politecnico di Milano and University of Milano Bicocca. Former Head of Blockchain and Virtual Currencies in Intesa Sanpaolo bank, he is member of the Scaling Bitcoin Planning Committee and has been Chairman of Scaling Bitcoin 2016 in Milan. 
+Ferdinando teaches "Bitcoin and Blockchain Technologies" at Politecnico di Milano and University of Milano-Bicocca. Former Head of Blockchain and Virtual Currencies in Intesa Sanpaolo bank, he is member of the Scaling Bitcoin Planning Committee and has been Chairman of Scaling Bitcoin 2016 in Milan. 
 
 Author of scientific publications, contributors to multiple media outlets, appreciated speaker and lecturer, he has been invited to talk about bitcoin at central banks, parliaments, universities, conferences, and workshops. His academic research focuses on price stability, advocating automated non-discretionary elastic monetary policy for a new generation of cryptocurrencies (Hayek Money).
 
-He is also founder and co-administrator of the QuantLib project, a comprehensive free/open-source software framework for quantitative finance. Interest Rate Derivatives Adjunct Professor at the University of Milano Bicocca, he has relevant publications on this subject and has headed trading, quantitative, and risk-management teams in Banca IMI (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has also been co-founder and managing partner of RiskMap (now StatPro Italia).
+He is also founder and co-administrator of the QuantLib project, a comprehensive free/open-source software framework for quantitative finance. Interest Rate Derivatives Adjunct Professor at the University of Milano-Bicocca, he has relevant publications on this subject and has headed trading, quantitative, and risk-management teams in Banca IMI (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has also been co-founder and managing partner of RiskMap (now StatPro Italia).
 
 ferdinando@ametrano.net
 https://github.com/fametrano
@@ -81,7 +81,7 @@ http://www.rai.tv/dl/portaleRadio/media/ContentItem-de929d97-5810-4077-912e-df1a
 Chi governa il bitcoin? Tredici domande per capire quale vincer� fra le visioni a confronto
 http://www.ilsole24ore.com/art/finanza-e-mercati/2017-04-05/chi-governa-bitcoin-tredici-domande-capire-quale-vincera-le-visioni-confronto-131100.shtml
 
-2017-03-27 Università di Milano Bicocca
+2017-03-27 Università di Milano-Bicocca
 Bitcoin and Blockchain Technology: An Introduction
 video (ITA): https://goo.gl/tbB4Pu
 slides (ENG): https://www.slideshare.net/Ferdinando1970/bitcoin-and-blockchain-technology-an-introduction-75326058
@@ -187,7 +187,7 @@ slide: https://goo.gl/Xc1UMP
 La blockchain entra all�Universit�
 http://nova.ilsole24ore.com/progetti/la-blockchain-entra-alluniversita/
 
-2016-10-17 Scuola di Economia e Statistica, University of Milano Bicocca
+2016-10-17 Scuola di Economia e Statistica, University of Milano-Bicocca
 Opening of the 2016-2015 Academic Year
 slides: https://speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-an-introduction
 
@@ -309,7 +309,7 @@ slides https://goo.gl/LnYm9U
 The Governance and Economics of Bitcoin
 roundtable
 
-2014-07-01 University of Milano Bicocca, Milan
+2014-07-01 University of Milano-Bicocca, Milan
 Bitcoin + Hayek Money: blockchain revolution & price stability
 slides https://goo.gl/W3CB8c
 

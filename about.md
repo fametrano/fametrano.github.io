@@ -51,20 +51,20 @@ Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 ## Affiliations
 
-* [Digital Gold Institute](http://www.dgi.io)  
+* [Digital Gold Institute](http://dgi.io)  
   Executive Director  
-  <http://www.dgi.io>
+  <http://dgi.io>
 
 * Milano-Bicocca University - Department of Statistics and Quantitative Methods  
   Adjunct Professor  
-  <https://www.unimib.it/ferdinando-maria-ametrano>
+  <http://www.unimib.it/ferdinando-maria-ametrano>
 
 * Politecnico di Milano - Department of Mathematics  
   Adjunct Professor
 
-* [QuantLib](http://www.quantlib.org)  
+* [QuantLib](http://quantlib.org)  
   Founder and co-admin  
-  <http://www.quantlib.org>
+  <http://quantlib.org>
 
 ---
 

@@ -10,7 +10,7 @@ Executive Director of the
 [Digital Gold Institute](http://www.dgi.io),
 Ferdinando Ametrano teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)"
-at Politecnico di Milano and Milano-Bicocca University.
+at Politecnico di Milano and University of Milano Bicocca.
 Former [Head of Blockchain and Virtual Currencies](https://goo.gl/QdDTuN)
 in Intesa Sanpaolo bank, he has been Planning Committee member of the
 [Scaling Bitcoin Conference](https://scalingbitcoin.org/)
@@ -35,7 +35,7 @@ He is also founder and co-administrator of the
 [QuantLib](https://www.quantlib.org) project,
 a comprehensive free/open-source software framework for quantitative finance.
 [Interest Rate Derivatives]({{ site.baseurl }}/ird/) Adjunct Professor at the
-Milano-Bicocca University, he has
+University of Milano Bicocca, he has
 [relevant publications](https://ssrn.com/author=510135) on this subject and
 has headed trading, quantitative, and risk-management teams in Banca IMI
 (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has
@@ -55,7 +55,7 @@ Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
   Executive Director  
   <http://dgi.io>
 
-* Milano-Bicocca University - Department of Statistics and Quantitative Methods  
+* University of Milano Bicocca - Department of Statistics and Quantitative Methods  
   Adjunct Professor  
   <http://www.unimib.it/ferdinando-maria-ametrano>
 

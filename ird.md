@@ -6,7 +6,7 @@ permalink: /ird/
 
 # Interest Rate Derivatives, Fall 2018
 
-Department of Statistics and Quantitative Methods, Università Milano-Bicocca
+Department of Statistics and Quantitative Methods, Università di Milano Bicocca
 
 Course page: <https://elearning.unimib.it/course/view.php?id=19623>  
 

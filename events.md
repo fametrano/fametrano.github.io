@@ -37,7 +37,7 @@ Cryptography and Distributed Consensus: Tools for Better Money
 Bitcoin: l'oro della civilizzazione digitale  
 <http://tedxlivorno.com>
 
-2018-01-25 Università degli Studi di Milano-Bicocca  
+2018-01-25 Università di Milano Bicocca  
 La certificazione blockchain nell’education  
 Blockchain Certification: Bitcoin & OpenTimestamps  
 <https://speakerdeck.com/nando1970/blockchain-certification-bitcoin-and-opentimestamps>  
@@ -47,7 +47,7 @@ Blockchain Futures
 Il futuro della blockchain: bitcoin  
 <https://youtu.be/jKuNbOAJGTw?t=1266>
 
-2018-12-17 iBicocca, Università degli Studi di Milano-Bicocca  
+2018-12-17 iBicocca, Università di Milano Bicocca  
 Alla scoperta di Bitcoin  
 
 2018-12-15 Master in Fintech & Innovation  
@@ -69,7 +69,7 @@ Bitcoin and Blockchain Technology
 Blockchain Academy  
 <http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
 
-2018-11-23 Università Milano-Bicocca, Milan
+2018-11-23 Università di Milano Bicocca, Milan
 Master in Business Intelligence & Big Data Analytics
 Bitcoin e Blockchain: fra esagerazione e realtà  
 
@@ -172,7 +172,7 @@ video (ITA): <https://goo.gl/zwfuXK>
 video Q&A (ITA)): <https://goo.gl/nkyBew>  
 slides (ENG): <https://speakerdeck.com/nando1970/bitcoin-the-digital-rush>
 
-2017-12-19 Università Milano-Bicocca, Milan  
+2017-12-19 Università di Milano Bicocca, Milan  
 Digital Gold: Bitcoin as Investment Asset  
 slides (ENG): <https://goo.gl/MuxT8x>  
 video (ITA): <https://goo.gl/v9Tcn7>
@@ -227,7 +227,7 @@ About Bitcoin and Blockchain: A Cultural Paradigm Shift
 Bitcoin and Blockchain Technology: An Introduction  
 slides (ENG): <https://goo.gl/gxkhJe>
 
-2017-03-27 Università Milano-Bicocca, Milan  
+2017-03-27 Università di Milano Bicocca, Milan  
 Bitcoin and Blockchain Technology: An Introduction  
 video (ITA): <https://goo.gl/tbB4Pu>  
 slides (ENG): <https://goo.gl/KKX92T>
@@ -289,7 +289,7 @@ slides (ENG): <https://goo.gl/q6232X>
 <https://www.efma.com/event/overview/475>  
 slides (ENG): <https://goo.gl/Xc1UMP>
 
-2016-10-17 Scuola di Economia e Statistica, Università Milano-Bicocca, Milan  
+2016-10-17 Scuola di Economia e Statistica, Università di Milano Bicocca, Milan  
 Opening of the 2016-2015 Academic Year  
 slides (ENG): <https://goo.gl/hC2xTS>
 
@@ -382,7 +382,7 @@ slides (ENG): <https://goo.gl/LnYm9U>
 The Governance and Economics of Bitcoin  
 roundtable
 
-2014-07-01 Università Milano-Bicocca, Milan  
+2014-07-01 Università di Milano Bicocca, Milan  
 Bitcoin + Hayek Money: blockchain revolution & price stability  
 slides (ENG): <https://goo.gl/W3CB8c>
 

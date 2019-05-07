@@ -6,7 +6,7 @@ permalink: /bbt/
 
 # Bitcoin and Blockchain Technology, Spring 2019
 
-Department of Statistics and Quantitative Methods, Università Milano-Bicocca
+Department of Statistics and Quantitative Methods, University of Milano Bicocca
 
 Course page: <https://elearning.unimib.it/course/view.php?id=17369>  
 

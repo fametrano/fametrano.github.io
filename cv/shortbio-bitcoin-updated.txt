@@ -1,10 +1,10 @@
 Prof. Ferdinando M. Ametrano
 
-Ferdinando teaches "Bitcoin and Blockchain Technologies" at Politecnico di Milano and Milano-Bicocca University. Former Head of Blockchain and Virtual Currencies in Intesa Sanpaolo bank, he is member of the Scaling Bitcoin Planning Committee and has been Chairman of Scaling Bitcoin 2016 in Milan. 
+Ferdinando teaches "Bitcoin and Blockchain Technologies" at Politecnico di Milano and University of Milano Bicocca. Former Head of Blockchain and Virtual Currencies in Intesa Sanpaolo bank, he is member of the Scaling Bitcoin Planning Committee and has been Chairman of Scaling Bitcoin 2016 in Milan. 
 
 Author of scientific publications, contributors to multiple media outlets, appreciated speaker and lecturer, he has been invited to talk about bitcoin at central banks, parliaments, universities, conferences, and workshops. His academic research focuses on price stability, advocating automated non-discretionary elastic monetary policy for a new generation of cryptocurrencies (Hayek Money).
 
-He is also founder and co-administrator of the QuantLib project, a comprehensive free/open-source software framework for quantitative finance. Interest Rate Derivatives Adjunct Professor at the Milano-Bicocca University, he has relevant publications on this subject and has headed trading, quantitative, and risk-management teams in Banca IMI (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has also been co-founder and managing partner of RiskMap (now StatPro Italia).
+He is also founder and co-administrator of the QuantLib project, a comprehensive free/open-source software framework for quantitative finance. Interest Rate Derivatives Adjunct Professor at the University of Milano Bicocca, he has relevant publications on this subject and has headed trading, quantitative, and risk-management teams in Banca IMI (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has also been co-founder and managing partner of RiskMap (now StatPro Italia).
 
 ferdinando@ametrano.net
 https://github.com/fametrano
@@ -47,11 +47,11 @@ Bitcoin, Blockchain, and Distributed Ledger Technology
 https://www.youtube.com/watch?v=pNfWmGE_dfM&feature=youtu.be
 
 2017-06-11 IlSole24Ore
-Il Far West dell’oro digitale
+Il Far West dellï¿½oro digitale
 http://nova.ilsole24ore.com/progetti/il-far-west-delloro-digitale/
 
 2017-05-18 The Trading Show, Chicago
-The great blockchain debate – disruption or distraction?
+The great blockchain debate ï¿½ disruption or distraction?
 http://www.terrapinn.com/conference/trading-show-chicago/agenda-day-2.stm
 
 2017-05-02 Politecnico di Milano - Polimi Fintech Journey
@@ -62,7 +62,7 @@ https://www.eko.polimi.it/index.php/fintech/fintech
 Il volto industriale della blockchain
 http://nova.ilsole24ore.com/progetti/il-volto-industriale-della-blockchain/
 
-2017-04-21 Università degli Studi Milano, Dipartimento di Fisica
+2017-04-21 Universitï¿½ degli Studi Milano, Dipartimento di Fisica
 About Bitcoin and Blockchain: A Cultural Paradigm Shift
 
 2017-04-20 Il Sole 24 Ore
@@ -78,15 +78,15 @@ sildes: https://speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-an-i
 http://www.rai.tv/dl/portaleRadio/media/ContentItem-de929d97-5810-4077-912e-df1aded797d1.html (at 1m38s)
 
 2017-04-05 Il Sole 24 Ore
-Chi governa il bitcoin? Tredici domande per capire quale vincerà fra le visioni a confronto
+Chi governa il bitcoin? Tredici domande per capire quale vincerï¿½ fra le visioni a confronto
 http://www.ilsole24ore.com/art/finanza-e-mercati/2017-04-05/chi-governa-bitcoin-tredici-domande-capire-quale-vincera-le-visioni-confronto-131100.shtml
 
-2017-03-27 Milano Bicocca
+2017-03-27 UniversitÃ  di Milano Bicocca
 Bitcoin and Blockchain Technology: An Introduction
 video (ITA): https://goo.gl/tbB4Pu
 slides (ENG): https://www.slideshare.net/Ferdinando1970/bitcoin-and-blockchain-technology-an-introduction-75326058
 
-2017-03-23 Università della Calabria
+2017-03-23 Universitï¿½ della Calabria
 Bitcoin, Hayek Money, and The Future of Money
 
 2017-03-20 IDC Pan European Utilities Executive Summit, Lisbon
@@ -107,7 +107,7 @@ event: https://goo.gl/JoeI5s
 https://vimeo.com/207371888
 
 2017-03-03 StartupItalia!
-(ITA) interview: Bitcoin è la luna, ma il Sole (24 Ore) guarda il dito
+(ITA) interview: Bitcoin ï¿½ la luna, ma il Sole (24 Ore) guarda il dito
 http://smartmoney.startupitalia.eu/bitcoin-blockchain/60163-20170303-ferdinando-ametrano-bitcoin-intervista
 
 2017-02-23 Interlogica
@@ -129,7 +129,7 @@ video (only the bitcoin segment): https://youtu.be/K8ZEz5f_LnY
 Life After SegWit? Bitcoin Gridlock Takes the Stage
 https://goo.gl/9bkmOU
 
-2017-01-29 Nòva IlSole24Ore
+2017-01-29 Nï¿½va IlSole24Ore
 Il valore vero della blockchain
 article (ITA): https://goo.gl/wlRF5F
 
@@ -145,7 +145,7 @@ event: https://goo.gl/bhU6LN
 Bitcoin and Blockchain Technology: An Introduction
 video (ITA): https://goo.gl/NeIxg3
 
-2016-12-05 Università Bocconi, Milano
+2016-12-05 Universitï¿½ Bocconi, Milano
 Bitcoin and Blockchain Technology: An Introduction
 
 2016-11-23 The European House - Ambrosetti, Milan
@@ -160,7 +160,7 @@ slides: http://www.slideshare.net/Ferdinando1970/about-bitcoin-blockchain-and-th
 Bitcoin, Blockchain and the DLT Chimera
 article: https://goo.gl/KIKT32
 
-2016-11-14 Università della Calabria, Cosenza
+2016-11-14 Universitï¿½ della Calabria, Cosenza
 Hayek Money: The Cryptocurrency Price Stability Solution
 
 2016-11-11 Blockchain Summit, London
@@ -184,10 +184,10 @@ https://www.efma.com/event/overview/475
 slide: https://goo.gl/Xc1UMP
 
 2016-10-23 Il Sole 24 Ore
-La blockchain entra all’Università
+La blockchain entra allï¿½Universitï¿½
 http://nova.ilsole24ore.com/progetti/la-blockchain-entra-alluniversita/
 
-2016-10-17 Scuola di Economia e Statistica, Milano Bicocca University
+2016-10-17 Scuola di Economia e Statistica, University of Milano Bicocca
 Opening of the 2016-2015 Academic Year
 slides: https://speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-an-introduction
 
@@ -198,7 +198,7 @@ slides: https://speakerdeck.com/nando1970/bitcoin-blockchain-and-the-dlt-chimera
 video: https://goo.gl/40mim9
 
 2016-09-22 Digital Payment Revolution, Rome
-roundtable: Rivoluzione Blockchain, l’Internet of banking: una Uber per le transazioni finanziarie?
+roundtable: Rivoluzione Blockchain, lï¿½Internet of banking: una Uber per le transazioni finanziarie?
 http://www.corrierecomunicazioni.it/eventi/42448_digital-payment-revolution.htm
 interview (ITA): https://www.youtube.com/watch?v=fpwsWriO-KI&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=2
 
@@ -240,19 +240,19 @@ roundtable
 Luci ed ombre della criptofinanza
 slides https://goo.gl/Ctc0ee
 
-2015-11-30 QuantLib User Meeting, Düsseldorf
+2015-11-30 QuantLib User Meeting, Dï¿½sseldorf
 The abcd of Forward Rate Bootstrapping
 slides https://goo.gl/ekqNpc
 
 2015-11-24 IlSole24Ore
-Il bitcoin è oro digitale e sancirà la fine del contante
+Il bitcoin ï¿½ oro digitale e sancirï¿½ la fine del contante
 interview (ITA): http://goo.gl/SUZMnd
 
 2015-10-08 Digital Currency Summit, Barcelona
 A Cryptocurrency Price Stability Solution
 slides https://goo.gl/cgSleH
 
-2015-06-16 Università degli Studi, Milan
+2015-06-16 Universitï¿½ degli Studi, Milan
 Blockchain Revolution and the Future of Money
 slides https://goo.gl/9cBi3j
 
@@ -266,7 +266,7 @@ Blockchain Revolution and the Future of Money
 slides https://goo.gl/G12CpW
 
 2015-05-03 IlSole24Ore
-Criptovalute tra opportunità e voglia di regolamentazione
+Criptovalute tra opportunitï¿½ e voglia di regolamentazione
 roundtable (ITA): transcript http://goo.gl/1i435b
 
 2015-04-22 Radio24 SmartCity, Maurizio Melis
@@ -293,11 +293,11 @@ video (ITA): https://youtu.be/3UzHB8EfqWk?list=PLrVvuryXHYTfX6dg884fSGYLbLJgX6vA
 Bitcoin and Cryptocurrencies: Elastic Money Supply
 slides https://goo.gl/aEb8ik
 
-2014-12-05 QuantLib User Meeting, Düsseldorf
+2014-12-05 QuantLib User Meeting, Dï¿½sseldorf
 EONIA Jumps and Proper Euribor Forwarding
 slides https://goo.gl/mTS95O
 
-2014-12-04 Keynote speech, QuantLib User Meeting, Düsseldorf
+2014-12-04 Keynote speech, QuantLib User Meeting, Dï¿½sseldorf
 Open Source Finance: QuantLib, OpenGamma, Bitcoin
 slides https://goo.gl/tllC3V
 
@@ -309,7 +309,7 @@ slides https://goo.gl/LnYm9U
 The Governance and Economics of Bitcoin
 roundtable
 
-2014-07-01 Milano-Bicocca University, Milan
+2014-07-01 University of Milano Bicocca, Milan
 Bitcoin + Hayek Money: blockchain revolution & price stability
 slides https://goo.gl/W3CB8c
 

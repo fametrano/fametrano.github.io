@@ -25,6 +25,10 @@ Italian:
 
 ## Cronological Media Coverage
 
+2019-04-09 Harvard Extension Student Environmental Club  
+Bitcoin and Blockchain Technology: Economics and Environmental Sustainability  
+webinar: <https://youtu.be/36slArIgsbw?t=18>
+
 2019-01-05 Il Sole 24 Ore  
 Criptovalute, quotazioni a picco. Ma Facebook lavora al suo Bitcoin  
 article (ITA): <https://www.ilsole24ore.com/art/finanza-e-mercati/2019-01-04/criptovalute-quotazioni-picco-ma-facebook-lavora-suo-bitcoin-192628.shtml>

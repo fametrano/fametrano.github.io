@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Papers
-description: Papers by Ferdinando M. Ametrano
+description: Papers by Ferdinando M. Ametrano (with links to Google Scholar and SSRN)
 permalink: /papers/
 ---
 

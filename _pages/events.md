@@ -31,7 +31,7 @@ Presentazione dell’osservatorio [Crypto Asset Lab](http://cryptoassetlab.disea
 2019-04-09 Harvard Extension Student Environmental Club  
 Bitcoin and Blockchain Technology: Economics and Environmental Sustainability  
 <https://hesec.extension.harvard.edu/webinars>  
-webinar: <https://harvard-dce.zoom.us/recording/play/ImwfshBLXEnC6QzObuONLRaf_9VKh2xXH0ZYTgl5q2XWOWbuJhyZoIqnIbltZyjc>
+webinar: <https://youtu.be/36slArIgsbw?t=18>
 
 2019-04-06 Palazzo Vecchio, Firenze  
 Seminario sulle monete virtuali

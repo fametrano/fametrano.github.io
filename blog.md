@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+description: Personal blog
 permalink: /blog/
 ---
 

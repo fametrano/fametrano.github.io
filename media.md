@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Media
+description: Collection of assorted media material by Ferdinando M. Ametrano
 permalink: /media/
 ---
 

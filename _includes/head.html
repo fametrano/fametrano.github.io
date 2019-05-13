@@ -1,0 +1,74 @@
+<head>
+
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{page.title}}</title>
+    <meta property="og:title" content="{{page.title| strip_html}}">
+
+    {% if page.description %}
+    <meta name="description" content="{{page.description| strip_html}}">
+    <meta property="og:description" content="{{page.description| strip_html}}">
+    {% elsif page.subtitle %}
+    <meta name="description" content="{{page.subtitle| strip_html}}">
+    <meta property="og:description" content="{{page.subtitle| strip_html}}">
+    {% elsif page.excerpt %}
+    <meta name="description" content="{{page.excerpt| strip_html}}">
+    <meta property="og:description" content="{{page.excerpt| strip_html}}">
+    {% else %}
+    <meta name="description" content="{{site.description| strip_html }}">
+    <meta property="og:description" content="{{site.description| strip_html }}">
+    {% endif %}
+
+    {% if page.image.main %}
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/posts/{{page.image.main}}">
+    {% if page.image.thumb %}
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/posts/{{page.image.thumb}}">
+    {% endif %}
+    {% else %}
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/logo/dgi-logo.png">
+    {% endif %}
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:creator" content="@Ferdinando1970">
+    <meta name="twitter:site" content="@Ferdinando1970">
+
+    <meta property="og:site_name" content="{{site.name| strip_html}}">
+
+    {% if page.url %}
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    <meta name="author" content="{{site.name| strip_html}}">
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    {% elsif post.url %}
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
+    <meta name="author" content="{{post.author| strip_html}}">
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
+    {% endif %}
+
+    {% if page.lang == "it"%}
+    <meta property="og:locale" content="it_IT">
+    {% else %}
+    <meta property="og:locale" content="en_US">
+    {% endif %}
+
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+  
+</head>

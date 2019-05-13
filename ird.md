@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Interest Rate Derivatives Course
+description: Next edition of the 'Interest Rate Derivatives' course, including slides.
 permalink: /ird/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Papers
+description: Papers by Ferdinando M. Ametrano
 permalink: /papers/
 ---
 

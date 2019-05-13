@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Courses
+description: Past, current, and upcoming courses by Ferdinando M. Ametrano
 permalink: /courses/
 ---
 

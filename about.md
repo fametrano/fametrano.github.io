@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About Ferdinando M. Ametrano
+description: "Personal profile of Ferdinando M. Ametrano: bio, affiliations, social networks, photos, public bitcoin address"
 permalink: /about/
 ---
 

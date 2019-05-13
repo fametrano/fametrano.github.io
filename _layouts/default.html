@@ -1,99 +1,83 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+{% if page.lang == "it" %}
+<html lang="it_IT">
+{% else %}
+<html lang="en_US">
+{% endif %}
 
-    {% include meta.html %}
+{% include head.html %}
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+<body>
+  <div class="wrapper-masthead">
+    <div class="container">
+      <header class="masthead clearfix">
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+        <div class="site-info">
+          <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+          <p class="site-description">{{ site.description }}</p>
+        </div>
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
+        <nav>
+          {% if page.url == "/" %}
+          <b><u><a href="{{ site.baseurl }}/">Home</a></u></b>
+          {% else %}
+          <a href="{{ site.baseurl }}/">Home</a>
+          {% endif %}
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+          {% if page.url == "/papers/" %}
+          <b><u><a href="{{ site.baseurl }}/papers/">Papers</a></u></b>
+          {% else %}
+          <a href="{{ site.baseurl }}/papers/">Papers</a>
+          {% endif %}
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-          
-          <div class="site-info">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <p class="site-description">{{ site.description }}</p>
-          </div>
-  
-          <nav>
-              {% if page.url == "/"} %}
-                <b><u><a href="{{ site.baseurl }}/">Home</a></u></b>
-              {% else %}
-                <a href="{{ site.baseurl }}/">Home</a>
-              {% endif %}
+          {% if page.url == "/courses/" %}
+          <b><u><a href="{{ site.baseurl }}/courses/">Courses</a></u></b>
+          {% else %}
+          <a href="{{ site.baseurl }}/courses/">Courses</a>
+          {% endif %}
 
-              {% if page.url == "/papers/"} %}
-                <b><u><a href="{{ site.baseurl }}/papers/">Papers</a></u></b>
-              {% else %}
-                <a href="{{ site.baseurl }}/papers/">Papers</a>
-              {% endif %}
+          {% if page.url == "/events/" %}
+          <b><u><a href="{{ site.baseurl }}/events/">Events</a></u></b>
+          {% else %}
+          <a href="{{ site.baseurl }}/events/">Events</a>
+          {% endif %}
 
-              {% if page.url == "/courses/"} %}
-                <b><u><a href="{{ site.baseurl }}/courses/">Courses</a></u></b>
-              {% else %}
-                <a href="{{ site.baseurl }}/courses/">Courses</a>
-              {% endif %}
+          {% if page.url == "/media/" %}
+          <b><u><a href="{{ site.baseurl }}/media/">Media</a></u></b>
+          {% else %}
+          <a href="{{ site.baseurl }}/media/">Media</a>
+          {% endif %}
 
-              {% if page.url == "/events/"} %}
-                <b><u><a href="{{ site.baseurl }}/events/">Events</a></u></b>
-              {% else %}
-                <a href="{{ site.baseurl }}/events/">Events</a>
-              {% endif %}
+          {% if page.url == "/blog/" %}
+          <b><u><a href="{{ site.baseurl }}/blog/">Blog</a></u></b>
+          {% else %}
+          <a href="{{ site.baseurl }}/blog/">Blog</a>
+          {% endif %}
 
-              {% if page.url == "/media/"} %}
-                <b><u><a href="{{ site.baseurl }}/media/">Media</a></u></b>
-              {% else %}
-                <a href="{{ site.baseurl }}/media/">Media</a>
-              {% endif %}
+          {% if page.url == "/about/" %}
+          <b><u><a href="{{ site.baseurl }}/about/">About</a></u></b>
+          {% else %}
+          <a href="{{ site.baseurl }}/about/">About</a>
+          {% endif %}
+        </nav>
 
-              {% if page.url == "/blog/"} %}
-                <b><u><a href="{{ site.baseurl }}/blog/">Blog</a></u></b>
-              {% else %}
-                <a href="{{ site.baseurl }}/blog/">Blog</a>
-              {% endif %}
-
-              {% if page.url == "/about/"} %}
-                <b><u><a href="{{ site.baseurl }}/about/">About</a></u></b>
-              {% else %}
-                <a href="{{ site.baseurl }}/about/">About</a>
-              {% endif %}
-            </nav>
-
-          </header>
-      </div>
+      </header>
     </div>
+  </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
+  <div id="main" role="main" class="container">
+    {{ content }}
+  </div>
+
+  <div class="wrapper-footer">
+    <div class="container">
+      <footer class="footer">
+        {% include svg-icons.html %}
+      </footer>
     </div>
+  </div>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
+</body>
 
-    {% include analytics.html %}
-  </body>
 </html>

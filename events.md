@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Events
+description: Past, current, and upcoming courses by Ferdinando M. Ametrano
 permalink: /events/
 ---
 
@@ -14,21 +15,26 @@ and whenever I am requested for consulting.
 I can be contacted using this
 [form](https://bit.ly/contactametrano).
 
-# Upcoming events
+## Upcoming events
+
+2019-06-05 Università di Milano-Bicocca  
+Crypto Asset tra tecnologia e tentativi di regolazione  
+Presentazione dell’osservatorio [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)  
+<https://cryptoassetlab.diseade.unimib.it/2019/05/10/presentation.html>
+
+---
+---
+---
+
+## Past events
+
+2019-04-09 Harvard Extension Student Environmental Club  
+Bitcoin and Blockchain Technology: Economics and Environmental Sustainability  
+<https://hesec.extension.harvard.edu/webinars>
+webinar: <https://harvard-dce.zoom.us/recording/play/ImwfshBLXEnC6QzObuONLRaf_9VKh2xXH0ZYTgl5q2XWOWbuJhyZoIqnIbltZyjc>
 
 2019-04-06 Palazzo Vecchio, Firenze  
 Seminario sulle monete virtuali
-![Seminario sulle monete virtuali](/images/20190406-firenze.jpg)
-
-2019-04-09 Harvard Extension Student Environmental Club  
-Bitcoin and Blockchain Technology: Economics and Environmental Sustainability (webinar)  
-<https://hesec.extension.harvard.edu>
-
----
----
----
-
-# Past events
 
 2019-03-25 Dipartimento di Ingegneria dell'Informazione, Università degli Studi di Padova  
 Cryptography and Distributed Consensus: Tools for Better Money

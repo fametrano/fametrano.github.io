@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Bitcoin and Blockchain Technology Course
+description: Next edition of the 'Bitcoin and Blockchain Technology' course, including slides, code, videos, etc.
 permalink: /bbt/
 ---
 
-# Bitcoin and Blockchain Technology, Spring 2019
+## Bitcoin and Blockchain Technology, Spring 2019
 
 Department of Statistics and Quantitative Methods, University of Milano-Bicocca
 

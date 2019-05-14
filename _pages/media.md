@@ -5,32 +5,65 @@ description: Collection of assorted media material by Ferdinando M. Ametrano
 permalink: /media/
 ---
 
-## Selected Contributions
+<details>
+<summary><b>Selected English Contributions</b>:</summary>
+<ul>
+<li>
+Harvard ESEC: <em>Introduction to Bitcoin and Blockchain Technology</em> webinar
+<a href="https://youtu.be/36slArIgsbw?t=18">https://youtu.be/36slArIgsbw?t=18</a>
+</li>
+<li>
+CoinDesk: <em>Why 2017 Will Prove 'Blockchain' Was a Bad Idea</em>
+<a href="<https://www.coindesk.com/2017-will-prove-blockchain-bad-idea">https://www.coindesk.com/2017-will-prove-blockchain-bad-idea</a>
+</li>
+<li>
+The Swift Institute: <em>Bitcoin, Blockchain and the DLT Chimera</em>
+<a href="https://swiftinstitute.org/newsletters/guest-article-bitcoin-blockchain-and-the-dlt-chimera/">https://swiftinstitute.org/newsletters/guest-article-bitcoin-blockchain-and-the-dlt-chimera/</a>
+</li>
+<li>
+United Nations, New York: <em>Bitcoin as Digital Gold</em>
+<a href="https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=10">https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=10</a>
+</li>
+<li>
+Comprehensive YouTube playlist:
+<a href="https://www.youtube.com/playlist?list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ">https://www.youtube.com/playlist?list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ</a>
+</li>
+</ul>
+</details>
 
-English:
-
-* Harvard ESEC "Introduction to Bitcoin and Blockchain Technology" webinar
-  <https://youtu.be/36slArIgsbw?t=18>
-* CoinDesk: _Why 2017 Will Prove 'Blockchain' Was a Bad Idea_ <https://www.coindesk.com/2017-will-prove-blockchain-bad-idea>
-* The Swift Institute: _Bitcoin, Blockchain and the DLT Chimera_ <https://swiftinstitute.org/newsletters/guest-article-bitcoin-blockchain-and-the-dlt-chimera/>
-* United Nations, New York: _Bitcoin as Digital Gold_ <https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=10>
-* Comprehensive YouTube playlist: <https://www.youtube.com/playlist?list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ>
-
-Italian:
-
-* Il Foglio: _Tenete il resto della rivoluzione Bitcoin_ <https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164>
-* Le Iene: _video-intervista_ <https://www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448>
-* video della lezione universitaria introduttiva al corso bitcoin (edizione 2017):
-  <https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=8>
-* blockchain: "Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"
-  <https://ssrn.com/abstract=2832249>  
-  e il video di un'altra lezione universitaria (edizione 2017):
-  <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&t=0s&index=10>
-* aspetti monetari: "Hayek Money: The Cryptocurrency Price Stability Solution"
-  <https://ssrn.com/abstract=2425270>  
-  e il video di un'altra lezione universitaria (edizione 2017):
-  <https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=9>
-* YouTube playlist completa: <https://www.youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp>
+<details>
+<summary><b>Selected Italian Contributions</b>:</summary>
+<ul>
+<li>
+Il Foglio: <em>Tenete il resto della rivoluzione Bitcoin</em>
+<a href="https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164">https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164</a>
+</li>
+<li>
+Le Iene: <em>video-intervista</em>
+<a href="https://www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448">https://www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448</a>
+</li>
+<li>
+video della lezione universitaria introduttiva al corso bitcoin (edizione 2017):
+<a href="https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=8">https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=8</a>
+</li>
+<li>
+blockchain: <em>Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality</em>
+<a href="https://ssrn.com/abstract=2832249">https://ssrn.com/abstract=2832249</a>
+<br>e il video di un'altra lezione universitaria (edizione 2017):
+<a href="https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&t=0s&index=10">https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&t=0s&index=10</a>
+</li>
+<li>
+aspetti monetari: <em>Hayek Money: The Cryptocurrency Price Stability Solution</em>
+<a href="https://ssrn.com/abstract=2425270">https://ssrn.com/abstract=2425270</a>
+<br>e il video di un'altra lezione universitaria (edizione 2017):
+<a href="https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=9">https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=9</a>
+</li>
+<li>
+YouTube playlist completa:
+<a href="https://www.youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp">https://www.youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp</a>
+</li>
+</ul>
+</details>
 
 ---
 

@@ -86,10 +86,10 @@ Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 ---
 
-## Bitcoin public address
+## Bitcoin Public Address
 
-For receiving donation and message signing: [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
-
+For receiving donation and message signing:  
+[1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)  
 [![Bitcoin public address]({{ site.baseurl }}/images/btc-address.png)](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
 
 ---

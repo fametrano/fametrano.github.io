@@ -1,14 +1,32 @@
 ---
 layout: page
 title: About Ferdinando M. Ametrano
-description: "Personal profile of Ferdinando M. Ametrano: bio, affiliations, social networks, photos, public bitcoin address"
+description: "Profile of Ferdinando M. Ametrano: affiliations, bio, social networks, photos, public bitcoin address"
 permalink: /about/
+---
+
+## Affiliations
+
+* Executive Director, [Digital Gold Institute](http://dgi.io)  
+  <http://dgi.io>
+* Scientific Director, [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)  
+  Department of Business and Law, University of Milano-Bicocca  
+  <http://cryptoassetlab.diseade.unimib.it>
+* Adjunct Professor of "Interest Rate Derivatives" and "Bitcoin and Blockchain Technology"  
+  Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
+  <http://www.unimib.it/ferdinando-maria-ametrano>
+* Adjunct Professor of "Bitcoin and Blockchain Technology"  
+  Department of Mathematics, Politecnico di Milano
+* Founder and co-admin, [QuantLib](http://quantlib.org)  
+  <http://quantlib.org>
+
 ---
 
 ## Profile
 
-Executive Director of the
-[Digital Gold Institute](http://www.dgi.io),
+[Digital Gold Institute](http://www.dgi.io) Executive Director and
+[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)
+Scientific Director,
 Ferdinando Ametrano teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)"
 at Politecnico di Milano and University of Milano-Bicocca.
@@ -20,7 +38,8 @@ that he chaired in [Milan 2016](https://milan2016.scalingbitcoin.org/).
 Fintech innovator, technologist, and open source developer,
 he is author of [scientific publications]({{ site.baseurl }}/papers/)
 and contributor to multiple [media]({{ site.baseurl }}/media/) outlets.
-Appreciated [professor]({{ site.baseurl }}/courses/), speaker, panelist, lecturer, and instructor, he has been
+Appreciated [professor]({{ site.baseurl }}/courses/), speaker, panelist,
+lecturer, and instructor, he has been
 invited to [events]({{ site.baseurl }}/events/)
 about bitcoin at the
 [United Nations](https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ),
@@ -47,25 +66,6 @@ Europass CV: <https://www.ametrano.net/cv/CV-Europass-20181029-Ametrano-EN.pdf>
 Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 **email contact form**: <https://bit.ly/contactametrano>
-
----
-
-## Affiliations
-
-* [Digital Gold Institute](http://dgi.io)  
-  Executive Director  
-  <http://dgi.io>
-
-* University of Milano-Bicocca - Department of Statistics and Quantitative Methods  
-  Adjunct Professor  
-  <http://www.unimib.it/ferdinando-maria-ametrano>
-
-* Politecnico di Milano - Department of Mathematics  
-  Adjunct Professor
-
-* [QuantLib](http://quantlib.org)  
-  Founder and co-admin  
-  <http://quantlib.org>
 
 ---
 
@@ -96,8 +96,9 @@ For receiving donation and message signing:
 
 ## Profile Pictures
 
-![Ferdinando M. Ametrano]({{ site.baseurl }}/images/201809AmetranoProfileRectangular.jpg)
+![Ferdinando M. Ametrano]({{ site.baseurl }}/images/201809AmetranoProfileRectangular.jpg)  
+[the above picture 1200x720]({{ site.baseurl }}/images/201809AmetranoProfileRectangular.jpg)
 
-[profile picture 338x338]({{ site.baseurl }}/images/201809AmetranoProfile.jpg)
+[headshot 338x338]({{ site.baseurl }}/images/201809AmetranoProfile.jpg)
 
-[profile picture 1217x1533]({{ site.baseurl }}/images/201710AmetranoProfile.jpg)
+[headshot 1217x1533]({{ site.baseurl }}/images/201710AmetranoProfile.jpg)

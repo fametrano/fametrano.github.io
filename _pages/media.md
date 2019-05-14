@@ -9,6 +9,8 @@ permalink: /media/
 
 English:
 
+* Harvard ESEC "Introduction to Bitcoin and Blockchain Technology" webinar
+  <https://youtu.be/36slArIgsbw?t=18>
 * CoinDesk: _Why 2017 Will Prove 'Blockchain' Was a Bad Idea_ <https://www.coindesk.com/2017-will-prove-blockchain-bad-idea>
 * The Swift Institute: _Bitcoin, Blockchain and the DLT Chimera_ <https://swiftinstitute.org/newsletters/guest-article-bitcoin-blockchain-and-the-dlt-chimera/>
 * United Nations, New York: _Bitcoin as Digital Gold_ <https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=10>
@@ -18,7 +20,16 @@ Italian:
 
 * Il Foglio: _Tenete il resto della rivoluzione Bitcoin_ <https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164>
 * Le Iene: _video-intervista_ <https://www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448>
-* Università di Milano-Bicocca: _Tre lezioni dal corso Bitcoin and Blockchain Technology (edizione 2017)_ <https://www.youtube.com/playlist?list=PLrVvuryXHYTdzvtpzrj4wvYEhCwF6G82b>
+* video della lezione universitaria introduttiva al corso bitcoin (edizione 2017):
+  <https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=8>
+* blockchain: "Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"
+  <https://ssrn.com/abstract=2832249>  
+  e il video di un'altra lezione universitaria (edizione 2017):
+  <https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&t=0s&index=10>
+* aspetti monetari: "Hayek Money: The Cryptocurrency Price Stability Solution"
+  <https://ssrn.com/abstract=2425270>  
+  e il video di un'altra lezione universitaria (edizione 2017):
+  <https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=9>
 * YouTube playlist completa: <https://www.youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp>
 
 ---

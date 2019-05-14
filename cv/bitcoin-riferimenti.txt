@@ -1,21 +1,5 @@
 - intervista "Bitcoin: oro digitale, finanza e tulipani" che rispondere alle domande più comuni:  
   https://docs.google.com/document/d/1gecm0uT43tl8d4WFYNs9H_v3p70PPfPmQITR4GxSWkE
 
-- intervista concessa alle Iene (Mediaset)  
-  https://www.iene.mediaset.it/video/ferdinando-ametrano_66046.shtml
-
-- Il Foglio: Tenete il resto della rivoluzione Bitcoin  
-  https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164
-
-- lezione universitaria introduttiva al corso bitcoin:  
-  https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=8
-
-- blockchain: "Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"  
-  https://ssrn.com/abstract=2832249  
-  e il video di un'altra lezione universitaria:  
-  https://www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&t=0s&index=10
-
-- aspetti monetari: "Hayek Money: The Cryptocurrency Price Stability Solution"  
-  https://ssrn.com/abstract=2425270
-  e il video di un'altra lezione universitaria:
-  https://www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=9
+- I primi bitcoin
+  https://docs.google.com/document/d/1nJ_r4yvpFyl5kt89maipKpWdysKT6tnPo7M4Oi84_I0

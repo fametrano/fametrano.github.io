@@ -84,9 +84,17 @@ Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 <https://www.youtube.com/c/FerdinandoMAmetrano>  
 <https://scholar.google.com/citations?user=dFSSrwwAAAAJ>
 
-Bitcoin public address for receiving donation and message signing: [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
+---
+
+## Bitcoin public address
+
+For receiving donation and message signing: [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
 
 [![Bitcoin public address]({{ site.baseurl }}/images/btc-address.png)](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
+
+---
+
+## Profile Pictures
 
 ![Ferdinando M. Ametrano]({{ site.baseurl }}/images/201809AmetranoProfileRectangular.jpg)
 

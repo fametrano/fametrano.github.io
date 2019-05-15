@@ -96,8 +96,8 @@ Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 ## Profile Pictures
 
 ![Ferdinando M. Ametrano]({{ site.baseurl }}/images/201809AmetranoProfileRectangular.jpg)  
-[above picture (1200x720)]({{ site.baseurl }}/images/201809AmetranoProfileRectangular.jpg)
+[above picture (1200 x 720)]({{ site.baseurl }}/images/201809AmetranoProfileRectangular.jpg)
 
-[headshot (338x338)]({{ site.baseurl }}/images/201809AmetranoProfile.jpg)
+[headshot (338 x 338)]({{ site.baseurl }}/images/201809AmetranoProfile.jpg)
 
-[headshot (1217x1533)]({{ site.baseurl }}/images/201710AmetranoProfile.jpg)
+[headshot (1217 x 1533)]({{ site.baseurl }}/images/201710AmetranoProfile.jpg)

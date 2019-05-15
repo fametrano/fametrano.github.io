@@ -18,9 +18,9 @@ I can be contacted using this
 ## Upcoming events
 
 2019-06-05 Università di Milano-Bicocca  
-Crypto Asset tra tecnologia e tentativi di regolazione  
-Presentazione dell’osservatorio [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)  
-<https://cryptoassetlab.diseade.unimib.it/2019/05/10/presentation.html>
+Crypto Asset tra tecnologia e tentativi di regolazione: presentazione dell’osservatorio [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)  
+<https://cryptoassetlab.diseade.unimib.it/2019/05/10/presentation.html>  
+![Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/images/cal6.svg)
 
 ---
 ---

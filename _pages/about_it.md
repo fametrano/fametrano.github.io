@@ -22,11 +22,11 @@ permalink: /it/about/
 
 ---
 
-## Profile
+## Profilo biografico
 
-Direttore del *[Digital Gold Institute](http://www.dgi.io)* e del *[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)*, Ferdinando Ametrano insegna *Bitcoin and Blockchain Technologies* all'Università di Milano-Bicocca e Politecnico di Milano. È stato *[Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)* in Intesa Sanpaolo e membro del Comitato Organizzatore della conferenza *Scaling Bitcoin*.
+Direttore del *[Digital Gold Institute](http://www.dgi.io)* e del *[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)*, Ferdinando Ametrano insegna *Bitcoin and Blockchain Technologies* all'Università di Milano-Bicocca e Politecnico di Milano. È stato *[Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)* in Intesa Sanpaolo e membro del Comitato Organizzatore della conferenza *[Scaling Bitcoin](https://scalingbitcoin.org/)*.
 
-Innovatore nel campo *fintech*, sviluppatore *open source*, è autore di [pubblicazioni scientifiche]({{ site.baseurl }}/papers/) e collabora con molteplici [organi di informazione]({{ site.baseurl }}/media/). Apprezzato come [docente]({{ site.baseurl }}/courses/) e divulgatore, è regolarmente invitato a parlare di bitcoin e blockchain in [eventi]({{ site.baseurl }}/events/)], organizzati anche a [Montecitorio](https://www.youtube.com/watch?v=vLM3FUuCFLY&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=2), dalle [Nazioni Unite](https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ), da diverse banche centrali e numerose università.
+Innovatore nel campo *fintech*, sviluppatore *open source*, è autore di [pubblicazioni scientifiche]({{ site.baseurl }}/papers/) e collabora con molteplici [organi di informazione]({{ site.baseurl }}/media/). Apprezzato come [docente]({{ site.baseurl }}/courses/) e divulgatore, è regolarmente invitato a parlare di bitcoin e blockchain in [eventi]({{ site.baseurl }}/events/), organizzati anche a [Montecitorio](https://www.youtube.com/watch?v=vLM3FUuCFLY&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=2), dalle [Nazioni Unite](https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ), da diverse banche centrali e numerose università.
 
 La sua [ricerca accademica]({{ site.baseurl }}/papers/) è focalizzata sulla stabilità dei prezzi, proponendo una nuova generazione di criptovalute a politica monetaria elastica ma automatizzata e non discrezionale ([Hayek Money](https://ssrn.com/abstract=2425270)).
 

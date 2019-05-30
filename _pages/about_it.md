@@ -17,7 +17,7 @@ permalink: /it/about/
   <http://www.unimib.it/ferdinando-maria-ametrano>
 * Professore a Contratto di *Bitcoin and Blockchain Technology*  
   Departimento di Matematica, Politecnico di Milano
-* Fondatore e co-amministratore, [QuantLib](http://quantlib.org)  
+* Fondatore e co-amministratore, QuantLib  
   <http://quantlib.org>
 
 ---
@@ -32,7 +32,7 @@ La sua [ricerca accademica]({{ site.baseurl }}/papers/) è focalizzata sulla sta
 
 È anche fondatore e co-amministratore di [QuantLib](https://www.quantlib.org), il più importante progetto *open source* di software per la finanza quantitativa. Insegna *[Interest Rate Derivatives]({{ site.baseurl }}/ird/)* all'Università Milano-Bicocca ed ha rilevanti pubblicazioni sull'[argomento](https://ssrn.com/author=510135). In passato ha guidato team di trading, quantitativi e risk management in Banca IMI, Banca Caboto e Monte Paschi Asset Management; è stato anche co-fondatore e managing partner di RiskMap (oggi StatPro Italia).
 
-CV Europass CV: <https://www.ametrano.net/cv/CV-Europass-20181029-Ametrano-EN.pdf>
+CV Europass: <https://www.ametrano.net/cv/CV-Europass-20181029-Ametrano-EN.pdf>
 CV (due pagine): <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 **modulo per contatto email**: <https://bit.ly/contactametrano>
@@ -70,4 +70,4 @@ CV (due pagine): <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 [solo volto (338 x 338)]({{ site.baseurl }}/images/201809AmetranoProfile.jpg)
 
-[solo volto (1217 x 1533)]({{ site.baseurl }}/images/201710AmetranoProfile.jpg)
+[solo volto, diversa e in HD (1217 x 1533)]({{ site.baseurl }}/images/201710AmetranoProfile.jpg)

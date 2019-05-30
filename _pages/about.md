@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Ferdinando M. Ametrano
+title: About Ferdinando Ametrano
 description: "Profile of Ferdinando M. Ametrano: affiliations, bio, social networks, photos, public bitcoin address"
 permalink: /about/
 ---
@@ -30,7 +30,7 @@ Scientific Director,
 Ferdinando Ametrano teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)"
 at Politecnico di Milano and University of Milano-Bicocca.
-Former [Head of Blockchain and Virtual Currencies](https://goo.gl/QdDTuN)
+Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
 in Intesa Sanpaolo bank, he has been Planning Committee member of the
 [Scaling Bitcoin Conference](https://scalingbitcoin.org/)
 that he chaired in [Milan 2016](https://milan2016.scalingbitcoin.org/).
@@ -60,7 +60,7 @@ University of Milano-Bicocca, he has
 has headed trading, quantitative, and risk-management teams in Banca IMI
 (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has
 also been co-founder and managing partner of RiskMap
-(now [StatPro](https://www.statpro.com/) Italia).
+(now StatPro Italia).
 
 Europass CV: <https://www.ametrano.net/cv/CV-Europass-20181029-Ametrano-EN.pdf>
 Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>

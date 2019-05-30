@@ -43,7 +43,6 @@ CV (due pagine): <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 <https://github.com/fametrano>  
 <https://ssrn.com/author=510135>  
-<https://onename.com/nando1970>  
 <https://medium.com/@nando1970>  
 <https://twitter.com/Ferdinando1970>  
 <https://speakerdeck.com/nando1970>  

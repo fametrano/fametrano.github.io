@@ -32,8 +32,7 @@ Ferdinando Ametrano teaches
 at Politecnico di Milano and University of Milano-Bicocca.
 Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
 in Intesa Sanpaolo bank, he has been Planning Committee member of the
-[Scaling Bitcoin Conference](https://scalingbitcoin.org/)
-that he chaired in [Milan 2016](https://milan2016.scalingbitcoin.org/).
+[Scaling Bitcoin Conference](https://scalingbitcoin.org/).
 
 Fintech innovator, technologist, and open source developer,
 he is author of [scientific publications]({{ site.baseurl }}/papers/)

@@ -7,9 +7,9 @@ permalink: /about/
 
 ## Affiliations
 
-* Executive Director, [Digital Gold Institute](http://dgi.io)  
+* Executive Director, Digital Gold Institute  
   <http://dgi.io>
-* Scientific Director, [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)  
+* Scientific Director, Crypto Asset Lab  
   Department of Business and Law, University of Milano-Bicocca  
   <http://cryptoassetlab.diseade.unimib.it>
 * Adjunct Professor of "Interest Rate Derivatives" and "Bitcoin and Blockchain Technology"  
@@ -53,7 +53,7 @@ of cryptocurrencies ([Hayek Money](https://ssrn.com/abstract=2425270)).
 He is also founder and co-administrator of the
 [QuantLib](https://www.quantlib.org) project,
 a comprehensive free/open-source software framework for quantitative finance.
-[Interest Rate Derivatives]({{ site.baseurl }}/ird/) Adjunct Professor at the
+"[Interest Rate Derivatives]({{ site.baseurl }}/ird/)" Adjunct Professor at the
 University of Milano-Bicocca, he has
 [relevant publications](https://ssrn.com/author=510135) on this subject and
 has headed trading, quantitative, and risk-management teams in Banca IMI

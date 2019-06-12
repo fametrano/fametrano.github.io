@@ -17,7 +17,7 @@ permalink: /about/
   <http://www.unimib.it/ferdinando-maria-ametrano>
 * Adjunct Professor of "Bitcoin and Blockchain Technology"  
   Department of Mathematics, Politecnico di Milano
-* Founder and co-admin of QuantLib and btclib
+* Founder and co-admin of QuantLib and btclib  
   <http://quantlib.org>, <https://github.com/dginst/btclib>
 
 ---

@@ -18,7 +18,7 @@ permalink: /it/about/
 * Professore a Contratto di *Bitcoin and Blockchain Technology*  
   Departimento di Matematica, Politecnico di Milano
 * Fondatore e co-amministratore, QuantLib e btclib  
-  <http://quantlib.org>, <https://github.com/dginst/btclib>
+  <http://quantlib.org>, <http://github.com/dginst/btclib>
 
 ---
 

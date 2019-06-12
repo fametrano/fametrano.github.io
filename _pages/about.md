@@ -18,7 +18,7 @@ permalink: /about/
 * Adjunct Professor of "Bitcoin and Blockchain Technology"  
   Department of Mathematics, Politecnico di Milano
 * Founder and co-admin of QuantLib and btclib  
-  <http://quantlib.org>, <https://github.com/dginst/btclib>
+  <http://quantlib.org>, <http://github.com/dginst/btclib>
 
 ---
 

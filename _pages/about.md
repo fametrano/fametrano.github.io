@@ -17,8 +17,8 @@ permalink: /about/
   <http://www.unimib.it/ferdinando-maria-ametrano>
 * Adjunct Professor of "Bitcoin and Blockchain Technology"  
   Department of Mathematics, Politecnico di Milano
-* Founder and co-admin, QuantLib  
-  <http://quantlib.org>
+* Founder and co-admin of QuantLib and btclib
+  <http://quantlib.org>, <https://github.com/dginst/btclib>
 
 ---
 
@@ -33,8 +33,9 @@ at Politecnico di Milano and University of Milano-Bicocca.
 Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
 in Intesa Sanpaolo bank, he has been Planning Committee member of the
 [Scaling Bitcoin Conference](https://scalingbitcoin.org/)
-and is an
-[occasional trivial contributor to Bitcoin Core](https://github.com/bitcoin/bitcoin/pulls?q=is%3Apr+author%3Afametrano).
+and is an occasional trivial
+[contributor](https://github.com/bitcoin/bitcoin/pulls?q=is%3Apr+author%3Afametrano)
+to Bitcoin Core.
 
 Fintech innovator, technologist, and
 [open source developer](https://github.com/fametrano),

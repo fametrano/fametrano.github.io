@@ -17,8 +17,8 @@ permalink: /it/about/
   <http://www.unimib.it/ferdinando-maria-ametrano>
 * Professore a Contratto di *Bitcoin and Blockchain Technology*  
   Departimento di Matematica, Politecnico di Milano
-* Fondatore e co-amministratore, QuantLib  
-  <http://quantlib.org>
+* Fondatore e co-amministratore, QuantLib e btclib
+  <http://quantlib.org>, <https://github.com/dginst/btclib>
 
 ---
 
@@ -35,7 +35,8 @@ in Intesa Sanpaolo,
 membro del Comitato Organizzatore della conferenza
 *[Scaling Bitcoin](https://scalingbitcoin.org/)*,
 ha occasionalmente e marginalmente
-[contribuito a Bitcoin Core](https://github.com/bitcoin/bitcoin/pulls?q=is%3Apr+author%3Afametrano).
+[contribuito](https://github.com/bitcoin/bitcoin/pulls?q=is%3Apr+author%3Afametrano)
+a Bitcoin Core.
 
 Innovatore nel campo *fintech*,
 [sviluppatore *open source*](https://github.com/fametrano),

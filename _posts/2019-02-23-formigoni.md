@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: Per un giudizio politico e culturale su cosa sia il bene comune
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: Bitcoin, Blockchain e la Chimera DLT
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: Crimine e bitcoin
 published: true
 ---

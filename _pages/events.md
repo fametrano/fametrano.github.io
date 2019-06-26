@@ -24,7 +24,8 @@ diretta Facebook
 2019-07-04 Bicocca Alumni  
 [The Blockchain Series: Bitcoin First](https://www.bicoccalumni.it/it/news-ed-eventi/the-blockchain-series-bitcoin-first)  
 18:30-21:00 Spazio MIL, via Luigi Granelli, Sesto San Giovanni  
-Accesso gratuito previa [registrazione](https://www.eventbrite.it/e/biglietti-the-blockchain-series-bitcoin-first-63424591661)
+Accesso gratuito previa [registrazione](https://www.eventbrite.it/e/biglietti-the-blockchain-series-bitcoin-first-63424591661)  
+[![The Blockchain Series: Bitcoin First](/images/20190704-alumni-bicocca-2.jpg)](https://www.bicoccalumni.it/it/news-ed-eventi/the-blockchain-series-bitcoin-first)
 
 2019-07-11 Istituto Bruno Leoni / Crypto Asset Lab  
 Bitcoin e Libra  
@@ -38,8 +39,9 @@ Milano
 
 2019-09-30 Craon CodeCampus  
 [₿lockchain Dates](https://www.craon.it/blockchain-dates-early-bird/): workshop sull’Internet del valore, tra bitcoin e blockchain.  
-10:00-18:00 Hotel Michelangelo, Piazza Luigi di Savoia 6, Milano
-[iscrizione obbligatoria](https://www.craon.it/blockchain-dates-early-bird/#form)
+10:00-18:00 Hotel Michelangelo, Piazza Luigi di Savoia 6, Milano  
+[iscrizione obbligatoria](https://www.craon.it/blockchain-dates-early-bird/#form)  
+[![₿lockchain Dates](/images/20190930-blockchain-dates.jpg)](https://www.craon.it/blockchain-dates-early-bird/)
 
 ---
 ---
@@ -48,9 +50,9 @@ Milano
 ## Past events
 
 2019-06-05 Università di Milano-Bicocca  
-Crypto Asset tra tecnologia e tentativi di regolazione: presentazione dell’osservatorio [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)  
-<https://cryptoassetlab.diseade.unimib.it/2019/05/10/presentation.html>  
-![Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/img/cal6.svg)
+Crypto Asset tra tecnologia e tentativi di regolazione  
+Presentazione dell’osservatorio [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)  
+<https://cryptoassetlab.diseade.unimib.it/2019/06/12/workshop.html>  
 
 2019-04-09 Harvard Extension Student Environmental Club  
 Bitcoin and Blockchain Technology: Economics and Environmental Sustainability  

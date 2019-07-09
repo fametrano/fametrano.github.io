@@ -17,20 +17,10 @@ I can be contacted using this
 
 ## Upcoming events
 
-2019-06-26 Il Sole 24 Ore  
-Bitcoin e Libra  
-diretta Facebook
-
-2019-07-04 Bicocca Alumni  
-[The Blockchain Series: Bitcoin First](https://www.bicoccalumni.it/it/news-ed-eventi/the-blockchain-series-bitcoin-first)  
-18:30-21:00 Spazio MIL, via Luigi Granelli, Sesto San Giovanni  
-Accesso gratuito previa [registrazione](https://www.eventbrite.it/e/biglietti-the-blockchain-series-bitcoin-first-63424591661)  
-[![The Blockchain Series: Bitcoin First](/images/20190704-alumni-bicocca-2.jpg)](https://www.bicoccalumni.it/it/news-ed-eventi/the-blockchain-series-bitcoin-first)
-
-2019-07-11 Istituto Bruno Leoni / Crypto Asset Lab  
-Bitcoin e Libra  
+2019-07-11 [Istituto Bruno Leoni](http://www.brunoleoni.it/criptovalute-cosa-cambia-con-libra) / [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/2019/07/05/) / [Università Milano-Bicocca](https://www.diseade.unimib.it/it/eventi/criptovalute-cosa-cambia-libra)  
+[Bitcoin e Libra](https://www.facebook.com/events/2435413189854205)  
 18:00, Piazza Castello 23, Milano  
-Accesso gratuito previa registrazione (link disponibile a breve)
+Accesso gratuito previa [registrazione](https://www.eventbrite.it/e/biglietti-criptovalute-cosa-cambia-con-libra-64718684327)
 
 2019-09-20 Le Fonti  
 Criptovalute e crypto-assets: qualificazione giuridica e prospettive di mercato  
@@ -48,6 +38,10 @@ Milano
 ---
 
 ## Past events
+
+2019-07-04 Bicocca Alumni  
+[The Blockchain Series: Bitcoin First](https://www.bicoccalumni.it/it/news-ed-eventi/the-blockchain-series-bitcoin-first)  
+18:30-21:00 Spazio MIL, via Luigi Granelli, Sesto San Giovanni  
 
 2019-06-05 Università di Milano-Bicocca  
 Crypto Asset tra tecnologia e tentativi di regolazione  

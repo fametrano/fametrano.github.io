@@ -69,6 +69,10 @@ YouTube playlist completa:
 
 ## Cronological Media Coverage
 
+2019-06-26 Il Sole 24 Ore, diretta Facebook  
+Bitcoin e Libra  
+<https://www.youtube.com/watch?v=EQPdmLzikGQ&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=44&t=344s>
+
 2019-04-09 Harvard Extension Student Environmental Club  
 Bitcoin and Blockchain Technology: Economics and Environmental Sustainability  
 webinar: <https://youtu.be/36slArIgsbw?t=18>

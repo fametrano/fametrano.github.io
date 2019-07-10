@@ -28,8 +28,8 @@ Milano
 (dettagli disponibili a breve)
 
 2019-09-30 Craon CodeCampus  
-[₿lockchain Dates](https://www.craon.it/blockchain-dates-early-bird/): workshop sull’Internet del valore, tra bitcoin e blockchain.  
 10:00-18:00 Hotel Michelangelo, Piazza Luigi di Savoia 6, Milano  
+[₿lockchain Dates](https://www.craon.it/blockchain-dates-early-bird/): workshop sull’Internet del valore, tra bitcoin e blockchain  
 [iscrizione obbligatoria](https://www.craon.it/blockchain-dates-early-bird/#form)  
 [![₿lockchain Dates]({{ site.baseurl }}/images/blockchain_dates/banner-orizzontale.jpg)](https://www.craon.it/blockchain-dates-early-bird/)
 

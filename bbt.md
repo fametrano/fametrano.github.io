@@ -74,8 +74,8 @@ on so many and so different knowledge areas.
 ## Teaching method
 
 * Slide based lessons with associated bibliography
-* Python 3 programming assignments and technology assignments
-* Workshop labs on Bitcoin Core, Electrum, and OpenTimestamps
+* [Python 3](https://www.python.org/) programming assignments and technology assignments
+* Workshop labs on [Bitcoin Core](https://bitcoincore.org/), [Electrum](https://electrum.org), and [OpenTimestamps](https://opentimestamps.org/)
 
 At the end of the course students are invited to compile the _course evaluation form_: <https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit>
 

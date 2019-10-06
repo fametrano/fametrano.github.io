@@ -13,7 +13,7 @@ Course page: <https://elearning.unimib.it/course/info.php?id=25312>
 
 Please subscribe the course mailing list sending an e-mail to
 [ird2019-bicocca+subscribe@dgi.io](mailto:ird2019-bicocca+subscribe@dgi.io);
-you will be also invited to join the 201910-bicocca channel in the IRD Slack workspace.
+you will be also invited to join the 201910-bicocca channel in the Slack [IRD workspace](https://join.slack.com/t/ird-bicocca/signup).
 
 ## Learning objectives
 

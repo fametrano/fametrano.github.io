@@ -13,7 +13,7 @@ Course page: <https://https://elearning.unimib.it/course/info.php?id=25308>
 
 Please subscribe the course mailing list sending an e-mail to
 [bbt2019-bicocca+subscribe@dgi.io](mailto:bbt2019-bicocca+subscribe@dgi.io);
-you will be also invited to join the 201910-bicocca channel in the BBT Slack workspace.
+you will be also invited to join the 201910-bicocca channel in the Slack [BBT workspace](https://join.slack.com/t/bbt-training/signup).
 
 ## Learning objectives
 

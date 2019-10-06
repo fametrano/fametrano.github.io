@@ -11,7 +11,7 @@ permalink: /courses/
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
 * [Interest Rate Derivatives, Fall 2019]({{ site.baseurl }}/ird/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* [Bitcoin and Blockchain Technology, Spring 2020]({{ site.baseurl }}/bbt/)  
+* [Bitcoin and Blockchain Technology, Spring 2020]  
   _Department of Mathematics, University of Milan_
 
 For events, seminars, and conferences where I have been engaged

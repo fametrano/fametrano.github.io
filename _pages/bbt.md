@@ -9,7 +9,7 @@ permalink: /bbt/
 
 Department of Statistics and Quantitative Methods, University of Milano-Bicocca
 
-Course page: <https://https://elearning.unimib.it/course/info.php?id=25308>  
+Course page: <https://elearning.unimib.it/course/info.php?id=25308>  
 
 Please subscribe the course mailing list sending an e-mail to
 [bbt2019-bicocca+subscribe@dgi.io](mailto:bbt2019-bicocca+subscribe@dgi.io);
@@ -93,6 +93,8 @@ At the end of the course students are invited to compile the _course evaluation 
 Italian or English, the latter if foreign students are present.
 
 ## Lessons' calendar and material
+
+Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/), assistant lecturer.
 
 1. Wednesday 2019-10-09 16:30-18:30 edificio U6 aula 33  
    _Bitcoin as Digital Gold_  

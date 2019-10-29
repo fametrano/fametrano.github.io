@@ -29,10 +29,10 @@ permalink: /about/
 Scientific Director,
 Ferdinando Ametrano teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)"
-at University of Milano-Bicocca and Politecnico di Milano.
+at University of Milano-Bicocca.
 Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
 in Intesa Sanpaolo bank, he has been Planning Committee member of the
-[Scaling Bitcoin Conference](https://scalingbitcoin.org/)
+[Scaling Bitcoin](https://scalingbitcoin.org/) conference
 and is an occasional trivial
 [contributor](https://github.com/bitcoin/bitcoin/pulls?q=is%3Apr+author%3Afametrano)
 to Bitcoin Core.

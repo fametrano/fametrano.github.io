@@ -28,7 +28,7 @@ Direttore del *[Digital Gold Institute](http://dgi.io)*
 e del *[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)*,
 Ferdinando Ametrano insegna
 *[Bitcoin and Blockchain Technologies]({{ site.baseurl }}/bbt/)*
-all'Università di Milano-Bicocca e Politecnico di Milano.
+all'Università di Milano-Bicocca.
 È stato
 *[Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)*
 in Intesa Sanpaolo,

@@ -64,35 +64,38 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
     _Interest Rate Basics_ ([slides](https://speakerdeck.com/nando1970/interest-rate-basics))  
     _Workshop on Interest Rate Basics_
 01. Tuesday 2019-10-22 14:30-16:30 edificio U6 aula 20  
-    _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))
+    _Interest Rate Basics_ ([slides](https://speakerdeck.com/nando1970/interest-rate-basics))  
+    _Workshop on Interest Rate Basics_
 01. Friday 2019-10-25 12:30-14:30 edificio U6 aula 22  
-   _Workshop on Rate Curve Bootstrapping_
+    _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))
 01. Tuesday 2019-10-29 14:30-16:30 edificio U6 aula 20  
-    _Credit Derivatives_ ([slides](https://www.dropbox.com/s/dcqb23wer56wb44/20181108%20Credit%20Risk.pdf?dl=0))  
+    _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))
 01. Tuesday 2019-11-05 14:30-16:30 edificio U6 aula 20  
-    _Workshop on Credit Curve Bootstrapping and Credit Default Swaps_
+    _Black Model_ ([slides](https://www.dropbox.com/s/0rzl7wyzauxg34p/20181115%20Black%20Model.pdf?dl=0)) 
 01. Friday 2019-11-08 12:30-14:30 edificio U6 aula 22  
-    _XVAs_ with [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/) ([slides](https://www.dropbox.com/s/gyzmm2ao9alu8id/20181108%20intro-xva-prampolini-18.pdf?dl=0))
-01. Tuesday 2019-11-12 14:30-16:30 edificio U6 aula 20  
-    _Black Model_ ([slides](https://www.dropbox.com/s/0rzl7wyzauxg34p/20181115%20Black%20Model.pdf?dl=0))  
-01. Friday 2019-11-15 12:30-14:30 edificio U6 aula 22  
     _Volatility_ with [Nicola Moreni](https://www.linkedin.com/in/nicola-moreni-a636a7/) ([slides](https://www.dropbox.com/s/q4kc6t90sp19yim/20181115%20Moreni%20Volatility.pdf?dl=0))
-01. Tuesday 2019-11-26 14:30-16:30 edificio U6 aula 20  
+01. Tuesday 2019-11-12 14:30-16:30 edificio U6 aula 20  
+    _Workshop on Rate Curve Bootstrapping_
+01. Friday 2019-11-15 12:30-14:30 edificio U6 aula 22  
     _Caps and Floors_ with [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/) ([slides](https://www.dropbox.com/s/6khjt02ih22cygo/20181206%20Clerici%20CapFloor.pdf?dl=0))  
-01. Friday 2019-11-29 12:30-14:30 edificio U6 aula 22  
+01. Tuesday 2019-11-26 14:30-16:30 edificio U6 aula 20  
     _Swaptions_ ([slides](https://www.dropbox.com/s/pge5gzzafk31sqk/20181213%20De%20Nuccio%20Swaption.pdf?dl=0))  
-01. Tuesday 2019-12-03 14:30-16:30 edificio U6 aula 20  
+01. Friday 2019-11-29 12:30-14:30 edificio U6 aula 22  
     _Workshop on Caps/Floors and Swaptions_  
     _Workshop on Greeks and Hedging_
-01. Friday 2019-12-06 12:30-14:30 edificio U6 aula 22  
+01. Tuesday 2019-12-03 14:30-16:30 edificio U6 aula 20  
     _Interest Rate Models_ ([slides](https://www.dropbox.com/s/uelte1lvn3uqnea/20181220%20Interest%20Rate%20Models.pdf?dl=0))  
-    _Workshop on Bermudan Swaptions and Final Assignment_  
+    _Workshop on Bermudan Swaptions_  
+01. Friday 2019-12-06 12:30-14:30 edificio U6 aula 22  
+    _Credit Derivatives_ ([slides](https://www.dropbox.com/s/dcqb23wer56wb44/20181108%20Credit%20Risk.pdf?dl=0))  
+    _Workshop on Credit Curve Bootstrapping and Credit Default Swaps_
 01. Tuesday 2019-12-10 14:30-16:30 edificio U6 aula 20  
-    Quantitative Finance: guest lecturer to be announced
+    _XVAs_ with [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/) ([slides](https://www.dropbox.com/s/gyzmm2ao9alu8id/20181108%20intro-xva-prampolini-18.pdf?dl=0))
 01. Friday 2019-12-13 12:30-14:30 edificio U6 aula 22  
-    Risk Management: guest lecturer to be announced  
+    Quantitative Finance / Risk Management: guest lecturer to be announced  
     Anonymous course evaluation [forms](https://www.dropbox.com/s/95o6sglk70oz41u/20190110%20Course%20Valuation%20Form.docx?dl=0) will be collected
 01. Tuesday 2019-12-17 14:30-16:30 edificio U6 aula 20  
     Catch-up lesson slot to be used only in case of previous cancelled lessons
 01. Friday 2019-12-20 12:30-14:30 edificio U6 aula 22  
     Catch-up lesson slot to be used only in case of previous cancelled lessons
+

@@ -71,7 +71,7 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
 01. Tuesday 2019-10-29 14:30-16:30 edificio U6 aula 20  
     _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))
 01. Tuesday 2019-11-05 14:30-16:30 edificio U6 aula 20  
-    _Black Model_ ([slides](https://www.dropbox.com/s/0rzl7wyzauxg34p/20181115%20Black%20Model.pdf?dl=0)) 
+    _Black Model_ ([slides](https://www.dropbox.com/s/0rzl7wyzauxg34p/20181115%20Black%20Model.pdf?dl=0))
 01. Friday 2019-11-08 12:30-14:30 edificio U6 aula 22  
     _Volatility_ with [Nicola Moreni](https://www.linkedin.com/in/nicola-moreni-a636a7/) ([slides](https://www.dropbox.com/s/q4kc6t90sp19yim/20181115%20Moreni%20Volatility.pdf?dl=0))
 01. Tuesday 2019-11-12 14:30-16:30 edificio U6 aula 20  
@@ -98,4 +98,3 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
     Catch-up lesson slot to be used only in case of previous cancelled lessons
 01. Friday 2019-12-20 12:30-14:30 edificio U6 aula 22  
     Catch-up lesson slot to be used only in case of previous cancelled lessons
-

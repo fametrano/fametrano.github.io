@@ -77,9 +77,9 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
 01. Tuesday 2019-11-12 14:30-16:30 edificio U6 aula 20  
     _Workshop on Rate Curve Bootstrapping_
 01. Friday 2019-11-15 12:30-14:30 edificio U6 aula 22  
-    _Caps and Floors_ with [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/) ([slides](https://www.dropbox.com/s/6khjt02ih22cygo/20181206%20Clerici%20CapFloor.pdf?dl=0))  
-01. Tuesday 2019-11-26 14:30-16:30 edificio U6 aula 20  
     _Swaptions_ ([slides](https://www.dropbox.com/s/pge5gzzafk31sqk/20181213%20De%20Nuccio%20Swaption.pdf?dl=0))  
+01. Tuesday 2019-11-26 14:30-16:30 edificio U6 aula 20  
+    _Caps and Floors_ with [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/) ([slides](https://www.dropbox.com/s/6khjt02ih22cygo/20181206%20Clerici%20CapFloor.pdf?dl=0))  
 01. Friday 2019-11-29 12:30-14:30 edificio U6 aula 22  
     _Workshop on Caps/Floors and Swaptions_  
     _Workshop on Greeks and Hedging_

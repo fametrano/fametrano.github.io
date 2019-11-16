@@ -35,9 +35,11 @@ this Carrefour attempt, and similar campaigns are just
 dishonest marketing gimmick, i.e. misleading advertising.
 
 What is infuriating about these initiatives is the attempt to promote trust
-in non-sound technological choices: noted security expert Bruce Schneier
-called supply-chain security “an insurmountably hard problem.”, it is
-a daunting task for electronics
-(see Bruce Schneier on [The Washington Post](https://www.washingtonpost.com/news/posteverything/wp/2018/05/08/banning-chinese-phones-wont-fix-security-problems-with-our-electronic-supply-chain)), and chickens too.
+in non-sound technological choices;
+according to the noted security expert Bruce Schneier
+"supply-chain security is an incredibly complex problem”
+(see [The Washington Post](https://www.washingtonpost.com/news/posteverything/wp/2018/05/08/banning-chinese-phones-wont-fix-security-problems-with-our-electronic-supply-chain)):
+what is an "insurmountable problem right now" for electronics,
+it is a daunting task for chickens too.
 
 ![chicken blockchain](/images/chicken-blockchain.jpg)

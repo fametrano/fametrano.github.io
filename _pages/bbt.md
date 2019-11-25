@@ -97,42 +97,38 @@ Italian or English, the latter if foreign students are present.
 Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/), assistant lecturer.
 
 01. Wednesday 2019-10-09 16:30-18:30 edificio U6 aula 33  
-    _Bitcoin as Digital Gold_  
-    slides: <https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho>  
+    _Bitcoin as Digital Gold_ (part 1)  
+    [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. Wednesday 2019-10-16 16:30-18:30 edificio U6 aula 33  
-    _Blockchain, Mining, and Distributed Consensus_ (part 1)  
-    slides: <https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz>
+    _Bitcoin as Digital Gold_ (part 2)  
+    [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. Wednesday 2019-10-23 16:30-18:30 edificio U6 aula 33  
-    _Blockchain, Mining, and Distributed Consensus_ (part 2)  
-    slides: <https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz>
+    _Blockchain, Mining, and Distributed Consensus_ (part 1)  
+    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
 01. Wednesday 2019-10-30 16:30-18:30 edificio U6 aula 33  
-    _Elliptic Curve Digital Signature Algorithm_ (part 1)  
-    slides: <https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W>
+    _Blockchain, Mining, and Distributed Consensus_ (part 2)  
+    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
 01. Wednesday 2019-11-06 16:30-18:30 edificio U6 aula 33  
-    _Elliptic Curve Digital Signature Algorithm_ (part 2)  
-    slides: <https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W>
+    _Elliptic Curve Digital Signature Algorithm_ (part 1)  
+    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 01. Wednesday 2019-11-13 16:30-18:30 edificio U6 aula 33  
-    _Wallets: Key Encodings and Deterministic Key Sequences_  
-    slides: <https://drive.google.com/open?id=1zWuYqRip3TfgjjV2a0YL_C_KlJGc0o57>
+    _Elliptic Curve Digital Signature Algorithm_ (part 2)  
+    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 01. Wednesday 2019-11-27 16:30-18:30 edificio U6 aula 33  
-    _Transactions and Blocks_ (part 1)  
-    slides: <https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA>
+    _Wallets: Key Encodings and Deterministic Key Sequences_  
+    [slides](https://drive.google.com/open?id=1zWuYqRip3TfgjjV2a0YL_C_KlJGc0o57)
 01. Wednesday 2019-12-04 16:30-18:30 edificio U6 aula 33  
-    _Transactions and Blocks_ (part 2)  
-    slides: <https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA>
+    _Transactions and Blocks_  
+    [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)
 01. Wednesday 2019-12-11 16:30-18:30 edificio U6 aula 33  
     _Beyond Bitcoin: Between Hype and Reality_ (part 1)  
-    slides: <https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z>  
-01. Friday 2019-12-13 12:30-14:30 edificio U6 aula 22  
-    [Catch-up lesson slot to be used only in case of previous cancelled lessons]
-01. Tuesday 2019-12-17 14:30-16:30 edificio U6 aula 20  
-    _Beyond Bitcoin: Between Hype and Reality_ (part 2)  
-    slides: <https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z>  
+    [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. Wednesday 2019-12-18 16:30-18:30 edificio U6 aula 33  
-    _The Frontier of Monetary Engineering_  
-    slides: <https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj>  
+    _Beyond Bitcoin: Between Hype and Reality_ (part 2)  
+    [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. Friday 2019-12-20 12:30-14:30 edificio U6 aula 22  
-    [Catch-up lesson slot to be used only in case of previous cancelled lessons]
+    _The Frontier of Monetary Engineering_  
+    [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)
 
 ## Python library
 

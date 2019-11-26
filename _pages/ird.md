@@ -77,9 +77,9 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
 01. Tuesday 2019-11-12 14:30-16:30 edificio U6 aula 20  
     _Workshop on Rate Curve Bootstrapping_
 01. Friday 2019-11-15 12:30-14:30 edificio U6 aula 22  
-    _Structured Products and Hedging_ ([slides](https://www.dropbox.com/s/pge5gzzafk31sqk/20181213%20De%20Nuccio%20Swaption.pdf?dl=0))  
+    _Structured Products and Hedging_ ([slides](https://drive.google.com/file/d/1BToPmMpV0qrcdpzurjtTfQ9HQk_9Nico/view?usp=sharing))  
 01. Tuesday 2019-11-26 14:30-16:30 edificio U6 aula 20  
-    _Caps and Floors_ with [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/) ([slides](https://www.dropbox.com/s/6khjt02ih22cygo/20181206%20Clerici%20CapFloor.pdf?dl=0))  
+    _Caps and Floors_ with [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/) ([slides](https://drive.google.com/open?id=1U1QreepeVdf3DkSFvbd_diqP7NomUrCS))  
 01. Friday 2019-11-29 12:30-14:30 edificio U6 aula 22  
     _Interest Rate Models_ ([slides](https://www.dropbox.com/s/uelte1lvn3uqnea/20181220%20Interest%20Rate%20Models.pdf?dl=0))  
     _Workshop on Greeks and Hedging_

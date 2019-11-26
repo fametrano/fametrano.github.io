@@ -20,7 +20,7 @@ Moreover, it is true and far-reaching that the (bitcoin) blockchain can
 guarantee [time-stamping](https://opentimestamps.org/), but it cannot
 guarantee validity, correctness, or accuracy of the content being
 time-stamped. So, despite landing on a legitimate web page, whatever has
-been notarized on the blockchain and is displayed on the web page 
+been notarized on the blockchain and is displayed on that web page
 can be false.
 You can order pizza via e-mail, but it cannot be delivered by e-mail.
 
@@ -28,8 +28,7 @@ Finally, if https is not used, if the notarizations are not signed, if a
 non-bitcoin blockchain is used, all these details do compromise the
 reliability further.
 
-The [IBM Food Trust](https://www.ibm.com/blockchain/solutions/food-trust), 
-the
+[IBM Food Trust](https://www.ibm.com/blockchain/solutions/food-trust),
 [EY Wine Blockchain](https://www.ey.com/it/it/services/advisory/ey-blockchain),
 this Carrefour attempt, and similar campaigns are just
 dishonest marketing gimmick, i.e. misleading advertising.

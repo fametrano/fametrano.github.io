@@ -93,5 +93,7 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
 01. Friday 2019-12-13 12:30-14:30 edificio U6 aula 22  
     _XVAs_ with [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/) ([slides](https://www.dropbox.com/s/gyzmm2ao9alu8id/20181108%20intro-xva-prampolini-18.pdf?dl=0))
 01. Tuesday 2019-12-17 14:30-16:30 edificio U6 aula 20  
-    Libor Seminar  
-    Anonymous course evaluation [forms](https://www.dropbox.com/s/95o6sglk70oz41u/20190110%20Course%20Valuation%20Form.docx?dl=0) will be collected
+    _Benchmark Index Reform: the changes for EURIBOR, EONIA, ESTR, and LIBOR_
+    with [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/) (slide)
+
+In the last lesson the anonymous course evaluation [forms](https://www.dropbox.com/s/95o6sglk70oz41u/20190110%20Course%20Valuation%20Form.docx?dl=0) will be collected

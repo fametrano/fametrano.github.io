@@ -136,7 +136,7 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
 
 ## Python scripts, Excel spreadsheets, and regtest lab material
 
-<https://github.com/fametrano/bbt>
+<https://github.com/dginst/bbt>
 
 ## Introductory reading
 

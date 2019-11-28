@@ -101,4 +101,4 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/188zJ7Oiz8
     _The Reform of Benchmark Interest Rate Indexes and Its Impact on Derivative Pricing_ (slide)  
     Guest lecturers: [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/)
 
-In the last lesson the anonymous course evaluation [forms](https://www.dropbox.com/s/95o6sglk70oz41u/20190110%20Course%20Valuation%20Form.docx?dl=0) will be collected
+In the last lesson anonymous course evaluation [forms](https://www.dropbox.com/s/95o6sglk70oz41u/20190110%20Course%20Valuation%20Form.docx?dl=0) will be collected

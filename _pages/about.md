@@ -24,13 +24,14 @@ permalink: /about/
 
 ## Profile
 
-[Digital Gold Institute](http://www.dgi.io) Executive Director and
-[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)
-Scientific Director,
+[Digital Gold Institute](http://dgi.io) founder and executive director,
 Ferdinando Ametrano teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)"
-at University of Milano-Bicocca.
-Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
+at different universities, including University of Milano-Bicocca
+(where he is also scientific director of the
+[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)).
+Entrepreneur in [CheckSig](http://checksig.io),
+former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
 in Intesa Sanpaolo bank, he has been Planning Committee member of the
 [Scaling Bitcoin](https://scalingbitcoin.org/) conference
 and is an occasional trivial

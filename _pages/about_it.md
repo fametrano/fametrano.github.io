@@ -24,19 +24,21 @@ permalink: /it/about/
 
 ## Profilo biografico
 
-Direttore del *[Digital Gold Institute](http://dgi.io)*
-e del *[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)*,
+Fondatore del *[Digital Gold Institute](http://dgi.io)*,
 Ferdinando Ametrano insegna
 *[Bitcoin and Blockchain Technologies]({{ site.baseurl }}/bbt/)*
-all'Università di Milano-Bicocca.
-È stato
+in diverse università tra cui l'Università di Milano-Bicocca
+(del cui *[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)*
+è direttore scientifico).
+Imprenditore in *[CheckSig](http://checksig.io)*,
+società di custodia bitcoin per istituzionali e _high-net-worth individuals_,
+è stato in precedenza
 *[Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)*
-in Intesa Sanpaolo,
+in Intesa Sanpaolo e
 membro del Comitato Organizzatore della conferenza
-*[Scaling Bitcoin](https://scalingbitcoin.org/)*,
-ha occasionalmente e marginalmente
-[contribuito](https://github.com/bitcoin/bitcoin/pulls?q=is%3Apr+author%3Afametrano)
-a Bitcoin Core.
+*[Scaling Bitcoin](https://scalingbitcoin.org/)*;
+[contribuisce](https://github.com/bitcoin/bitcoin/pulls?q=is%3Apr+author%3Afametrano)
+occasionalmente e marginalmente a Bitcoin Core.
 
 Innovatore nel campo *fintech*,
 [sviluppatore *open source*](https://github.com/fametrano),

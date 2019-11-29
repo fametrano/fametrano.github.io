@@ -58,7 +58,8 @@ Usually Italian, English if foreign students are present.
 
 ## Lessons' calendar and material
 
-Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/), assistant lecturer ([material](https://drive.google.com/drive/folders/188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1)).
+Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/),
+assistant lecturer ([material](https://drive.google.com/drive/folders/188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1)).
 
 01. Friday 2019-10-18 12:30-14:30 edificio U6 aula 22  
     _Interest Rate Basics_ ([slides](https://speakerdeck.com/nando1970/interest-rate-basics))  
@@ -73,13 +74,15 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
 01. Tuesday 2019-11-05 14:30-16:30 edificio U6 aula 20  
     _Black Model_ ([slides](https://www.dropbox.com/s/0rzl7wyzauxg34p/20181115%20Black%20Model.pdf?dl=0))
 01. Friday 2019-11-08 12:30-14:30 edificio U6 aula 22  
-    _Volatility_ with [Nicola Moreni](https://www.linkedin.com/in/nicola-moreni-a636a7/) ([slides](https://www.dropbox.com/s/q4kc6t90sp19yim/20181115%20Moreni%20Volatility.pdf?dl=0))
+    _Volatility_ ([slides](https://www.dropbox.com/s/q4kc6t90sp19yim/20181115%20Moreni%20Volatility.pdf?dl=0))  
+    Guest lecturer: [Nicola Moreni](https://www.linkedin.com/in/nicola-moreni-a636a7/)
 01. Tuesday 2019-11-12 14:30-16:30 edificio U6 aula 20  
     _Workshop on Rate Curve Bootstrapping_
 01. Friday 2019-11-15 12:30-14:30 edificio U6 aula 22  
     _Structured Products and Hedging_ ([slides](https://drive.google.com/file/d/1BToPmMpV0qrcdpzurjtTfQ9HQk_9Nico/view?usp=sharing))  
 01. Tuesday 2019-11-26 14:30-16:30 edificio U6 aula 20  
-    _Caps and Floors_ with [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/) ([slides](https://drive.google.com/open?id=1U1QreepeVdf3DkSFvbd_diqP7NomUrCS))  
+    _Caps and Floors_ ([slides](https://drive.google.com/file/d/1U1QreepeVdf3DkSFvbd_diqP7NomUrCS/view))  
+    Guest lecturer: [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/)
 01. Friday 2019-11-29 12:30-14:30 edificio U6 aula 22  
     _Interest Rate Models_ ([slides](https://www.dropbox.com/s/uelte1lvn3uqnea/20181220%20Interest%20Rate%20Models.pdf?dl=0))  
 01. Tuesday 2019-12-03 14:30-16:30 edificio U6 aula 20  
@@ -89,11 +92,13 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
     _Credit Derivatives_ ([slides](https://www.dropbox.com/s/dcqb23wer56wb44/20181108%20Credit%20Risk.pdf?dl=0))  
     _Workshop on Credit Curve Bootstrapping and Credit Default Swaps_
 01. Tuesday 2019-12-10 14:30-16:30 edificio U6 aula 20  
-    _Trading Obbligazionario_ with [Andrea Bugin](https://www.linkedin.com/in/andrea-bugin-a326715) (slide)
+    _Trading Obbligazionario_ (slide)  
+    Guest lecturer: [Andrea Bugin](https://www.linkedin.com/in/andrea-bugin-a326715)
 01. Friday 2019-12-13 12:30-14:30 edificio U6 aula 22  
-    _XVAs_ with [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/) ([slides](https://www.dropbox.com/s/gyzmm2ao9alu8id/20181108%20intro-xva-prampolini-18.pdf?dl=0))
+    _XVAs_ ([slides](https://www.dropbox.com/s/gyzmm2ao9alu8id/20181108%20intro-xva-prampolini-18.pdf?dl=0))  
+    Guest lecturer: [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/)
 01. Tuesday 2019-12-17 14:30-16:30 edificio U6 aula 20  
-    _Benchmark Index Reform: the changes for EURIBOR, EONIA, ESTR, and LIBOR_
-    with [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/) (slide)
+    _The Reform of Benchmark Interest Rate Indexes and Its Impact on Derivative Pricing_ (slides-1, slides-2)  
+    Guest lecturers: [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/)
 
-In the last lesson the anonymous course evaluation [forms](https://www.dropbox.com/s/95o6sglk70oz41u/20190110%20Course%20Valuation%20Form.docx?dl=0) will be collected
+In the last lesson anonymous course evaluation [forms](https://www.dropbox.com/s/95o6sglk70oz41u/20190110%20Course%20Valuation%20Form.docx?dl=0) will be collected

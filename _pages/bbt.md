@@ -116,7 +116,7 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
     [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 01. Wednesday 2019-11-27 16:30-18:30 edificio U6 aula 33  
     _Wallets: Key Encodings and Deterministic Key Sequences_  
-    [slides](https://drive.google.com/open?id=1bRPx1iqbypynIEaA7Q9oAoQPsYuR1iAD)
+    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. Wednesday 2019-12-04 16:30-18:30 edificio U6 aula 33  
     _Transactions and Blocks_  
     [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)

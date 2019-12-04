@@ -116,7 +116,7 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
     [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 01. Wednesday 2019-11-27 16:30-18:30 edificio U6 aula 33  
     _Wallets: Key Encodings and Deterministic Key Sequences_  
-    [slides](https://drive.google.com/open?id=1zWuYqRip3TfgjjV2a0YL_C_KlJGc0o57)
+    [slides](https://drive.google.com/open?id=1bRPx1iqbypynIEaA7Q9oAoQPsYuR1iAD)
 01. Wednesday 2019-12-04 16:30-18:30 edificio U6 aula 33  
     _Transactions and Blocks_  
     [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)
@@ -126,7 +126,7 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
 01. Wednesday 2019-12-18 16:30-18:30 edificio U6 aula 33  
     _Beyond Bitcoin: Between Hype and Reality_ (part 2)  
     [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-01. Friday 2019-12-20 12:30-14:30 edificio U6 aula 22  
+01. Wednesday 2020-01-15 16:30-18:30 edificio U6 aula 33  
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)
 

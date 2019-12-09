@@ -92,7 +92,7 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/188zJ7Oiz8
     _Credit Derivatives_ ([slides](https://www.dropbox.com/s/dcqb23wer56wb44/20181108%20Credit%20Risk.pdf?dl=0))  
     _Workshop on Credit Curve Bootstrapping and Credit Default Swaps_
 01. Tuesday 2019-12-10 14:30-16:30 edificio U6 aula 20  
-    _Trading Obbligazionario_ (slide)  
+    _Trading Obbligazionario_ ([slide](https://drive.google.com/open?id=1AE4v_KuQC6Btg28aLii4mhXMCqXQtOWQ))  
     Guest lecturer: [Andrea Bugin](https://www.linkedin.com/in/andrea-bugin-a326715)
 01. Friday 2019-12-13 12:30-14:30 edificio U6 aula 22  
     _XVAs_ ([slides](https://www.dropbox.com/s/gyzmm2ao9alu8id/20181108%20intro-xva-prampolini-18.pdf?dl=0))  

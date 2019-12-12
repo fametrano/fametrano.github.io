@@ -98,7 +98,9 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/188zJ7Oiz8
     _XVAs_ ([slides](https://www.dropbox.com/s/gyzmm2ao9alu8id/20181108%20intro-xva-prampolini-18.pdf?dl=0))  
     Guest lecturer: [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/)
 01. Tuesday 2019-12-17 14:30-16:30 edificio U6 aula 20  
-    _The Reform of Benchmark Interest Rate Indexes and Its Impact on Derivative Pricing_ (slides-1, slides-2)  
-    Guest lecturers: [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/)
+    _La riforma degli indici benchmark di tasso di interesse e il suo impatto nella valutazione dei prodotti derivati_  
+    ([slides-1](https://drive.google.com/file/d/1Qn2Wsjjs0w5siWYq1H65X3PrpvFWKLpn/view?usp=sharing), [slides-2](https://drive.google.com/file/d/11HaMouZC9XJAtAoPpOrP2_1WRbxH9DEp/view?usp=sharing))  
+    Guest lecturers: [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/)  
+    E' necessario iscriversi tramite [form online](https://docs.google.com/forms/d/e/1FAIpQLSf4l6m4f6mXvKaQQgbafRxKDZdPDrZPQc3gdDQaK3L37_sO9Q/viewform)
 
 In the last lesson anonymous course evaluation [forms](https://www.dropbox.com/s/95o6sglk70oz41u/20190110%20Course%20Valuation%20Form.docx?dl=0) will be collected

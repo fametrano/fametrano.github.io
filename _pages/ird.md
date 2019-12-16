@@ -100,6 +100,6 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/188zJ7Oiz8
 01. Tuesday 2019-12-17 14:30-16:30 edificio U6 aula 20  
     _The Reform of Benchmark Interest Rate Indexes and Its Impact on Derivative Pricing_ ([slides-1](https://drive.google.com/file/d/1synNexpBT3TP_Q5I-JA5pK_FRBwgYZW-/view?usp=sharing), [slides-2](https://drive.google.com/file/d/1qSjxnvG0lS6EUFDTDC35IuXovn_bqK2N/view?usp=sharing))  
     Guest lecturers: [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/)  
-    E' necessario iscriversi tramite [form online](https://docs.google.com/forms/d/e/1FAIpQLSf4l6m4f6mXvKaQQgbafRxKDZdPDrZPQc3gdDQaK3L37_sO9Q/viewform)
+    Registration is required using the [online form](https://docs.google.com/forms/d/e/1FAIpQLSf4l6m4f6mXvKaQQgbafRxKDZdPDrZPQc3gdDQaK3L37_sO9Q/viewform)
 
 In the last lesson anonymous course evaluation [forms](https://drive.google.com/file/d/115W7CZAjXxG04GLbKgXavKySgiYAZPQb/view?usp=sharing) will be collected

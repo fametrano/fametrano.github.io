@@ -102,4 +102,4 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/188zJ7Oiz8
     Guest lecturers: [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/)  
     E' necessario iscriversi tramite [form online](https://docs.google.com/forms/d/e/1FAIpQLSf4l6m4f6mXvKaQQgbafRxKDZdPDrZPQc3gdDQaK3L37_sO9Q/viewform)
 
-In the last lesson anonymous course evaluation [forms](https://www.dropbox.com/s/95o6sglk70oz41u/20190110%20Course%20Valuation%20Form.docx?dl=0) will be collected
+In the last lesson anonymous course evaluation [forms](https://drive.google.com/file/d/115W7CZAjXxG04GLbKgXavKySgiYAZPQb/view?usp=sharing) will be collected

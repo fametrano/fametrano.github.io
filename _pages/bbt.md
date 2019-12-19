@@ -86,8 +86,6 @@ monetary theory, and politics.
 * Python 3 programming assignments and technology assignments
 * Workshop labs on Bitcoin Core, Electrum, and OpenTimestamps
 
-At the end of the course students are invited to compile the _course evaluation form_: <https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit>
-
 ## Teaching language
 
 Italian or English, the latter if foreign students are present.
@@ -118,17 +116,20 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
     _Wallets: Key Encodings and Deterministic Key Sequences_  
     [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. Wednesday 2019-12-04 16:30-18:30 edificio U6 aula 33  
+    _Wallets: Key Encodings and Deterministic Key Sequences_ (Part 2)  
+    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
+01. Wednesday 2019-12-11 16:30-18:30 edificio U6 aula 33  
     _Transactions and Blocks_  
     [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)
-01. Wednesday 2019-12-11 16:30-18:30 edificio U6 aula 33  
-    _Beyond Bitcoin: Between Hype and Reality_ (part 1)  
-    [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. Wednesday 2019-12-18 16:30-18:30 edificio U6 aula 33  
-    _Beyond Bitcoin: Between Hype and Reality_ (part 2)  
+    _Beyond Bitcoin: Between Hype and Reality_  
     [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-01. Wednesday 2020-01-15 16:30-18:30 edificio U6 aula 33  
+01. Friday 2020-12-20 12:30-14:30 edificio U6 aula 22  
+    Wednesday 2020-01-15 16:30-18:30 edificio U6 aula 33  
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)
+
+In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 
 ## Python library
 

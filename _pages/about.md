@@ -7,10 +7,10 @@ permalink: /about/
 
 ## Affiliations
 
+* Founder and CEO, CheckSig  
+  <http://checksig.io>
 * Founder and Executive Director, Digital Gold Institute  
   <http://dgi.io>
-* Founder and CEO, CheckSig
-  <http://checksig.io>
 * Scientific Director, Crypto Asset Lab  
   Department of Business and Law, University of Milano-Bicocca  
   <http://cryptoassetlab.diseade.unimib.it>
@@ -24,19 +24,23 @@ permalink: /about/
 
 ## Profile
 
-[Digital Gold Institute](http://dgi.io) founder and executive director,
-Ferdinando Ametrano teaches
-"[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)"
-at different universities, including University of Milano-Bicocca
-(where he is also scientific director of the
-[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)).
-Entrepreneur in [CheckSig](http://checksig.io),
-former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
-in Intesa Sanpaolo bank, he has been Planning Committee member of the
-[Scaling Bitcoin](https://scalingbitcoin.org/) conference
-and is an occasional trivial
+Founder and CEO of [CheckSig](http://checksig.io)
+(bitcoin custody for institutional investors
+and high-net-worth individuals) and
+[Digital Gold Institute](http://dgi.io)
+(R&D, consultancy, and training about bitcoin and blockchain technology),
+Ferdinando Ametrano is also scientific director of the
+[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it))
+at Milano-Bicocca University, where he teaches
+"[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)".
+Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
+in Intesa Sanpaolo bank,
+he has been Planning Committee member of the
+[Scaling Bitcoin](https://scalingbitcoin.org/) conference,
+is an occasional trivial
 [contributor](https://github.com/bitcoin/bitcoin/pulls?q=is%3Apr+author%3Afametrano)
-to Bitcoin Core.
+to Bitcoin Core,
+and maintains [btclib](http://github.com/dginst/btclib), a bitcoin python library.
 
 Fintech innovator, technologist, and
 [open source developer](https://github.com/fametrano),

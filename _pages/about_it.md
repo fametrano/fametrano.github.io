@@ -7,10 +7,10 @@ permalink: /it/about/
 
 ## Affiliazioni
 
+* Fondatore e Amministratore Delegato, CheckSig  
+  <http://checksig.io>
 * Fondatore e Direttore Esecutivo, Digital Gold Institute  
   <http://dgi.io>
-* Fondatore e Amministratore Delegato, CheckSig
-  <http://checksig.io>
 * Direttore Scientifico, Crypto Asset Lab  
   Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università degli Studi di Milano-Bicocca  
   <http://cryptoassetlab.diseade.unimib.it>
@@ -24,21 +24,26 @@ permalink: /it/about/
 
 ## Profilo biografico
 
-Fondatore del *[Digital Gold Institute](http://dgi.io)*,
-Ferdinando Ametrano insegna
-*[Bitcoin and Blockchain Technologies]({{ site.baseurl }}/bbt/)*
-in diverse università tra cui l'Università di Milano-Bicocca
-(del cui *[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)*
-è direttore scientifico).
-Imprenditore in *[CheckSig](http://checksig.io)*,
-società di custodia bitcoin per istituzionali e _high-net-worth individuals_,
-è stato in precedenza
+Fondatore ed amministratore delegato di
+[CheckSig](<http://checksig.io)
+(custodia bitcoin per investitori istituzionali
+e _high-net-worth individuals_)
+e del [Digital Gold Institute](http://dgi.io)
+(R&D, consulenza e formazione su bitcoin e blockchain),
+Ferdinando Ametrano è anche
+direttore scientifico
+del [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)
+dell'Università Milano-Bicocca, dove insegna
+[Bitcoin and Blockchain Technologies]({{ site.baseurl }}/bbt/)
+
+È stato in precedenza
 *[Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)*
 in Intesa Sanpaolo e
 membro del Comitato Organizzatore della conferenza
-*[Scaling Bitcoin](https://scalingbitcoin.org/)*;
+[Scaling Bitcoin](https://scalingbitcoin.org/);
 [contribuisce](https://github.com/bitcoin/bitcoin/pulls?q=is%3Apr+author%3Afametrano)
-occasionalmente e marginalmente a Bitcoin Core.
+occasionalmente e marginalmente a Bitcoin Core e mantiene
+[btclib](http://github.com/dginst/btclib), una libreria python bitcoin.
 
 Innovatore nel campo *fintech*,
 [sviluppatore *open source*](https://github.com/fametrano),

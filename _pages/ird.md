@@ -95,12 +95,11 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/188zJ7Oiz8
     _Trading Obbligazionario_ ([slide](https://drive.google.com/open?id=1AE4v_KuQC6Btg28aLii4mhXMCqXQtOWQ))  
     Guest lecturer: [Andrea Bugin](https://www.linkedin.com/in/andrea-bugin-a326715)
 01. Friday 2019-12-13 12:30-14:30 edificio U6 aula 22  
-    _XVAs_ ([slides](https://www.dropbox.com/s/gyzmm2ao9alu8id/20181108%20intro-xva-prampolini-18.pdf?dl=0))  
+    _XVAs_ ([slides](https://drive.google.com/file/d/1wU-t6AW4EV-wBBiVexdYwt1_R40jB_nw/view?usp=sharing))  
     Guest lecturer: [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/)
 01. Tuesday 2019-12-17 14:30-16:30 edificio U6 aula 20  
-    _La riforma degli indici benchmark di tasso di interesse e il suo impatto nella valutazione dei prodotti derivati_  
-    ([slides-1](https://drive.google.com/file/d/1Qn2Wsjjs0w5siWYq1H65X3PrpvFWKLpn/view?usp=sharing), [slides-2](https://drive.google.com/file/d/11HaMouZC9XJAtAoPpOrP2_1WRbxH9DEp/view?usp=sharing))  
+    _The Reform of Benchmark Interest Rate Indexes and Its Impact on Derivative Pricing_ ([slides-1](https://drive.google.com/file/d/1synNexpBT3TP_Q5I-JA5pK_FRBwgYZW-/view?usp=sharing), [slides-2](https://drive.google.com/file/d/1qSjxnvG0lS6EUFDTDC35IuXovn_bqK2N/view?usp=sharing))  
     Guest lecturers: [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/)  
-    E' necessario iscriversi tramite [form online](https://docs.google.com/forms/d/e/1FAIpQLSf4l6m4f6mXvKaQQgbafRxKDZdPDrZPQc3gdDQaK3L37_sO9Q/viewform)
+    Registration is required using the [online form](https://docs.google.com/forms/d/e/1FAIpQLSf4l6m4f6mXvKaQQgbafRxKDZdPDrZPQc3gdDQaK3L37_sO9Q/viewform)
 
-In the last lesson anonymous course evaluation [forms](https://www.dropbox.com/s/95o6sglk70oz41u/20190110%20Course%20Valuation%20Form.docx?dl=0) will be collected
+In the last lesson anonymous course evaluation [forms](https://drive.google.com/file/d/115W7CZAjXxG04GLbKgXavKySgiYAZPQb/view?usp=sharing) will be collected

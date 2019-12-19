@@ -7,14 +7,14 @@ permalink: /it/about/
 
 ## Affiliazioni
 
-* Fondatore e Amministratore Delegato, CheckSig  
+* Fondatore e amministratore delegato, CheckSig  
   <http://checksig.io>
-* Fondatore e Direttore Esecutivo, Digital Gold Institute  
+* Fondatore e direttore esecutivo, Digital Gold Institute  
   <http://dgi.io>
-* Direttore Scientifico, Crypto Asset Lab  
+* Direttore scientifico, Crypto Asset Lab  
   Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università degli Studi di Milano-Bicocca  
   <http://cryptoassetlab.diseade.unimib.it>
-* Professore a Contratto di *Interest Rate Derivatives* e *Bitcoin and Blockchain Technology*  
+* Professore a contratto di *Interest Rate Derivatives* e *Bitcoin and Blockchain Technology*  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
   <http://www.unimib.it/ferdinando-maria-ametrano>
 * Fondatore e co-amministratore, QuantLib e btclib  

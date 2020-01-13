@@ -30,7 +30,7 @@ and high-net-worth individuals) and
 [Digital Gold Institute](http://dgi.io)
 (R&D, consultancy, and training about bitcoin and blockchain technology),
 Ferdinando Ametrano is also scientific director of the
-[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it))
+[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)
 at Milano-Bicocca University, where he teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)".
 Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)

@@ -23,7 +23,7 @@ as speaker, panelist, MC, or lecturer see the dedicated [events]({{ site.baseurl
 
 * [Bitcoin and Blockchain Technology, Fall 2019]({{ site.baseurl }}/bbt201910/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* Interest Rate Derivatives, Fall 2019  
+* [Interest Rate Derivatives, Fall 2019]({{ site.baseurl }}/ird201910/)    
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
 * [Bitcoin and Blockchain Technology, Spring 2019](http://sites.google.com/uniupo.it/manfinelectives/electives-in-finanza/smart-contracts-bitcoin-block-chain)  
   _Dipartimento di Studi per l'Economia e l'Impresa, Università del Piemonte Orientale_

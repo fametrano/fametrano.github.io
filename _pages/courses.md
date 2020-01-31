@@ -9,8 +9,6 @@ permalink: /courses/
 
 * [Bitcoin and Blockchain Technology, Spring 2020]({{ site.baseurl }}/bbt/)  
   _Department of Mathematics, University of Milan_
-* [Bitcoin and Blockchain Technology, Fall 2020]({{ site.baseurl }}/bbt/)  
-  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
 * [Interest Rate Derivatives, Fall 2020]({{ site.baseurl }}/ird/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bitcoin and Blockchain Technology Course
-description: 'Bitcoin and Blockchain Technology' course, including slides, code, videos, etc.
+description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
 permalink: /bbt/
 ---
 

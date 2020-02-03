@@ -70,7 +70,7 @@ has headed trading, quantitative, and risk-management teams in Banca IMI
 also been co-founder and managing partner of RiskMap
 (now StatPro Italia).
 
-Europass CV: <https://www.ametrano.net/cv/CV-Europass-20181029-Ametrano-EN.pdf>
+Europass CV: <https://www.ametrano.net/cv/CV-Europass-20200203-Ametrano-EN.pdf>
 Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 **email contact form**: <https://bit.ly/contactametrano>

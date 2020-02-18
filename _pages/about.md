@@ -7,7 +7,7 @@ permalink: /about/
 
 ## Affiliations
 
-* Cofounder and Chief Eexecutive Officer, CheckSig  
+* Cofounder and Chief Executive Officer, CheckSig  
   <http://checksig.io>
 * Founder and Chief Executive Director, Digital Gold Institute  
   <http://dgi.io>

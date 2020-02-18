@@ -7,17 +7,17 @@ permalink: /it/about/
 
 ## Affiliazioni
 
-* Fondatore e amministratore delegato, CheckSig  
+* Cofondatore e amministratore delegato, CheckSig  
   <http://checksig.io>
 * Fondatore e direttore esecutivo, Digital Gold Institute  
   <http://dgi.io>
-* Direttore scientifico, Crypto Asset Lab  
+* Cofondatore e direttore scientifico, Crypto Asset Lab  
   Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università degli Studi di Milano-Bicocca  
   <http://cryptoassetlab.diseade.unimib.it>
 * Professore a contratto di *Interest Rate Derivatives* e *Bitcoin and Blockchain Technology*  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
   <http://www.unimib.it/ferdinando-maria-ametrano>
-* Fondatore e co-amministratore, QuantLib e btclib  
+* Fondatore e coamministratore, QuantLib e btclib  
   <http://quantlib.org>, <http://github.com/dginst/btclib>
 
 ---
@@ -42,7 +42,7 @@ in Intesa Sanpaolo e
 membro del Comitato Organizzatore della conferenza
 [Scaling Bitcoin](https://scalingbitcoin.org/);
 [contribuisce](https://github.com/bitcoin/bitcoin/pulls?q=is%3Apr+author%3Afametrano)
-occasionalmente e marginalmente a Bitcoin Core e mantiene
+occasionalmente e marginalmente a Bitcoin Core e manutiene
 [btclib](http://github.com/dginst/btclib), una libreria python bitcoin.
 
 Innovatore nel campo *fintech*,
@@ -51,7 +51,7 @@ Innovatore nel campo *fintech*,
 
 La sua [ricerca accademica]({{ site.baseurl }}/papers/) è focalizzata sulla stabilità dei prezzi, proponendo una nuova generazione di criptovalute a politica monetaria elastica ma automatizzata e non discrezionale ([Hayek Money](https://ssrn.com/abstract=2425270)).
 
-È anche fondatore e co-amministratore di [QuantLib](https://www.quantlib.org), il più importante progetto *open source* di software per la finanza quantitativa. Insegna *[Interest Rate Derivatives]({{ site.baseurl }}/ird/)* all'Università Milano-Bicocca ed ha rilevanti pubblicazioni sull'[argomento](https://ssrn.com/author=510135). In passato ha guidato team di trading, quantitativi e risk management in Banca IMI, Banca Caboto e Monte Paschi Asset Management; è stato anche co-fondatore e managing partner di RiskMap (oggi StatPro Italia).
+È anche cofondatore e coamministratore di [QuantLib](https://www.quantlib.org), il più importante progetto *open source* di software per la finanza quantitativa. Insegna *[Interest Rate Derivatives]({{ site.baseurl }}/ird/)* all'Università Milano-Bicocca ed ha rilevanti pubblicazioni sull'[argomento](https://ssrn.com/author=510135). In passato ha guidato team di trading, quantitativi e risk management in Banca IMI, Banca Caboto e Monte Paschi Asset Management; è stato anche co-fondatore e managing partner di RiskMap (oggi StatPro Italia).
 
 CV Europass: <https://www.ametrano.net/cv/CV-Europass-20200203-Ametrano-EN.pdf>
 CV (due pagine): <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>

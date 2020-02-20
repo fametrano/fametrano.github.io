@@ -24,7 +24,7 @@ permalink: /about/
 
 ## Profile
 
-Coounder and CEO of [CheckSig](http://checksig.io)
+Founder and CEO of [CheckSig](http://checksig.io)
 (bitcoin custody for institutional investors
 and high-net-worth individuals) and
 [Digital Gold Institute](http://dgi.io)

@@ -134,8 +134,8 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 ## Introductory reading
 
 * Ferdinando M. Ametrano,  
-  _"Bitcoin: oro digitale per nuovi standard monetari"_ (2018),  
-  <http://bit.ly/2NQg9VJ>
+  _"Bitcoin: oro digitale, finanza e tulipan"_,  
+  <https://docs.google.com/document/d/1gecm0uT43tl8d4WFYNs9H_v3p70PPfPmQITR4GxSWkE>
 
 ## Technology references
 
@@ -201,6 +201,10 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 * Robert Sams,  
   _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_ (2015),  
   <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
+* Ferdinando M. Ametrano,  
+  _"Bitcoin: oro digitale per nuovi standard monetari_ (2020),  
+  published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta,  and Alberto Mingardi)  
+  <http://bit.ly/2NQg9VJ>
 
 ---
 

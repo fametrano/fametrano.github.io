@@ -134,7 +134,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 ## Introductory reading
 
 * Ferdinando M. Ametrano,  
-  _"Bitcoin: oro digitale, finanza e tulipan"_,  
+  _"Bitcoin: oro digitale, finanza e tulipani"_,  
   <https://docs.google.com/document/d/1gecm0uT43tl8d4WFYNs9H_v3p70PPfPmQITR4GxSWkE>
 
 ## Technology references

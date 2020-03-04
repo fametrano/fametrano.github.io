@@ -26,8 +26,8 @@ permalink: /it/about/
 
 Fondatore ed amministratore delegato di
 [CheckSig](<http://checksig.io)
-(custodia bitcoin per investitori istituzionali
-e _high-net-worth individuals_)
+(soluzioni di custodia bitcoin
+per investitori istituzionali e _high-net-worth individuals_)
 e del [Digital Gold Institute](http://dgi.io)
 (R&D, consulenza e formazione su bitcoin e blockchain),
 Ferdinando Ametrano è anche

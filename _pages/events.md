@@ -17,7 +17,7 @@ I can be contacted using this
 
 ## Upcoming events
 
-please see <www.dgi.io/events>
+please see <http://dgi.io/events>
 
 ---
 ---

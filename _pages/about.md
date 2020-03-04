@@ -25,8 +25,8 @@ permalink: /about/
 ## Profile
 
 Founder and CEO of [CheckSig](http://checksig.io)
-(bitcoin custody for institutional investors
-and high-net-worth individuals) and
+(transparent bitcoin custody solutions
+for institutional investors and high-net-worth individuals) and
 [Digital Gold Institute](http://dgi.io)
 (R&D, consultancy, and training about bitcoin and blockchain technology),
 Ferdinando Ametrano is also scientific director of the

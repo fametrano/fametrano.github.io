@@ -17,6 +17,14 @@ I can be contacted using this
 
 ## Upcoming events
 
+please see <www.dgi.io/events>
+
+---
+---
+---
+
+## Past events
+
 2019-07-11 [Istituto Bruno Leoni](http://www.brunoleoni.it/criptovalute-cosa-cambia-con-libra) / [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/2019/07/05/) / [Università Milano-Bicocca](https://www.diseade.unimib.it/it/eventi/criptovalute-cosa-cambia-libra)  
 [Bitcoin e Libra](https://www.facebook.com/events/2435413189854205)  
 18:00, Piazza Castello 23, Milano  
@@ -30,14 +38,7 @@ Milano
 2019-09-30 Craon CodeCampus  
 10:00-18:00 Hotel Michelangelo, Piazza Luigi di Savoia 6, Milano  
 [₿lockchain Dates](https://www.craon.it/blockchain-dates-early-bird/): workshop sull’Internet del valore, tra bitcoin e blockchain  
-[iscrizione obbligatoria](https://www.craon.it/blockchain-dates-early-bird/#form)  
-[![₿lockchain Dates]({{ site.baseurl }}/images/blockchain_dates/banner-orizzontale.jpg)](https://www.craon.it/blockchain-dates-early-bird/)
-
----
----
----
-
-## Past events
+[iscrizione obbligatoria](https://www.craon.it/blockchain-dates-early-bird/#form)
 
 2019-07-04 Bicocca Alumni  
 [The Blockchain Series: Bitcoin First](https://www.bicoccalumni.it/it/news-ed-eventi/the-blockchain-series-bitcoin-first)  

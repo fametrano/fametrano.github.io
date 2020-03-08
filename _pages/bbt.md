@@ -9,9 +9,13 @@ permalink: /bbt/
 
 Department of Mathematics, University of Milano
 
-Please subscribe the course mailing list sending an e-mail to
-[bbt2020-statale+subscribe@dgi.io](mailto:bbt2020-statale+subscribe@dgi.io);
-you are also invited to join the 2020-statale channel in the Slack [BBT workspace](https://join.slack.com/t/bbt-training/signup).
+__The course is confirmed and because of COVID-19
+it will be streaming only.__
+
+If you have an e-mail _@studenti.unimi.it_
+please join the 2020-statale channel in the Slack
+[BBT workspace](https://join.slack.com/t/bbt-training/signup).
+Details about the course will be posted there.
 
 ## Learning objectives
 
@@ -90,7 +94,7 @@ Italian or English, the latter if foreign students are present.
 
 ## Lessons' calendar and material
 
-Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/), assistant lecturer.
+Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
 01. Wednesday 2020-03-16 15:30-17:30  
     _Bitcoin as Digital Gold_

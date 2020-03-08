@@ -18,7 +18,8 @@ please join the 202003-matematica channel in the Slack
 Details about the course will be posted there.
 
 Anyone else, please consider <https://dgi.io/workshop>:
-there are student rates and even free admissions.
+there are discounted rates
+and even a limited number of free admissions for students.
 
 ## Learning objectives
 

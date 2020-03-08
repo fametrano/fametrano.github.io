@@ -9,13 +9,16 @@ permalink: /bbt/
 
 Department of Mathematics, University of Milano
 
-__The course is confirmed and because of COVID-19
+__The course is confirmed: because of COVID-19
 it will be streaming only.__
 
 If you have an e-mail _@studenti.unimi.it_
-please join the 2020-statale channel in the Slack
+please join the 202003-matematica channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup).
 Details about the course will be posted there.
+
+Anyone else, please consider <https://dgi.io/workshop>:
+there are student rates and even free admissions.
 
 ## Learning objectives
 

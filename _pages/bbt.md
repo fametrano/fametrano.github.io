@@ -183,7 +183,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
   Stanford University  
   <https://www.coursera.org/learn/crypto>, <https://toc.cryptobook.us/>
 * Lawrence C. Washington,  
-  _“Elliptic Curves Number Theory And Cryptography”_ (2008),  
+  _“Elliptic Curves: Number Theory And Cryptography”_ (2008),  
   Chapman and Hall, 978-1420071467
 * Standards for Efficient Cryptography Group  
   SEC 1: Elliptic Curve Cryptography, March 2009. Version 2.0.  

@@ -104,11 +104,11 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Bitcoin as Digital Gold_
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. Monday 2020-03-23 15:30-17:30  
-    _Blockchain, Mining, and Distributed Consensus_  
-    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
-01. Monday 2020-03-30 15:30-17:30  
     _Elliptic Curve Digital Signature Algorithm_  
     [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+01. Monday 2020-03-30 15:30-17:30  
+    _Blockchain, Mining, and Distributed Consensus_  
+    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
 01. Monday 2020-04-06 15:30-17:30  
     _Addresses, Scripts, and Transactions_  
     [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)

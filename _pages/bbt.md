@@ -100,31 +100,31 @@ Italian or English, the latter if foreign students are present.
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
-01. Wednesday 2020-03-16 15:30-17:30  
+01. Monday 2020-03-16 15:30-17:30  
     _Bitcoin as Digital Gold_
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
-01. Wednesday 2020-03-23 15:30-17:30  
+01. Monday 2020-03-23 15:30-17:30  
     _Blockchain, Mining, and Distributed Consensus_  
     [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
-01. Wednesday 2020-03-30 15:30-17:30  
+01. Monday 2020-03-30 15:30-17:30  
     _Elliptic Curve Digital Signature Algorithm_  
     [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. Wednesday 2020-04-06 15:30-17:30  
+01. Monday 2020-04-06 15:30-17:30  
     _Addresses, Scripts, and Transactions_  
     [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)
-01. Wednesday 2020-04-20 15:30-17:30  
+01. Monday 2020-04-20 15:30-17:30  
     _Addresses, Scripts, and Transactions (Part 2)_  
     [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)
-01. Wednesday 2020-04-27 15:30-17:30  
+01. Monday 2020-04-27 15:30-17:30  
     _Deterministic Key Sequences and Wallets_  
     [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. Wednesday 2020-05-04 15:30-17:30  
+01. Monday 2020-05-04 15:30-17:30  
     _Deterministic Key Sequences and Wallets (Part 2)_  
     [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. Wednesday 2020-05-11 15:30-17:30  
+01. Monday 2020-05-11 15:30-17:30  
     _Beyond Bitcoin: Between Hype and Reality_  
     [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-01. Wednesday 2020-05-18 15:30-17:30  
+01. Monday 2020-05-18 15:30-17:30  
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),
     [text]( http://bit.ly/2NQg9VJ)

@@ -14,8 +14,10 @@ it will be streaming only.__
 
 If you have an e-mail _@studenti.unimi.it_
 please join the 202003-matematica channel in the Slack
-[BBT workspace](https://join.slack.com/t/bbt-training/signup).
-Details about the course will be posted there.
+[BBT workspace](https://join.slack.com/t/bbt-training/signup)
+using your first and last name (no nicknames);
+a prifile picture would be appreciated, but is not mandatory.
+Details about the course will be posted in the Slack channel.
 
 Anyone else, please consider <https://dgi.io/workshop>:
 there are discounted rates
@@ -95,6 +97,15 @@ monetary theory, and politics.
 ## Teaching language
 
 Italian or English, the latter if foreign students are present.
+
+## Exam
+
+To pass the exam each student must solve all the assignments
+for every lesson. Please send the homeworks
+to the e-mail that will be indicated with subject
+**BBT MATEMATICA2020 #1** for the first lesson,
+**BBT MATEMATICA2020 #2** for the second lesson,
+etc.
 
 ## Lessons' calendar and material
 

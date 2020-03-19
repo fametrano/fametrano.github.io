@@ -112,19 +112,21 @@ etc.
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
 01. Monday 2020-03-16 15:30-17:30  
-    _Bitcoin as Digital Gold_
+    _Bitcoin as Digital Gold_  
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. Monday 2020-03-23 15:30-17:30  
-    _Elliptic Curve Digital Signature Algorithm_  
-    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+    _Finite Fields and Elliptic Curves_  
+    [slides](https://drive.google.com/open?id=1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
+    _Hash Functions_  
+    [slides](https://drive.google.com/open?id=1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)
 01. Monday 2020-03-30 15:30-17:30  
     _Blockchain, Mining, and Distributed Consensus_  
     [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
 01. Monday 2020-04-06 15:30-17:30  
-    _Addresses, Scripts, and Transactions_  
-    [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)
+    _Elliptic Curve Digital Signature Algorithm_  
+    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 01. Monday 2020-04-20 15:30-17:30  
-    _Addresses, Scripts, and Transactions (Part 2)_  
+    _Addresses, Scripts, and Transactions_  
     [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)
 01. Monday 2020-04-27 15:30-17:30  
     _Deterministic Key Sequences and Wallets_  
@@ -138,7 +140,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. Monday 2020-05-18 15:30-17:30  
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),
-    [text]( http://bit.ly/2NQg9VJ)
+    [text](http://bit.ly/2NQg9VJ)
 
 In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 

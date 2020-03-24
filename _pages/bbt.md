@@ -16,7 +16,7 @@ If you have an e-mail _@studenti.unimi.it_
 please join the 202003-matematica channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
 using your first and last name (no nicknames);
-a prifile picture would be appreciated, but is not mandatory.
+a profile picture would be appreciated, but is not mandatory.
 Details about the course will be posted in the Slack channel.
 
 Anyone else, please consider <https://dgi.io/workshop>:
@@ -56,21 +56,29 @@ monetary theory, and politics.
 
 ## Contents
 
-* Hash functions, hash pointers, blockchain, Merkle tree
-* Modular arithmetic and algebra of sets
-* Elliptic curves over real numbers and a finite field 𝐹
-* Asymmetric cryptography on elliptic curves
-* Elliptic curve digital signature algorithm
-* Elliptic curve Schnorr signature algorithm: Mu(lti)Sig(nature),
-  threshold signature, batch verification
-* Diffie-Hellman
-* Pedersen commitment
-* Confidential transactions
+* Cash, Electronic Money, Central Bank Money, eCash
+* Internet Money
+* Bitcoin Transactions
+* About Money
+* Private Money and the Centralization Dilemma
+* The Double Spending Problem
+* Bitcoin as Digital Gold
+* Bitcoin as Investment Asset
+* Bitcoin Financial Services
+* Discrete Logarithm Problem on Finite Cyclic Groups
+* Modular Arithmetic
+* Finite Fields
+* Elliptic Curves Over Real Numbers
+* DLP on Elliptic Curves Over Finite Fields
+* Hash Functions
 * Design of a simplified digital currency
 * Distributed consensus
 * Mining
 * P2P network
 * Protocol governance
+* Elliptic curve digital signature algorithm
+* Elliptic curve Schnorr signature algorithm: Mu(lti)Sig(nature),
+  threshold signature, batch verification
 * Addresses and WIFs
 * Hierarchical deterministic wallets: BIP32, BIP43, BIP44
 * Mnemonic phrase: BIP39 and Electrum
@@ -115,7 +123,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Bitcoin as Digital Gold_  
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. Monday 2020-03-23 15:30-17:30  
-    _Finite Fields and Elliptic Curves_  
+    _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/open?id=1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
 01. Monday 2020-03-30 15:30-17:30  
     _Hash Functions_  

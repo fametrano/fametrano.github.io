@@ -71,11 +71,13 @@ monetary theory, and politics.
 * Elliptic Curves Over Real Numbers
 * DLP on Elliptic Curves Over Finite Fields
 * Hash Functions
-* Design of a simplified digital currency
-* Distributed consensus
+* Partial Hash Inversion
+* Hash Pointer Data Structures: Blockchain and Merkle Tree
+* Design of A Simplified Digital Currency
+* Distributed Consensus
 * Mining
-* P2P network
-* Protocol governance
+* P2P Network
+* Protocol Governance
 * Elliptic curve digital signature algorithm
 * Elliptic curve Schnorr signature algorithm: Mu(lti)Sig(nature),
   threshold signature, batch verification

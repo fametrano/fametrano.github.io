@@ -162,7 +162,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 
 ## Python scripts, Excel spreadsheets, and regtest lab material
 
-<https://github.com/dginst/bbt>
+<http://github.com/btclib-org/bbt>
 
 ## Introductory reading
 

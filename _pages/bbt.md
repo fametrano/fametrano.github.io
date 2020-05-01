@@ -141,14 +141,14 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Transactions and Scripts_  
     [slides](https://drive.google.com/open?id=1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
 01. Monday 2020-04-27 15:30-17:30  
-    _Deterministic Key Sequences and Wallets_  
-    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. Monday 2020-05-04 15:30-17:30  
-    _Deterministic Key Sequences and Wallets (Part 2)_  
-    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. Monday 2020-05-11 15:30-17:30  
     _Beyond Bitcoin: Between Hype and Reality_  
     [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
+01. Monday 2020-05-04 15:30-17:30  
+    _Deterministic Key Sequences and Wallets_  
+    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
+01. Monday 2020-05-11 15:30-17:30  
+    _Deterministic Key Sequences and Wallets (Part 2)_  
+    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. Monday 2020-05-18 15:30-17:30  
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),

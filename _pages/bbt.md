@@ -147,18 +147,21 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Deterministic Key Sequences and Wallets_  
     [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. Monday 2020-05-11 15:30-17:30  
-    _Deterministic Key Sequences and Wallets (Part 2)_  
-    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
+    _Schnorr Signature Algorithm_  
+    _Optimization of The Elliptic Curve Scalar Multiplication_  
+    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 01. Monday 2020-05-18 15:30-17:30  
     _The Frontier of Monetary Engineering_  
-    [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),
-    [text](http://bit.ly/2NQg9VJ)
+    [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
+    _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
+    _[Hayek Money: The Cryptocurrency Price Stability Solution](http://ssrn.com/abstract=2425270)_
 
 In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 
 ## Python library
 
-<http://github.com/btclib-org/btclib>
+<https://btclib.org>  
+<https://github.com/btclib-org/btclib>
 
 ## Python scripts, Excel spreadsheets, and regtest lab material
 

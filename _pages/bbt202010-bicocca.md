@@ -2,26 +2,25 @@
 layout: page
 title: Bitcoin and Blockchain Technology Course
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
-permalink: /bbt/
+permalink: /bbt202010-bicocca/
 ---
 
-## Bitcoin and Blockchain Technology, Spring 2020
+## Bitcoin and Blockchain Technology, Fall 2020
 
-Department of Mathematics, University of Milano
+Department of Mathematics, University of Milano-Bicocca
 
 __The course is confirmed: because of COVID-19
 it will be streaming only.__
 
-If you have an e-mail _@studenti.unimi.it_
-please join the 202003-matematica channel in the Slack
+If you have an e-mail _@campus.unimib.it_
+please join the 202010-bicocca channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
 using your first and last name (no nicknames);
 a profile picture would be appreciated, but is not mandatory.
 Details about the course will be posted in the Slack channel.
 
-Anyone else, please consider <https://dgi.io/workshop>:
-there are discounted rates
-and even a limited number of free admissions for students.
+The course if for the students of University of Milano-Bicocca only;
+anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives
 
@@ -52,7 +51,7 @@ While a rigorous formal approach is almost impossible
 in a course touching on so many and so different knowledge areas,
 intellectual curiosity is stimulated about the interplay between
 maths, cryptography, economic incentives, technology,
-monetary theory, and politics.
+monetary theory, regulatory issues, and politics.
 
 ## Contents
 
@@ -113,8 +112,8 @@ Italian or English, the latter if foreign students are present.
 To pass the exam each student must solve all the assignments
 for every lesson. Please send the homeworks
 to the e-mail that will be indicated with subject
-**BBT MATEMATICA2020 #1** for the first lesson,
-**BBT MATEMATICA2020 #2** for the second lesson,
+**BBT202010-BICOCCA #1** for the first lesson,
+**BBT202010-BICOCCA #2** for the second lesson,
 etc.
 
 ## Lessons' calendar and material

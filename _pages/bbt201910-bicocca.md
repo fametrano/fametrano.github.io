@@ -2,7 +2,7 @@
 layout: page
 title: Bitcoin and Blockchain Technology - Fall 2019
 description: Bitcoin and Blockchain Technology course (fall 2019), including slides, code, videos, etc.
-permalink: /bbt201910/
+permalink: /bbt201910-bicocca/
 ---
 
 ## Bitcoin and Blockchain Technology, Fall 2019

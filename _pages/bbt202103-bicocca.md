@@ -1,32 +1,33 @@
 ---
 layout: page
-title: Cyber Security Regulation (Bitcoin and Blockchain Technology Course)
+title: Bitcoin and Blockchain Technology Course
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
-permalink: /bbt202010-brescia/
+permalink: /bbt202103-bicocca/
 ---
 
-## Cyber Security Regulation (Bitcoin and Blockchain Technology), Fall 2020
+## Bitcoin and Blockchain Technology, Spring 2021
 
-Università Cattolica del Sacro Cuore (Brescia)
+Department of Law, University of Milano-Bicocca
 
-__Because of COVID-19 the course will be streaming only.__
-
-If you have an e-mail _@unicatt.it_
-please join the 202010-brescia channel in the Slack
+If you have an e-mail _@campus.unimib.it_
+please join the 202103-bicocca channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
 using your first and last name (no nicknames);
 a profile picture would be appreciated, but is not mandatory.
-Details and updates about the course will be posted in the Slack channel.
+Details about the course will be posted in the Slack channel.
 
-The course if for the students of Università Cattolica del Sacro Cuore only; 
+The course if for the students of University of Milano-Bicocca only;
 anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives
 
-The course is about bitcoin, the associated blockchain
-technology, and their relevance in the field of cyber security regulation.
+The course is an introduction to bitcoin and the associated blockchain
+technology.
 
-Bitcoin is introduced as ingenious breakthrough fintech innovation.
+Starting from a computationally focused approach to
+elliptic curves over finite fields and
+presenting the discrete logarithm problem as cornerstone of public-key
+cryptography, bitcoin is introduced as ingenious breakthrough innovation.
 
 Its game theory, computer science (distributed systems, distributed
 consensus), and monetary theory elements are examined
@@ -101,17 +102,16 @@ monetary theory, regulatory issues, and politics.
 
 ## Teaching language
 
-English.
+Italian or English, the latter if foreign students are present.
 
 ## Exam
 
 To pass the exam each student must solve all the assignments
 for every lesson. Please send the homeworks
 to the e-mail that will be indicated with subject
-**BBT202010-BRESCIA #1** for the first lesson,
-**BBT202010-BRESCIA #2** for the second lesson,
+**BBT202103-BICOCCA #1** for the first lesson,
+**BBT202103-BICOCCA #2** for the second lesson,
 etc.
-The final assignment will be a multiple choice online live test.
 
 ## Lessons' calendar and material
 
@@ -143,13 +143,16 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Wallets and Deterministic Key Chains_  
     [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. Date to be announced  
-    _Timestamping and Notarization_  
+    _Schnorr Signature Algorithm_  
+    _Optimization of The Elliptic Curve Scalar Multiplication_  
+    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 01. Date to be announced  
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](http://ssrn.com/abstract=2425270)_
 
+In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 
 ## Python library
 
@@ -234,3 +237,4 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
   _"Bitcoin: oro digitale per nuovi standard monetari_ (2020),  
   published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta,  and Alberto Mingardi)  
   <http://bit.ly/2NQg9VJ>
+

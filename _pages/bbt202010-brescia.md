@@ -18,15 +18,13 @@ using your first and last name (no nicknames);
 a profile picture would be appreciated, but is not mandatory.
 Details and updates about the course will be posted in the Slack channel.
 
-The course if for the students of Università Cattolica del Sacro Cuore only, 
-anyone else, please consider <https://dgi.io/workshop>;
-there are discounted rates
-and even a limited number of free admissions for students.
+The course if for the students of Università Cattolica del Sacro Cuore only; 
+anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives
 
 The course is about bitcoin, the associated blockchain
-technology, and their relevance in the filed of cyber security reghulation.
+technology, and their relevance in the field of cyber security regulation.
 
 Bitcoin is introduced as ingenious breakthrough fintech innovation.
 
@@ -49,7 +47,7 @@ While a rigorous formal approach is almost impossible
 in a course touching on so many and so different knowledge areas,
 intellectual curiosity is stimulated about the interplay between
 maths, cryptography, economic incentives, technology,
-monetary theory, and politics.
+monetary theory, regulatory issues, and politics.
 
 ## Contents
 
@@ -110,8 +108,8 @@ English.
 To pass the exam each student must solve all the assignments
 for every lesson. Please send the homeworks
 to the e-mail that will be indicated with subject
-**BBT BRESCIA2020 #1** for the first lesson,
-**BBT BRESCIA2020 #2** for the second lesson,
+**BBT202010-BRESCIA #1** for the first lesson,
+**BBT202010-BRESCIA #2** for the second lesson,
 etc.
 The final assignment will be a multiple choice online live test.
 

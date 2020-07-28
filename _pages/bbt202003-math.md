@@ -19,9 +19,8 @@ using your first and last name (no nicknames);
 a profile picture would be appreciated, but is not mandatory.
 Details about the course will be posted in the Slack channel.
 
-Anyone else, please consider <https://dgi.io/workshop>:
-there are discounted rates
-and even a limited number of free admissions for students.
+The course if for the students of University of Milano only;
+anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives
 

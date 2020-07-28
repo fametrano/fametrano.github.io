@@ -16,7 +16,7 @@ using your first and last name (no nicknames);
 a profile picture would be appreciated, but is not mandatory.
 Details about the course will be posted in the Slack channel.
 
-The course if for the students of University of Milano-Bicocca only;
+the course is for the students of University of Milano-Bicocca only;
 anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives

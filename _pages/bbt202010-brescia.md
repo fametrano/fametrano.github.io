@@ -1,33 +1,34 @@
 ---
 layout: page
-title: Bitcoin and Blockchain Technology Course
+title: Cyber Security Regulation (Bitcoin and Blockchain Technology Course)
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
-permalink: /bbt/
+permalink: /bbt202010-brescia/
 ---
 
-## Bitcoin and Blockchain Technology
+## Cyber Security Regulation (Bitcoin and Blockchain Technology), Fall 2020
 
-* [Bitcoin and Blockchain Technology, Fall 2020]({{ site.baseurl }}/bbt202010-bicocca/)  
-  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* [Bitcoin and Blockchain Technology, Fall 2020]({{ site.baseurl }}/bbt202010-brescia/)  
-  _Università Cattolica del Sacro Cuore (Brescia)_
-* [Bitcoin and Blockchain Technology, Spring 2021]({{ site.baseurl }}/bbt202103-math/)  
-  _Department of Mathematics, University of Milan_
-* [Bitcoin and Blockchain Technology, Spring 2021]({{ site.baseurl }}/bbt202103-law/)  
-  _Department of Law, University of Milano-Bicocca_
+Università Cattolica del Sacro Cuore (Brescia)
 
-These courses are for the students of those universities;
-anyone else, please consider <https://dgi.io/workshop>.
+__Because of COVID-19 the course will be streaming only.__
+
+If you have an e-mail _@unicatt.it_
+please join the 202010-brescia channel in the Slack
+[BBT workspace](https://join.slack.com/t/bbt-training/signup)
+using your first and last name (no nicknames);
+a profile picture would be appreciated, but is not mandatory.
+Details and updates about the course will be posted in the Slack channel.
+
+The course if for the students of Università Cattolica del Sacro Cuore only, 
+anyone else, please consider <https://dgi.io/workshop>;
+there are discounted rates
+and even a limited number of free admissions for students.
 
 ## Learning objectives
 
-The course is about bitcoin and the associated blockchain
-technology.
+The course is about bitcoin, the associated blockchain
+technology, and their relevance in the filed of cyber security reghulation.
 
-Starting from a computationally focused approach to
-elliptic curves over finite fields and
-presenting the discrete logarithm problem as cornerstone of public-key
-cryptography, bitcoin is introduced as ingenious breakthrough innovation.
+Bitcoin is introduced as ingenious breakthrough fintech innovation.
 
 Its game theory, computer science (distributed systems, distributed
 consensus), and monetary theory elements are examined
@@ -102,34 +103,51 @@ monetary theory, and politics.
 
 ## Teaching language
 
-Italian or English, the latter if foreign students are present.
+English.
 
-## Lessons
+## Exam
+
+To pass the exam each student must solve all the assignments
+for every lesson. Please send the homeworks
+to the e-mail that will be indicated with subject
+**BBT BRESCIA2020 #1** for the first lesson,
+**BBT BRESCIA2020 #2** for the second lesson,
+etc.
+The final assignment will be a multiple choice online live test.
+
+## Lessons' calendar and material
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
-01. _Bitcoin as Digital Gold_  
+01. Date to be announced  
+    _Bitcoin as Digital Gold_  
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
-01. _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
+01. Date to be announced  
+    _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/open?id=1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
-01. _Hash Functions_  
+01. Date to be announced  
+    _Hash Functions_  
     [slides](https://drive.google.com/open?id=1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     _Blockchain, Mining, and Distributed Consensus_  
     [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
-01. _Elliptic Curve Digital Signature Algorithm_  
+01. Date to be announced  
+    _Elliptic Curve Digital Signature Algorithm_  
     [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. _Addresses, WIFs, and Bitcoin Message Signing_  
+01. Date to be announced  
+    _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     _Transactions and Scripts_  
     [slides](https://drive.google.com/open?id=1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
-01. _Beyond Bitcoin: Between Hype and Reality_  
+01. Date to be announced  
+    _Beyond Bitcoin: Between Hype and Reality_  
     [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-01. _Wallets and Deterministic Key Chains_  
+01. Date to be announced  
+    _Wallets and Deterministic Key Chains_  
     [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. _Schnorr Signature Algorithm_  
-    _Optimization of The Elliptic Curve Scalar Multiplication_  
-    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. _The Frontier of Monetary Engineering_  
+01. Date to be announced  
+    _Timestamping and Notarization_  
+01. Date to be announced  
+    _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](http://ssrn.com/abstract=2425270)_

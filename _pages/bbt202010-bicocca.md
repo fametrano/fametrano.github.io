@@ -1,19 +1,27 @@
 ---
 layout: page
-title: Bitcoin and Blockchain Technology - Fall 2019
-description: Bitcoin and Blockchain Technology course (fall 2019), including slides, code, videos, etc.
-permalink: /bbt201910/
+title: Bitcoin and Blockchain Technology Course
+description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
+permalink: /bbt/
 ---
 
-## Bitcoin and Blockchain Technology, Fall 2019
+## Bitcoin and Blockchain Technology, Spring 2020
 
-Department of Statistics and Quantitative Methods, University of Milano-Bicocca
+Department of Mathematics, University of Milano
 
-Course page: <https://elearning.unimib.it/course/info.php?id=25308>  
+__The course is confirmed: because of COVID-19
+it will be streaming only.__
 
-Please subscribe the course mailing list sending an e-mail to
-[bbt2019-bicocca+subscribe@dgi.io](mailto:bbt2019-bicocca+subscribe@dgi.io);
-you are also invited to join the 201910-bicocca channel in the Slack [BBT workspace](https://join.slack.com/t/bbt-training/signup).
+If you have an e-mail _@studenti.unimi.it_
+please join the 202003-matematica channel in the Slack
+[BBT workspace](https://join.slack.com/t/bbt-training/signup)
+using your first and last name (no nicknames);
+a profile picture would be appreciated, but is not mandatory.
+Details about the course will be posted in the Slack channel.
+
+Anyone else, please consider <https://dgi.io/workshop>:
+there are discounted rates
+and even a limited number of free admissions for students.
 
 ## Learning objectives
 
@@ -48,21 +56,31 @@ monetary theory, and politics.
 
 ## Contents
 
-* Hash functions, hash pointers, blockchain, Merkle tree
-* Modular arithmetic and algebra of sets
-* Elliptic curves over real numbers and a finite field 𝐹
-* Asymmetric cryptography on elliptic curves
+* Cash, Electronic Money, Central Bank Money, eCash
+* Internet Money
+* Bitcoin Transactions
+* About Money
+* Private Money and the Centralization Dilemma
+* The Double Spending Problem
+* Bitcoin as Digital Gold
+* Bitcoin as Investment Asset
+* Bitcoin Financial Services
+* Discrete Logarithm Problem on Finite Cyclic Groups
+* Modular Arithmetic
+* Finite Fields
+* Elliptic Curves Over Real Numbers
+* DLP on Elliptic Curves Over Finite Fields
+* Hash Functions
+* Partial Hash Inversion
+* Hash Pointer Data Structures: Blockchain and Merkle Tree
+* Design of A Simplified Digital Currency
+* Distributed Consensus
+* Mining
+* P2P Network
+* Protocol Governance
 * Elliptic curve digital signature algorithm
 * Elliptic curve Schnorr signature algorithm: Mu(lti)Sig(nature),
   threshold signature, batch verification
-* Diffie-Hellman
-* Pedersen commitment
-* Confidential transactions
-* Design of a simplified digital currency
-* Distributed consensus
-* Mining
-* P2P network
-* Protocol governance
 * Addresses and WIFs
 * Hierarchical deterministic wallets: BIP32, BIP43, BIP44
 * Mnemonic phrase: BIP39 and Electrum
@@ -90,61 +108,70 @@ monetary theory, and politics.
 
 Italian or English, the latter if foreign students are present.
 
+## Exam
+
+To pass the exam each student must solve all the assignments
+for every lesson. Please send the homeworks
+to the e-mail that will be indicated with subject
+**BBT MATEMATICA2020 #1** for the first lesson,
+**BBT MATEMATICA2020 #2** for the second lesson,
+etc.
+
 ## Lessons' calendar and material
 
-Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/), assistant lecturer.
+Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
-01. Wednesday 2019-10-09 16:30-18:30 edificio U6 aula 33  
-    _Bitcoin as Digital Gold_ (part 1)  
+01. Date to be announced  
+    _Bitcoin as Digital Gold_  
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
-01. Wednesday 2019-10-16 16:30-18:30 edificio U6 aula 33  
-    _Bitcoin as Digital Gold_ (part 2)  
-    [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
-01. Wednesday 2019-10-23 16:30-18:30 edificio U6 aula 33  
-    _Blockchain, Mining, and Distributed Consensus_ (part 1)  
+01. Date to be announced  
+    _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
+    [slides](https://drive.google.com/open?id=1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
+01. Date to be announced  
+    _Hash Functions_  
+    [slides](https://drive.google.com/open?id=1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
+    _Blockchain, Mining, and Distributed Consensus_  
     [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
-01. Wednesday 2019-10-30 16:30-18:30 edificio U6 aula 33  
-    _Blockchain, Mining, and Distributed Consensus_ (part 2)  
-    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
-01. Wednesday 2019-11-06 16:30-18:30 edificio U6 aula 33  
-    _Elliptic Curve Digital Signature Algorithm_ (part 1)  
+01. Date to be announced  
+    _Elliptic Curve Digital Signature Algorithm_  
     [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. Wednesday 2019-11-13 16:30-18:30 edificio U6 aula 33  
-    _Elliptic Curve Digital Signature Algorithm_ (part 2)  
-    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. Wednesday 2019-11-27 16:30-18:30 edificio U6 aula 33  
-    _Wallets: Key Encodings and Deterministic Key Sequences_  
-    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. Wednesday 2019-12-04 16:30-18:30 edificio U6 aula 33  
-    _Wallets: Key Encodings and Deterministic Key Sequences_ (Part 2)  
-    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. Wednesday 2019-12-11 16:30-18:30 edificio U6 aula 33  
-    _Transactions and Blocks_  
-    [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)
-01. Wednesday 2019-12-18 16:30-18:30 edificio U6 aula 33  
+01. Date to be announced  
+    _Addresses, WIFs, and Bitcoin Message Signing_  
+    [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
+    _Transactions and Scripts_  
+    [slides](https://drive.google.com/open?id=1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
+01. Date to be announced  
     _Beyond Bitcoin: Between Hype and Reality_  
     [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-01. Friday 2020-12-20 12:30-14:30 edificio U6 aula 22  
-    Wednesday 2020-01-15 16:30-18:30 edificio U6 aula 33  
+01. Date to be announced  
+    _Wallets and Deterministic Key Chains_  
+    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
+01. Date to be announced  
+    _Schnorr Signature Algorithm_  
+    _Optimization of The Elliptic Curve Scalar Multiplication_  
+    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+01. Date to be announced  
     _The Frontier of Monetary Engineering_  
-    [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),
-    [text]( http://bit.ly/2NQg9VJ)
+    [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
+    _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
+    _[Hayek Money: The Cryptocurrency Price Stability Solution](http://ssrn.com/abstract=2425270)_
 
 In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 
 ## Python library
 
-<http://github.com/dginst/btclib>
+<https://btclib.org>  
+<https://github.com/btclib-org/btclib>
 
 ## Python scripts, Excel spreadsheets, and regtest lab material
 
-<https://github.com/dginst/bbt>
+<http://github.com/btclib-org/bbt>
 
 ## Introductory reading
 
 * Ferdinando M. Ametrano,  
-  _"Bitcoin: oro digitale per nuovi standard monetari"_ (2018),  
-  <http://bit.ly/2NQg9VJ>
+  _"Bitcoin: oro digitale, finanza e tulipani"_,  
+  <https://docs.google.com/document/d/1gecm0uT43tl8d4WFYNs9H_v3p70PPfPmQITR4GxSWkE>
 
 ## Technology references
 
@@ -156,7 +183,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
   Oreilly & Associates Inc, 978-1491954386,  
   <https://github.com/bitcoinbook/bitcoinbook>
 * Jimmy Song,  
-  _"Programming Bitcoin: Learn How to Program Bitcoin from Scratch"_ (2019)  
+  _"Programming Bitcoin: Learn How to Program Bitcoin from Scratch"_ (2020)  
   Oreilly & Associates Inc, 978-1492031499,  
   <https://github.com/jimmysong/programmingbitcoin>
 * A. Narayanan, et al.,  
@@ -170,7 +197,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
   _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_ (2017),  
   <https://ssrn.com/abstract=2832249>
 * Roger Wattenhofer,  
-  _“Blockchain Science: Distributed Ledger Technology”_ (3rd edition, 2019),  
+  _“Blockchain Science: Distributed Ledger Technology”_ (3rd edition, 2020),  
    Independently published, 978-1793471734
 
 ## Cryptography references
@@ -184,7 +211,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
   Stanford University  
   <https://www.coursera.org/learn/crypto>, <https://toc.cryptobook.us/>
 * Lawrence C. Washington,  
-  _“Elliptic Curves Number Theory And Cryptography”_ (2008),  
+  _“Elliptic Curves: Number Theory And Cryptography”_ (2008),  
   Chapman and Hall, 978-1420071467
 * Standards for Efficient Cryptography Group  
   SEC 1: Elliptic Curve Cryptography, March 2009. Version 2.0.  
@@ -210,7 +237,8 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 * Robert Sams,  
   _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_ (2015),  
   <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
+* Ferdinando M. Ametrano,  
+  _"Bitcoin: oro digitale per nuovi standard monetari_ (2020),  
+  published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta,  and Alberto Mingardi)  
+  <http://bit.ly/2NQg9VJ>
 
----
-
-Bitcoin donation address [1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)

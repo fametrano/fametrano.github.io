@@ -9,7 +9,7 @@ permalink: /bbt202010-brescia/
 
 ## Bitcoin and Blockchain Technology), Fall 2020
 
-Interfacoltà: Scienze Matematiche Fisiche e Naturali - Scienze Bancarie Finanziarie e Assicurative  
+Interfacoltà: Scienze Matematiche Fisiche e Naturali (Brescia) - Scienze Bancarie Finanziarie e Assicurative (Milano)  
 Università Cattolica del Sacro Cuore (Brescia)
 
 __Because of COVID-19 the course will be streaming only.__
@@ -21,7 +21,7 @@ using your first and last name (no nicknames);
 a profile picture would be appreciated, but is not mandatory.
 Details and updates about the course will be posted in the Slack channel.
 
-The course if for the students of Università Cattolica del Sacro Cuore only; 
+the course is for the students of Università Cattolica del Sacro Cuore only; 
 anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives

@@ -5,8 +5,11 @@ description: Bitcoin and Blockchain Technology course, including slides, code, v
 permalink: /bbt202010-brescia/
 ---
 
-## Cyber Security Regulation (Bitcoin and Blockchain Technology), Fall 2020
+# Applied Data Science For Banking and Finance - Cyber Security Regulation
 
+## Bitcoin and Blockchain Technology), Fall 2020
+
+Interfacoltà: Scienze Matematiche Fisiche e Naturali - Scienze Bancarie Finanziarie e Assicurative  
 Università Cattolica del Sacro Cuore (Brescia)
 
 __Because of COVID-19 the course will be streaming only.__
@@ -118,34 +121,37 @@ The exam will be a multiple choice online live test.
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
-01. Date to be announced  
+01. Monday 2019-10-05 11:30-13:30   
     _Bitcoin as Digital Gold_  
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
-01. Date to be announced  
+01. Monday 2019-10-12 11:30-13:30   
+    _Bitcoin as Digital Gold_  
+    [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
+01. Monday 2019-10-19 11:30-13:30   
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/open?id=1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
-01. Date to be announced  
+01. Monday 2019-10-26 11:30-13:30   
     _Hash Functions_  
     [slides](https://drive.google.com/open?id=1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     _Blockchain, Mining, and Distributed Consensus_  
     [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
-01. Date to be announced  
+01. Monday 2019-11-02 11:30-13:30   
     _Elliptic Curve Digital Signature Algorithm_  
     [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. Date to be announced  
+01. Monday 2019-11-09 11:30-13:30   
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     _Transactions and Scripts_  
     [slides](https://drive.google.com/open?id=1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
-01. Date to be announced  
+01. Monday 2019-11-16 11:30-13:30   
     _Beyond Bitcoin: Between Hype and Reality_  
     [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-01. Date to be announced  
+01. Monday 2019-11-23 11:30-13:30   
     _Wallets and Deterministic Key Chains_  
     [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. Date to be announced  
+01. Monday 2019-11-30 11:30-13:30   
     _Timestamping and Notarization_  
-01. Date to be announced  
+01. Monday 2019-12-07 11:30-13:30   
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  

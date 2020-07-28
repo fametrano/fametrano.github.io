@@ -105,13 +105,14 @@ English.
 
 ## Exam
 
-To pass the exam each student must solve all the assignments
-for every lesson. Please send the homeworks
+Students are asked to solve the homework assignments
+for each lesson. Please send the homeworks
 to the e-mail that will be indicated with subject
 **BBT202010-BRESCIA #1** for the first lesson,
 **BBT202010-BRESCIA #2** for the second lesson,
 etc.
-The final assignment will be a multiple choice online live test.
+
+The exam will be a multiple choice online live test.
 
 ## Lessons' calendar and material
 

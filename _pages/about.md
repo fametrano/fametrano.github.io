@@ -85,7 +85,7 @@ also been co-founder and managing partner of RiskMap
 
 His mom and dad are very proud of him,
 his wife might share the feeling, but has never disclosed her opinion officially,
-his daughters and son just don't care,
+his daughters and son just don't care about his public persona,
 his friends consider him bizzarre,
 his collegues and students love and hate him depending on their sensitivities and experiences.
 

@@ -9,14 +9,19 @@ permalink: /about/
 
 * Cofounder and Chief Executive Officer, CheckSig  
   <http://checksig.io>
-* Founder and Chief Executive Director, Digital Gold Institute  
+* Founder and Executive Director, Digital Gold Institute  
   <http://dgi.io>
 * Cofounder and Scientific Director, Crypto Asset Lab  
   Department of Business and Law, University of Milano-Bicocca  
   <http://cryptoassetlab.diseade.unimib.it>
-* Adjunct Professor of "Interest Rate Derivatives" and "Bitcoin and Blockchain Technology"  
+* Adjunct Professor of "Interest Rate Derivatives"  
   Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
   <http://www.unimib.it/ferdinando-maria-ametrano>
+* Adjunct Professor of "Bitcoin and Blockchain Technology"  
+  Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
+  Department of Law, University of Milano-Bicocca  
+  Department of Mathematics, University of Milano  
+  Mathematical, Physical and Natural Sciences / Law Interfaculty, Università Cattolica (Brescia)  
 * Founder and coadministrator of QuantLib and btclib  
   <http://quantlib.org>, <http://github.com/dginst/btclib>
 

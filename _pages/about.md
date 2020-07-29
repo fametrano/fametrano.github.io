@@ -47,12 +47,15 @@ Fintech innovator, technologist, and
 he is author of [scientific publications]({{ site.baseurl }}/papers/)
 and contributor to multiple [media]({{ site.baseurl }}/media/) outlets.
 Appreciated [professor]({{ site.baseurl }}/courses/), speaker, panelist,
-lecturer, and instructor, he has been
-invited to [events]({{ site.baseurl }}/events/)
+lecturer, and instructor, he is
+UN/CEFACT (United Nations Centre for Trade Facilitation and Electronic Business) expert
+and has been
+invited to private and public [events]({{ site.baseurl }}/events/)
 about bitcoin at the
 [United Nations](https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ),
-central banks, the Italian Parliament, universities, conferences, and
-workshops.
+central banks,
+the [Italian Parliament](https://www.youtube.com/watch?v=vLM3FUuCFLY),
+universities, conferences, and workshops.
 
 His [academic research]({{ site.baseurl }}/papers/)
 focuses on price stability, advocating

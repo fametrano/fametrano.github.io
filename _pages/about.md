@@ -5,7 +5,7 @@ description: "Profile of Ferdinando M. Ametrano: affiliations, bio, social netwo
 permalink: /about/
 ---
 
-## Affiliations
+## Current Affiliations
 
 * Cofounder and Chief Executive Officer, CheckSig  
   <http://checksig.io>
@@ -29,17 +29,16 @@ permalink: /about/
 
 ## Profile
 
-Ferdinando has spent about twenty years
+After almost twenty years
 in the investment banking and asset management industry,
-also teaching an "Interest Rate Derivatives" university course.
-In 2014 he discovered bitcoin.
+Ferdinando Ametrano has discovered bitcoin in 2014.
 
 Founder and CEO of [CheckSig](http://checksig.io)
 (transparent bitcoin custody solutions
 for institutional investors and high-net-worth individuals) and
 [Digital Gold Institute](http://dgi.io)
 (R&D, consultancy, and training about bitcoin and blockchain technology),
-Ferdinando Ametrano is also scientific director of the
+Ferdinando is also scientific director of the
 [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)
 at Milano-Bicocca University, where he teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)".

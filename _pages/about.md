@@ -29,6 +29,11 @@ permalink: /about/
 
 ## Profile
 
+Ferdinando has spent about twenty years
+in the investment banking and asset management industry,
+also teaching an "Interest Rate Derivatives" university course.
+In 2014 he discovered bitcoin.
+
 Founder and CEO of [CheckSig](http://checksig.io)
 (transparent bitcoin custody solutions
 for institutional investors and high-net-worth individuals) and
@@ -38,6 +43,7 @@ Ferdinando Ametrano is also scientific director of the
 [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)
 at Milano-Bicocca University, where he teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)".
+
 Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
 in Intesa Sanpaolo bank,
 he has been Planning Committee member of the
@@ -77,6 +83,12 @@ has headed trading, quantitative, and risk-management teams in Banca IMI
 (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has
 also been co-founder and managing partner of RiskMap
 (now StatPro Italia).
+
+His mom and dad are very proud of him,
+his wife might share the feeling, but has never disclosed her opinion officially,
+his daughters and son just don't care,
+his friends consider him bizzarre,
+his collegues and students love and hate him depending on their sensitivities and experiences.
 
 Europass CV: <https://www.ametrano.net/cv/CV-Europass-20200626-Ametrano-EN>
 Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>

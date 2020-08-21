@@ -45,15 +45,17 @@ Ferdinando è anche
 direttore scientifico
 del [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)
 dell'Università Milano-Bicocca, dove insegna
-[Bitcoin and Blockchain Technologies]({{ site.baseurl }}/bbt/)
+*[Bitcoin and Blockchain Technologies]({{ site.baseurl }}/bbt/)*
 
 È stato in precedenza
 *[Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)*
 in Intesa Sanpaolo e
 membro del Comitato Organizzatore della conferenza
 [Scaling Bitcoin](https://scalingbitcoin.org/);
-[contribuisce](https://github.com/bitcoin/bitcoin/pulls?q=is%3Apr+author%3Afametrano)
-occasionalmente e marginalmente a Bitcoin Core e manutiene
+contribuisce occasionalmente e marginalmente a
+[Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin)
+/ [Bitcoin Core](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core)
+e manutiene
 [btclib](http://github.com/dginst/btclib), una libreria python bitcoin.
 
 Innovatore nel campo *fintech*,

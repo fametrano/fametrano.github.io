@@ -49,9 +49,9 @@ Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/vide
 in Intesa Sanpaolo bank,
 he has been Planning Committee member of the
 [Scaling Bitcoin](https://scalingbitcoin.org/) conference,
-is an occasional trivial
-[contributor](https://github.com/bitcoin/bitcoin/pulls?q=is%3Apr+author%3Afametrano)
-to Bitcoin Core,
+is an occasional trivial contributor
+to [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin)
+/ [Bitcoin Core](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core),
 and maintains [btclib](http://github.com/dginst/btclib), a bitcoin python library.
 
 Fintech innovator, technologist, and

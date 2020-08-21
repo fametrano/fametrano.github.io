@@ -53,8 +53,7 @@ in Intesa Sanpaolo e
 membro del Comitato Organizzatore della conferenza
 [Scaling Bitcoin](https://scalingbitcoin.org/);
 contribuisce occasionalmente e marginalmente a
-[Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin)
-/ [Bitcoin Core](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core)
+[Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin)
 e manutiene
 [btclib](http://github.com/dginst/btclib), una libreria python bitcoin.
 

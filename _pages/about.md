@@ -21,7 +21,7 @@ permalink: /about/
   Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
   Department of Law, University of Milano-Bicocca  
   Department of Mathematics, University of Milano  
-  Mathematical, Physical and Natural Sciences / Law Interfaculty, Università Cattolica (Brescia)  
+  Mathematical, Physical and Natural Sciences / Law Interfaculty, Università Cattolica del Sacro Cuore (Brescia)  
 * Founder and coadministrator of QuantLib and btclib  
   <http://quantlib.org>, <http://github.com/dginst/btclib>
 
@@ -91,7 +91,7 @@ his daughters and son just don't care about his public persona,
 his friends consider him bizarre,
 his colleagues and students love and hate him depending on their sensitivities and experiences.
 
-Europass CV: <https://www.ametrano.net/cv/CV-Europass-20200626-Ametrano-EN>
+Europass CV: <https://www.ametrano.net/cv/CV-Europass-20200626-Ametrano-EN>  
 Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 **email contact form**: <https://bit.ly/contactametrano>

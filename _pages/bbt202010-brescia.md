@@ -19,7 +19,7 @@ please join the 202010-brescia channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
 using your first and last name (no nicknames);
 a profile picture would be appreciated, but is not mandatory.
-Details and updates about the course will be posted in the Slack channel.
+Updates and conversations about the course will be posted in the Slack channel.
 
 The course is for the students of Università Cattolica del Sacro Cuore only; 
 anyone else, please consider <https://dgi.io/workshop>.
@@ -122,10 +122,10 @@ The exam will be a multiple choice online live test.
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
 01. Monday 2019-10-05 11:30-13:30   
-    _Bitcoin as Digital Gold_  
+    _Bitcoin as Digital Gold (Part 1)_  
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. Monday 2019-10-12 11:30-13:30   
-    _Bitcoin as Digital Gold_  
+    _Bitcoin as Digital Gold (Part 2)_  
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. Monday 2019-10-19 11:30-13:30   
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  

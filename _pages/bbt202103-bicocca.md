@@ -14,7 +14,7 @@ please join the 202103-bicocca channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
 using your first and last name (no nicknames);
 a profile picture would be appreciated, but is not mandatory.
-Details about the course will be posted in the Slack channel.
+Updates and conversations about the course will be posted in the Slack channel.
 
 The course is for the students of University of Milano-Bicocca only;
 anyone else, please consider <https://dgi.io/workshop>.

@@ -7,7 +7,7 @@ permalink: /bbt202010-bicocca/
 
 ## Bitcoin and Blockchain Technology, Fall 2020
 
-Department of Mathematics, University of Milano-Bicocca
+Department of Statistics and Quantitative Methods, University of Milano-Bicocca
 
 __The course is confirmed: because of COVID-19
 it will be streaming only.__
@@ -19,7 +19,7 @@ using your first and last name (no nicknames);
 a profile picture would be appreciated, but is not mandatory.
 Details about the course will be posted in the Slack channel.
 
-the course is for the students of University of Milano-Bicocca only;
+The course is for the students of University of Milano-Bicocca only;
 anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives
@@ -120,40 +120,46 @@ etc.
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
-01. Date to be announced  
-    _Bitcoin as Digital Gold_  
+01. 2020-10-07 Wednesday 16:30-18:30  
+    _Bitcoin as Digital Gold (Part 1)_  
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
-01. Date to be announced  
+01. 2020-10-14 Wednesday 16:30-18:30   
+    _Bitcoin as Digital Gold (Part 2)_  
+    [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
+01. 2020-10-21 Wednesday 16:30-18:30  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/open?id=1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
-01. Date to be announced  
+01. 2020-10-28 Wednesda 16:30-18:30  
     _Hash Functions_  
     [slides](https://drive.google.com/open?id=1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     _Blockchain, Mining, and Distributed Consensus_  
     [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
-01. Date to be announced  
+01. 2020-11-04 Wednesday 16:30-18:30  
     _Elliptic Curve Digital Signature Algorithm_  
     [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. Date to be announced  
+01. 2020-11-11 Wednesday 16:30-18:30  
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     _Transactions and Scripts_  
     [slides](https://drive.google.com/open?id=1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
-01. Date to be announced  
+01. 2020-11-18 Wednesday 16:30-18:30  
     _Beyond Bitcoin: Between Hype and Reality_  
     [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-01. Date to be announced  
-    _Wallets and Deterministic Key Chains_  
+01. 2020-12-02 Wednesday 16:30-18:30  
+    _Wallets and Deterministic Key Chains (Part 1)_  
     [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. Date to be announced  
-    _Schnorr Signature Algorithm_  
-    _Optimization of The Elliptic Curve Scalar Multiplication_  
-    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. Date to be announced  
+01. 2020-12-09 Wednesday 16:30-18:30  
+    _Wallets and Deterministic Key Chains (Part 2)_  
+    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
+01. 2020-12-16 Wednesday 16:30-18:30  
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](http://ssrn.com/abstract=2425270)_
+01. 2020-12-23 Wednesday 16:30-18:30  
+    _Schnorr Signature Algorithm_  
+    _Optimization of The Elliptic Curve Scalar Multiplication_  
+    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 
 In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 

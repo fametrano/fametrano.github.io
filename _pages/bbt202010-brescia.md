@@ -21,7 +21,7 @@ using your first and last name (no nicknames);
 a profile picture would be appreciated, but is not mandatory.
 Details and updates about the course will be posted in the Slack channel.
 
-the course is for the students of Università Cattolica del Sacro Cuore only; 
+The course is for the students of Università Cattolica del Sacro Cuore only; 
 anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives

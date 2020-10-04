@@ -5,9 +5,9 @@ description: Bitcoin and Blockchain Technology course, including slides, code, v
 permalink: /bbt202010-brescia/
 ---
 
-# Applied Data Science For Banking and Finance - Cyber Security Regulation
+## Applied Data Science For Banking and Finance - Cyber Security Regulation
 
-## Bitcoin and Blockchain Technology), Fall 2020
+## Bitcoin and Blockchain Technology, Fall 2020
 
 Interfacoltà: Scienze Matematiche Fisiche e Naturali (Brescia) - Scienze Bancarie Finanziarie e Assicurative (Milano)  
 Università Cattolica del Sacro Cuore (Brescia)

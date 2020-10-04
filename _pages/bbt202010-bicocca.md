@@ -9,14 +9,13 @@ permalink: /bbt202010-bicocca/
 
 Department of Statistics and Quantitative Methods, University of Milano-Bicocca
 
-__The course is confirmed: because of COVID-19
-it will be streaming only.__
+__Because of COVID-19 the course will be streaming only.__
 
 If you have an e-mail _@campus.unimib.it_
 please join the 202010-bicocca channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
-using your first and last name (no nicknames);
-a profile picture would be appreciated, but is not mandatory.
+using your first and last name (no nicknames)
+and a profile picture.
 Updates and conversations about the course will be posted in the Slack channel.
 
 The course is for the students of University of Milano-Bicocca only;
@@ -109,12 +108,19 @@ Italian or English, the latter if foreign students are present.
 
 ## Exam
 
-To pass the exam each student must solve all the assignments
-for every lesson. Please send the homeworks
+Students are asked to solve the homework assignments
+for each lesson. Please send the homeworks
 to the e-mail that will be indicated with subject
 **BBT202010-BICOCCA #1** for the first lesson,
 **BBT202010-BICOCCA #2** for the second lesson,
 etc.
+
+Homework can be tackled cooperatively by a team of students,
+up to three students. Successfull homeworks will contribute
+up to 8 points to the final grade.
+
+The individual final exam will be a multiple choice online live test.
+18/30 final grade is required to pass the exam.
 
 ## Lessons' calendar and material
 
@@ -132,36 +138,36 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2020-10-28 Wednesda 16:30-18:30  
     _Hash Functions_  
     [slides](https://drive.google.com/open?id=1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    _Blockchain, Mining, and Distributed Consensus_  
+    _Blockchain, Mining, and Distributed Consensus (Part 1)_  
     [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
 01. 2020-11-04 Wednesday 16:30-18:30  
+    _Blockchain, Mining, and Distributed Consensus (Part 2)_  
+    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
+01. 2020-11-11 Wednesday 16:30-18:30  
     _Elliptic Curve Digital Signature Algorithm_  
     [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. 2020-11-11 Wednesday 16:30-18:30  
+01. 2020-11-18 Wednesday 16:30-18:30  
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     _Transactions and Scripts_  
     [slides](https://drive.google.com/open?id=1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
-01. 2020-11-18 Wednesday 16:30-18:30  
-    _Beyond Bitcoin: Between Hype and Reality_  
-    [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. 2020-12-02 Wednesday 16:30-18:30  
+    _Beyond Bitcoin: Between Hype and Reality (Part 1)_  
+    [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
+01. 2020-12-09 Wednesday 16:30-18:30  
+    _Beyond Bitcoin: Between Hype and Reality (Part 2)_  
+    [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
     _Wallets and Deterministic Key Chains (Part 1)_  
     [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. 2020-12-09 Wednesday 16:30-18:30  
+01. 2020-12-16 Wednesday 16:30-18:30  
     _Wallets and Deterministic Key Chains (Part 2)_  
     [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. 2020-12-16 Wednesday 16:30-18:30  
+01. 2020-12-23 Wednesday 16:30-18:30  
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](http://ssrn.com/abstract=2425270)_
-01. 2020-12-23 Wednesday 16:30-18:30  
-    _Schnorr Signature Algorithm_  
-    _Optimization of The Elliptic Curve Scalar Multiplication_  
-    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 
-In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 
 ## Python library
 

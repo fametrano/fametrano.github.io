@@ -17,8 +17,8 @@ __Because of COVID-19 the course will be streaming only.__
 If you have an e-mail _@unicatt.it_
 please join the 202010-brescia channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
-using your first and last name (no nicknames);
-a profile picture would be appreciated, but is not mandatory.
+using your first and last name (no nicknames) and
+a profile picture.
 Updates and conversations about the course will be posted in the Slack channel.
 
 The course is for the students of Università Cattolica del Sacro Cuore only; 
@@ -115,7 +115,11 @@ to the e-mail that will be indicated with subject
 **BBT202010-BRESCIA #2** for the second lesson,
 etc.
 
-The exam will be a multiple choice online live test.
+Homework can be tackled cooperatively by a team of students,
+up to three students. Successfull homeworks will contribute
+up to 8 points to the final grade.
+
+The individual final exam will be a multiple choice online live test.
 
 ## Lessons' calendar and material
 
@@ -133,24 +137,25 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. Monday 2019-10-26 11:30-13:30   
     _Hash Functions_  
     [slides](https://drive.google.com/open?id=1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    _Blockchain, Mining, and Distributed Consensus_  
+    _Blockchain, Mining, and Distributed Consensus (Part 1)_  
     [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
 01. Monday 2019-11-02 11:30-13:30   
+    _Blockchain, Mining, and Distributed Consensus (Part 2)_  
+    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
+01. Monday 2019-11-09 11:30-13:30   
     _Elliptic Curve Digital Signature Algorithm_  
     [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. Monday 2019-11-09 11:30-13:30   
+01. Monday 2019-11-16 11:30-13:30   
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     _Transactions and Scripts_  
     [slides](https://drive.google.com/open?id=1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
-01. Monday 2019-11-16 11:30-13:30   
+01. Monday 2019-11-23 11:30-13:30   
     _Beyond Bitcoin: Between Hype and Reality_  
     [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-01. Monday 2019-11-23 11:30-13:30   
+01. Monday 2019-11-30 11:30-13:30   
     _Wallets and Deterministic Key Chains_  
     [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. Monday 2019-11-30 11:30-13:30   
-    _Timestamping and Notarization_  
 01. Monday 2019-12-07 11:30-13:30   
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  

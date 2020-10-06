@@ -13,9 +13,9 @@ permalink: /courses/
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
 * [Bitcoin and Blockchain Technology, Fall 2020]({{ site.baseurl }}/bbt202010-brescia/)  
   _Università Cattolica del Sacro Cuore (Brescia)_
-* [Bitcoin and Blockchain Technology, Spring 2021]({{ site.baseurl }}/bbt202103-math/)  
+* Bitcoin and Blockchain Technology, Spring 2021  
   _Department of Mathematics, University of Milan_
-* [Bitcoin and Blockchain Technology, Spring 2021]({{ site.baseurl }}/bbt202103-law/)  
+* Bitcoin and Blockchain Technology, Spring 2021  
   _Department of Law, University of Milano-Bicocca_
 
 For events, seminars, and conferences where I have been engaged

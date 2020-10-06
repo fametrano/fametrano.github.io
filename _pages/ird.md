@@ -13,7 +13,7 @@ __Because of COVID-19 the course will be streaming only.__
 
 If you have an e-mail _@campus.unimib.it_
 please join the 202010-bicocca channel in the Slack
-[IRD-Bicocca workspace](https://join.slack.com/t/ird-bicocca)
+[IRD-Bicocca workspace](https://join.slack.com/t/ird-bicocca/signup)
 using your first and last name (no nicknames)
 and a profile picture.
 Updates and conversations about the course will be posted in the Slack channel.

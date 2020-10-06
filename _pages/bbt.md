@@ -16,6 +16,8 @@ permalink: /bbt/
 * [Bitcoin and Blockchain Technology, Spring 2021]({{ site.baseurl }}/bbt202103-law/)  
   _Department of Law, University of Milano-Bicocca_
 
+Please refer to the page dedicated to your university.
+
 These courses are for the students of those universities;
 anyone else, please consider <https://dgi.io/workshop>.
 

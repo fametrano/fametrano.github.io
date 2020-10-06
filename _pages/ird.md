@@ -9,6 +9,15 @@ permalink: /ird/
 
 Department of Statistics and Quantitative Methods, Università di Milano-Bicocca
 
+__Because of COVID-19 the course will be streaming only.__
+
+If you have an e-mail _@campus.unimib.it_
+please join the 202010-bicocca channel in the Slack
+[IRD-Bicocca workspace](https://join.slack.com/t/ird-bicocca)
+using your first and last name (no nicknames)
+and a profile picture.
+Updates and conversations about the course will be posted in the Slack channel.
+
 ## Learning objectives
 
 The course has a practitioner approach, presenting the current market best practices, often not yet documented in textbooks. Lecturers from the street are invited: traders, risk-managers, quants, consultants. The course aims to provide the students with the background usually tested when applying for investment banks in the interest rate derivatives area.

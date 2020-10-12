@@ -117,7 +117,7 @@ etc.
 
 Homework can be tackled cooperatively by a team of students,
 up to three students. Successfull homeworks will contribute
-up to 8 points to the final grade.
+up to 5 points to the final grade.
 
 The individual final exam will be a multiple choice online live test.
 

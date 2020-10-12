@@ -14,7 +14,7 @@ Università Cattolica del Sacro Cuore (Brescia)
 
 __Because of COVID-19 the course will be streaming only.__
 
-If you have an e-mail _@unicatt.it_
+If you have an e-mail _@unicatt.it_ or _@icatt.it_
 please join the 202010-brescia channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
 using your first and last name (no nicknames) and

@@ -67,10 +67,12 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/188zJ7Oiz8
 01. 2020-10-06 Tuesday 14:30-16:30  
     _Interest Rate Basics_ ([slides](https://speakerdeck.com/nando1970/interest-rate-basics))  
 01. 2020-10-09 Friday 12:30-14:30  
-    _Workshop on Interest Rate Basics_
-01. 2020-10-13 Tuesday 14:30-16:30  
+    _Interest Rate Basics_ ([slides](https://speakerdeck.com/nando1970/interest-rate-basics))  
     _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))
+01. 2020-10-13 Tuesday 14:30-16:30  
+    _Workshop on Interest Rate Basics_
 01. 2020-10-16 Friday 12:30-14:30  
+    _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))
     _Workshop on Rate Curve Bootstrapping_
 01. 2020-10-20 Tuesday 14:30-16:30  
     _Black Model_ ([slides](https://www.dropbox.com/s/0rzl7wyzauxg34p/20181115%20Black%20Model.pdf?dl=0))

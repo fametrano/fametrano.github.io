@@ -48,10 +48,6 @@ Derivatives, stochastic processes, risk measures
 - Slide based lessons
 - QuantLibXL ([<https://www.quantlib.org/quantlibxl/>](<https://www.quantlib.org/quantlibxl/>)) programming assignments using Excel.
 
-## Assessment method
-
-Oral examination based on the lessons' material and the included references.
-
 ## Textbooks and Reading Materials
 
 - John Hull, _Options, Futures and Other Derivatives_, 10th edition

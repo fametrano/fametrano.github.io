@@ -135,7 +135,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 
 01. 2020-10-07 Wednesday 16:30-18:30  
     _Bitcoin as Digital Gold (Part 1)_  
-    [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
+    [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
 01. 2020-10-14 Wednesday 16:30-18:30   
     _Bitcoin as Digital Gold (Part 2)_  
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
@@ -145,34 +145,34 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     Deadline: 2020-10-20
 01. 2020-10-21 Wednesday 16:30-18:30  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
-    [slides](https://drive.google.com/open?id=1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
+    [slides](https://drive.google.com/open?id=1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
 01. 2020-10-28 Wednesday 16:30-18:30  
     _Hash Functions_  
     [slides](https://drive.google.com/open?id=1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     _Blockchain, Mining, and Distributed Consensus (Part 1)_  
-    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
+    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2020-11-04 Wednesday 16:30-18:30  
     _Blockchain, Mining, and Distributed Consensus (Part 2)_  
-    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
+    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2020-11-11 Wednesday 16:30-18:30  
     _Elliptic Curve Digital Signature Algorithm_  
-    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
 01. 2020-11-18 Wednesday 16:30-18:30  
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     _Transactions and Scripts_  
-    [slides](https://drive.google.com/open?id=1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
+    [slides](https://drive.google.com/open?id=1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
 01. 2020-12-02 Wednesday 16:30-18:30  
     _Beyond Bitcoin: Between Hype and Reality (Part 1)_  
-    [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
+    [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
 01. 2020-12-09 Wednesday 16:30-18:30  
     _Beyond Bitcoin: Between Hype and Reality (Part 2)_  
-    [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
+    [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
     _Wallets and Deterministic Key Chains (Part 1)_  
-    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
+    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
 01. 2020-12-16 Wednesday 16:30-18:30  
     _Wallets and Deterministic Key Chains (Part 2)_  
-    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
+    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
 01. 2020-12-23 Wednesday 16:30-18:30  
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  

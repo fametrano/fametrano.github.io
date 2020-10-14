@@ -111,7 +111,7 @@ English if foreign students are present, else Italian.
 Students attending the lessons are asked
 to solve the homework assignments for each lesson.
 Homeworks have a deadline and are not required/allowed
-for students that did not engage themselves during
+for students that did not actively partecipate to
 the semester activity.
 
 Homework can be tackled cooperatively by team of students,

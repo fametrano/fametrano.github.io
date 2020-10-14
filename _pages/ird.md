@@ -62,7 +62,7 @@ English if foreign students are present, else Italian.
 Students attending the lessons are asked
 to solve the homework assignments for each lesson.
 Homeworks have a deadline and are not required/allowed
-for students that did not engage themselves during
+for students that did not actively partecipate to
 the semester activity.
 
 Homework can be tackled cooperatively by team of students,
@@ -89,17 +89,17 @@ assistant lecturer ([material](https://drive.google.com/open?id=1qIazIGLDuy2DYpV
     _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))
 01. 2020-10-13 Tuesday 14:30-16:30  
     _Workshop on Interest Rate Basics_  
-    Homework #1: fill in the excel spreadsheet.  
-    Homework #2: fill in the excel spreadsheet.  
+    Homework #1: fill in the Excel spreadsheet.  
+    Homework #2: fill in the Excel spreadsheet.  
     Deadline: 2020-10-20
 01. 2020-10-16 Friday 12:30-14:30  
     _Workshop on Interest Rate Basics_  
-    Homework #3: fill in the excel spreadsheet.  
+    Homework #3: fill in the Excel spreadsheet.  
     Deadline: 2020-10-30  
     _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))
 01. 2020-10-20 Tuesday 14:30-16:30  
     _Workshop on Rate Curve Calibration_  
-    Homework #4: fill in the excel spreadsheet.  
+    Homework #4: fill in the Excel spreadsheet.  
     Deadline: 2020-11-06
 01. 2020-10-23 Friday 12:30-14:30  
     _Black Model_ ([slides](https://www.dropbox.com/s/0rzl7wyzauxg34p/20181115%20Black%20Model.pdf?dl=0))
@@ -114,8 +114,8 @@ assistant lecturer ([material](https://drive.google.com/open?id=1qIazIGLDuy2DYpV
 01. 2020-11-06 Friday 12:30-14:30  
     _Workshop on Greeks and Hedging_  
     _Workshop on Caps/Floors, Swaptions, and Bermudan Swaption_  
-    Homework #5: fill in the excel spreadsheet.  
-    Homework #6: fill in the excel spreadsheet.  
+    Homework #5: fill in the Excel spreadsheet.  
+    Homework #6: fill in the Excel spreadsheet.  
     Deadline: 2020-11-17
 01. 2020-11-10 Tuesday 14:30-16:30  
     _Trading Obbligazionario_ ([slide](https://drive.google.com/open?id=1AE4v_KuQC6Btg28aLii4mhXMCqXQtOWQ))  
@@ -125,7 +125,7 @@ assistant lecturer ([material](https://drive.google.com/open?id=1qIazIGLDuy2DYpV
 01. 2020-11-17 Tuesday 14:30-16:30  
     _Credit Derivatives_ ([slides](https://www.dropbox.com/s/dcqb23wer56wb44/20181108%20Credit%20Risk.pdf?dl=0))  
     _Workshop on Credit Curve Bootstrapping and Credit Default Swaps_  
-    Homework #7: fill in the excel spreadsheet.  
+    Homework #7: fill in the Excel spreadsheet.  
     Deadline: 2020-12-01
 01. 2020-11-20 Friday 12:30-14:30  
     _XVAs_ ([slides](https://drive.google.com/file/d/1wU-t6AW4EV-wBBiVexdYwt1_R40jB_nw/view?usp=sharing))  

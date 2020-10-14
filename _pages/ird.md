@@ -57,7 +57,27 @@ Oral examination based on the lessons' material and the included references.
 
 ## Teaching language
 
-Usually Italian, English if foreign students are present.
+English if foreign students are present, else Italian.
+
+## Exam
+
+Students attending the lessons are asked
+to solve the homework assignments for each lesson.
+Homeworks have a deadline and are not required/allowed
+for students that did not engage themselves during
+the semester activity.
+
+Homework can be tackled cooperatively by team of students,
+up to three students. Successfull homeworks will contribute
+up to 5 points to the final grade.
+
+Please send the homeworks
+to the e-mail that will be indicated with subject
+**IRD202010 #1** for the first assignment,
+**IRD202010 #2** for the second assignment,
+etc.
+
+The final exam will be individual.
 
 ## Lessons' calendar and material
 
@@ -71,12 +91,18 @@ assistant lecturer ([material](https://drive.google.com/open?id=1qIazIGLDuy2DYpV
     _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))
 01. 2020-10-13 Tuesday 14:30-16:30  
     _Workshop on Interest Rate Basics_
-    Homework on rates and bond
+    Homework #1: fill in the excel spreadsheet.
+    Homework #2: fill in the excel spreadsheet.
+    Deadline: 2020-10-20
 01. 2020-10-16 Friday 12:30-14:30  
     _Workshop on Interest Rate Basics_  
+    Homework #3: fill in the excel spreadsheet.
+    Deadline: 2020-10-30
     _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))
 01. 2020-10-20 Tuesday 14:30-16:30  
     _Workshop on Rate Curve Calibration_
+    Homework #4: fill in the excel spreadsheet.
+    Deadline: 2020-11-06
 01. 2020-10-23 Friday 12:30-14:30  
     _Black Model_ ([slides](https://www.dropbox.com/s/0rzl7wyzauxg34p/20181115%20Black%20Model.pdf?dl=0))
 01. 2020-10-27 Tuesday 14:30-16:30  
@@ -90,6 +116,9 @@ assistant lecturer ([material](https://drive.google.com/open?id=1qIazIGLDuy2DYpV
 01. 2020-11-06 Friday 12:30-14:30  
     _Workshop on Greeks and Hedging_  
     _Workshop on Caps/Floors, Swaptions, and Bermudan Swaption_  
+    Homework #5: fill in the excel spreadsheet.
+    Homework #6: fill in the excel spreadsheet.
+    Deadline: 2020-11-17
 01. 2020-11-10 Tuesday 14:30-16:30  
     _Trading Obbligazionario_ ([slide](https://drive.google.com/open?id=1AE4v_KuQC6Btg28aLii4mhXMCqXQtOWQ))  
     Guest lecturer: [Andrea Bugin](https://www.linkedin.com/in/andrea-bugin-a326715)
@@ -98,6 +127,8 @@ assistant lecturer ([material](https://drive.google.com/open?id=1qIazIGLDuy2DYpV
 01. 2020-11-17 Tuesday 14:30-16:30  
     _Credit Derivatives_ ([slides](https://www.dropbox.com/s/dcqb23wer56wb44/20181108%20Credit%20Risk.pdf?dl=0))  
     _Workshop on Credit Curve Bootstrapping and Credit Default Swaps_
+    Homework #7: fill in the excel spreadsheet.
+    Deadline: 2020-12-01
 01. 2020-11-20 Friday 12:30-14:30  
     _XVAs_ ([slides](https://drive.google.com/file/d/1wU-t6AW4EV-wBBiVexdYwt1_R40jB_nw/view?usp=sharing))  
     Guest lecturer: [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/)

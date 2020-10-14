@@ -62,7 +62,7 @@ Usually Italian, English if foreign students are present.
 ## Lessons' calendar and material
 
 Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/),
-assistant lecturer ([material](https://drive.google.com/drive/folders/188zJ7Oiz8A05BnMTNmYpKxMwXImOpPw1)).
+assistant lecturer ([material](https://drive.google.com/open?id=1qIazIGLDuy2DYpVzG39f2QNoiUKbRiG3)).
 
 01. 2020-10-06 Tuesday 14:30-16:30  
     _Interest Rate Basics_ ([slides](https://speakerdeck.com/nando1970/interest-rate-basics))  
@@ -71,6 +71,7 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/188zJ7Oiz8
     _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))
 01. 2020-10-13 Tuesday 14:30-16:30  
     _Workshop on Interest Rate Basics_
+    Homework on rates and bond
 01. 2020-10-16 Friday 12:30-14:30  
     _Workshop on Interest Rate Basics_  
     _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))

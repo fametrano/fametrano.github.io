@@ -141,8 +141,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
     Homework #1: read the _"Bitcoin: oro digitale, finanza e tulipani"_ interview;
     then send up to three questions that, in your opinion,
-    might deserve further clarifications.  
-    Deadline: 2020-10-20
+    might deserve further clarifications (deadline: 2020-10-20)  
 01. 2020-10-21 Wednesday 16:30-18:30  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/open?id=1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  

@@ -2,6 +2,8 @@
 layout: page
 title: Bitcoin and Blockchain Technology Course
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
+image:
+    main: btclib-logo.jpg
 permalink: /bbt202010-bicocca/
 ---
 
@@ -106,7 +108,7 @@ monetary theory, regulatory issues, and politics.
 
 ## Teaching language
 
-English if foreign students are present, else Italian.
+Italian or English, the latter if foreign students are present.
 
 ## Exam
 
@@ -260,6 +262,6 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
   <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
 * Ferdinando M. Ametrano,  
   _"Bitcoin: oro digitale per nuovi standard monetari"_ (2020),  
-  published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta,  and Alberto Mingardi)  
+  published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta, and Alberto Mingardi)  
   <http://bit.ly/2NQg9VJ>
 

@@ -11,6 +11,8 @@ Department of Statistics and Quantitative Methods, Università di Milano-Bicocca
 
 __Because of COVID-19 the course will be streaming only.__
 
+e-learning: <https://elearning.unimib.it/course/view.php?id=31565>
+
 If you have an e-mail _@campus.unimib.it_
 please join the 202010-bicocca channel in the Slack
 [IRD-Bicocca workspace](https://join.slack.com/t/ird-bicocca/signup)
@@ -97,7 +99,7 @@ assistant lecturer ([material](https://drive.google.com/open?id=1qIazIGLDuy2DYpV
 01. 2020-10-16 Friday 12:30-14:30  
     _Workshop on Interest Rate Basics_  
     Homework #3: fill in the excel spreadsheet.  
-    Deadline: 2020-10-30
+    Deadline: 2020-10-30  
     _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))
 01. 2020-10-20 Tuesday 14:30-16:30  
     _Workshop on Rate Curve Calibration_  

@@ -104,23 +104,28 @@ monetary theory, regulatory issues, and politics.
 
 ## Teaching language
 
-Italian or English, the latter if foreign students are present.
+English if foreign students are present, else Italian.
 
 ## Exam
 
-Students are asked to solve the homework assignments
-for each lesson. Please send the homeworks
-to the e-mail that will be indicated with subject
-**BBT202010-BICOCCA #1** for the first lesson,
-**BBT202010-BICOCCA #2** for the second lesson,
-etc.
+Students attending the lessons are asked
+to solve the homework assignments for each lesson.
+Homeworks have a deadline and are not required/allowed
+for students that did not engage themselves during
+the semester activity.
 
-Homework can be tackled cooperatively by a team of students,
+Homework can be tackled cooperatively by team of students,
 up to three students. Successfull homeworks will contribute
 up to 5 points to the final grade.
 
-The individual final exam will be a multiple choice online live test.
-18/30 final grade is required to pass the exam.
+Please send the homeworks
+to the e-mail that will be indicated with subject
+**BBT202010-BICOCCA #1** for the first assignment,
+**BBT202010-BICOCCA #2** for the second assignment,
+etc.
+
+The final exam will be individual:
+a grade of at least 18/30 is required to pass the exam.
 
 ## Lessons' calendar and material
 
@@ -132,6 +137,9 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2020-10-14 Wednesday 16:30-18:30   
     _Bitcoin as Digital Gold (Part 2)_  
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
+    Homework #1: read the _"Bitcoin: oro digitale, finanza e tulipani"_ interview;
+    then send up to three questions that, in your opinion, deserve further clarifications.
+    Deadline: 2020-10-20
 01. 2020-10-21 Wednesday 16:30-18:30  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/open?id=1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
@@ -249,7 +257,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
   _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_ (2015),  
   <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
 * Ferdinando M. Ametrano,  
-  _"Bitcoin: oro digitale per nuovi standard monetari_ (2020),  
+  _"Bitcoin: oro digitale per nuovi standard monetari"_ (2020),  
   published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta,  and Alberto Mingardi)  
   <http://bit.ly/2NQg9VJ>
 

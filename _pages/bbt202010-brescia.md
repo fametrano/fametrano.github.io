@@ -104,59 +104,67 @@ monetary theory, regulatory issues, and politics.
 
 ## Teaching language
 
-English.
+English if foreign students are present, else Italian.
 
 ## Exam
 
-Students are asked to solve the homework assignments
-for each lesson. Please send the homeworks
-to the e-mail that will be indicated with subject
-**BBT202010-BRESCIA #1** for the first lesson,
-**BBT202010-BRESCIA #2** for the second lesson,
-etc.
+Students attending the lessons are asked
+to solve the homework assignments for each lesson.
+Homeworks have a deadline and are not required/allowed
+for students that did not engage themselves during
+the semester activity.
 
-Homework can be tackled cooperatively by a team of students,
+Homework can be tackled cooperatively by team of students,
 up to three students. Successfull homeworks will contribute
 up to 5 points to the final grade.
 
-The individual final exam will be a multiple choice online live test.
+Please send the homeworks
+to the e-mail that will be indicated with subject
+**BBT202010-BRESCIA #1** for the first assignment,
+**BBT202010-BRESCIA #2** for the second assignment,
+etc.
+
+The final exam will be individual.
 
 ## Lessons' calendar and material
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
-01. Monday 2019-10-05 11:30-13:30   
+01. Monday 2020-10-05 11:30-13:30   
     _Bitcoin as Digital Gold (Part 1)_  
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
-01. Monday 2019-10-12 11:30-13:30   
+01. Monday 2020-10-12 11:30-13:30   
     _Bitcoin as Digital Gold (Part 2)_  
     [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
-01. Monday 2019-10-19 11:30-13:30   
+    Homework #1: read the _"Bitcoin: oro digitale, finanza e tulipani"_ interview;
+    then send up to three questions that, in your opinion, deserve further clarifications.
+    Deadline: 2020-10-18
+01. Monday 2020-10-19 11:30-13:30   
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/open?id=1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
-01. Monday 2019-10-26 11:30-13:30   
+01. Monday 2020-10-26 11:30-13:30   
     _Hash Functions_  
     [slides](https://drive.google.com/open?id=1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     _Blockchain, Mining, and Distributed Consensus (Part 1)_  
     [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
-01. Monday 2019-11-02 11:30-13:30   
+01. Monday 2020-11-02 11:30-13:30   
     _Blockchain, Mining, and Distributed Consensus (Part 2)_  
     [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
-01. Monday 2019-11-09 11:30-13:30   
+01. Monday 2020-11-09 11:30-13:30   
     _Elliptic Curve Digital Signature Algorithm_  
     [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. Monday 2019-11-16 11:30-13:30   
+01. Monday 2020-11-16 11:30-13:30   
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     _Transactions and Scripts_  
     [slides](https://drive.google.com/open?id=1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
-01. Monday 2019-11-23 11:30-13:30   
+01. Monday 2020-11-23 11:30-13:30   
     _Beyond Bitcoin: Between Hype and Reality_  
     [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-01. Monday 2019-11-30 11:30-13:30   
+01. Monday 2020-11-30 11:30-13:30   
     _Wallets and Deterministic Key Chains_  
     [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. Monday 2019-12-07 11:30-13:30   
+01. Monday 2020-12-07 11:30-13:30   
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
@@ -243,6 +251,6 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
   _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_ (2015),  
   <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
 * Ferdinando M. Ametrano,  
-  _"Bitcoin: oro digitale per nuovi standard monetari_ (2020),  
+  _"Bitcoin: oro digitale per nuovi standard monetari"_ (2020),  
   published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta,  and Alberto Mingardi)  
   <http://bit.ly/2NQg9VJ>

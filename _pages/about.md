@@ -90,6 +90,8 @@ his daughters and son just don't care about his public persona,
 his friends consider him bizarre,
 his colleagues and students love and hate him depending on their sensitivities and experiences.
 
+Oh... he is an ex-physicist and a huge Springsteen fan.
+
 Europass CV: <https://www.ametrano.net/cv/CV-Europass-20200626-Ametrano-EN>  
 Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 

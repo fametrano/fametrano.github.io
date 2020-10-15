@@ -75,6 +75,8 @@ i suoi amici lo considerano bizzarro,
 colleghi e studenti lo amano e odiano a seconda
 delle loro sensibilità ed esperienze.
 
+Ah... è un fisico di formazione e grande appassionato di Springsteen.
+
 CV Europass: <https://www.ametrano.net/cv/CV-Europass-20200626-Ametrano-EN>  
 CV (due pagine): <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 

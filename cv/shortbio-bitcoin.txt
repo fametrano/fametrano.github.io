@@ -29,12 +29,12 @@ He is also founder and co-administrator of the QuantLib project, a comprehensive
 
 ** Contact and social profiles:
 ferdinando@ametrano.net
-github.com/fametrano
+https://github.com/fametrano
 twitter.com/Ferdinando1970
 speakerdeck.com/nando1970
 www.reddit.com/user/Nando1970
 www.slideshare.net/Ferdinando1970
-www.linkedin.com/in/ferdinandoametrano
+https://www.linkedin.com/in/ferdinandoametrano
 www.youtube.com/c/FerdinandoMAmetrano
 www.facebook.com/ferdinando.ametrano
 

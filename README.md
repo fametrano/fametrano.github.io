@@ -51,4 +51,4 @@ See also:
 
 - <jekyllrb.com/docs/installation/>
 - <bundler.io/>
-- <help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll>
+- <help.https://github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll>

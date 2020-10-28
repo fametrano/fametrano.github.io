@@ -13,7 +13,7 @@ Course page: <elearning.unimib.it/course/info.php?id=25308>
 
 Please subscribe the course mailing list sending an e-mail to
 [bbt2019-bicocca+subscribe@dgi.io](mailto:bbt2019-bicocca+subscribe@dgi.io);
-you are also invited to join the 201910-bicocca channel in the Slack [BBT workspace](join.slack.com/t/bbt-training/signup).
+you are also invited to join the 201910-bicocca channel in the Slack [BBT workspace](https://join.slack.com/t/bbt-training/signup).
 
 ## Learning objectives
 
@@ -92,53 +92,53 @@ Italian or English, the latter if foreign students are present.
 
 ## Lessons' calendar and material
 
-Workshops are with [Paolo Mazzocchi](www.linkedin.com/in/paolo-mazzocchi-6672a591/), assistant lecturer.
+Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/), assistant lecturer.
 
 01. Wednesday 2019-10-09 16:30-18:30 edificio U6 aula 33  
     _Bitcoin as Digital Gold_ (part 1)  
-    [slides](drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
+    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. Wednesday 2019-10-16 16:30-18:30 edificio U6 aula 33  
     _Bitcoin as Digital Gold_ (part 2)  
-    [slides](drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
+    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. Wednesday 2019-10-23 16:30-18:30 edificio U6 aula 33  
     _Blockchain, Mining, and Distributed Consensus_ (part 1)  
-    [slides](drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
 01. Wednesday 2019-10-30 16:30-18:30 edificio U6 aula 33  
     _Blockchain, Mining, and Distributed Consensus_ (part 2)  
-    [slides](drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
 01. Wednesday 2019-11-06 16:30-18:30 edificio U6 aula 33  
     _Elliptic Curve Digital Signature Algorithm_ (part 1)  
-    [slides](drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 01. Wednesday 2019-11-13 16:30-18:30 edificio U6 aula 33  
     _Elliptic Curve Digital Signature Algorithm_ (part 2)  
-    [slides](drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 01. Wednesday 2019-11-27 16:30-18:30 edificio U6 aula 33  
     _Wallets: Key Encodings and Deterministic Key Sequences_  
-    [slides](drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
+    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. Wednesday 2019-12-04 16:30-18:30 edificio U6 aula 33  
     _Wallets: Key Encodings and Deterministic Key Sequences_ (Part 2)  
-    [slides](drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
+    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. Wednesday 2019-12-11 16:30-18:30 edificio U6 aula 33  
     _Transactions and Blocks_  
-    [slides](drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)
+    [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)
 01. Wednesday 2019-12-18 16:30-18:30 edificio U6 aula 33  
     _Beyond Bitcoin: Between Hype and Reality_  
-    [slides](drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
+    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. Friday 2020-12-20 12:30-14:30 edificio U6 aula 22  
     Wednesday 2020-01-15 16:30-18:30 edificio U6 aula 33  
     _The Frontier of Monetary Engineering_  
-    [slides](drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),
+    [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),
     [text]( bit.ly/2NQg9VJ)
 
 In the last lesson anonymous course evaluation [forms](docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 
 ## Python library
 
-<github.com/dginst/btclib>
+<https://github.com/dginst/btclib>
 
 ## Python scripts, Excel spreadsheets, and regtest lab material
 
-<github.com/dginst/bbt>
+<https://github.com/dginst/bbt>
 
 ## Introductory reading
 
@@ -154,11 +154,11 @@ In the last lesson anonymous course evaluation [forms](docs.google.com/document/
 * Andreas M. Antonopoulos,  
   _"Mastering Bitcoin: Programming the Open Blockchain"_ (2nd edition, 2017),  
   Oreilly & Associates Inc, 978-1491954386,  
-  <github.com/bitcoinbook/bitcoinbook>
+  <https://github.com/bitcoinbook/bitcoinbook>
 * Jimmy Song,  
   _"Programming Bitcoin: Learn How to Program Bitcoin from Scratch"_ (2019)  
   Oreilly & Associates Inc, 978-1492031499,  
-  <github.com/jimmysong/programmingbitcoin>
+  <https://github.com/jimmysong/programmingbitcoin>
 * A. Narayanan, et al.,  
   _"Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction"_ (2016),  
   Princeton University Press, 978-0691171692,  
@@ -209,5 +209,5 @@ In the last lesson anonymous course evaluation [forms](docs.google.com/document/
   <ssrn.com/abstract=2425270>
 * Robert Sams,  
   _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_ (2015),  
-  <github.com/rmsams/stablecoins/blob/master/paper.pdf>
+  <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
 

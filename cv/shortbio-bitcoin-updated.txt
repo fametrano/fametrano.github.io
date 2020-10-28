@@ -324,4 +324,4 @@ slides goo.gl/UY4GFl
 
 2014-05-14 SSRN
 Hayek Money: The Cryptocurrency Price Stability Solution
-article: ssrn.com/abstract=2425270
+article: https://ssrn.com/abstract=2425270

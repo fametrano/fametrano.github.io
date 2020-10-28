@@ -126,7 +126,8 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. Friday 2020-12-20 12:30-14:30 edificio U6 aula 22  
     Wednesday 2020-01-15 16:30-18:30 edificio U6 aula 33  
-    _The Frontier of Monetary Engineering_  
+    _The Cryptocurrency Frontier
+in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),
     [text]( https://bit.ly/2NQg9VJ)
 

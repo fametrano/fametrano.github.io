@@ -96,7 +96,7 @@ CV (due pagine): <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 <https://facebook.com/ferdinando.ametrano>  
 <https://www.linkedin.com/in/ferdinandoametrano>  
 <https://youtube.com/c/FerdinandoMAmetrano>  
-<scholar.google.com/citations?user=dFSSrwwAAAAJ>
+<https://scholar.google.com/citations?user=dFSSrwwAAAAJ>
 
 ---
 

@@ -25,7 +25,7 @@ please see <https://dgi.io/events>
 
 ## Past events
 
-2019-07-11 [Istituto Bruno Leoni](https://www.brunoleoni.it/criptovalute-cosa-cambia-con-libra) / [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/2019/07/05/) / [Università Milano-Bicocca](https://www.diseade.unimib.it/it/eventi/criptovalute-cosa-cambia-libra)  
+2019-07-11 [Istituto Bruno Leoni](http://www.brunoleoni.it/criptovalute-cosa-cambia-con-libra) / [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/2019/07/05/) / [Università Milano-Bicocca](https://www.diseade.unimib.it/it/eventi/criptovalute-cosa-cambia-libra)  
 [Bitcoin e Libra](https://facebook.com/events/2435413189854205)  
 18:00, Piazza Castello 23, Milano  
 Accesso gratuito previa [registrazione](https://www.eventbrite.it/e/biglietti-criptovalute-cosa-cambia-con-libra-64718684327)

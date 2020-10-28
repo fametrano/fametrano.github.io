@@ -8,10 +8,10 @@ He is also founder and co-administrator of the QuantLib project, a comprehensive
 
 ferdinando@ametrano.net
 https://github.com/fametrano
-twitter.com/Ferdinando1970
+https://twitter.com/Ferdinando1970
 https://speakerdeck.com/nando1970
-www.reddit.com/user/Nando1970
-www.slideshare.net/Ferdinando1970
+https://www.reddit.com/user/Nando1970
+https://www.slideshare.net/Ferdinando1970
 https://www.linkedin.com/in/ferdinandoametrano
 https://youtube.com/c/FerdinandoMAmetrano
 https://facebook.com/ferdinando.ametrano
@@ -26,7 +26,7 @@ PAST AND FUTURE PUBLIC SPEAKING ENGAGEMENTS / ARTICLES / ETC.:
 
 2017-10-14 The IFTA 30th Annual Conference, Milan
 Keynote Speech: Bitcoin as Investment Asset
-www.ifta-conferences.org/speakers-page/
+https://www.ifta-conferences.org/speakers-page/
 
 2017-10-9/10 Blockchain Academy, Munich
 2 days workshop on Bitcoin, Blockchain and DLT
@@ -52,11 +52,11 @@ nova.ilsole24ore.com/progetti/il-far-west-delloro-digitale/
 
 2017-05-18 The Trading Show, Chicago
 The great blockchain debate � disruption or distraction?
-www.terrapinn.com/conference/trading-show-chicago/agenda-day-2.stm
+https://www.terrapinn.com/conference/trading-show-chicago/agenda-day-2.stm
 
 2017-05-02 Politecnico di Milano - Polimi Fintech Journey
 Moneta Virtuale
-www.eko.polimi.it/index.php/fintech/fintech
+https://www.eko.polimi.it/index.php/fintech/fintech
 
 2017-04-23 Il Sole 24 Ore
 Il volto industriale della blockchain
@@ -67,7 +67,7 @@ About Bitcoin and Blockchain: A Cultural Paradigm Shift
 
 2017-04-20 Il Sole 24 Ore
 Vertice a Malta della cyber-payment community
-www.ilsole24ore.com/art/tecnologie/2017-04-20/vertice-malta-cyber-payment-community-172458.shtml
+https://www.ilsole24ore.com/art/tecnologie/2017-04-20/vertice-malta-cyber-payment-community-172458.shtml
 
 2017-04-14 International University of Monaco, MBA
 Bitcoin and Blockchain Technology: An Introduction
@@ -75,16 +75,16 @@ sildes: https://speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-an-i
 
 2017-04-06 RAI Radio 1 - Restate Scomodi
 (ITA) bitcoin interview
-www.rai.tv/dl/portaleRadio/media/ContentItem-de929d97-5810-4077-912e-df1aded797d1.html (at 1m38s)
+https://www.rai.tv/dl/portaleRadio/media/ContentItem-de929d97-5810-4077-912e-df1aded797d1.html (at 1m38s)
 
 2017-04-05 Il Sole 24 Ore
 Chi governa il bitcoin? Tredici domande per capire quale vincer� fra le visioni a confronto
-www.ilsole24ore.com/art/finanza-e-mercati/2017-04-05/chi-governa-bitcoin-tredici-domande-capire-quale-vincera-le-visioni-confronto-131100.shtml
+https://www.ilsole24ore.com/art/finanza-e-mercati/2017-04-05/chi-governa-bitcoin-tredici-domande-capire-quale-vincera-le-visioni-confronto-131100.shtml
 
 2017-03-27 Università di Milano-Bicocca
 Bitcoin and Blockchain Technology: An Introduction
 video (ITA): goo.gl/tbB4Pu
-slides (ENG): www.slideshare.net/Ferdinando1970/bitcoin-and-blockchain-technology-an-introduction-75326058
+slides (ENG): https://www.slideshare.net/Ferdinando1970/bitcoin-and-blockchain-technology-an-introduction-75326058
 
 2017-03-23 Universit� della Calabria
 Bitcoin, Hayek Money, and The Future of Money
@@ -92,7 +92,7 @@ Bitcoin, Hayek Money, and The Future of Money
 2017-03-20 IDC Pan European Utilities Executive Summit, Lisbon
 Bitcoin, Blockchain, and Distributed Ledger Technology: Hype or Reality
 idcutilitiessummit.com/
-slides: www.slideshare.net/Ferdinando1970/bitcoin-blockchain-and-distributed-ledger-technology-hype-or-reality
+slides: https://www.slideshare.net/Ferdinando1970/bitcoin-blockchain-and-distributed-ledger-technology-hype-or-reality
 
 2017-03-15 Quant Summit Europe, London
 Bitcoin, Blockchain, and the DLT Chimera
@@ -154,7 +154,7 @@ video interview (ITA): goo.gl/zInFVA
 
 2016-11-22 Consob, Roma
 About Bitcoin, Blockchain, and the Distributed ledger Chimera
-slides: www.slideshare.net/Ferdinando1970/about-bitcoin-blockchain-and-the-dlt-chimera
+slides: https://www.slideshare.net/Ferdinando1970/about-bitcoin-blockchain-and-the-dlt-chimera
 
 2016-11-16 The Swift Institute
 Bitcoin, Blockchain and the DLT Chimera
@@ -164,10 +164,10 @@ article: goo.gl/KIKT32
 Hayek Money: The Cryptocurrency Price Stability Solution
 
 2016-11-11 Blockchain Summit, London
-www.b3chain.com/b3-blockchain-summit-london/
+https://www.b3chain.com/b3-blockchain-summit-london/
 
 2016-11-10 International Chamber of Commerce, Rome
-www.iccitalia.org/atti_convegno_blockchain.htm
+https://www.iccitalia.org/atti_convegno_blockchain.htm
 slides: goo.gl/Oh0HdC
 
 2016-11-07 "Blockchain : Money" conference, London
@@ -180,7 +180,7 @@ DLT Applied to Securities Markets
 slides: goo.gl/q6232X
 
 2016-10-24 EFMA Blockchain Conference, Barcelona
-www.efma.com/event/overview/475
+https://www.efma.com/event/overview/475
 slide: goo.gl/Xc1UMP
 
 2016-10-23 Il Sole 24 Ore
@@ -199,7 +199,7 @@ video: goo.gl/40mim9
 
 2016-09-22 Digital Payment Revolution, Rome
 roundtable: Rivoluzione Blockchain, l�Internet of banking: una Uber per le transazioni finanziarie?
-www.corrierecomunicazioni.it/eventi/42448_digital-payment-revolution.htm
+https://www.corrierecomunicazioni.it/eventi/42448_digital-payment-revolution.htm
 interview (ITA): https://youtube.com/watch?v=fpwsWriO-KI&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=2
 
 2016-09-08 2nd International Workshop P2P Financial Systems, London
@@ -207,7 +207,7 @@ Hayek Money: The Cryptocurrency Price Stability Solution
 slides: https://speakerdeck.com/nando1970/hayek-money-the-cryptocurrency-price-stability-solution-1
 
 2016-09-02 Response to ESMA on DLT for Securities Market
-www.esma.europa.eu/press-news/esma-news/esma-assesses-usefulness-distributed-ledger-technologies
+https://www.esma.europa.eu/press-news/esma-news/esma-assesses-usefulness-distributed-ledger-technologies
 paper: https://drive.google.com/drive/folders/0B8tGDTaBY4-Nb3ZuRmgzRXJXOUk
 
 2016-07-07 European Banking Federation, Bruxelles
@@ -220,8 +220,8 @@ slides: https://speakerdeck.com/nando1970/about-bitcoin-and-blockchain-1
 
 2016-06-07 Payments Conference and Exhibition EBAday, Milan
 How mainstream can Blockchain be?
-roundtable www.ebaday.com/agenda.aspx
-www.ebaday.com/finextra-images/articles/file/eba2016agenda.pdf
+roundtable https://www.ebaday.com/agenda.aspx
+https://www.ebaday.com/finextra-images/articles/file/eba2016agenda.pdf
 
 2016-06-01 Finextra interview
 Blockchain needs a native digital asset

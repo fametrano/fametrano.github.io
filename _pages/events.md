@@ -25,10 +25,10 @@ please see <https://dgi.io/events>
 
 ## Past events
 
-2019-07-11 [Istituto Bruno Leoni](www.brunoleoni.it/criptovalute-cosa-cambia-con-libra) / [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/2019/07/05/) / [Università Milano-Bicocca](www.diseade.unimib.it/it/eventi/criptovalute-cosa-cambia-libra)  
+2019-07-11 [Istituto Bruno Leoni](https://www.brunoleoni.it/criptovalute-cosa-cambia-con-libra) / [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/2019/07/05/) / [Università Milano-Bicocca](https://www.diseade.unimib.it/it/eventi/criptovalute-cosa-cambia-libra)  
 [Bitcoin e Libra](https://facebook.com/events/2435413189854205)  
 18:00, Piazza Castello 23, Milano  
-Accesso gratuito previa [registrazione](www.eventbrite.it/e/biglietti-criptovalute-cosa-cambia-con-libra-64718684327)
+Accesso gratuito previa [registrazione](https://www.eventbrite.it/e/biglietti-criptovalute-cosa-cambia-con-libra-64718684327)
 
 2019-09-20 Le Fonti  
 Criptovalute e crypto-assets: qualificazione giuridica e prospettive di mercato  
@@ -37,11 +37,11 @@ Milano
 
 2019-09-30 Craon CodeCampus  
 10:00-18:00 Hotel Michelangelo, Piazza Luigi di Savoia 6, Milano  
-[₿lockchain Dates](www.craon.it/blockchain-dates-early-bird/): workshop sull’Internet del valore, tra bitcoin e blockchain  
-[iscrizione obbligatoria](www.craon.it/blockchain-dates-early-bird/#form)
+[₿lockchain Dates](https://www.craon.it/blockchain-dates-early-bird/): workshop sull’Internet del valore, tra bitcoin e blockchain  
+[iscrizione obbligatoria](https://www.craon.it/blockchain-dates-early-bird/#form)
 
 2019-07-04 Bicocca Alumni  
-[The Blockchain Series: Bitcoin First](www.bicoccalumni.it/it/news-ed-eventi/the-blockchain-series-bitcoin-first)  
+[The Blockchain Series: Bitcoin First](https://www.bicoccalumni.it/it/news-ed-eventi/the-blockchain-series-bitcoin-first)  
 18:30-21:00 Spazio MIL, via Luigi Granelli, Sesto San Giovanni  
 
 2019-06-05 Università di Milano-Bicocca  
@@ -94,7 +94,7 @@ Bitcoin and Blockchain Technology
 
 2018-11-26/27 Luxembourg  
 Blockchain Academy  
-<www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
+<https://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
 
 2018-11-23 Università di Milano-Bicocca, Milan
 Master in Business Intelligence & Big Data Analytics
@@ -109,13 +109,13 @@ Bitcoin & Blockchain: stato dell'arte e prospettive future
 
 2018-11-20 Borsa Italiana, Milan  
 Bitcoin e digital economy: sfide e opportunità per il mondo finanziario  
-[LSEG Borsa Italiana](www.https://lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario), [AssosIM](www.assosim.it/scheda/?id=20181019150403.xml)  
+[LSEG Borsa Italiana](https://lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario), [AssosIM](https://www.assosim.it/scheda/?id=20181019150403.xml)  
 
 2018-11-09  
 Salone dei Pagamenti, Milano  
 Criptovalute: cosa sono e come funzionano  
-agenda: <www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
-gallery: <www.salonedeipagamenti.com/galleries/criptovalute-cosa-sono-e-come-funzionano>
+agenda: <https://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
+gallery: <https://www.salonedeipagamenti.com/galleries/criptovalute-cosa-sono-e-come-funzionano>
 
 2018-10-24  
 ExPLORE TALKS - Spaces, Milan  
@@ -135,7 +135,7 @@ video (ITA): <https://bit.ly/2EHgmev>
 2018-10-15/16  
 EFMA Innovation Summit: Payments & Wallets, Lisbon  
 seminar: Bitcoin and blockchain: between money, digital gold, and payment systems  
-<www.efma.com/conference/program/619>  
+<https://www.efma.com/conference/program/619>  
 
 2018-10-05 Four Seasons Hotel, Milan  
 Bitcoin as Digital Gold
@@ -215,7 +215,7 @@ Bitcoin: oro digitale e stabilità dei prezzi
 
 2017-10-14 The IFTA 30th Annual Conference, Milan  
 Keynote Speech: Bitcoin as Investment Asset  
-event programme (ENG): <www.ifta-conferences.org/speakers-page/>
+event programme (ENG): <https://www.ifta-conferences.org/speakers-page/>
 
 2017-10-9/10 Blockchain Academy, Munich  
 2 days workshop on Bitcoin, Blockchain and DLT
@@ -245,7 +245,7 @@ The great blockchain debate – disruption or distraction?
 
 2017-05-02 Polimi Fintech Journey, Politecnico di Milano, Milan  
 Moneta Virtuale  
-<www.eko.polimi.it/index.php/fintech/fintech>
+<https://www.eko.polimi.it/index.php/fintech/fintech>
 
 2017-04-21 Dipartimento di Fisica, Università degli Studi di Milano, Milan  
 About Bitcoin and Blockchain: A Cultural Paradigm Shift
@@ -297,10 +297,10 @@ slides (ENG): <goo.gl/dE5uNM>
 Hayek Money: The Cryptocurrency Price Stability Solution
 
 2016-11-11 Blockchain Summit, London  
-<www.b3chain.com/b3-blockchain-summit-london/>
+<https://www.b3chain.com/b3-blockchain-summit-london/>
 
 2016-11-10 International Chamber of Commerce, Rome  
-<www.iccitalia.org/atti_convegno_blockchain.htm>
+<https://www.iccitalia.org/atti_convegno_blockchain.htm>
 slides (ENG): <goo.gl/Oh0HdC>
 
 2016-11-07 "Blockchain : Money" conference, London  
@@ -313,7 +313,7 @@ DLT Applied to Securities Markets
 slides (ENG): <goo.gl/q6232X>
 
 2016-10-24 EFMA Blockchain Conference, Barcelona  
-<www.efma.com/event/overview/475>  
+<https://www.efma.com/event/overview/475>  
 slides (ENG): <goo.gl/Xc1UMP>
 
 2016-10-17 Scuola di Economia e Statistica, Università di Milano-Bicocca, Milan  

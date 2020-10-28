@@ -16,7 +16,7 @@ Ametrano, Ferdinando M.
 published in "Dal sesterzio al bitcoin" Rubettino Editore (edited by Miglietta, Angelo and Mingardi, Alberto)
 
 2016-09  
-**Response to [ESMA Consultation](www.esma.europa.eu/press-news/esma-news/esma-assesses-usefulness-distributed-ledger-technologies) on _The Distributed Ledger Technology Applied to Securities Markets_**  
+**Response to [ESMA Consultation](https://www.esma.europa.eu/press-news/esma-news/esma-assesses-usefulness-distributed-ledger-technologies) on _The Distributed Ledger Technology Applied to Securities Markets_**  
 Ametrano, Ferdinando M. and Barucci, Emilio and Marazzina, Daniele and Zanero, Stefano  
 <https://ssrn.com/abstract=3265776>
 

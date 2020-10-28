@@ -30,10 +30,10 @@ He is also founder and co-administrator of the QuantLib project, a comprehensive
 ** Contact and social profiles:
 ferdinando@ametrano.net
 https://github.com/fametrano
-twitter.com/Ferdinando1970
+https://twitter.com/Ferdinando1970
 https://speakerdeck.com/nando1970
-www.reddit.com/user/Nando1970
-www.slideshare.net/Ferdinando1970
+https://www.reddit.com/user/Nando1970
+https://www.slideshare.net/Ferdinando1970
 https://www.linkedin.com/in/ferdinandoametrano
 https://youtube.com/c/FerdinandoMAmetrano
 https://facebook.com/ferdinando.ametrano
@@ -93,7 +93,7 @@ goo.gl/EJN1jx
 
 2018-02-13 Alground.com
 Bitcoin. Basta balle: chi ci guadagna, e chi ha perso tutto.
-www.alground.com/site/bitcoin-inchiesta/51359/
+https://www.alground.com/site/bitcoin-inchiesta/51359/
 
 2018-02-12 Radio3 Scienza
 Blockchain, che cos'�
@@ -134,7 +134,7 @@ goo.gl/72A8b5
 
 2018-01-11 Notizie.it
 Il futuro dei Bitcoin secondo Ferdinando Ametrano
-www.notizie.it/futuro-bitcoin-ferdinando-ametrano/
+https://www.notizie.it/futuro-bitcoin-ferdinando-ametrano/
 
 2018-01-10 Corriere della Sera (Bergamo)
 Bitcoin, nel documentario di Aralla le istruzioni per l�uso
@@ -240,7 +240,7 @@ goo.gl/V6qdaF
 
 2017-10-14 The IFTA 30th Annual Conference, Milan
 Keynote Speech: Bitcoin as Investment Asset
-www.ifta-conferences.org/speakers-page/
+https://www.ifta-conferences.org/speakers-page/
 
 2017-10-9/10 Blockchain Academy, Munich
 2 days workshop on Bitcoin, Blockchain and DLT
@@ -290,7 +290,7 @@ goo.gl/jQeLQT
 
 2017-05-02 Politecnico di Milano - Polimi Fintech Journey
 Moneta Virtuale
-www.eko.polimi.it/index.php/fintech/fintech
+https://www.eko.polimi.it/index.php/fintech/fintech
 
 2017-04-23 Il Sole 24 Ore
 Il volto industriale della blockchain
@@ -398,10 +398,10 @@ article: goo.gl/KIKT32
 Hayek Money: The Cryptocurrency Price Stability Solution
 
 2016-11-11 Blockchain Summit, London
-www.b3chain.com/b3-blockchain-summit-london/
+https://www.b3chain.com/b3-blockchain-summit-london/
 
 2016-11-10 International Chamber of Commerce, Rome
-www.iccitalia.org/atti_convegno_blockchain.htm
+https://www.iccitalia.org/atti_convegno_blockchain.htm
 slides: goo.gl/Oh0HdC
 
 2016-11-07 "Blockchain : Money" conference, London
@@ -414,7 +414,7 @@ DLT Applied to Securities Markets
 slides: goo.gl/q6232X
 
 2016-10-24 EFMA Blockchain Conference, Barcelona
-www.efma.com/event/overview/475
+https://www.efma.com/event/overview/475
 slide: goo.gl/Xc1UMP
 
 2016-10-23 Il Sole 24 Ore

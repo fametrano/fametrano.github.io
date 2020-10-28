@@ -63,9 +63,9 @@ UN/CEFACT (United Nations Centre for Trade Facilitation and Electronic Business)
 and has been
 invited to private and public [events]({{ site.baseurl }}/events/)
 about bitcoin at the
-[United Nations](www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ),
+[United Nations](https://youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ),
 central banks,
-the [Italian Parliament](www.youtube.com/watch?v=vLM3FUuCFLY),
+the [Italian Parliament](https://youtube.com/watch?v=vLM3FUuCFLY),
 universities, conferences, and workshops.
 
 His [academic research]({{ site.baseurl }}/papers/)
@@ -92,10 +92,10 @@ his colleagues and students love and hate him depending on their sensitivities a
 
 Oh... he is an ex-physicist and a huge Springsteen fan.
 
-Europass CV: <www.ametrano.net/cv/CV-Europass-20200626-Ametrano-EN>  
-Two pages CV: <www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
+Europass CV: <https://ametrano.net/cv/CV-Europass-20200626-Ametrano-EN>  
+Two pages CV: <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
-**email contact form**: <bit.ly/contactametrano>
+**email contact form**: <https://bit.ly/contactametrano>
 
 ---
 
@@ -108,9 +108,9 @@ Two pages CV: <www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 <speakerdeck.com/nando1970>  
 <www.reddit.com/user/Nando1970>  
 <www.slideshare.net/Ferdinando1970>  
-<www.facebook.com/ferdinando.ametrano>  
+<https://facebook.com/ferdinando.ametrano>  
 <https://www.linkedin.com/in/ferdinandoametrano>  
-<www.youtube.com/c/FerdinandoMAmetrano>  
+<https://youtube.com/c/FerdinandoMAmetrano>  
 <scholar.google.com/citations?user=dFSSrwwAAAAJ>
 
 ---

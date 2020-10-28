@@ -1,6 +1,6 @@
 # Repo for Ferdinando M. Ametrano website
 
-[ametrano.net](www.ametrano.net)
+[ametrano.net](https://ametrano.net)
 
 ## Testing your GitHub Pages site locally with Jekyll
 

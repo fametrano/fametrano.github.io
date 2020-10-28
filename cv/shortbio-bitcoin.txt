@@ -35,13 +35,13 @@ speakerdeck.com/nando1970
 www.reddit.com/user/Nando1970
 www.slideshare.net/Ferdinando1970
 https://www.linkedin.com/in/ferdinandoametrano
-www.youtube.com/c/FerdinandoMAmetrano
-www.facebook.com/ferdinando.ametrano
+https://youtube.com/c/FerdinandoMAmetrano
+https://facebook.com/ferdinando.ametrano
 
 
-ENG videos: www.youtube.com/playlist?list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ
+ENG videos: https://youtube.com/playlist?list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ
 
-ITA videos: www.youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp
+ITA videos: https://youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp
 
 
 SOME PUBLIC SPEAKING ENGAGEMENTS / ARTICLES / ETC.:
@@ -270,7 +270,7 @@ Bitcoin and the Future of Money
 
 2017-06-29 Blockchain Academy, Munich
 Bitcoin, Blockchain, and Distributed Ledger Technology
-www.youtube.com/watch?v=pNfWmGE_dfM&feature=youtu.be
+https://youtube.com/watch?v=pNfWmGE_dfM&feature=youtu.be
 
 2017-06-11 IlSole24Ore
 Il Far West dell�oro digitale

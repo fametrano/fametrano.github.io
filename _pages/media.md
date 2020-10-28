@@ -22,11 +22,11 @@ The Swift Institute: <em>Bitcoin, Blockchain and the DLT Chimera</em>
 </li>
 <li>
 United Nations, New York: <em>Bitcoin as Digital Gold</em>
-<a href="www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=10">www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=10</a>
+<a href="https://youtube.com/watch?v=VbwUwioZ9F0&t=330s&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=10">https://youtube.com/watch?v=VbwUwioZ9F0&t=330s&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=10</a>
 </li>
 <li>
 Comprehensive YouTube playlist:
-<a href="www.youtube.com/playlist?list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ">www.youtube.com/playlist?list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ</a>
+<a href="https://youtube.com/playlist?list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ">https://youtube.com/playlist?list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ</a>
 </li>
 </ul>
 </details>
@@ -44,23 +44,23 @@ Le Iene: <em>video-intervista</em>
 </li>
 <li>
 video della lezione universitaria introduttiva al corso bitcoin (edizione 2017):
-<a href="www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=8">www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=8</a>
+<a href="https://youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=8">https://youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=8</a>
 </li>
 <li>
 blockchain: <em>Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality</em>
 <a href="https://ssrn.com/abstract=2832249">https://ssrn.com/abstract=2832249</a>
 <br>e il video di un'altra lezione universitaria (edizione 2017):
-<a href="www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&t=0s&index=10">www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&t=0s&index=10</a>
+<a href="https://youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&t=0s&index=10">https://youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&t=0s&index=10</a>
 </li>
 <li>
 aspetti monetari: <em>Hayek Money: The Cryptocurrency Price Stability Solution</em>
 <a href="https://ssrn.com/abstract=2425270">https://ssrn.com/abstract=2425270</a>
 <br>e il video di un'altra lezione universitaria (edizione 2017):
-<a href="www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=9">www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=9</a>
+<a href="https://youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=9">https://youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=9</a>
 </li>
 <li>
 YouTube playlist completa:
-<a href="www.youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp">www.youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp</a>
+<a href="https://youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp">https://youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp</a>
 </li>
 </ul>
 </details>
@@ -71,7 +71,7 @@ YouTube playlist completa:
 
 2019-06-26 Il Sole 24 Ore, diretta Facebook  
 Bitcoin e Libra  
-<www.youtube.com/watch?v=EQPdmLzikGQ&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=44&t=344s>
+<https://youtube.com/watch?v=EQPdmLzikGQ&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=44&t=344s>
 
 2019-04-09 Harvard Extension Student Environmental Club  
 Bitcoin and Blockchain Technology: Economics and Environmental Sustainability  
@@ -83,7 +83,7 @@ article (ITA): <www.ilsole24ore.com/art/finanza-e-mercati/2019-01-04/criptovalut
 
 2018-12-05 Corriere della Sera  
 Crolla l'illusione del bitcoin  
-article (ITA): <www.ametrano.net/images/20181205-Crolla-illusione-bitcoin.pdf>
+article (ITA): <https://ametrano.net/images/20181205-Crolla-illusione-bitcoin.pdf>
 
 2018-11-16 Borsa Italiana  
 Bitcoin, Blockchain e la Chimera DLT  
@@ -111,7 +111,7 @@ article (ITA): <www.ilsole24ore.com/art/tecnologie/2018-10-30/il-bitcoin-dieci-a
 
 2018-10-16 Regione Lombardia, Milan  
 Bitcoin and Blockchain Technology  
-video (ITA): <bit.ly/2EHgmev>  
+video (ITA): <https://bit.ly/2EHgmev>  
 
 2018-02-23 Class CNBC  
 Guest expert on bitcoin
@@ -355,4 +355,4 @@ Bitcoin: come funziona una moneta virtuale, di Raffaele Mauro
 <www.limesonline.com/cartaceo/bitcoin-come-funziona-una-moneta-virtuale>
 
 2014-12 Intesa Sanpaolo Executive Education Educasts  
-video (ITA): <bit.ly/2J9KzSd>
+video (ITA): <https://bit.ly/2J9KzSd>

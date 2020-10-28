@@ -7,12 +7,12 @@ Author of scientific publications, contributors to multiple media outlets, appre
 He is also founder and co-administrator of the QuantLib project, a comprehensive free/open-source software framework for quantitative finance. Interest Rate Derivatives Adjunct Professor at the University of Milano-Bicocca, he has relevant publications on this subject and has headed trading, quantitative, and risk-management teams in Banca IMI (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has also been co-founder and managing partner of RiskMap (now StatPro Italia).
 
 ferdinando@ametrano.net
-github.com/fametrano
+https://github.com/fametrano
 twitter.com/Ferdinando1970
 speakerdeck.com/nando1970
 www.reddit.com/user/Nando1970
 www.slideshare.net/Ferdinando1970
-www.linkedin.com/in/ferdinandoametrano
+https://www.linkedin.com/in/ferdinandoametrano
 www.youtube.com/c/FerdinandoMAmetrano
 www.facebook.com/ferdinando.ametrano
 
@@ -208,7 +208,7 @@ slides: speakerdeck.com/nando1970/hayek-money-the-cryptocurrency-price-stability
 
 2016-09-02 Response to ESMA on DLT for Securities Market
 www.esma.europa.eu/press-news/esma-news/esma-assesses-usefulness-distributed-ledger-technologies
-paper: drive.google.com/drive/folders/0B8tGDTaBY4-Nb3ZuRmgzRXJXOUk
+paper: https://drive.google.com/drive/folders/0B8tGDTaBY4-Nb3ZuRmgzRXJXOUk
 
 2016-07-07 European Banking Federation, Bruxelles
 About Bitcoin And Blockchain: A Cultural Paradigme Shift

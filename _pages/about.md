@@ -23,7 +23,7 @@ permalink: /about/
   Department of Mathematics, University of Milano  
   Mathematical, Physical and Natural Sciences / Law Interfaculty, Università Cattolica del Sacro Cuore (Brescia)  
 * Founder and coadministrator of QuantLib and btclib  
-  <quantlib.org>, <github.com/dginst/btclib>
+  <quantlib.org>, <https://github.com/dginst/btclib>
 
 ---
 
@@ -50,11 +50,11 @@ in Intesa Sanpaolo bank,
 he has been Planning Committee member of the
 [Scaling Bitcoin](scalingbitcoin.org/) conference,
 is an occasional trivial contributor to
-[Bitcoin](github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin),
-and maintains [btclib](github.com/dginst/btclib), a bitcoin python library.
+[Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin),
+and maintains [btclib](https://github.com/dginst/btclib), a bitcoin python library.
 
 Fintech innovator, technologist, and
-[open source developer](github.com/fametrano),
+[open source developer](https://github.com/fametrano),
 he is author of [scientific publications]({{ site.baseurl }}/papers/)
 and contributor to multiple [media]({{ site.baseurl }}/media/) outlets.
 Appreciated [professor]({{ site.baseurl }}/courses/), speaker, panelist,
@@ -101,7 +101,7 @@ Two pages CV: <www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 ## Social Networks
 
-<github.com/fametrano>  
+<https://github.com/fametrano>  
 <ssrn.com/author=510135>  
 <medium.com/@nando1970>  
 <twitter.com/Ferdinando1970>  
@@ -109,7 +109,7 @@ Two pages CV: <www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 <www.reddit.com/user/Nando1970>  
 <www.slideshare.net/Ferdinando1970>  
 <www.facebook.com/ferdinando.ametrano>  
-<www.linkedin.com/in/ferdinandoametrano>  
+<https://www.linkedin.com/in/ferdinandoametrano>  
 <www.youtube.com/c/FerdinandoMAmetrano>  
 <scholar.google.com/citations?user=dFSSrwwAAAAJ>
 

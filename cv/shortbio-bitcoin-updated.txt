@@ -13,12 +13,12 @@ speakerdeck.com/nando1970
 www.reddit.com/user/Nando1970
 www.slideshare.net/Ferdinando1970
 https://www.linkedin.com/in/ferdinandoametrano
-www.youtube.com/c/FerdinandoMAmetrano
-www.facebook.com/ferdinando.ametrano
+https://youtube.com/c/FerdinandoMAmetrano
+https://facebook.com/ferdinando.ametrano
 
-ENG videos: www.youtube.com/playlist?list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ
+ENG videos: https://youtube.com/playlist?list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ
 
-ITA videos: www.youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp
+ITA videos: https://youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp
 
 
 PAST AND FUTURE PUBLIC SPEAKING ENGAGEMENTS / ARTICLES / ETC.:
@@ -44,7 +44,7 @@ Bitcoin and the Future of Money
 
 2017-06-29 Blockchain Academy, Munich
 Bitcoin, Blockchain, and Distributed Ledger Technology
-www.youtube.com/watch?v=pNfWmGE_dfM&feature=youtu.be
+https://youtube.com/watch?v=pNfWmGE_dfM&feature=youtu.be
 
 2017-06-11 IlSole24Ore
 Il Far West dell�oro digitale
@@ -200,7 +200,7 @@ video: goo.gl/40mim9
 2016-09-22 Digital Payment Revolution, Rome
 roundtable: Rivoluzione Blockchain, l�Internet of banking: una Uber per le transazioni finanziarie?
 www.corrierecomunicazioni.it/eventi/42448_digital-payment-revolution.htm
-interview (ITA): www.youtube.com/watch?v=fpwsWriO-KI&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=2
+interview (ITA): https://youtube.com/watch?v=fpwsWriO-KI&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=2
 
 2016-09-08 2nd International Workshop P2P Financial Systems, London
 Hayek Money: The Cryptocurrency Price Stability Solution
@@ -259,7 +259,7 @@ slides goo.gl/9cBi3j
 2015-05-20 Labex Seminar Series, ESSEC Business School, Paris
 The Cryptocurrency Frontier in Commodity Monetary Standard
 slides: goo.gl/r14bzR
-video: www.youtube.com/watch?v=XUT9T0RAmxo&index=2&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ
+video: https://youtube.com/watch?v=XUT9T0RAmxo&index=2&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ
 
 2015-05-19 ESSEC Business School, Cergy-Pontoise
 Blockchain Revolution and the Future of Money
@@ -316,7 +316,7 @@ slides goo.gl/W3CB8c
 2014-06-11 Montecitorio Italian Parliament Lower Chamber, Rome
 Bitcoin + Hayek Money: blockchain revolution & price stability
 slides: goo.gl/66rWb6
-video (ITA): www.youtube.com/watch?v=vLM3FUuCFLY&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=1
+video (ITA): https://youtube.com/watch?v=vLM3FUuCFLY&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=1
 
 2014-06-09 Bank of Italy, Rome
 Hayek Money: the Cryptocurrency Price Stability Solution

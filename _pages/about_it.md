@@ -61,7 +61,7 @@ Innovatore nel campo *fintech*,
 [sviluppatore *open source*](https://github.com/fametrano),
 è autore di [pubblicazioni scientifiche]({{ site.baseurl }}/papers/) e collabora con molteplici [organi di informazione]({{ site.baseurl }}/media/). Apprezzato come [docente]({{ site.baseurl }}/courses/) e divulgatore,
 esperto UN/CEFACT (United Nations Centre for Trade Facilitation and Electronic Business),
-è regolarmente invitato a parlare di bitcoin e blockchain in [eventi]({{ site.baseurl }}/events/), organizzati anche a [Montecitorio](www.youtube.com/watch?v=vLM3FUuCFLY&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=2), dalle [Nazioni Unite](www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ), da diverse banche centrali e numerose università.
+è regolarmente invitato a parlare di bitcoin e blockchain in [eventi]({{ site.baseurl }}/events/), organizzati anche a [Montecitorio](https://youtube.com/watch?v=vLM3FUuCFLY&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=2), dalle [Nazioni Unite](https://youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ), da diverse banche centrali e numerose università.
 
 La sua [ricerca accademica]({{ site.baseurl }}/papers/) è focalizzata sulla stabilità dei prezzi, proponendo una nuova generazione di criptovalute a politica monetaria elastica ma automatizzata e non discrezionale ([Hayek Money](https://ssrn.com/abstract=2425270)).
 
@@ -77,10 +77,10 @@ delle loro sensibilità ed esperienze.
 
 Ah... è un fisico di formazione e grande appassionato di Springsteen.
 
-CV Europass: <www.ametrano.net/cv/CV-Europass-20200626-Ametrano-EN>  
-CV (due pagine): <www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
+CV Europass: <https://ametrano.net/cv/CV-Europass-20200626-Ametrano-EN>  
+CV (due pagine): <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
-**modulo per contatto email**: <bit.ly/contactametrano>
+**modulo per contatto email**: <https://bit.ly/contactametrano>
 
 ---
 
@@ -93,9 +93,9 @@ CV (due pagine): <www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 <speakerdeck.com/nando1970>  
 <www.reddit.com/user/Nando1970>  
 <www.slideshare.net/Ferdinando1970>  
-<www.facebook.com/ferdinando.ametrano>  
+<https://facebook.com/ferdinando.ametrano>  
 <https://www.linkedin.com/in/ferdinandoametrano>  
-<www.youtube.com/c/FerdinandoMAmetrano>  
+<https://youtube.com/c/FerdinandoMAmetrano>  
 <scholar.google.com/citations?user=dFSSrwwAAAAJ>
 
 ---

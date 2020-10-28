@@ -128,9 +128,9 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
     Wednesday 2020-01-15 16:30-18:30 edificio U6 aula 33  
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),
-    [text]( bit.ly/2NQg9VJ)
+    [text]( https://bit.ly/2NQg9VJ)
 
-In the last lesson anonymous course evaluation [forms](docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
+In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 
 ## Python library
 
@@ -144,7 +144,7 @@ In the last lesson anonymous course evaluation [forms](docs.google.com/document/
 
 * Ferdinando M. Ametrano,  
   _"Bitcoin: oro digitale per nuovi standard monetari"_ (2018),  
-  <bit.ly/2NQg9VJ>
+  <https://bit.ly/2NQg9VJ>
 
 ## Technology references
 
@@ -178,7 +178,7 @@ In the last lesson anonymous course evaluation [forms](docs.google.com/document/
 * Christof Paar, Jan Pelzl,  
   _"Understanding Cryptography"_,  
   Springer, 978-3642041006
-  <www.crypto-textbook.com/>, <wiki.crypto.rub.de/Buch/en/slides.php>, <www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
+  <www.crypto-textbook.com/>, <wiki.crypto.rub.de/Buch/en/slides.php>, <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Dan Boneh,
   _"A Graduate Course in Applied Cryptography"_,  
   Stanford University  

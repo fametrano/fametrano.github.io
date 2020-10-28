@@ -13,7 +13,7 @@ for scientific, academic, and community-organized non-profit events;
 anyway, I charge a fee for the commercial ones with admission price or sponsors
 and whenever I am requested for consulting.
 I can be contacted using this
-[form](bit.ly/contactametrano).
+[form](https://bit.ly/contactametrano).
 
 ## Upcoming events
 
@@ -26,7 +26,7 @@ please see <https://dgi.io/events>
 ## Past events
 
 2019-07-11 [Istituto Bruno Leoni](www.brunoleoni.it/criptovalute-cosa-cambia-con-libra) / [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/2019/07/05/) / [Università Milano-Bicocca](www.diseade.unimib.it/it/eventi/criptovalute-cosa-cambia-libra)  
-[Bitcoin e Libra](www.facebook.com/events/2435413189854205)  
+[Bitcoin e Libra](https://facebook.com/events/2435413189854205)  
 18:00, Piazza Castello 23, Milano  
 Accesso gratuito previa [registrazione](www.eventbrite.it/e/biglietti-criptovalute-cosa-cambia-con-libra-64718684327)
 
@@ -82,7 +82,7 @@ Economics and Technology of Digital Assets
 Webinar
 
 2018-12-11 #Aperitech BlockchainEDU, Milano LUISS Hub  
-La scarsità in ambito digitale: la missione del [Digital Gold Institute](https://https://dgi.io)
+La scarsità in ambito digitale: la missione del [Digital Gold Institute](https://dgi.io)
 
 2018-12-11 ESSEC Business School, Paris  
 Bitcoin and Blockchain Technology: An Introduction  
@@ -102,7 +102,7 @@ Bitcoin e Blockchain: fra esagerazione e realtà
 
 2018-11-21 Assagenti, Genoa  
 Blockchain for the shipping industry  
-<bit.ly/2JfVYQd>  
+<https://bit.ly/2JfVYQd>  
 
 2018-11-22 Politecnico di Milano, Milan  
 Bitcoin & Blockchain: stato dell'arte e prospettive future  
@@ -130,7 +130,7 @@ Bitcoin and Blockchain Technology
 2018-10-16  
 Regione Lombardia, Milan  
 Bitcoin and Blockchain Technology  
-video (ITA): <bit.ly/2EHgmev>
+video (ITA): <https://bit.ly/2EHgmev>
 
 2018-10-15/16  
 EFMA Innovation Summit: Payments & Wallets, Lisbon  
@@ -237,7 +237,7 @@ Bitcoin and the Future of Money
 
 2017-06-29 Blockchain Academy, Munich  
 Bitcoin, Blockchain, and Distributed Ledger Technology  
-<www.youtube.com/watch?v=pNfWmGE_dfM&feature=youtu.be>
+<https://youtube.com/watch?v=pNfWmGE_dfM&feature=youtu.be>
 
 2017-05-18 The Trading Show, Chicago  
 The great blockchain debate – disruption or distraction?  

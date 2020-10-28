@@ -9,7 +9,7 @@ He is also founder and co-administrator of the QuantLib project, a comprehensive
 ferdinando@ametrano.net
 https://github.com/fametrano
 twitter.com/Ferdinando1970
-speakerdeck.com/nando1970
+https://speakerdeck.com/nando1970
 www.reddit.com/user/Nando1970
 www.slideshare.net/Ferdinando1970
 https://www.linkedin.com/in/ferdinandoametrano
@@ -71,7 +71,7 @@ www.ilsole24ore.com/art/tecnologie/2017-04-20/vertice-malta-cyber-payment-commun
 
 2017-04-14 International University of Monaco, MBA
 Bitcoin and Blockchain Technology: An Introduction
-sildes: speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-an-introduction-1
+sildes: https://speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-an-introduction-1
 
 2017-04-06 RAI Radio 1 - Restate Scomodi
 (ITA) bitcoin interview
@@ -189,12 +189,12 @@ nova.ilsole24ore.com/progetti/la-blockchain-entra-alluniversita/
 
 2016-10-17 Scuola di Economia e Statistica, University of Milano-Bicocca
 Opening of the 2016-2015 Academic Year
-slides: speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-an-introduction
+slides: https://speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-an-introduction
 
 2016-10-03 Blockchain for Finance Conference, London
 Bitcoin, Blockchain, and the DLT Chimera
 blockchain.fintecnet.com/
-slides: speakerdeck.com/nando1970/bitcoin-blockchain-and-the-dlt-chimera
+slides: https://speakerdeck.com/nando1970/bitcoin-blockchain-and-the-dlt-chimera
 video: goo.gl/40mim9
 
 2016-09-22 Digital Payment Revolution, Rome
@@ -204,7 +204,7 @@ interview (ITA): https://youtube.com/watch?v=fpwsWriO-KI&list=PLrVvuryXHYTdKXzpI
 
 2016-09-08 2nd International Workshop P2P Financial Systems, London
 Hayek Money: The Cryptocurrency Price Stability Solution
-slides: speakerdeck.com/nando1970/hayek-money-the-cryptocurrency-price-stability-solution-1
+slides: https://speakerdeck.com/nando1970/hayek-money-the-cryptocurrency-price-stability-solution-1
 
 2016-09-02 Response to ESMA on DLT for Securities Market
 www.esma.europa.eu/press-news/esma-news/esma-assesses-usefulness-distributed-ledger-technologies
@@ -212,11 +212,11 @@ paper: https://drive.google.com/drive/folders/0B8tGDTaBY4-Nb3ZuRmgzRXJXOUk
 
 2016-07-07 European Banking Federation, Bruxelles
 About Bitcoin And Blockchain: A Cultural Paradigme Shift
-slides: speakerdeck.com/nando1970/about-bitcoin-and-blockchain-1
+slides: https://speakerdeck.com/nando1970/about-bitcoin-and-blockchain-1
 
 2016-06-21 Bank of Italy Workshop on Virtual Currencies, Rome
 About Bitcoin And Blockchain: A Cultural Paradigme Shift
-slides: speakerdeck.com/nando1970/about-bitcoin-and-blockchain-1
+slides: https://speakerdeck.com/nando1970/about-bitcoin-and-blockchain-1
 
 2016-06-07 Payments Conference and Exhibition EBAday, Milan
 How mainstream can Blockchain be?
@@ -225,7 +225,7 @@ www.ebaday.com/finextra-images/articles/file/eba2016agenda.pdf
 
 2016-06-01 Finextra interview
 Blockchain needs a native digital asset
-www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset
+https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset
 
 2016-05-12 Deloitte Blockchain Conference, Milan
 roundtable: Will Blockchain radically transform payments ecosystem?

@@ -52,7 +52,7 @@ Presentazione dell’osservatorio [Crypto Asset Lab](https://cryptoassetlab.dise
 2019-04-09 Harvard Extension Student Environmental Club  
 Bitcoin and Blockchain Technology: Economics and Environmental Sustainability  
 <hesec.extension.harvard.edu/webinars>  
-webinar: <youtu.be/36slArIgsbw?t=18>
+webinar: <https://youtu.be/36slArIgsbw?t=18>
 
 2019-04-06 Palazzo Vecchio, Firenze  
 Seminario sulle monete virtuali
@@ -67,7 +67,7 @@ Bitcoin: l'oro della civilizzazione digitale
 2018-01-25 Università di Milano-Bicocca  
 La certificazione blockchain nell’education  
 Blockchain Certification: Bitcoin & OpenTimestamps  
-<speakerdeck.com/nando1970/blockchain-certification-bitcoin-and-opentimestamps>  
+<https://speakerdeck.com/nando1970/blockchain-certification-bitcoin-and-opentimestamps>  
 
 2018-01-23 SingularityU Milan Chapter  
 Blockchain Futures  
@@ -109,7 +109,7 @@ Bitcoin & Blockchain: stato dell'arte e prospettive future
 
 2018-11-20 Borsa Italiana, Milan  
 Bitcoin e digital economy: sfide e opportunità per il mondo finanziario  
-[LSEG Borsa Italiana](www.lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario), [AssosIM](www.assosim.it/scheda/?id=20181019150403.xml)  
+[LSEG Borsa Italiana](www.https://lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario), [AssosIM](www.assosim.it/scheda/?id=20181019150403.xml)  
 
 2018-11-09  
 Salone dei Pagamenti, Milano  
@@ -197,7 +197,7 @@ Bitcoin e blockchain. Ci attende una rivoluzione?
 Bitcoin: The Digital Rush  
 video (ITA): <goo.gl/zwfuXK>  
 video Q&A (ITA)): <goo.gl/nkyBew>  
-slides (ENG): <speakerdeck.com/nando1970/bitcoin-the-digital-rush>
+slides (ENG): <https://speakerdeck.com/nando1970/bitcoin-the-digital-rush>
 
 2017-12-19 Università di Milano-Bicocca, Milan  
 Digital Gold: Bitcoin as Investment Asset  

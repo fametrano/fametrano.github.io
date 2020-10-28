@@ -45,16 +45,16 @@ Ferdinando is also scientific director of the
 at Milano-Bicocca University, where he teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)".
 
-Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
+Former [Head of Blockchain and Virtual Currencies](www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
 in Intesa Sanpaolo bank,
 he has been Planning Committee member of the
-[Scaling Bitcoin](https://scalingbitcoin.org/) conference,
+[Scaling Bitcoin](scalingbitcoin.org/) conference,
 is an occasional trivial contributor to
-[Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin),
+[Bitcoin](github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin),
 and maintains [btclib](github.com/dginst/btclib), a bitcoin python library.
 
 Fintech innovator, technologist, and
-[open source developer](https://github.com/fametrano),
+[open source developer](github.com/fametrano),
 he is author of [scientific publications]({{ site.baseurl }}/papers/)
 and contributor to multiple [media]({{ site.baseurl }}/media/) outlets.
 Appreciated [professor]({{ site.baseurl }}/courses/), speaker, panelist,
@@ -63,22 +63,22 @@ UN/CEFACT (United Nations Centre for Trade Facilitation and Electronic Business)
 and has been
 invited to private and public [events]({{ site.baseurl }}/events/)
 about bitcoin at the
-[United Nations](https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ),
+[United Nations](www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ),
 central banks,
-the [Italian Parliament](https://www.youtube.com/watch?v=vLM3FUuCFLY),
+the [Italian Parliament](www.youtube.com/watch?v=vLM3FUuCFLY),
 universities, conferences, and workshops.
 
 His [academic research]({{ site.baseurl }}/papers/)
 focuses on price stability, advocating
 automated non-discretionary elastic monetary policy for a new generation
-of cryptocurrencies ([Hayek Money](https://ssrn.com/abstract=2425270)).
+of cryptocurrencies ([Hayek Money](ssrn.com/abstract=2425270)).
 
 He is also cofounder and coadministrator of the
-[QuantLib](https://www.quantlib.org) project,
+[QuantLib](www.quantlib.org) project,
 a comprehensive free/open-source software framework for quantitative finance.
 "[Interest Rate Derivatives]({{ site.baseurl }}/ird/)" Adjunct Professor at the
 University of Milano-Bicocca, he has
-[relevant publications](https://ssrn.com/author=510135) on this subject and
+[relevant publications](ssrn.com/author=510135) on this subject and
 has headed trading, quantitative, and risk-management teams in Banca IMI
 (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has
 also been co-founder and managing partner of RiskMap
@@ -92,26 +92,26 @@ his colleagues and students love and hate him depending on their sensitivities a
 
 Oh... he is an ex-physicist and a huge Springsteen fan.
 
-Europass CV: <https://www.ametrano.net/cv/CV-Europass-20200626-Ametrano-EN>  
-Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
+Europass CV: <www.ametrano.net/cv/CV-Europass-20200626-Ametrano-EN>  
+Two pages CV: <www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
-**email contact form**: <https://bit.ly/contactametrano>
+**email contact form**: <bit.ly/contactametrano>
 
 ---
 
 ## Social Networks
 
-<https://github.com/fametrano>  
-<https://ssrn.com/author=510135>  
-<https://medium.com/@nando1970>  
-<https://twitter.com/Ferdinando1970>  
-<https://speakerdeck.com/nando1970>  
-<https://www.reddit.com/user/Nando1970>  
-<https://www.slideshare.net/Ferdinando1970>  
-<https://www.facebook.com/ferdinando.ametrano>  
-<https://www.linkedin.com/in/ferdinandoametrano>  
-<https://www.youtube.com/c/FerdinandoMAmetrano>  
-<https://scholar.google.com/citations?user=dFSSrwwAAAAJ>
+<github.com/fametrano>  
+<ssrn.com/author=510135>  
+<medium.com/@nando1970>  
+<twitter.com/Ferdinando1970>  
+<speakerdeck.com/nando1970>  
+<www.reddit.com/user/Nando1970>  
+<www.slideshare.net/Ferdinando1970>  
+<www.facebook.com/ferdinando.ametrano>  
+<www.linkedin.com/in/ferdinandoametrano>  
+<www.youtube.com/c/FerdinandoMAmetrano>  
+<scholar.google.com/citations?user=dFSSrwwAAAAJ>
 
 ---
 

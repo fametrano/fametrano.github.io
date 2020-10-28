@@ -1,6 +1,6 @@
 # Repo for Ferdinando M. Ametrano website
 
-[ametrano.net](https://www.ametrano.net)
+[ametrano.net](www.ametrano.net)
 
 ## Testing your GitHub Pages site locally with Jekyll
 
@@ -33,8 +33,8 @@ From time to time you might want to update the GitHub Pages gem:
 
 ```shell
 $ bundle update github-pages
-Fetching gem metadata from https://rubygems.org/...........
-Fetching gem metadata from https://rubygems.org/.
+Fetching gem metadata from rubygems.org/...........
+Fetching gem metadata from rubygems.org/.
 Resolving dependencies....
 Using concurrent-ruby 1.1.5
 Using i18n 0.9.5
@@ -49,6 +49,6 @@ Bundle updated!
 
 See also:
 
-- <https://jekyllrb.com/docs/installation/>
-- <https://bundler.io/>
-- <https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll>
+- <jekyllrb.com/docs/installation/>
+- <bundler.io/>
+- <help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll>

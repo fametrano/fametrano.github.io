@@ -162,7 +162,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 * A. Narayanan, et al.,  
   _"Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction"_ (2016),  
   Princeton University Press, 978-0691171692,  
-  <www.coursera.org/learn/cryptocurrency>, <bitcoinbook.cs.princeton.edu/>, <lopp.net/pdf/princeton_bitcoin_book.pdf>
+  <https://www.coursera.org/learn/cryptocurrency>, <bitcoinbook.cs.princeton.edu/>, <lopp.net/pdf/princeton_bitcoin_book.pdf>
 * Pedro Franco,  
   _“Understanding Bitcoin: Cryptography, Engineering and Economics”_ (2014),  
   Wiley, 978-1119019169
@@ -178,20 +178,20 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 * Christof Paar, Jan Pelzl,  
   _"Understanding Cryptography"_,  
   Springer, 978-3642041006
-  <www.crypto-textbook.com/>, <wiki.crypto.rub.de/Buch/en/slides.php>, <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
+  <https://www.crypto-textbook.com/>, <wiki.crypto.rub.de/Buch/en/slides.php>, <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Dan Boneh,
   _"A Graduate Course in Applied Cryptography"_,  
   Stanford University  
-  <www.coursera.org/learn/crypto>, <toc.cryptobook.us/>
+  <https://www.coursera.org/learn/crypto>, <toc.cryptobook.us/>
 * Lawrence C. Washington,  
   _“Elliptic Curves Number Theory And Cryptography”_ (2008),  
   Chapman and Hall, 978-1420071467
 * Standards for Efficient Cryptography Group  
   SEC 1: Elliptic Curve Cryptography, March 2009. Version 2.0.  
-  <www.secg.org/sec1-v2.pdf>
+  <https://www.secg.org/sec1-v2.pdf>
 * Standards for Efficient Cryptography Group  
   SEC 2: Recommended Elliptic Curve Domain Parameters, March 2009. Version 2.0.  
-  <www.secg.org/sec2-v2.pdf>
+  <https://www.secg.org/sec2-v2.pdf>
 * Guidelines for Efficient Cryptography  
   GEC 2: Test Vectors for SEC 1, September 1999. Version 0.3.  
   <read.pudn.com/downloads168/doc/772358/TestVectorsforSEC%201-gec2.pdf>

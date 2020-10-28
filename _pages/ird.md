@@ -48,7 +48,7 @@ Derivatives, stochastic processes, risk measures
 ## Teaching method
 
 - Slide based lessons
-- QuantLibXL ([<www.https://quantlib.org/quantlibxl/>](<www.https://quantlib.org/quantlibxl/>)) programming assignments using Excel.
+- QuantLibXL (<https://www.quantlib.org/quantlibxl>) programming assignments using Excel.
 
 ## Textbooks and Reading Materials
 

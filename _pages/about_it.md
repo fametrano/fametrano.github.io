@@ -23,7 +23,7 @@ permalink: /it/about/
   Departmento di Matematica, Università degli Studi di Milano  
   Interfacoltà di Scienze Naturali e Giurisprudenza, Università Cattolica del Sacro Cuore (Brescia)  
 * Fondatore e coamministratore, QuantLib e btclib  
-  <https://quantlib.org>, <https://github.com/dginst/btclib>
+  <https://www.quantlib.org>, <https://github.com/dginst/btclib>
 
 ---
 
@@ -65,7 +65,7 @@ esperto UN/CEFACT (United Nations Centre for Trade Facilitation and Electronic B
 
 La sua [ricerca accademica]({{ site.baseurl }}/papers/) è focalizzata sulla stabilità dei prezzi, proponendo una nuova generazione di criptovalute a politica monetaria elastica ma automatizzata e non discrezionale ([Hayek Money](https://ssrn.com/abstract=2425270)).
 
-È anche cofondatore e coamministratore di [QuantLib](www.https://quantlib.org), il più importante progetto *open source* di software per la finanza quantitativa. Insegna *[Interest Rate Derivatives]({{ site.baseurl }}/ird/)* all'Università Milano-Bicocca ed ha rilevanti pubblicazioni sull'[argomento](https://ssrn.com/author=510135). In passato ha guidato team di trading, quantitativi e risk management in Banca IMI, Banca Caboto e Monte Paschi Asset Management; è stato anche co-fondatore e managing partner di RiskMap (oggi StatPro Italia).
+È anche cofondatore e coamministratore di [QuantLib](https://www.quantlib.org), il più importante progetto *open source* di software per la finanza quantitativa. Insegna *[Interest Rate Derivatives]({{ site.baseurl }}/ird/)* all'Università Milano-Bicocca ed ha rilevanti pubblicazioni sull'[argomento](https://ssrn.com/author=510135). In passato ha guidato team di trading, quantitativi e risk management in Banca IMI, Banca Caboto e Monte Paschi Asset Management; è stato anche co-fondatore e managing partner di RiskMap (oggi StatPro Italia).
 
 I suoi genitori sono molto orgogliosi di lui,
 sua moglie sembra condividere il sentimento
@@ -88,11 +88,11 @@ CV (due pagine): <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 <https://github.com/fametrano>  
 <https://ssrn.com/author=510135>  
-<medium.com/@nando1970>  
-<twitter.com/Ferdinando1970>  
+<https://medium.com/@nando1970>  
+<https://twitter.com/Ferdinando1970>  
 <https://speakerdeck.com/nando1970>  
-<www.reddit.com/user/Nando1970>  
-<www.slideshare.net/Ferdinando1970>  
+<https://www.reddit.com/user/Nando1970>  
+<https://www.slideshare.net/Ferdinando1970>  
 <https://facebook.com/ferdinando.ametrano>  
 <https://www.linkedin.com/in/ferdinandoametrano>  
 <https://youtube.com/c/FerdinandoMAmetrano>  

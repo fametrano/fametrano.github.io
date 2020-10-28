@@ -14,7 +14,7 @@ Harvard ESEC: <em>Introduction to Bitcoin and Blockchain Technology</em> webinar
 </li>
 <li>
 CoinDesk: <em>Why 2017 Will Prove 'Blockchain' Was a Bad Idea</em>
-<a href="https://www.coindesk.com/2017-will-prove-blockchain-bad-idea">www.coindesk.com/2017-will-prove-blockchain-bad-idea</a>
+<a href="https://www.coindesk.com/2017-will-prove-blockchain-bad-idea">https://www.coindesk.com/2017-will-prove-blockchain-bad-idea</a>
 </li>
 <li>
 The Swift Institute: <em>Bitcoin, Blockchain and the DLT Chimera</em>
@@ -79,7 +79,7 @@ webinar: <https://youtu.be/36slArIgsbw?t=18>
 
 2019-01-05 Il Sole 24 Ore  
 Criptovalute, quotazioni a picco. Ma Facebook lavora al suo Bitcoin  
-article (ITA): <www.ilsole24ore.com/art/finanza-e-mercati/2019-01-04/criptovalute-quotazioni-picco-ma-facebook-lavora-suo-bitcoin-192628.shtml>
+article (ITA): <https://www.ilsole24ore.com/art/finanza-e-mercati/2019-01-04/criptovalute-quotazioni-picco-ma-facebook-lavora-suo-bitcoin-192628.shtml>
 
 2018-12-05 Corriere della Sera  
 Crolla l'illusione del bitcoin  
@@ -87,7 +87,7 @@ article (ITA): <https://ametrano.net/images/20181205-Crolla-illusione-bitcoin.pd
 
 2018-11-16 Borsa Italiana  
 Bitcoin, Blockchain e la Chimera DLT  
-article (ITA): <www.borsaitaliana.it/borsaitaliana/academy/bitcoin-blockchain-chimera-dlt.htm>
+article (ITA): <https://www.borsaitaliana.it/borsaitaliana/academy/bitcoin-blockchain-chimera-dlt.htm>
 
 2018-11-15 Gellify
 promo per lezione "Bitcoin e Blockchain"
@@ -99,15 +99,15 @@ article (ITA): <https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto
 
 2018-11-08 Radio3 Scienza  
 Dieci anni di Bitcoin  
-audio (ITA): <www.raiplayradio.it/audio/2018/11/RADIO3-SCIENZA-Dieci-anni-di-Bitcoin-c75c5378-e404-419b-84d2-6cea1b4a9f3b.html>
+audio (ITA): <https://www.raiplayradio.it/audio/2018/11/RADIO3-SCIENZA-Dieci-anni-di-Bitcoin-c75c5378-e404-419b-84d2-6cea1b4a9f3b.html>
 
 2018-11-02 Medium  
 Finanza e pagamenti, tra blockchain e bitcoin  
-article (ITA): <medium.com/@nando1970/finanza-e-pagamenti-tra-blockchain-e-bitcoin-c916a6a810>
+article (ITA): <https://medium.com/@nando1970/finanza-e-pagamenti-tra-blockchain-e-bitcoin-c916a6a810>
 
 2018-10-30 IlSole24Ore  
 Bitcoin 10 anni dopo: un mondo ad alta volatilità tra speculazione, promesse e rivoluzione  
-article (ITA): <www.ilsole24ore.com/art/tecnologie/2018-10-30/il-bitcoin-dieci-anni-dopo-mondo-ad-alta-volatilita-speculazione-promesse-e-rivoluzione-134755.shtml>
+article (ITA): <https://www.ilsole24ore.com/art/tecnologie/2018-10-30/il-bitcoin-dieci-anni-dopo-mondo-ad-alta-volatilita-speculazione-promesse-e-rivoluzione-134755.shtml>
 
 2018-10-16 Regione Lombardia, Milan  
 Bitcoin and Blockchain Technology  
@@ -133,7 +133,7 @@ Intervista: <https://www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametra
 
 2018-02-13 Alground.com  
 Bitcoin. Basta balle: chi ci guadagna, e chi ha perso tutto.  
-article (ITA): <www.alground.com/site/bitcoin-inchiesta/51359/>
+article (ITA): <https://www.alground.com/site/bitcoin-inchiesta/51359/>
 
 2018-02-12 Radio3 Scienza  
 Blockchain, che cos'è  
@@ -161,7 +161,7 @@ article (ITA): <goo.gl/72A8b5>
 
 2018-01-11 Notizie.it  
 Il futuro dei Bitcoin secondo Ferdinando Ametrano  
-article (ITA): <www.notizie.it/futuro-bitcoin-ferdinando-ametrano/>
+article (ITA): <https://www.notizie.it/futuro-bitcoin-ferdinando-ametrano/>
 
 2018-01-10 Corriere della Sera (Bergamo):  
 Bitcoin, nel documentario di Aralla le istruzioni per l’uso  
@@ -352,7 +352,7 @@ audio (ITA): <goo.gl/uD5Vd6>
 
 2015-02-26 Limes, rivista italiana di geopolitica  
 Bitcoin: come funziona una moneta virtuale, di Raffaele Mauro  
-<www.limesonline.com/cartaceo/bitcoin-come-funziona-una-moneta-virtuale>
+<https://www.limesonline.com/cartaceo/bitcoin-come-funziona-una-moneta-virtuale>
 
 2014-12 Intesa Sanpaolo Executive Education Educasts  
 video (ITA): <https://bit.ly/2J9KzSd>

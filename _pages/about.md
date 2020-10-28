@@ -23,7 +23,7 @@ permalink: /about/
   Department of Mathematics, University of Milano  
   Mathematical, Physical and Natural Sciences / Law Interfaculty, Università Cattolica del Sacro Cuore (Brescia)  
 * Founder and coadministrator of QuantLib and btclib  
-  <https://quantlib.org>, <https://github.com/dginst/btclib>
+  <https://www.quantlib.org>, <https://github.com/dginst/btclib>
 
 ---
 
@@ -74,7 +74,7 @@ automated non-discretionary elastic monetary policy for a new generation
 of cryptocurrencies ([Hayek Money](https://ssrn.com/abstract=2425270)).
 
 He is also cofounder and coadministrator of the
-[QuantLib](www.https://quantlib.org) project,
+[QuantLib](https://www.quantlib.org) project,
 a comprehensive free/open-source software framework for quantitative finance.
 "[Interest Rate Derivatives]({{ site.baseurl }}/ird/)" Adjunct Professor at the
 University of Milano-Bicocca, he has
@@ -103,11 +103,11 @@ Two pages CV: <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 <https://github.com/fametrano>  
 <https://ssrn.com/author=510135>  
-<medium.com/@nando1970>  
-<twitter.com/Ferdinando1970>  
+<https://medium.com/@nando1970>  
+<https://twitter.com/Ferdinando1970>  
 <https://speakerdeck.com/nando1970>  
-<www.reddit.com/user/Nando1970>  
-<www.slideshare.net/Ferdinando1970>  
+<https://www.reddit.com/user/Nando1970>  
+<https://www.slideshare.net/Ferdinando1970>  
 <https://facebook.com/ferdinando.ametrano>  
 <https://www.linkedin.com/in/ferdinandoametrano>  
 <https://youtube.com/c/FerdinandoMAmetrano>  

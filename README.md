@@ -23,11 +23,11 @@ Configuration file: C:/path/to/repo/checksig-custody.github.io/_config.yml
        Jekyll Feed: Generating feed for posts
                     done in 25.31 seconds.
  Auto-regeneration: enabled for 'C:/path/to/repo/checksig-custody.github.io'
-    Server address: http://127.0.0.1:4000
+    Server address: 127.0.0.1:4000
   Server running... press ctrl-c to stop.
 ```
 
-To preview your site, in your web browser, navigate to <http://127.0.0.1:4000>
+To preview your site, in your web browser, navigate to <127.0.0.1:4000>
 
 From time to time you might want to update the GitHub Pages gem:
 

@@ -26,7 +26,7 @@ PAST AND FUTURE PUBLIC SPEAKING ENGAGEMENTS / ARTICLES / ETC.:
 
 2017-10-14 The IFTA 30th Annual Conference, Milan
 Keynote Speech: Bitcoin as Investment Asset
-http://www.ifta-conferences.org/speakers-page/
+www.ifta-conferences.org/speakers-page/
 
 2017-10-9/10 Blockchain Academy, Munich
 2 days workshop on Bitcoin, Blockchain and DLT
@@ -37,7 +37,7 @@ https://finance.knect365.com/payments-international/
 
 2017-09-12 Distributed Innovation Summit, London
 Distributed Financial Services in the next 3 to 10 years
-http://dis-event.com/
+dis-event.com/
 
 2017-07-10 Perugia University
 Bitcoin and the Future of Money
@@ -48,11 +48,11 @@ https://www.youtube.com/watch?v=pNfWmGE_dfM&feature=youtu.be
 
 2017-06-11 IlSole24Ore
 Il Far West dell�oro digitale
-http://nova.ilsole24ore.com/progetti/il-far-west-delloro-digitale/
+nova.ilsole24ore.com/progetti/il-far-west-delloro-digitale/
 
 2017-05-18 The Trading Show, Chicago
 The great blockchain debate � disruption or distraction?
-http://www.terrapinn.com/conference/trading-show-chicago/agenda-day-2.stm
+www.terrapinn.com/conference/trading-show-chicago/agenda-day-2.stm
 
 2017-05-02 Politecnico di Milano - Polimi Fintech Journey
 Moneta Virtuale
@@ -60,14 +60,14 @@ https://www.eko.polimi.it/index.php/fintech/fintech
 
 2017-04-23 Il Sole 24 Ore
 Il volto industriale della blockchain
-http://nova.ilsole24ore.com/progetti/il-volto-industriale-della-blockchain/
+nova.ilsole24ore.com/progetti/il-volto-industriale-della-blockchain/
 
 2017-04-21 Universit� degli Studi Milano, Dipartimento di Fisica
 About Bitcoin and Blockchain: A Cultural Paradigm Shift
 
 2017-04-20 Il Sole 24 Ore
 Vertice a Malta della cyber-payment community
-http://www.ilsole24ore.com/art/tecnologie/2017-04-20/vertice-malta-cyber-payment-community-172458.shtml
+www.ilsole24ore.com/art/tecnologie/2017-04-20/vertice-malta-cyber-payment-community-172458.shtml
 
 2017-04-14 International University of Monaco, MBA
 Bitcoin and Blockchain Technology: An Introduction
@@ -75,11 +75,11 @@ sildes: https://speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-an-i
 
 2017-04-06 RAI Radio 1 - Restate Scomodi
 (ITA) bitcoin interview
-http://www.rai.tv/dl/portaleRadio/media/ContentItem-de929d97-5810-4077-912e-df1aded797d1.html (at 1m38s)
+www.rai.tv/dl/portaleRadio/media/ContentItem-de929d97-5810-4077-912e-df1aded797d1.html (at 1m38s)
 
 2017-04-05 Il Sole 24 Ore
 Chi governa il bitcoin? Tredici domande per capire quale vincer� fra le visioni a confronto
-http://www.ilsole24ore.com/art/finanza-e-mercati/2017-04-05/chi-governa-bitcoin-tredici-domande-capire-quale-vincera-le-visioni-confronto-131100.shtml
+www.ilsole24ore.com/art/finanza-e-mercati/2017-04-05/chi-governa-bitcoin-tredici-domande-capire-quale-vincera-le-visioni-confronto-131100.shtml
 
 2017-03-27 Università di Milano-Bicocca
 Bitcoin and Blockchain Technology: An Introduction
@@ -91,12 +91,12 @@ Bitcoin, Hayek Money, and The Future of Money
 
 2017-03-20 IDC Pan European Utilities Executive Summit, Lisbon
 Bitcoin, Blockchain, and Distributed Ledger Technology: Hype or Reality
-http://idcutilitiessummit.com/
+idcutilitiessummit.com/
 slides: https://www.slideshare.net/Ferdinando1970/bitcoin-blockchain-and-distributed-ledger-technology-hype-or-reality
 
 2017-03-15 Quant Summit Europe, London
 Bitcoin, Blockchain, and the DLT Chimera
-http://events.risk.net/quantsummiteurope
+events.risk.net/quantsummiteurope
 
 2017-03-13/14 Blockchain Business Board, London
 Blockchain Academy
@@ -108,7 +108,7 @@ https://vimeo.com/207371888
 
 2017-03-03 StartupItalia!
 (ITA) interview: Bitcoin � la luna, ma il Sole (24 Ore) guarda il dito
-http://smartmoney.startupitalia.eu/bitcoin-blockchain/60163-20170303-ferdinando-ametrano-bitcoin-intervista
+smartmoney.startupitalia.eu/bitcoin-blockchain/60163-20170303-ferdinando-ametrano-bitcoin-intervista
 
 2017-02-23 Interlogica
 (ITA) video interview: Inside Blockchain
@@ -154,7 +154,7 @@ video interview (ITA): https://goo.gl/zInFVA
 
 2016-11-22 Consob, Roma
 About Bitcoin, Blockchain, and the Distributed ledger Chimera
-slides: http://www.slideshare.net/Ferdinando1970/about-bitcoin-blockchain-and-the-dlt-chimera
+slides: www.slideshare.net/Ferdinando1970/about-bitcoin-blockchain-and-the-dlt-chimera
 
 2016-11-16 The Swift Institute
 Bitcoin, Blockchain and the DLT Chimera
@@ -164,10 +164,10 @@ article: https://goo.gl/KIKT32
 Hayek Money: The Cryptocurrency Price Stability Solution
 
 2016-11-11 Blockchain Summit, London
-http://www.b3chain.com/b3-blockchain-summit-london/
+www.b3chain.com/b3-blockchain-summit-london/
 
 2016-11-10 International Chamber of Commerce, Rome
-http://www.iccitalia.org/atti_convegno_blockchain.htm
+www.iccitalia.org/atti_convegno_blockchain.htm
 slides: https://goo.gl/Oh0HdC
 
 2016-11-07 "Blockchain : Money" conference, London
@@ -185,7 +185,7 @@ slide: https://goo.gl/Xc1UMP
 
 2016-10-23 Il Sole 24 Ore
 La blockchain entra all�Universit�
-http://nova.ilsole24ore.com/progetti/la-blockchain-entra-alluniversita/
+nova.ilsole24ore.com/progetti/la-blockchain-entra-alluniversita/
 
 2016-10-17 Scuola di Economia e Statistica, University of Milano-Bicocca
 Opening of the 2016-2015 Academic Year
@@ -193,13 +193,13 @@ slides: https://speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-an-i
 
 2016-10-03 Blockchain for Finance Conference, London
 Bitcoin, Blockchain, and the DLT Chimera
-http://blockchain.fintecnet.com/
+blockchain.fintecnet.com/
 slides: https://speakerdeck.com/nando1970/bitcoin-blockchain-and-the-dlt-chimera
 video: https://goo.gl/40mim9
 
 2016-09-22 Digital Payment Revolution, Rome
 roundtable: Rivoluzione Blockchain, l�Internet of banking: una Uber per le transazioni finanziarie?
-http://www.corrierecomunicazioni.it/eventi/42448_digital-payment-revolution.htm
+www.corrierecomunicazioni.it/eventi/42448_digital-payment-revolution.htm
 interview (ITA): https://www.youtube.com/watch?v=fpwsWriO-KI&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=2
 
 2016-09-08 2nd International Workshop P2P Financial Systems, London
@@ -220,8 +220,8 @@ slides: https://speakerdeck.com/nando1970/about-bitcoin-and-blockchain-1
 
 2016-06-07 Payments Conference and Exhibition EBAday, Milan
 How mainstream can Blockchain be?
-roundtable http://www.ebaday.com/agenda.aspx
-http://www.ebaday.com/finextra-images/articles/file/eba2016agenda.pdf
+roundtable www.ebaday.com/agenda.aspx
+www.ebaday.com/finextra-images/articles/file/eba2016agenda.pdf
 
 2016-06-01 Finextra interview
 Blockchain needs a native digital asset
@@ -229,7 +229,7 @@ https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-ass
 
 2016-05-12 Deloitte Blockchain Conference, Milan
 roundtable: Will Blockchain radically transform payments ecosystem?
-http://www2.deloitte.com/it/it/pages/technology/events/fintechtalks---deloitte-italy---technology.html
+www2.deloitte.com/it/it/pages/technology/events/fintechtalks---deloitte-italy---technology.html
 video: 
 
 2016-03-10 Bocconi University, Milan
@@ -246,7 +246,7 @@ slides https://goo.gl/ekqNpc
 
 2015-11-24 IlSole24Ore
 Il bitcoin � oro digitale e sancir� la fine del contante
-interview (ITA): http://goo.gl/SUZMnd
+interview (ITA): goo.gl/SUZMnd
 
 2015-10-08 Digital Currency Summit, Barcelona
 A Cryptocurrency Price Stability Solution
@@ -267,15 +267,15 @@ slides https://goo.gl/G12CpW
 
 2015-05-03 IlSole24Ore
 Criptovalute tra opportunit� e voglia di regolamentazione
-roundtable (ITA): transcript http://goo.gl/1i435b
+roundtable (ITA): transcript goo.gl/1i435b
 
 2015-04-22 Radio24 SmartCity, Maurizio Melis
 Soldi, trasparenza, anonimato e bitcoin
-interview http://goo.gl/1rXW0R
+interview goo.gl/1rXW0R
 
 2015-03-20 Radio24 SmartCity, Maurizio Melis
 La scomparsa del contante, bitcoin ed Hayek Money
-interview http://goo.gl/uD5Vd6
+interview goo.gl/uD5Vd6
 
 2015-03-13 Camplus, Milan
 Distributed Public Ledger Revolution & the Future of Money

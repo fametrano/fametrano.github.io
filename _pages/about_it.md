@@ -16,7 +16,7 @@ permalink: /it/about/
   <https://cryptoassetlab.diseade.unimib.it>
 * Professore a contratto di *Interest Rate Derivatives*  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
-  <https://unimib.it/ferdinando-maria-ametrano>
+  <https://www.unimib.it/ferdinando-maria-ametrano>
 * Professore a contratto di *Bitcoin and Blockchain Technology*  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
   Departmentimento di Giurisprudenza, Università degli Studi di Milano-Bicocca  

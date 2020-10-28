@@ -17,7 +17,7 @@ a profile picture would be appreciated, but is not mandatory.
 Updates and conversations about the course will be posted in the Slack channel.
 
 The course is for the students of University of Milano only;
-anyone else, please consider <dgi.io/workshop>.
+anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives
 
@@ -150,7 +150,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
-    _[Hayek Money: The Cryptocurrency Price Stability Solution](ssrn.com/abstract=2425270)_
+    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
 
 In the last lesson anonymous course evaluation [forms](docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 
@@ -191,7 +191,7 @@ In the last lesson anonymous course evaluation [forms](docs.google.com/document/
   Wiley, 978-1119019169
 * Ferdinando M. Ametrano,  
   _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_ (2017),  
-  <ssrn.com/abstract=2832249>
+  <https://ssrn.com/abstract=2832249>
 * Roger Wattenhofer,  
   _“Blockchain Science: Distributed Ledger Technology”_ (3rd edition, 2020),  
    Independently published, 978-1793471734
@@ -229,7 +229,7 @@ In the last lesson anonymous course evaluation [forms](docs.google.com/document/
   Wiley, 978-1119473862
 * Ferdinando M. Ametrano,  
   _"Hayek Money: The Cryptocurrency Price Stability Solution"_ (2014),  
-  <ssrn.com/abstract=2425270>
+  <https://ssrn.com/abstract=2425270>
 * Robert Sams,  
   _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_ (2015),  
   <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>

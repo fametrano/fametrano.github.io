@@ -8,22 +8,22 @@ permalink: /about/
 ## Current Affiliations
 
 * Cofounder and Chief Executive Officer, CheckSig  
-  <checksig.io>
+  <https://checksig.io>
 * Founder and Executive Director, Digital Gold Institute  
-  <dgi.io>
+  <https://dgi.io>
 * Cofounder and Scientific Director, Crypto Asset Lab  
   Department of Business and Law, University of Milano-Bicocca  
-  <cryptoassetlab.diseade.unimib.it>
+  <https://cryptoassetlab.diseade.unimib.it>
 * Adjunct Professor of "Interest Rate Derivatives"  
   Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
-  <www.unimib.it/ferdinando-maria-ametrano>
+  <https://unimib.it/ferdinando-maria-ametrano>
 * Adjunct Professor of "Bitcoin and Blockchain Technology"  
   Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
   Department of Law, University of Milano-Bicocca  
   Department of Mathematics, University of Milano  
   Mathematical, Physical and Natural Sciences / Law Interfaculty, Università Cattolica del Sacro Cuore (Brescia)  
 * Founder and coadministrator of QuantLib and btclib  
-  <quantlib.org>, <https://github.com/dginst/btclib>
+  <https://quantlib.org>, <https://github.com/dginst/btclib>
 
 ---
 
@@ -35,13 +35,13 @@ Ferdinando Ametrano discovered bitcoin in 2014:
 since then bitcoin has been his major professional
 and academic interest.
 
-Founder and CEO of [CheckSig](checksig.io)
+Founder and CEO of [CheckSig](https://checksig.io)
 (transparent bitcoin custody solutions
 for institutional investors and high-net-worth individuals) and
-[Digital Gold Institute](dgi.io)
+[Digital Gold Institute](https://dgi.io)
 (R&D, consultancy, and training about bitcoin and blockchain technology),
 Ferdinando is also scientific director of the
-[Crypto Asset Lab](cryptoassetlab.diseade.unimib.it)
+[Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it)
 at Milano-Bicocca University, where he teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)".
 
@@ -71,14 +71,14 @@ universities, conferences, and workshops.
 His [academic research]({{ site.baseurl }}/papers/)
 focuses on price stability, advocating
 automated non-discretionary elastic monetary policy for a new generation
-of cryptocurrencies ([Hayek Money](ssrn.com/abstract=2425270)).
+of cryptocurrencies ([Hayek Money](https://ssrn.com/abstract=2425270)).
 
 He is also cofounder and coadministrator of the
-[QuantLib](www.quantlib.org) project,
+[QuantLib](www.https://quantlib.org) project,
 a comprehensive free/open-source software framework for quantitative finance.
 "[Interest Rate Derivatives]({{ site.baseurl }}/ird/)" Adjunct Professor at the
 University of Milano-Bicocca, he has
-[relevant publications](ssrn.com/author=510135) on this subject and
+[relevant publications](https://ssrn.com/author=510135) on this subject and
 has headed trading, quantitative, and risk-management teams in Banca IMI
 (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has
 also been co-founder and managing partner of RiskMap
@@ -102,7 +102,7 @@ Two pages CV: <www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 ## Social Networks
 
 <https://github.com/fametrano>  
-<ssrn.com/author=510135>  
+<https://ssrn.com/author=510135>  
 <medium.com/@nando1970>  
 <twitter.com/Ferdinando1970>  
 <speakerdeck.com/nando1970>  

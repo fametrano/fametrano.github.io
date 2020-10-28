@@ -21,7 +21,7 @@ permalink: /bbt/
 Please refer to the page dedicated to your university, if available above.
 
 These courses are for the students of those universities;
-anyone else, please consider <dgi.io/workshop>.
+anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives
 
@@ -136,7 +136,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
-    _[Hayek Money: The Cryptocurrency Price Stability Solution](ssrn.com/abstract=2425270)_  
+    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
 
 
 ## Python library
@@ -176,7 +176,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
   Wiley, 978-1119019169
 * Ferdinando M. Ametrano,  
   _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_ (2017),  
-  <ssrn.com/abstract=2832249>
+  <https://ssrn.com/abstract=2832249>
 * Roger Wattenhofer,  
   _“Blockchain Science: Distributed Ledger Technology”_ (3rd edition, 2020),  
    Independently published, 978-1793471734
@@ -214,7 +214,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
   Wiley, 978-1119473862
 * Ferdinando M. Ametrano,  
   _"Hayek Money: The Cryptocurrency Price Stability Solution"_ (2014),  
-  <ssrn.com/abstract=2425270>
+  <https://ssrn.com/abstract=2425270>
 * Robert Sams,  
   _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_ (2015),  
   <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>

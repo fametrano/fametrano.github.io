@@ -17,7 +17,7 @@ I can be contacted using this
 
 ## Upcoming events
 
-please see <dgi.io/events>
+please see <https://dgi.io/events>
 
 ---
 ---
@@ -25,7 +25,7 @@ please see <dgi.io/events>
 
 ## Past events
 
-2019-07-11 [Istituto Bruno Leoni](www.brunoleoni.it/criptovalute-cosa-cambia-con-libra) / [Crypto Asset Lab](cryptoassetlab.diseade.unimib.it/2019/07/05/) / [Università Milano-Bicocca](www.diseade.unimib.it/it/eventi/criptovalute-cosa-cambia-libra)  
+2019-07-11 [Istituto Bruno Leoni](www.brunoleoni.it/criptovalute-cosa-cambia-con-libra) / [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/2019/07/05/) / [Università Milano-Bicocca](www.diseade.unimib.it/it/eventi/criptovalute-cosa-cambia-libra)  
 [Bitcoin e Libra](www.facebook.com/events/2435413189854205)  
 18:00, Piazza Castello 23, Milano  
 Accesso gratuito previa [registrazione](www.eventbrite.it/e/biglietti-criptovalute-cosa-cambia-con-libra-64718684327)
@@ -46,8 +46,8 @@ Milano
 
 2019-06-05 Università di Milano-Bicocca  
 Crypto Asset tra tecnologia e tentativi di regolazione  
-Presentazione dell’osservatorio [Crypto Asset Lab](cryptoassetlab.diseade.unimib.it)  
-<cryptoassetlab.diseade.unimib.it/2019/06/12/workshop.html>  
+Presentazione dell’osservatorio [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it)  
+<https://cryptoassetlab.diseade.unimib.it/2019/06/12/workshop.html>  
 
 2019-04-09 Harvard Extension Student Environmental Club  
 Bitcoin and Blockchain Technology: Economics and Environmental Sustainability  
@@ -82,7 +82,7 @@ Economics and Technology of Digital Assets
 Webinar
 
 2018-12-11 #Aperitech BlockchainEDU, Milano LUISS Hub  
-La scarsità in ambito digitale: la missione del [Digital Gold Institute](www.dgi.io)
+La scarsità in ambito digitale: la missione del [Digital Gold Institute](https://https://dgi.io)
 
 2018-12-11 ESSEC Business School, Paris  
 Bitcoin and Blockchain Technology: An Introduction  

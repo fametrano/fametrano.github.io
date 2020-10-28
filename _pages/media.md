@@ -48,13 +48,13 @@ video della lezione universitaria introduttiva al corso bitcoin (edizione 2017):
 </li>
 <li>
 blockchain: <em>Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality</em>
-<a href="ssrn.com/abstract=2832249">ssrn.com/abstract=2832249</a>
+<a href="https://ssrn.com/abstract=2832249">https://ssrn.com/abstract=2832249</a>
 <br>e il video di un'altra lezione universitaria (edizione 2017):
 <a href="www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&t=0s&index=10">www.youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&t=0s&index=10</a>
 </li>
 <li>
 aspetti monetari: <em>Hayek Money: The Cryptocurrency Price Stability Solution</em>
-<a href="ssrn.com/abstract=2425270">ssrn.com/abstract=2425270</a>
+<a href="https://ssrn.com/abstract=2425270">https://ssrn.com/abstract=2425270</a>
 <br>e il video di un'altra lezione universitaria (edizione 2017):
 <a href="www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=9">www.youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=9</a>
 </li>

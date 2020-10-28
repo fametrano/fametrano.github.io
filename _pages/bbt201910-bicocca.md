@@ -12,7 +12,7 @@ Department of Statistics and Quantitative Methods, University of Milano-Bicocca
 Course page: <elearning.unimib.it/course/info.php?id=25308>  
 
 Please subscribe the course mailing list sending an e-mail to
-[bbt2019-bicocca+subscribe@dgi.io](mailto:bbt2019-bicocca+subscribe@dgi.io);
+[bbt2019-bicocca+subscribe@https://dgi.io](mailto:bbt2019-bicocca+subscribe@https://dgi.io);
 you are also invited to join the 201910-bicocca channel in the Slack [BBT workspace](https://join.slack.com/t/bbt-training/signup).
 
 ## Learning objectives
@@ -168,7 +168,7 @@ In the last lesson anonymous course evaluation [forms](docs.google.com/document/
   Wiley, 978-1119019169
 * Ferdinando M. Ametrano,  
   _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_ (2017),  
-  <ssrn.com/abstract=2832249>
+  <https://ssrn.com/abstract=2832249>
 * Roger Wattenhofer,  
   _“Blockchain Science: Distributed Ledger Technology”_ (3rd edition, 2019),  
    Independently published, 978-1793471734
@@ -206,7 +206,7 @@ In the last lesson anonymous course evaluation [forms](docs.google.com/document/
   Wiley, 978-1119473862
 * Ferdinando M. Ametrano,  
   _"Hayek Money: The Cryptocurrency Price Stability Solution"_ (2014),  
-  <ssrn.com/abstract=2425270>
+  <https://ssrn.com/abstract=2425270>
 * Robert Sams,  
   _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_ (2015),  
   <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>

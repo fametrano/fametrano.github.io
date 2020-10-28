@@ -240,7 +240,7 @@ https://goo.gl/V6qdaF
 
 2017-10-14 The IFTA 30th Annual Conference, Milan
 Keynote Speech: Bitcoin as Investment Asset
-http://www.ifta-conferences.org/speakers-page/
+www.ifta-conferences.org/speakers-page/
 
 2017-10-9/10 Blockchain Academy, Munich
 2 days workshop on Bitcoin, Blockchain and DLT
@@ -259,7 +259,7 @@ https://finance.knect365.com/payments-international/
 
 2017-09-12 Distributed Innovation Summit, London
 Distributed Financial Services in the next 3 to 10 years
-http://dis-event.com/
+dis-event.com/
 
 2017-08-11 IlSole24Ore
 Tra frodi e speculazioni � boom di criptovalute
@@ -274,7 +274,7 @@ https://www.youtube.com/watch?v=pNfWmGE_dfM&feature=youtu.be
 
 2017-06-11 IlSole24Ore
 Il Far West dell�oro digitale
-http://nova.ilsole24ore.com/progetti/il-far-west-delloro-digitale/
+nova.ilsole24ore.com/progetti/il-far-west-delloro-digitale/
 
 2017-05-21 N�va IlSole24Ore
 La blockchain d� il tempo al web
@@ -325,12 +325,12 @@ Bitcoin, Hayek Money, and The Future of Money
 
 2017-03-20 IDC Pan European Utilities Executive Summit, Lisbon
 Bitcoin, Blockchain, and Distributed Ledger Technology: Hype or Reality
-http://idcutilitiessummit.com/
+idcutilitiessummit.com/
 slides: https://goo.gl/ykmUaz
 
 2017-03-15 Quant Summit Europe, London
 Bitcoin, Blockchain, and the DLT Chimera
-http://events.risk.net/quantsummiteurope
+events.risk.net/quantsummiteurope
 
 2017-03-13/14 Blockchain Business Board, London
 Blockchain Academy
@@ -398,10 +398,10 @@ article: https://goo.gl/KIKT32
 Hayek Money: The Cryptocurrency Price Stability Solution
 
 2016-11-11 Blockchain Summit, London
-http://www.b3chain.com/b3-blockchain-summit-london/
+www.b3chain.com/b3-blockchain-summit-london/
 
 2016-11-10 International Chamber of Commerce, Rome
-http://www.iccitalia.org/atti_convegno_blockchain.htm
+www.iccitalia.org/atti_convegno_blockchain.htm
 slides: https://goo.gl/Oh0HdC
 
 2016-11-07 "Blockchain : Money" conference, London
@@ -427,7 +427,7 @@ slides: https://goo.gl/hC2xTS
 
 2016-10-03 Blockchain for Finance Conference, London
 Bitcoin, Blockchain, and the DLT Chimera
-http://blockchain.fintecnet.com/
+blockchain.fintecnet.com/
 slides: https://goo.gl/1ETHLK
 video: https://goo.gl/40mim9
 
@@ -478,7 +478,7 @@ slides https://goo.gl/ekqNpc
 
 2015-11-24 IlSole24Ore
 Il bitcoin � oro digitale e sancir� la fine del contante
-interview (ITA): http://goo.gl/SUZMnd
+interview (ITA): goo.gl/SUZMnd
 
 2015-10-08 Digital Currency Summit, Barcelona
 A Cryptocurrency Price Stability Solution
@@ -499,15 +499,15 @@ slides https://goo.gl/G12CpW
 
 2015-05-03 IlSole24Ore
 Criptovalute tra opportunit� e voglia di regolamentazione
-roundtable (ITA): transcript http://goo.gl/1i435b
+roundtable (ITA): transcript goo.gl/1i435b
 
 2015-04-22 Radio24 SmartCity, Maurizio Melis
 Soldi, trasparenza, anonimato e bitcoin
-interview http://goo.gl/1rXW0R
+interview goo.gl/1rXW0R
 
 2015-03-20 Radio24 SmartCity, Maurizio Melis
 La scomparsa del contante, bitcoin ed Hayek Money
-interview http://goo.gl/uD5Vd6
+interview goo.gl/uD5Vd6
 
 2015-03-13 Camplus, Milan
 Distributed Public Ledger Revolution & the Future of Money

@@ -111,7 +111,7 @@ article (ITA): <https://www.ilsole24ore.com/art/tecnologie/2018-10-30/il-bitcoin
 
 2018-10-16 Regione Lombardia, Milan  
 Bitcoin and Blockchain Technology  
-video (ITA): <http://bit.ly/2EHgmev>  
+video (ITA): <bit.ly/2EHgmev>  
 
 2018-02-23 Class CNBC  
 Guest expert on bitcoin
@@ -261,7 +261,7 @@ Tra frodi e speculazioni è boom di criptovalute
 
 **2017-06-11 IlSole24Ore**  
 **Il Far West dell’oro digitale**  
-<http://nova.ilsole24ore.com/progetti/il-far-west-delloro-digitale/>
+<nova.ilsole24ore.com/progetti/il-far-west-delloro-digitale/>
 
 2017-05-21 Nòva IlSole24Ore  
 La blockchain dà il tempo al web  
@@ -336,23 +336,23 @@ La blockchain entra all’Università
 
 2015-11-24 IlSole24Ore  
 Il bitcoin è oro digitale e sancirà la fine del contante  
-interview (ITA): <http://goo.gl/SUZMnd>
+interview (ITA): <goo.gl/SUZMnd>
 
 2015-05-03 IlSole24Ore  
 Criptovalute tra opportunità e voglia di regolamentazione  
-roundtable (ITA): transcript <http://goo.gl/1i435b>
+roundtable (ITA): transcript <goo.gl/1i435b>
 
 2015-04-22 Radio24 SmartCity, Maurizio Melis  
 Soldi, trasparenza, anonimato e bitcoin  
-audio (ITA): <http://goo.gl/1rXW0R>
+audio (ITA): <goo.gl/1rXW0R>
 
 2015-03-20 Radio24 SmartCity, Maurizio Melis  
 La scomparsa del contante, bitcoin ed Hayek Money  
-audio (ITA): <http://goo.gl/uD5Vd6>
+audio (ITA): <goo.gl/uD5Vd6>
 
 2015-02-26 Limes, rivista italiana di geopolitica  
 Bitcoin: come funziona una moneta virtuale, di Raffaele Mauro  
-<http://www.limesonline.com/cartaceo/bitcoin-come-funziona-una-moneta-virtuale>
+<www.limesonline.com/cartaceo/bitcoin-come-funziona-una-moneta-virtuale>
 
 2014-12 Intesa Sanpaolo Executive Education Educasts  
-video (ITA): <http://bit.ly/2J9KzSd>
+video (ITA): <bit.ly/2J9KzSd>

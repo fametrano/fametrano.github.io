@@ -17,7 +17,7 @@ I can be contacted using this
 
 ## Upcoming events
 
-please see <http://dgi.io/events>
+please see <dgi.io/events>
 
 ---
 ---
@@ -25,7 +25,7 @@ please see <http://dgi.io/events>
 
 ## Past events
 
-2019-07-11 [Istituto Bruno Leoni](http://www.brunoleoni.it/criptovalute-cosa-cambia-con-libra) / [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/2019/07/05/) / [Università Milano-Bicocca](https://www.diseade.unimib.it/it/eventi/criptovalute-cosa-cambia-libra)  
+2019-07-11 [Istituto Bruno Leoni](www.brunoleoni.it/criptovalute-cosa-cambia-con-libra) / [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it/2019/07/05/) / [Università Milano-Bicocca](https://www.diseade.unimib.it/it/eventi/criptovalute-cosa-cambia-libra)  
 [Bitcoin e Libra](https://www.facebook.com/events/2435413189854205)  
 18:00, Piazza Castello 23, Milano  
 Accesso gratuito previa [registrazione](https://www.eventbrite.it/e/biglietti-criptovalute-cosa-cambia-con-libra-64718684327)
@@ -46,7 +46,7 @@ Milano
 
 2019-06-05 Università di Milano-Bicocca  
 Crypto Asset tra tecnologia e tentativi di regolazione  
-Presentazione dell’osservatorio [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)  
+Presentazione dell’osservatorio [Crypto Asset Lab](cryptoassetlab.diseade.unimib.it)  
 <https://cryptoassetlab.diseade.unimib.it/2019/06/12/workshop.html>  
 
 2019-04-09 Harvard Extension Student Environmental Club  
@@ -62,7 +62,7 @@ Cryptography and Distributed Consensus: Tools for Better Money
 
 2019-03-17 TEDx Livorno  
 Bitcoin: l'oro della civilizzazione digitale  
-<http://tedxlivorno.com>
+<tedxlivorno.com>
 
 2018-01-25 Università di Milano-Bicocca  
 La certificazione blockchain nell’education  
@@ -82,7 +82,7 @@ Economics and Technology of Digital Assets
 Webinar
 
 2018-12-11 #Aperitech BlockchainEDU, Milano LUISS Hub  
-La scarsità in ambito digitale: la missione del [Digital Gold Institute](http://www.dgi.io)
+La scarsità in ambito digitale: la missione del [Digital Gold Institute](www.dgi.io)
 
 2018-12-11 ESSEC Business School, Paris  
 Bitcoin and Blockchain Technology: An Introduction  
@@ -94,7 +94,7 @@ Bitcoin and Blockchain Technology
 
 2018-11-26/27 Luxembourg  
 Blockchain Academy  
-<http://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
+<www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>  
 
 2018-11-23 Università di Milano-Bicocca, Milan
 Master in Business Intelligence & Big Data Analytics
@@ -102,7 +102,7 @@ Bitcoin e Blockchain: fra esagerazione e realtà
 
 2018-11-21 Assagenti, Genoa  
 Blockchain for the shipping industry  
-<http://bit.ly/2JfVYQd>  
+<bit.ly/2JfVYQd>  
 
 2018-11-22 Politecnico di Milano, Milan  
 Bitcoin & Blockchain: stato dell'arte e prospettive future  
@@ -114,23 +114,23 @@ Bitcoin e digital economy: sfide e opportunità per il mondo finanziario
 2018-11-09  
 Salone dei Pagamenti, Milano  
 Criptovalute: cosa sono e come funzionano  
-agenda: <http://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
-gallery: <http://www.salonedeipagamenti.com/galleries/criptovalute-cosa-sono-e-come-funzionano>
+agenda: <www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>  
+gallery: <www.salonedeipagamenti.com/galleries/criptovalute-cosa-sono-e-come-funzionano>
 
 2018-10-24  
 ExPLORE TALKS - Spaces, Milan  
 Blockchain Economy  
-<http://exploretalks.com/>
+<exploretalks.com/>
 
 2018-10-18/19  
 ExPLORE 2018 _The Future of Work_, OpenZone - Bresso, Milan  
 Bitcoin and Blockchain Technology  
-<http://exploretalks.com/explore/>
+<exploretalks.com/explore/>
 
 2018-10-16  
 Regione Lombardia, Milan  
 Bitcoin and Blockchain Technology  
-video (ITA): <http://bit.ly/2EHgmev>
+video (ITA): <bit.ly/2EHgmev>
 
 2018-10-15/16  
 EFMA Innovation Summit: Payments & Wallets, Lisbon  
@@ -215,7 +215,7 @@ Bitcoin: oro digitale e stabilità dei prezzi
 
 2017-10-14 The IFTA 30th Annual Conference, Milan  
 Keynote Speech: Bitcoin as Investment Asset  
-event programme (ENG): <http://www.ifta-conferences.org/speakers-page/>
+event programme (ENG): <www.ifta-conferences.org/speakers-page/>
 
 2017-10-9/10 Blockchain Academy, Munich  
 2 days workshop on Bitcoin, Blockchain and DLT
@@ -230,7 +230,7 @@ DLT proof of concepts panel
 
 2017-09-12 Distributed Innovation Summit, London  
 Distributed Financial Services in the next 3 to 10 years  
-<http://dis-event.com/>
+<dis-event.com/>
 
 2017-07-10 Università di Perugia, Perugia  
 Bitcoin and the Future of Money
@@ -264,7 +264,7 @@ Bitcoin, Hayek Money, and The Future of Money
 
 2017-03-20 IDC Pan European Utilities Executive Summit, Lisbon  
 Bitcoin, Blockchain, and Distributed Ledger Technology: Hype or Reality  
-<http://idcutilitiessummit.com/>  
+<idcutilitiessummit.com/>  
 slides (ENG): <https://goo.gl/ykmUaz>
 
 2017-03-15 Quant Summit Europe, London  
@@ -297,10 +297,10 @@ slides (ENG): <https://goo.gl/dE5uNM>
 Hayek Money: The Cryptocurrency Price Stability Solution
 
 2016-11-11 Blockchain Summit, London  
-<http://www.b3chain.com/b3-blockchain-summit-london/>
+<www.b3chain.com/b3-blockchain-summit-london/>
 
 2016-11-10 International Chamber of Commerce, Rome  
-<http://www.iccitalia.org/atti_convegno_blockchain.htm>
+<www.iccitalia.org/atti_convegno_blockchain.htm>
 slides (ENG): <https://goo.gl/Oh0HdC>
 
 2016-11-07 "Blockchain : Money" conference, London  
@@ -322,7 +322,7 @@ slides (ENG): <https://goo.gl/hC2xTS>
 
 2016-10-03 Blockchain for Finance Conference, London  
 Bitcoin, Blockchain, and the DLT Chimera  
-<http://blockchain.fintecnet.com/>  
+<blockchain.fintecnet.com/>  
 slides (ENG): <https://goo.gl/1ETHLK>  
 video: <https://goo.gl/40mim9>
 

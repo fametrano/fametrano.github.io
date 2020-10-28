@@ -8,22 +8,22 @@ permalink: /it/about/
 ## Affiliazioni
 
 * Cofondatore e amministratore delegato, CheckSig  
-  <http://checksig.io>
+  <checksig.io>
 * Fondatore e direttore esecutivo, Digital Gold Institute  
-  <http://dgi.io>
+  <dgi.io>
 * Cofondatore e direttore scientifico, Crypto Asset Lab  
   Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università degli Studi di Milano-Bicocca  
-  <http://cryptoassetlab.diseade.unimib.it>
+  <cryptoassetlab.diseade.unimib.it>
 * Professore a contratto di *Interest Rate Derivatives*  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
-  <http://www.unimib.it/ferdinando-maria-ametrano>
+  <www.unimib.it/ferdinando-maria-ametrano>
 * Professore a contratto di *Bitcoin and Blockchain Technology*  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
   Departmentimento di Giurisprudenza, Università degli Studi di Milano-Bicocca  
   Departmento di Matematica, Università degli Studi di Milano  
   Interfacoltà di Scienze Naturali e Giurisprudenza, Università Cattolica del Sacro Cuore (Brescia)  
 * Fondatore e coamministratore, QuantLib e btclib  
-  <http://quantlib.org>, <http://github.com/dginst/btclib>
+  <quantlib.org>, <github.com/dginst/btclib>
 
 ---
 
@@ -36,14 +36,14 @@ da allora bitcoin è il suo principale interesse
 professionale e accademico.
 
 Fondatore ed amministratore delegato di
-[CheckSig](<http://checksig.io)
+[CheckSig](<checksig.io)
 (soluzioni trasparenti di custodia bitcoin
 per investitori istituzionali e _high-net-worth individuals_)
-e del [Digital Gold Institute](http://dgi.io)
+e del [Digital Gold Institute](dgi.io)
 (R&D, consulenza e formazione su bitcoin e blockchain),
 Ferdinando è anche
 direttore scientifico
-del [Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)
+del [Crypto Asset Lab](cryptoassetlab.diseade.unimib.it)
 dell'Università Milano-Bicocca, dove insegna
 *[Bitcoin and Blockchain Technologies]({{ site.baseurl }}/bbt/)*
 
@@ -55,7 +55,7 @@ membro del Comitato Organizzatore della conferenza
 contribuisce occasionalmente e marginalmente a
 [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin)
 e manutiene
-[btclib](http://github.com/dginst/btclib), una libreria python bitcoin.
+[btclib](github.com/dginst/btclib), una libreria python bitcoin.
 
 Innovatore nel campo *fintech*,
 [sviluppatore *open source*](https://github.com/fametrano),

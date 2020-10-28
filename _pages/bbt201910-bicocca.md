@@ -128,13 +128,13 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
     Wednesday 2020-01-15 16:30-18:30 edificio U6 aula 33  
     _The Frontier of Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),
-    [text]( http://bit.ly/2NQg9VJ)
+    [text]( bit.ly/2NQg9VJ)
 
 In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 
 ## Python library
 
-<http://github.com/dginst/btclib>
+<github.com/dginst/btclib>
 
 ## Python scripts, Excel spreadsheets, and regtest lab material
 
@@ -144,7 +144,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 
 * Ferdinando M. Ametrano,  
   _"Bitcoin: oro digitale per nuovi standard monetari"_ (2018),  
-  <http://bit.ly/2NQg9VJ>
+  <bit.ly/2NQg9VJ>
 
 ## Technology references
 
@@ -162,7 +162,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 * A. Narayanan, et al.,  
   _"Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction"_ (2016),  
   Princeton University Press, 978-0691171692,  
-  <https://www.coursera.org/learn/cryptocurrency>, <http://bitcoinbook.cs.princeton.edu/>, <https://lopp.net/pdf/princeton_bitcoin_book.pdf>
+  <https://www.coursera.org/learn/cryptocurrency>, <bitcoinbook.cs.princeton.edu/>, <https://lopp.net/pdf/princeton_bitcoin_book.pdf>
 * Pedro Franco,  
   _“Understanding Bitcoin: Cryptography, Engineering and Economics”_ (2014),  
   Wiley, 978-1119019169
@@ -178,7 +178,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 * Christof Paar, Jan Pelzl,  
   _"Understanding Cryptography"_,  
   Springer, 978-3642041006
-  <http://www.crypto-textbook.com/>, <http://wiki.crypto.rub.de/Buch/en/slides.php>, <https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
+  <www.crypto-textbook.com/>, <wiki.crypto.rub.de/Buch/en/slides.php>, <https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Dan Boneh,
   _"A Graduate Course in Applied Cryptography"_,  
   Stanford University  
@@ -188,13 +188,13 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
   Chapman and Hall, 978-1420071467
 * Standards for Efficient Cryptography Group  
   SEC 1: Elliptic Curve Cryptography, March 2009. Version 2.0.  
-  <http://www.secg.org/sec1-v2.pdf>
+  <www.secg.org/sec1-v2.pdf>
 * Standards for Efficient Cryptography Group  
   SEC 2: Recommended Elliptic Curve Domain Parameters, March 2009. Version 2.0.  
-  <http://www.secg.org/sec2-v2.pdf>
+  <www.secg.org/sec2-v2.pdf>
 * Guidelines for Efficient Cryptography  
   GEC 2: Test Vectors for SEC 1, September 1999. Version 0.3.  
-  <http://read.pudn.com/downloads168/doc/772358/TestVectorsforSEC%201-gec2.pdf>
+  <read.pudn.com/downloads168/doc/772358/TestVectorsforSEC%201-gec2.pdf>
 
 ## Monetary theory references
 

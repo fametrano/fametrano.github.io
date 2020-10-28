@@ -8,22 +8,22 @@ permalink: /about/
 ## Current Affiliations
 
 * Cofounder and Chief Executive Officer, CheckSig  
-  <http://checksig.io>
+  <checksig.io>
 * Founder and Executive Director, Digital Gold Institute  
-  <http://dgi.io>
+  <dgi.io>
 * Cofounder and Scientific Director, Crypto Asset Lab  
   Department of Business and Law, University of Milano-Bicocca  
-  <http://cryptoassetlab.diseade.unimib.it>
+  <cryptoassetlab.diseade.unimib.it>
 * Adjunct Professor of "Interest Rate Derivatives"  
   Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
-  <http://www.unimib.it/ferdinando-maria-ametrano>
+  <www.unimib.it/ferdinando-maria-ametrano>
 * Adjunct Professor of "Bitcoin and Blockchain Technology"  
   Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
   Department of Law, University of Milano-Bicocca  
   Department of Mathematics, University of Milano  
   Mathematical, Physical and Natural Sciences / Law Interfaculty, Università Cattolica del Sacro Cuore (Brescia)  
 * Founder and coadministrator of QuantLib and btclib  
-  <http://quantlib.org>, <http://github.com/dginst/btclib>
+  <quantlib.org>, <github.com/dginst/btclib>
 
 ---
 
@@ -35,13 +35,13 @@ Ferdinando Ametrano discovered bitcoin in 2014:
 since then bitcoin has been his major professional
 and academic interest.
 
-Founder and CEO of [CheckSig](http://checksig.io)
+Founder and CEO of [CheckSig](checksig.io)
 (transparent bitcoin custody solutions
 for institutional investors and high-net-worth individuals) and
-[Digital Gold Institute](http://dgi.io)
+[Digital Gold Institute](dgi.io)
 (R&D, consultancy, and training about bitcoin and blockchain technology),
 Ferdinando is also scientific director of the
-[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)
+[Crypto Asset Lab](cryptoassetlab.diseade.unimib.it)
 at Milano-Bicocca University, where he teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)".
 
@@ -51,7 +51,7 @@ he has been Planning Committee member of the
 [Scaling Bitcoin](https://scalingbitcoin.org/) conference,
 is an occasional trivial contributor to
 [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin),
-and maintains [btclib](http://github.com/dginst/btclib), a bitcoin python library.
+and maintains [btclib](github.com/dginst/btclib), a bitcoin python library.
 
 Fintech innovator, technologist, and
 [open source developer](https://github.com/fametrano),

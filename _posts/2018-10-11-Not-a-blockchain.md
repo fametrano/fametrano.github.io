@@ -8,7 +8,7 @@ published: true
 If 25 years ago somebody would have claimed to deliver pizza as e-mail
 attachment, the implausibility would have probably been lost for most
 people, as almost nobody was familiar with e-mail at the time. Similarly,
-today [Carrefour Italia](blockchain.carrefour.it/?lot=315123&skunr=PRD100023&shelflifedate=17.10.2018) and others claim to track food using blockchain.
+today [Carrefour Italia](http://blockchain.carrefour.it/?lot=315123&skunr=PRD100023&shelflifedate=17.10.2018) and others claim to track food using blockchain.
 
 [![Dilbert blockchain](/images/dilbert-blockchain.jpg)](blog.dilbert.com/2018/05/09/all-of-the-dilbert-comics-on-blockchain-bitcoin-or-cryptocurrency/)
 

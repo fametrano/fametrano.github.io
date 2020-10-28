@@ -96,38 +96,38 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
 
 01. Wednesday 2019-10-09 16:30-18:30 edificio U6 aula 33  
     _Bitcoin as Digital Gold_ (part 1)  
-    [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
+    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. Wednesday 2019-10-16 16:30-18:30 edificio U6 aula 33  
     _Bitcoin as Digital Gold_ (part 2)  
-    [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
+    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. Wednesday 2019-10-23 16:30-18:30 edificio U6 aula 33  
     _Blockchain, Mining, and Distributed Consensus_ (part 1)  
-    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
 01. Wednesday 2019-10-30 16:30-18:30 edificio U6 aula 33  
     _Blockchain, Mining, and Distributed Consensus_ (part 2)  
-    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
 01. Wednesday 2019-11-06 16:30-18:30 edificio U6 aula 33  
     _Elliptic Curve Digital Signature Algorithm_ (part 1)  
-    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 01. Wednesday 2019-11-13 16:30-18:30 edificio U6 aula 33  
     _Elliptic Curve Digital Signature Algorithm_ (part 2)  
-    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 01. Wednesday 2019-11-27 16:30-18:30 edificio U6 aula 33  
     _Wallets: Key Encodings and Deterministic Key Sequences_  
-    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
+    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. Wednesday 2019-12-04 16:30-18:30 edificio U6 aula 33  
     _Wallets: Key Encodings and Deterministic Key Sequences_ (Part 2)  
-    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
+    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. Wednesday 2019-12-11 16:30-18:30 edificio U6 aula 33  
     _Transactions and Blocks_  
-    [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)
+    [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)
 01. Wednesday 2019-12-18 16:30-18:30 edificio U6 aula 33  
     _Beyond Bitcoin: Between Hype and Reality_  
-    [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
+    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. Friday 2020-12-20 12:30-14:30 edificio U6 aula 22  
     Wednesday 2020-01-15 16:30-18:30 edificio U6 aula 33  
     _The Frontier of Monetary Engineering_  
-    [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),
+    [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),
     [text]( http://bit.ly/2NQg9VJ)
 
 In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected

@@ -82,7 +82,7 @@ The final exam will be individual.
 ## Lessons' calendar and material
 
 Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/),
-assistant lecturer ([material](https://drive.google.com/open?id=1qIazIGLDuy2DYpVzG39f2QNoiUKbRiG3)).
+assistant lecturer ([material](https://drive.google.com/file/d/1qIazIGLDuy2DYpVzG39f2QNoiUKbRiG3)).
 
 01. 2020-10-06 Tuesday 14:30-16:30  
     _Interest Rate Basics_ ([slides](https://speakerdeck.com/nando1970/interest-rate-basics))  
@@ -120,7 +120,7 @@ assistant lecturer ([material](https://drive.google.com/open?id=1qIazIGLDuy2DYpV
     Homework #5: fill in the Excel spreadsheet (deadline: 2020-11-17)  
     Homework #6: fill in the Excel spreadsheet (deadline: 2020-11-17)  
 01. 2020-11-17 Tuesday 14:30-16:30  
-    _Trading Obbligazionario_ ([slide](https://drive.google.com/open?id=1AE4v_KuQC6Btg28aLii4mhXMCqXQtOWQ))  
+    _Trading Obbligazionario_ ([slide](https://drive.google.com/file/d/1AE4v_KuQC6Btg28aLii4mhXMCqXQtOWQ))  
     Guest lecturer: [Andrea Bugin](https://www.linkedin.com/in/andrea-bugin-a326715)  
 01. 2020-11-20 Friday 12:30-14:30  
     _Interest Rate Models_ ([slides](https://www.dropbox.com/s/uelte1lvn3uqnea/20181220%20Interest%20Rate%20Models.pdf?dl=0))  

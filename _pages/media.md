@@ -10,15 +10,15 @@ permalink: /media/
 <ul>
 <li>
 Harvard ESEC: <em>Introduction to Bitcoin and Blockchain Technology</em> webinar
-<a href="youtu.be/36slArIgsbw?t=18">youtu.be/36slArIgsbw?t=18</a>
+<a href="https://youtu.be/36slArIgsbw?t=18">https://youtu.be/36slArIgsbw?t=18</a>
 </li>
 <li>
 CoinDesk: <em>Why 2017 Will Prove 'Blockchain' Was a Bad Idea</em>
-<a href="<www.coindesk.com/2017-will-prove-blockchain-bad-idea">www.coindesk.com/2017-will-prove-blockchain-bad-idea</a>
+<a href="https://www.coindesk.com/2017-will-prove-blockchain-bad-idea">www.coindesk.com/2017-will-prove-blockchain-bad-idea</a>
 </li>
 <li>
 The Swift Institute: <em>Bitcoin, Blockchain and the DLT Chimera</em>
-<a href="swiftinstitute.org/newsletters/guest-article-bitcoin-blockchain-and-the-dlt-chimera/">swiftinstitute.org/newsletters/guest-article-bitcoin-blockchain-and-the-dlt-chimera/</a>
+<a href="https://swiftinstitute.org/newsletters/guest-article-bitcoin-blockchain-and-the-dlt-chimera/">https://swiftinstitute.org/newsletters/guest-article-bitcoin-blockchain-and-the-dlt-chimera/</a>
 </li>
 <li>
 United Nations, New York: <em>Bitcoin as Digital Gold</em>
@@ -36,11 +36,11 @@ Comprehensive YouTube playlist:
 <ul>
 <li>
 Il Foglio: <em>Tenete il resto della rivoluzione Bitcoin</em>
-<a href="www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164">www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164</a>
+<a href="https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164">https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164</a>
 </li>
 <li>
 Le Iene: <em>video-intervista</em>
-<a href="www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448">www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448</a>
+<a href="https://www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448">https://www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448</a>
 </li>
 <li>
 video della lezione universitaria introduttiva al corso bitcoin (edizione 2017):
@@ -75,7 +75,7 @@ Bitcoin e Libra
 
 2019-04-09 Harvard Extension Student Environmental Club  
 Bitcoin and Blockchain Technology: Economics and Environmental Sustainability  
-webinar: <youtu.be/36slArIgsbw?t=18>
+webinar: <https://youtu.be/36slArIgsbw?t=18>
 
 2019-01-05 Il Sole 24 Ore  
 Criptovalute, quotazioni a picco. Ma Facebook lavora al suo Bitcoin  
@@ -95,7 +95,7 @@ video (ITA): <vimeo.com/297901828/84d3980079>
 
 2018-11-11 Il Foglio  
 Tenete il resto della rivoluzione Bitcoin  
-article (ITA): <www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164/>
+article (ITA): <https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164/>
 
 2018-11-08 Radio3 Scienza  
 Dieci anni di Bitcoin  
@@ -129,7 +129,7 @@ Cosa sono e come funzionano i Bitcoin
 video (ITA): <goo.gl/EJN1jx>
 
 2018-02-14 Le Iene - Italia 1  
-Intervista: <www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448>
+Intervista: <https://www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448>
 
 2018-02-13 Alground.com  
 Bitcoin. Basta balle: chi ci guadagna, e chi ha perso tutto.  

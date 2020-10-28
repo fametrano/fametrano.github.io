@@ -31,7 +31,7 @@ He is also founder and co-administrator of the QuantLib project, a comprehensive
 ferdinando@ametrano.net
 https://github.com/fametrano
 twitter.com/Ferdinando1970
-speakerdeck.com/nando1970
+https://speakerdeck.com/nando1970
 www.reddit.com/user/Nando1970
 www.slideshare.net/Ferdinando1970
 https://www.linkedin.com/in/ferdinandoametrano
@@ -122,7 +122,7 @@ goo.gl/HywF5u
 Bitcoin: The Digital Rush
 video: goo.gl/zwfuXK
 video (Q&A): goo.gl/nkyBew
-slide: speakerdeck.com/nando1970/bitcoin-the-digital-rush
+slide: https://speakerdeck.com/nando1970/bitcoin-the-digital-rush
 
 2018-01-17 IlSole24Ore
 Bitcoin, ecco perch� non � una moneta.

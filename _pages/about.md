@@ -45,10 +45,10 @@ Ferdinando is also scientific director of the
 at Milano-Bicocca University, where he teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)".
 
-Former [Head of Blockchain and Virtual Currencies](www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
+Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
 in Intesa Sanpaolo bank,
 he has been Planning Committee member of the
-[Scaling Bitcoin](scalingbitcoin.org/) conference,
+[Scaling Bitcoin](https://scalingbitcoin.org/) conference,
 is an occasional trivial contributor to
 [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin),
 and maintains [btclib](https://github.com/dginst/btclib), a bitcoin python library.
@@ -92,7 +92,7 @@ his colleagues and students love and hate him depending on their sensitivities a
 
 Oh... he is an ex-physicist and a huge Springsteen fan.
 
-Europass CV: <https://ametrano.net/cv/CV-Europass-20200626-Ametrano-EN>  
+Europass CV: <https://ametrano.net/cv/CV-Europass-20200626-Ametrano-EN.pdf>  
 Two pages CV: <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 **email contact form**: <https://bit.ly/contactametrano>
@@ -105,7 +105,7 @@ Two pages CV: <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 <https://ssrn.com/author=510135>  
 <medium.com/@nando1970>  
 <twitter.com/Ferdinando1970>  
-<speakerdeck.com/nando1970>  
+<https://speakerdeck.com/nando1970>  
 <www.reddit.com/user/Nando1970>  
 <www.slideshare.net/Ferdinando1970>  
 <https://facebook.com/ferdinando.ametrano>  

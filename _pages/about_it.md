@@ -48,10 +48,10 @@ dell'Università Milano-Bicocca, dove insegna
 *[Bitcoin and Blockchain Technologies]({{ site.baseurl }}/bbt/)*
 
 È stato in precedenza
-*[Head of Blockchain and Virtual Currencies](www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)*
+*[Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)*
 in Intesa Sanpaolo e
 membro del Comitato Organizzatore della conferenza
-[Scaling Bitcoin](scalingbitcoin.org/);
+[Scaling Bitcoin](https://scalingbitcoin.org/);
 contribuisce occasionalmente e marginalmente a
 [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin)
 e manutiene
@@ -77,7 +77,7 @@ delle loro sensibilità ed esperienze.
 
 Ah... è un fisico di formazione e grande appassionato di Springsteen.
 
-CV Europass: <https://ametrano.net/cv/CV-Europass-20200626-Ametrano-EN>  
+CV Europass: <https://ametrano.net/cv/CV-Europass-20200626-Ametrano-EN.pdf>  
 CV (due pagine): <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 **modulo per contatto email**: <https://bit.ly/contactametrano>
@@ -90,7 +90,7 @@ CV (due pagine): <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 <https://ssrn.com/author=510135>  
 <medium.com/@nando1970>  
 <twitter.com/Ferdinando1970>  
-<speakerdeck.com/nando1970>  
+<https://speakerdeck.com/nando1970>  
 <www.reddit.com/user/Nando1970>  
 <www.slideshare.net/Ferdinando1970>  
 <https://facebook.com/ferdinando.ametrano>  

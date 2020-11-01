@@ -85,10 +85,10 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
 assistant lecturer ([material](https://drive.google.com/file/d/1qIazIGLDuy2DYpVzG39f2QNoiUKbRiG3)).
 
 01. 2020-10-06 Tuesday 14:30-16:30  
-    _Interest Rate Basics_ ([slides](https://speakerdeck.com/nando1970/interest-rate-basics))  
+    _Interest Rate Basics_ ([slides](https://drive.google.com/file/d/1G2rr29fdURvjjYplhY_OYtRNEyJoOF2e))  
 01. 2020-10-09 Friday 12:30-14:30  
-    _Interest Rate Basics_ ([slides](https://speakerdeck.com/nando1970/interest-rate-basics))  
-    _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))  
+    _Interest Rate Basics_ ([slides](https://drive.google.com/file/d/1G2rr29fdURvjjYplhY_OYtRNEyJoOF2e))  
+    _Rate Curves Calibration_ ([slides](https://drive.google.com/file/d/1G6PNay2kNiFiSuPWmgwlbFoBntqXLIvv))  
 01. 2020-10-13 Tuesday 14:30-16:30  
     _Workshop on Interest Rate Basics_  
     Homework #1: fill in the Excel spreadsheet (deadline: 2020-10-20)  
@@ -96,7 +96,7 @@ assistant lecturer ([material](https://drive.google.com/file/d/1qIazIGLDuy2DYpVz
 01. 2020-10-16 Friday 12:30-14:30  
     _Workshop on Interest Rate Basics_  
     Homework #3: fill in the Excel spreadsheet (deadline: 2020-10-30)  
-    _Rate Curves Calibration_ ([slides](https://speakerdeck.com/nando1970/rate-curves-calibration))  
+    _Rate Curves Calibration_ ([slides](https://drive.google.com/file/d/1G6PNay2kNiFiSuPWmgwlbFoBntqXLIvv))  
 01. 2020-10-20 Tuesday 14:30-16:30  
     _Workshop on Rate Curve Calibration_  
     Homework #4: fill in the Excel spreadsheet (deadline: 2020-11-06)  
@@ -105,12 +105,12 @@ assistant lecturer ([material](https://drive.google.com/file/d/1qIazIGLDuy2DYpVz
 01. 2020-10-27 Tuesday 14:30-16:30  
     Skipped lesson
 01. 2020-10-30 Friday 12:30-14:30  
-    _Black Model_ ([slides](https://www.dropbox.com/s/0rzl7wyzauxg34p/20181115%20Black%20Model.pdf?dl=0))  
+    _Black Model_ ([slides](https://drive.google.com/file/d/1U23SnlCwZEtDO01VoYNVIXkbRqrI10sH))  
 01. 2020-11-03 Tuesday 14:30-16:30  
-    _Volatility_ ([slides](https://www.dropbox.com/s/q4kc6t90sp19yim/20181115%20Moreni%20Volatility.pdf?dl=0))  
+    _Volatility_ ([slides](https://drive.google.com/file/d/16bALaGtBZ1dhKJ7AgibEtYjjib_HHDYz))  
     Guest lecturer: [Nicola Moreni](https://www.linkedin.com/in/nicola-moreni-a636a7/)  
 01. 2020-11-06 Friday 12:30-14:30  
-    _Caps and Floors_ ([slides](https://drive.google.com/file/d/1U1QreepeVdf3DkSFvbd_diqP7NomUrCS/view))  
+    _Caps and Floors_ ([slides](https://drive.google.com/file/d/1mr3iFcefoWsx0DZxX-qPKskJ4r1hJ-Vj))  
     Guest lecturer: [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/)  
 01. 2020-11-10 Tuesday 14:30-16:30  
     _Swaptions, Structured Products and Hedging_ ([slides](https://drive.google.com/file/d/1BToPmMpV0qrcdpzurjtTfQ9HQk_9Nico/view?usp=sharing))  
@@ -129,7 +129,7 @@ assistant lecturer ([material](https://drive.google.com/file/d/1qIazIGLDuy2DYpVz
     _Workshop on Credit Curve Bootstrapping and Credit Default Swaps_  
     Homework #7: fill in the Excel spreadsheet (deadline: 2020-12-01)  
 01. 2020-12-04 Friday 12:30-14:30  
-    _XVAs_ ([slides](https://drive.google.com/file/d/1wU-t6AW4EV-wBBiVexdYwt1_R40jB_nw/view?usp=sharing))  
+    _XVAs: Introduction to Valuation Adjustments_ ([slides](https://drive.google.com/file/d/10PSdz4-Tz_1lkJy3n3lJdYRVT-39iq3c))  
     Guest lecturer: [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/)  
 01. 2020-12-11 Friday 12:30-14:30  
     _The Reform of Benchmark Interest Rate Indexes and Its Impact on Derivative Pricing_ ([slides-1](https://drive.google.com/file/d/1synNexpBT3TP_Q5I-JA5pK_FRBwgYZW-/view?usp=sharing), [slides-2](https://drive.google.com/file/d/1qSjxnvG0lS6EUFDTDC35IuXovn_bqK2N/view?usp=sharing))  

@@ -100,10 +100,6 @@ assistant lecturer ([material](https://drive.google.com/file/d/1qIazIGLDuy2DYpVz
 01. 2020-10-20 Tuesday 14:30-16:30  
     _Workshop on Rate Curve Calibration_  
     Homework #4: fill in the Excel spreadsheet (deadline: 2020-11-06)  
-01. 2020-10-23 Friday 12:30-14:30  
-    Skipped lesson
-01. 2020-10-27 Tuesday 14:30-16:30  
-    Skipped lesson
 01. 2020-10-30 Friday 12:30-14:30  
     _Black Model_ ([slides](https://drive.google.com/file/d/1U23SnlCwZEtDO01VoYNVIXkbRqrI10sH))  
 01. 2020-11-03 Tuesday 14:30-16:30  

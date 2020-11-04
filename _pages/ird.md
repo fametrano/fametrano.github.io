@@ -111,19 +111,20 @@ assistant lecturer ([material](https://drive.google.com/file/d/1qIazIGLDuy2DYpVz
 01. 2020-11-10 Tuesday 14:30-16:30  
     _Swaptions, Structured Products and Hedging_ ([slides](https://drive.google.com/file/d/1BToPmMpV0qrcdpzurjtTfQ9HQk_9Nico/view?usp=sharing))  
 01. 2020-11-13 Friday 12:30-14:30  
-    _Workshop on Greeks and Hedging_  
-    _Workshop on Caps/Floors, Swaptions, and Bermudan Swaption_  
-    Homework #5: fill in the Excel spreadsheet (deadline: 2020-11-17)  
-    Homework #6: fill in the Excel spreadsheet (deadline: 2020-11-17)  
+    _Workshop on Greeks and Hedging and Caps/Floors_  
+    Homework #5: fill in the Excel spreadsheet (deadline: 2020-11-20)  
+    Homework #6: fill in the Excel spreadsheet (deadline: 2020-11-20)  
 01. 2020-11-17 Tuesday 14:30-16:30  
     _Trading Obbligazionario_ ([slide](https://drive.google.com/file/d/1AE4v_KuQC6Btg28aLii4mhXMCqXQtOWQ))  
     Guest lecturer: [Andrea Bugin](https://www.linkedin.com/in/andrea-bugin-a326715)  
 01. 2020-11-20 Friday 12:30-14:30  
     _Interest Rate Models_ ([slides](https://www.dropbox.com/s/uelte1lvn3uqnea/20181220%20Interest%20Rate%20Models.pdf?dl=0))  
+    _Workshop on Swaptions and Bermudan Swaption_  
+    Homework #7: fill in the Excel spreadsheet (deadline: 2020-12-01)  
 01. 2020-12-01 Tuesday 14:30-16:30  
     _Credit Derivatives_ ([slides](https://www.dropbox.com/s/dcqb23wer56wb44/20181108%20Credit%20Risk.pdf?dl=0))  
     _Workshop on Credit Curve Bootstrapping and Credit Default Swaps_  
-    Homework #7: fill in the Excel spreadsheet (deadline: 2020-12-01)  
+    Homework #7: fill in the Excel spreadsheet (deadline: 2020-12-11)  
 01. 2020-12-04 Friday 12:30-14:30  
     _XVAs: Introduction to Valuation Adjustments_ ([slides](https://drive.google.com/file/d/10PSdz4-Tz_1lkJy3n3lJdYRVT-39iq3c))  
     Guest lecturer: [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/)  

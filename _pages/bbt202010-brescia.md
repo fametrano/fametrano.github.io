@@ -178,7 +178,7 @@ in Monetary Engineering_
 
 ## Python library
 
-<btclib.org>  
+<https://btclib.org>  
 <https://github.com/btclib-org/btclib>
 
 ## Python scripts, Excel spreadsheets, and regtest lab material

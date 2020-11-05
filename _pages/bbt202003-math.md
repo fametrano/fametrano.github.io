@@ -221,7 +221,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
   <https://www.secg.org/sec2-v2.pdf>
 * Guidelines for Efficient Cryptography  
   GEC 2: Test Vectors for SEC 1, September 1999. Version 0.3.  
-  <read.pudn.com/downloads168/doc/772358/TestVectorsforSEC%201-gec2.pdf>
+  <http://read.pudn.com/downloads168/doc/772358/TestVectorsforSEC%201-gec2.pdf>
 
 ## Monetary theory references
 

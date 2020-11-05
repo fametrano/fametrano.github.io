@@ -159,7 +159,7 @@ in Monetary Engineering_
 
 * Satoshi Nakamoto,  
   _"Bitcoin: A Peer-to-Peer Electronic Cash System"_ (2008),  
-  <bitcoin.org/bitcoin.pdf>
+  <https://bitcoin.org/bitcoin.pdf>
 * Andreas M. Antonopoulos,  
   _"Mastering Bitcoin: Programming the Open Blockchain"_ (2nd edition, 2017),  
   Oreilly & Associates Inc, 978-1491954386,  
@@ -171,7 +171,7 @@ in Monetary Engineering_
 * A. Narayanan, et al.,  
   _"Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction"_ (2016),  
   Princeton University Press, 978-0691171692,  
-  <https://www.coursera.org/learn/cryptocurrency>, <bitcoinbook.cs.princeton.edu/>, <lopp.net/pdf/princeton_bitcoin_book.pdf>
+  <https://www.coursera.org/learn/cryptocurrency>, <https://bitcoinbook.cs.princeton.edu>, <https://bitcoinbook.cs.princeton.edu>, <https://www.lopp.net/pdf/princeton_bitcoin_book.pdf>
 * Pedro Franco,  
   _“Understanding Bitcoin: Cryptography, Engineering and Economics”_ (2014),  
   Wiley, 978-1119019169
@@ -187,7 +187,7 @@ in Monetary Engineering_
 * Christof Paar, Jan Pelzl,  
   _"Understanding Cryptography"_,  
   Springer, 978-3642041006
-  <https://toc.cryptobook.us//>, <wiki.crypto.rub.de/Buch/en/slides.php>, <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
+  <https://toc.cryptobook.us//>, <https://wiki.crypto.rub.de/Buch/en/slides.php>, <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Dan Boneh,
   _"A Graduate Course in Applied Cryptography"_,  
   Stanford University  

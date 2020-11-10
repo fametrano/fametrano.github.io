@@ -166,22 +166,18 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Transactions and Scripts_  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
 01. 2020-12-02 Wednesday 16:30-18:30  
-    _Beyond Bitcoin: Between Hype and Reality (Part 1)_  
+    _Beyond Bitcoin: Between Hype and Reality_  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
 01. 2020-12-09 Wednesday 16:30-18:30  
-    _Beyond Bitcoin: Between Hype and Reality (Part 2)_  
-    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
-    _Wallets and Deterministic Key Chains (Part 1)_  
+    _Wallets and Deterministic Key Chains_  
     [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
 01. 2020-12-16 Wednesday 16:30-18:30  
-    _Wallets and Deterministic Key Chains (Part 2)_  
-    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
-01. 2020-12-23 Wednesday 16:30-18:30  
-    _The Cryptocurrency Frontier
-in Monetary Engineering_  
+    _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
+01. 2020-12-23 Wednesday 16:30-18:30  
+    _Final Q&A_  
 
 
 ## Python library

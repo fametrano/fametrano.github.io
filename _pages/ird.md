@@ -118,8 +118,8 @@ assistant lecturer ([material](https://drive.google.com/file/d/1qIazIGLDuy2DYpVz
     Homework #5: fill in the Excel spreadsheet (deadline: 2020-12-04)  
     Homework #6: fill in the Excel spreadsheet (deadline: 2020-12-04)  
 01. 2020-12-01 Tuesday 14:30-16:30  
-    _Q&A on Plain Vanilla Volatility Products and Greeks_ with  
-    [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/),  
+    _Q&A on Plain Vanilla Volatility Products and Greeks_ with
+    [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/),
     [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/), and
     [Nicola Moreni](https://www.linkedin.com/in/nicola-moreni-a636a7/)  
 01. 2020-12-04 Friday 12:30-14:30  

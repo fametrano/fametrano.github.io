@@ -129,7 +129,7 @@ assistant lecturer ([material](https://drive.google.com/file/d/1qIazIGLDuy2DYpVz
 01. 2020-12-11 Friday 12:30-14:30  
     _Credit Derivatives_ ([slides](https://www.dropbox.com/s/dcqb23wer56wb44/20181108%20Credit%20Risk.pdf?dl=0))  
     _Workshop on Credit Curve Bootstrapping and Credit Default Swaps_  
-    Homework #7: fill in the Excel spreadsheet (deadline: 2020-12-22)  
+    Homework #8: fill in the Excel spreadsheet (deadline: 2020-12-22)  
 01. 2020-12-15 Tuesday 14:30-16:30  
     _XVAs: Introduction to Valuation Adjustments_ ([slides](https://drive.google.com/file/d/10PSdz4-Tz_1lkJy3n3lJdYRVT-39iq3c))  
     Guest lecturer: [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/)  

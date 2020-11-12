@@ -125,11 +125,11 @@ assistant lecturer ([material](https://drive.google.com/file/d/1qIazIGLDuy2DYpVz
 01. 2020-12-04 Friday 12:30-14:30  
     _Interest Rate Models_ ([slides](https://www.dropbox.com/s/uelte1lvn3uqnea/20181220%20Interest%20Rate%20Models.pdf?dl=0))  
     _Workshop on Swaptions and Bermudan Swaption_  
-    Homework #7: fill in the Excel spreadsheet (deadline: 2020-12-01)  
+    Homework #7: fill in the Excel spreadsheet (deadline: 2020-12-11)  
 01. 2020-12-11 Friday 12:30-14:30  
     _Credit Derivatives_ ([slides](https://www.dropbox.com/s/dcqb23wer56wb44/20181108%20Credit%20Risk.pdf?dl=0))  
     _Workshop on Credit Curve Bootstrapping and Credit Default Swaps_  
-    Homework #7: fill in the Excel spreadsheet (deadline: 2020-12-11)  
+    Homework #7: fill in the Excel spreadsheet (deadline: 2020-12-22)  
 01. 2020-12-15 Tuesday 14:30-16:30  
     _XVAs: Introduction to Valuation Adjustments_ ([slides](https://drive.google.com/file/d/10PSdz4-Tz_1lkJy3n3lJdYRVT-39iq3c))  
     Guest lecturer: [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/)  
@@ -137,4 +137,4 @@ assistant lecturer ([material](https://drive.google.com/file/d/1qIazIGLDuy2DYpVz
     _The Reform of Benchmark Interest Rate Indexes and Its Impact on Derivative Pricing_ ([slides-1](https://drive.google.com/file/d/1synNexpBT3TP_Q5I-JA5pK_FRBwgYZW-/view?usp=sharing), [slides-2](https://drive.google.com/file/d/1qSjxnvG0lS6EUFDTDC35IuXovn_bqK2N/view?usp=sharing))  
     Guest lecturers: [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/)  
 01. 2020-12-22 Tuesday 14:30-16:30  
-    Catch-up lesson
+    _Conclusions and final Q&A_

@@ -111,12 +111,12 @@ assistant lecturer ([material](https://drive.google.com/file/d/1qIazIGLDuy2DYpVz
 01. 2020-11-10 Tuesday 14:30-16:30  
     _Swaptions, Structured Products, and Hedging_ ([slides](https://drive.google.com/file/d/1BToPmMpV0qrcdpzurjtTfQ9HQk_9Nico/view?usp=sharing))  
 01. 2020-11-13 Friday 12:30-14:30  
-    _Trading Obbligazionario_ ([slide](https://drive.google.com/file/d/1AE4v_KuQC6Btg28aLii4mhXMCqXQtOWQ))  
-    Guest lecturer: [Andrea Bugin](https://www.linkedin.com/in/andrea-bugin-a326715)  
-01. 2020-11-17 Tuesday 14:30-16:30  
     _Workshop on Greeks and Hedging and Caps/Floors_  
     Homework #5: fill in the Excel spreadsheet (deadline: 2020-12-04)  
     Homework #6: fill in the Excel spreadsheet (deadline: 2020-12-04)  
+01. 2020-11-17 Tuesday 14:30-16:30  
+    _Trading Obbligazionario_ ([slide](https://drive.google.com/file/d/1AE4v_KuQC6Btg28aLii4mhXMCqXQtOWQ))  
+    Guest lecturer: [Andrea Bugin](https://www.linkedin.com/in/andrea-bugin-a326715)  
 01. 2020-12-01 Tuesday 14:30-16:30  
     _Q&A on Plain Vanilla Volatility Products and Greeks_ with
     [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/),

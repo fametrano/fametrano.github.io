@@ -136,5 +136,5 @@ assistant lecturer ([material](https://drive.google.com/file/d/1qIazIGLDuy2DYpVz
 01. 2020-12-18 Friday 12:30-14:30  
     _The Reform of Benchmark Interest Rate Indexes and Its Impact on Derivative Pricing_ ([slides-1](https://drive.google.com/file/d/1synNexpBT3TP_Q5I-JA5pK_FRBwgYZW-/view?usp=sharing), [slides-2](https://drive.google.com/file/d/1qSjxnvG0lS6EUFDTDC35IuXovn_bqK2N/view?usp=sharing))  
     Guest lecturers: [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/)  
-01. 2020-11-22 Tuesday 14:30-16:30  
+01. 2020-12-22 Tuesday 14:30-16:30  
     Catch-up lesson

@@ -82,7 +82,7 @@ The final exam will be individual.
 ## Lessons' calendar and material
 
 Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolomazzocchi/),
-assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDuy2DYpVzG39f2QNoiUKbRiG3?usp=sharing)).
+assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDuy2DYpVzG39f2QNoiUKbRiG3)).
 
 01. 2020-10-06 Tuesday 14:30-16:30  
     _Interest Rate Basics_ ([slides](https://drive.google.com/file/d/1G2rr29fdURvjjYplhY_OYtRNEyJoOF2e))  
@@ -109,7 +109,7 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDu
     _Caps and Floors_ ([slides](https://drive.google.com/file/d/1mr3iFcefoWsx0DZxX-qPKskJ4r1hJ-Vj))  
     Guest lecturer: [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/)  
 01. 2020-11-10 Tuesday 14:30-16:30  
-    _Swaptions, Structured Products, and Hedging_ ([slides](https://drive.google.com/file/d/1BToPmMpV0qrcdpzurjtTfQ9HQk_9Nico/view?usp=sharing))  
+    _Swaptions, Structured Products, and Hedging_ ([slides](https://drive.google.com/file/d/1BToPmMpV0qrcdpzurjtTfQ9HQk_9Nico))  
 01. 2020-11-13 Friday 12:30-14:30  
     _Workshop on Greeks and Hedging and Caps/Floors_  
     Homework #5: fill in the Excel spreadsheet (deadline: 2020-12-04)  
@@ -134,7 +134,7 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDu
     _XVAs: Introduction to Valuation Adjustments_ ([slides](https://drive.google.com/file/d/10PSdz4-Tz_1lkJy3n3lJdYRVT-39iq3c))  
     Guest lecturer: [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/)  
 01. 2020-12-18 Friday 12:30-14:30  
-    _The Reform of Benchmark Interest Rate Indexes and Its Impact on Derivative Pricing_ ([slides-1](https://drive.google.com/file/d/1synNexpBT3TP_Q5I-JA5pK_FRBwgYZW-/view?usp=sharing), [slides-2](https://drive.google.com/file/d/1qSjxnvG0lS6EUFDTDC35IuXovn_bqK2N/view?usp=sharing))  
+    _The Reform of Benchmark Interest Rate Indexes and Its Impact on Derivative Pricing_ ([slides-1](https://drive.google.com/file/d/1synNexpBT3TP_Q5I-JA5pK_FRBwgYZW-), [slides-2](https://drive.google.com/file/d/1qSjxnvG0lS6EUFDTDC35IuXovn_bqK2N))  
     Guest lecturers: [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/)  
 01. 2020-12-22 Tuesday 14:30-16:30  
     _Conclusions and final Q&A_

@@ -7,7 +7,7 @@ published: true
 
 Questa volta non parlo di bitcoin…
 
-<img src="https://cdn-images-1.medium.com/max/900/0*eW0GgVWafWyz6wAS" alt="Roberto Formigoni" width="300" align="left" hspace="10" vspace="10" />
+<img src="cdn-images-1.https://medium.com/max/900/0*eW0GgVWafWyz6wAS" alt="Roberto Formigoni" width="300" align="left" hspace="10" vspace="10" />
 
 Un ventennio di governo è misura pericolosa non solo per Mussolini, ma anche per Roberto Formigoni, perché il potere corrompe, lentamente ma inesorabilmente, incrostando sintonie che diventano connivenze e ruoli che diventano privilegi. Per questo l'alternanza è decisiva in politica. Per di più, erano evidenti nell'ultimo Formigoni preoccupanti segnali di involuzione narcisistica e senescente, sia nello stile mondano che nell'intelligenza politica.
 
@@ -15,7 +15,7 @@ Inoltre, se il diritto è sempre solo una approssimazione imperfetta della giust
 
 Chiarite queste due premesse, occorrerà però sollevare la voce per rivendicare un giudizio politico e culturale su cosa sia il bene comune. Formigoni ha creato in Lombardia il più efficiente sistema sanitario d'Italia, senza deficit per le casse pubbliche: se nel farlo è stato davvero in grado di "dirottare" pure 6 milioni per sé (soldi non trovati) e 61 verso amici… ad un manager di capacità così straordinaria dobbiamo fare una statua in piazza Duomo, altro che mandarlo in carcere. Il disprezzo meglio riservarlo a quei politici inetti e demagogici (onesti, idioti o furfanti che siano) che intossicano la scena politica italiana e dilapidano le risorse pubbliche. Io ho visto mia madre spegnersi assistita dalla sanità pubblica lombarda e mia suocera spegnersi assistita dalla sanità pubblica calabrese: tanto basta a sigillare un giudizio chiaro ed inappellabile.
 
-Sulla vicenda in sé non saprei dire meglio di Vittorio Feltri (<https://www.tempi.it/feltri-formigoni-in-carcere-senza-prove/>) e Piero Sansonetti (<https://www.youtube.com/watch?v=yTcr-QRGWJU>), ma vorrei aggiungere due riflessioni a quelle di Giovanni Sallusti (<https://www.nicolaporro.it/ad-avercene-di-governatori-come-formigoni/>).
+Sulla vicenda in sé non saprei dire meglio di Vittorio Feltri (<https://www.tempi.it/feltri-formigoni-in-carcere-senza-prove/>) e Piero Sansonetti (<https://youtube.com/watch?v=yTcr-QRGWJU>), ma vorrei aggiungere due riflessioni a quelle di Giovanni Sallusti (<https://www.nicolaporro.it/ad-avercene-di-governatori-come-formigoni/>).
 
 Formigoni ha il ruolo storico di aver fatto capire in Italia che pubblico non vuol dire necessariamente statale, unico esempio rilevante di sussidiarietà cattolica e di neoliberismo intelligente. Capisco il fascino della retorica giustizialista, giacobina e pauperista, dell'idolatria verso lo Stato fonte e garante di diritti e benessere (non è questo il momento di chiarirne gli equivoci drammatici), ma mi rammarico che nemmeno di fronte al miglioramento concreto e misurabile della propria vita quotidiana l'opinione pubblica riesca a maturare un giudizio chiaro.
 

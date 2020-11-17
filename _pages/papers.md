@@ -5,7 +5,7 @@ description: Papers by Ferdinando M. Ametrano (with links to Google Scholar and 
 permalink: /papers/
 ---
 
-Google Scholar: <https://scholar.google.com/citations?user=dFSSrwwAAAAJ>  
+Google Scholar: <scholar.google.com/citations?user=dFSSrwwAAAAJ>  
 SSRN: <https://ssrn.com/author=510135>  
 
 ---

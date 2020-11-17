@@ -8,22 +8,22 @@ permalink: /about/
 ## Current Affiliations
 
 * Cofounder and Chief Executive Officer, CheckSig  
-  <http://checksig.io>
+  <https://checksig.io>
 * Founder and Executive Director, Digital Gold Institute  
-  <http://dgi.io>
+  <https://dgi.io>
 * Cofounder and Scientific Director, Crypto Asset Lab  
   Department of Business and Law, University of Milano-Bicocca  
-  <http://cryptoassetlab.diseade.unimib.it>
+  <https://cryptoassetlab.diseade.unimib.it>
 * Adjunct Professor of "Interest Rate Derivatives"  
   Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
-  <http://www.unimib.it/ferdinando-maria-ametrano>
+  <https://www.unimib.it/ferdinando-maria-ametrano>
 * Adjunct Professor of "Bitcoin and Blockchain Technology"  
   Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
   Department of Law, University of Milano-Bicocca  
   Department of Mathematics, University of Milano  
   Mathematical, Physical and Natural Sciences / Law Interfaculty, Università Cattolica del Sacro Cuore (Brescia)  
 * Founder and coadministrator of QuantLib and btclib  
-  <http://quantlib.org>, <http://github.com/dginst/btclib>
+  <https://www.quantlib.org>, <https://github.com/dginst/btclib>
 
 ---
 
@@ -35,13 +35,13 @@ Ferdinando Ametrano discovered bitcoin in 2014:
 since then bitcoin has been his major professional
 and academic interest.
 
-Founder and CEO of [CheckSig](http://checksig.io)
+Founder and CEO of [CheckSig](https://checksig.io)
 (transparent bitcoin custody solutions
 for institutional investors and high-net-worth individuals) and
-[Digital Gold Institute](http://dgi.io)
+[Digital Gold Institute](https://dgi.io)
 (R&D, consultancy, and training about bitcoin and blockchain technology),
 Ferdinando is also scientific director of the
-[Crypto Asset Lab](http://cryptoassetlab.diseade.unimib.it)
+[Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it)
 at Milano-Bicocca University, where he teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)".
 
@@ -51,7 +51,7 @@ he has been Planning Committee member of the
 [Scaling Bitcoin](https://scalingbitcoin.org/) conference,
 is an occasional trivial contributor to
 [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin),
-and maintains [btclib](http://github.com/dginst/btclib), a bitcoin python library.
+and maintains [btclib](https://github.com/dginst/btclib), a bitcoin python library.
 
 Fintech innovator, technologist, and
 [open source developer](https://github.com/fametrano),
@@ -63,9 +63,9 @@ UN/CEFACT (United Nations Centre for Trade Facilitation and Electronic Business)
 and has been
 invited to private and public [events]({{ site.baseurl }}/events/)
 about bitcoin at the
-[United Nations](https://www.youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ),
+[United Nations](https://youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ),
 central banks,
-the [Italian Parliament](https://www.youtube.com/watch?v=vLM3FUuCFLY),
+the [Italian Parliament](https://youtube.com/watch?v=vLM3FUuCFLY),
 universities, conferences, and workshops.
 
 His [academic research]({{ site.baseurl }}/papers/)
@@ -90,8 +90,10 @@ his daughters and son just don't care about his public persona,
 his friends consider him bizarre,
 his colleagues and students love and hate him depending on their sensitivities and experiences.
 
-Europass CV: <https://www.ametrano.net/cv/CV-Europass-20200626-Ametrano-EN>  
-Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
+Oh... he is an ex-physicist and a huge Springsteen fan.
+
+Europass CV: <https://ametrano.net/cv/CV-Europass-20200626-Ametrano-EN.pdf>  
+Two pages CV: <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 **email contact form**: <https://bit.ly/contactametrano>
 
@@ -106,9 +108,9 @@ Two pages CV: <https://www.ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 <https://speakerdeck.com/nando1970>  
 <https://www.reddit.com/user/Nando1970>  
 <https://www.slideshare.net/Ferdinando1970>  
-<https://www.facebook.com/ferdinando.ametrano>  
+<https://facebook.com/ferdinando.ametrano>  
 <https://www.linkedin.com/in/ferdinandoametrano>  
-<https://www.youtube.com/c/FerdinandoMAmetrano>  
+<https://youtube.com/c/FerdinandoMAmetrano>  
 <https://scholar.google.com/citations?user=dFSSrwwAAAAJ>
 
 ---

@@ -2,6 +2,8 @@
 layout: page
 title: Bitcoin and Blockchain Technology Course
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
+image:
+    main: btclib-logo.jpg
 permalink: /bbt202010-bicocca/
 ---
 
@@ -11,7 +13,7 @@ Department of Statistics and Quantitative Methods, University of Milano-Bicocca
 
 __Because of COVID-19 the course will be streaming only.__
 
-e-learning: <https://elearning.unimib.it/course/view.php?id=31548>
+e-learning: <elearning.unimib.it/course/view.php?id=31548>
 
 If you have an e-mail _@campus.unimib.it_
 please join the 202010-bicocca channel in the Slack
@@ -106,14 +108,14 @@ monetary theory, regulatory issues, and politics.
 
 ## Teaching language
 
-English if foreign students are present, else Italian.
+Italian or English, the latter if foreign students are present.
 
 ## Exam
 
 Students attending the lessons are asked
 to solve the homework assignments for each lesson.
 Homeworks have a deadline and are not required/allowed
-for students that did not engage themselves during
+for students that did not actively partecipate to
 the semester activity.
 
 Homework can be tackled cooperatively by team of students,
@@ -135,48 +137,47 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 
 01. 2020-10-07 Wednesday 16:30-18:30  
     _Bitcoin as Digital Gold (Part 1)_  
-    [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
+    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
 01. 2020-10-14 Wednesday 16:30-18:30   
     _Bitcoin as Digital Gold (Part 2)_  
-    [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
+    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
     Homework #1: read the _"Bitcoin: oro digitale, finanza e tulipani"_ interview;
-    then send up to three questions that, in your opinion, deserve further clarifications.
-    Deadline: 2020-10-20
+    then send up to three questions that, in your opinion,
+    might deserve further clarifications; deadline: 2020-10-20  
 01. 2020-10-21 Wednesday 16:30-18:30  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
-    [slides](https://drive.google.com/open?id=1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
+    [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
+    Homeworks are included in the slides; deadline: 2020-11-10  
 01. 2020-10-28 Wednesday 16:30-18:30  
     _Hash Functions_  
-    [slides](https://drive.google.com/open?id=1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
+    [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
+    Homeworks are included in the slides; deadline: 2020-11-10  
     _Blockchain, Mining, and Distributed Consensus (Part 1)_  
-    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2020-11-04 Wednesday 16:30-18:30  
     _Blockchain, Mining, and Distributed Consensus (Part 2)_  
-    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2020-11-11 Wednesday 16:30-18:30  
     _Elliptic Curve Digital Signature Algorithm_  
-    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
 01. 2020-11-18 Wednesday 16:30-18:30  
     _Addresses, WIFs, and Bitcoin Message Signing_  
-    [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
+    [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     _Transactions and Scripts_  
-    [slides](https://drive.google.com/open?id=1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
+    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
 01. 2020-12-02 Wednesday 16:30-18:30  
-    _Beyond Bitcoin: Between Hype and Reality (Part 1)_  
-    [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
+    _Beyond Bitcoin: Between Hype and Reality_  
+    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
 01. 2020-12-09 Wednesday 16:30-18:30  
-    _Beyond Bitcoin: Between Hype and Reality (Part 2)_  
-    [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-    _Wallets and Deterministic Key Chains (Part 1)_  
-    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
+    _Wallets and Deterministic Key Chains_  
+    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
 01. 2020-12-16 Wednesday 16:30-18:30  
-    _Wallets and Deterministic Key Chains (Part 2)_  
-    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. 2020-12-23 Wednesday 16:30-18:30  
-    _The Frontier of Monetary Engineering_  
-    [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
+    _The Cryptocurrency Frontier in Monetary Engineering_  
+    [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
-    _[Hayek Money: The Cryptocurrency Price Stability Solution](http://ssrn.com/abstract=2425270)_
+    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
+01. 2020-12-23 Wednesday 16:30-18:30  
+    _Final Q&A_  
 
 
 ## Python library
@@ -186,7 +187,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 
 ## Python scripts, Excel spreadsheets, and regtest lab material
 
-<http://github.com/btclib-org/bbt>
+<https://github.com/btclib-org/bbt>
 
 ## Introductory reading
 
@@ -210,7 +211,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 * A. Narayanan, et al.,  
   _"Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction"_ (2016),  
   Princeton University Press, 978-0691171692,  
-  <https://www.coursera.org/learn/cryptocurrency>, <http://bitcoinbook.cs.princeton.edu/>, <https://lopp.net/pdf/princeton_bitcoin_book.pdf>
+  <https://www.coursera.org/learn/cryptocurrency>, <https://bitcoinbook.cs.princeton.edu>, <https://www.lopp.net/pdf/princeton_bitcoin_book.pdf>
 * Pedro Franco,  
   _“Understanding Bitcoin: Cryptography, Engineering and Economics”_ (2014),  
   Wiley, 978-1119019169
@@ -226,20 +227,20 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 * Christof Paar, Jan Pelzl,  
   _"Understanding Cryptography"_,  
   Springer, 978-3642041006
-  <http://www.crypto-textbook.com/>, <http://wiki.crypto.rub.de/Buch/en/slides.php>, <https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
+  <https://toc.cryptobook.us//>, <https://wiki.crypto.rub.de/Buch/en/slides.php>, <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Dan Boneh,
   _"A Graduate Course in Applied Cryptography"_,  
   Stanford University  
-  <https://www.coursera.org/learn/crypto>, <https://toc.cryptobook.us/>
+  <https://www.coursera.org/learn/crypto>, <toc.cryptobook.us/>
 * Lawrence C. Washington,  
   _“Elliptic Curves: Number Theory And Cryptography”_ (2008),  
   Chapman and Hall, 978-1420071467
 * Standards for Efficient Cryptography Group  
   SEC 1: Elliptic Curve Cryptography, March 2009. Version 2.0.  
-  <http://www.secg.org/sec1-v2.pdf>
+  <https://www.secg.org/sec1-v2.pdf>
 * Standards for Efficient Cryptography Group  
   SEC 2: Recommended Elliptic Curve Domain Parameters, March 2009. Version 2.0.  
-  <http://www.secg.org/sec2-v2.pdf>
+  <https://www.secg.org/sec2-v2.pdf>
 * Guidelines for Efficient Cryptography  
   GEC 2: Test Vectors for SEC 1, September 1999. Version 0.3.  
   <http://read.pudn.com/downloads168/doc/772358/TestVectorsforSEC%201-gec2.pdf>
@@ -248,7 +249,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 
 * Friedrich A. Hayek,  
   _"Denationalisation of Money: The Argument Refined"_,  
-  <https://mises.org/library/denationalisation-money-argument-refined>  
+  <mises.org/library/denationalisation-money-argument-refined>  
 * Saifedean Ammous,  
   _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_ (2018),  
   Wiley, 978-1119473862
@@ -260,6 +261,6 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
   <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
 * Ferdinando M. Ametrano,  
   _"Bitcoin: oro digitale per nuovi standard monetari"_ (2020),  
-  published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta,  and Alberto Mingardi)  
-  <http://bit.ly/2NQg9VJ>
+  published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta, and Alberto Mingardi)  
+  <https://bit.ly/2NQg9VJ>
 

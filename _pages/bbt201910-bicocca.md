@@ -9,10 +9,10 @@ permalink: /bbt201910-bicocca/
 
 Department of Statistics and Quantitative Methods, University of Milano-Bicocca
 
-Course page: <https://elearning.unimib.it/course/info.php?id=25308>  
+Course page: <elearning.unimib.it/course/info.php?id=25308>  
 
 Please subscribe the course mailing list sending an e-mail to
-[bbt2019-bicocca+subscribe@dgi.io](mailto:bbt2019-bicocca+subscribe@dgi.io);
+[bbt2019-bicocca+subscribe@https://dgi.io](mailto:bbt2019-bicocca+subscribe@https://dgi.io);
 you are also invited to join the 201910-bicocca channel in the Slack [BBT workspace](https://join.slack.com/t/bbt-training/signup).
 
 ## Learning objectives
@@ -96,45 +96,46 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
 
 01. Wednesday 2019-10-09 16:30-18:30 edificio U6 aula 33  
     _Bitcoin as Digital Gold_ (part 1)  
-    [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
+    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. Wednesday 2019-10-16 16:30-18:30 edificio U6 aula 33  
     _Bitcoin as Digital Gold_ (part 2)  
-    [slides](https://drive.google.com/open?id=1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
+    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. Wednesday 2019-10-23 16:30-18:30 edificio U6 aula 33  
     _Blockchain, Mining, and Distributed Consensus_ (part 1)  
-    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
 01. Wednesday 2019-10-30 16:30-18:30 edificio U6 aula 33  
     _Blockchain, Mining, and Distributed Consensus_ (part 2)  
-    [slides](https://drive.google.com/open?id=1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
 01. Wednesday 2019-11-06 16:30-18:30 edificio U6 aula 33  
     _Elliptic Curve Digital Signature Algorithm_ (part 1)  
-    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 01. Wednesday 2019-11-13 16:30-18:30 edificio U6 aula 33  
     _Elliptic Curve Digital Signature Algorithm_ (part 2)  
-    [slides](https://drive.google.com/open?id=1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 01. Wednesday 2019-11-27 16:30-18:30 edificio U6 aula 33  
     _Wallets: Key Encodings and Deterministic Key Sequences_  
-    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
+    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. Wednesday 2019-12-04 16:30-18:30 edificio U6 aula 33  
     _Wallets: Key Encodings and Deterministic Key Sequences_ (Part 2)  
-    [slides](https://drive.google.com/open?id=1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
+    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. Wednesday 2019-12-11 16:30-18:30 edificio U6 aula 33  
     _Transactions and Blocks_  
-    [slides](https://drive.google.com/open?id=1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)
+    [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)
 01. Wednesday 2019-12-18 16:30-18:30 edificio U6 aula 33  
     _Beyond Bitcoin: Between Hype and Reality_  
-    [slides](https://drive.google.com/open?id=12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
+    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. Friday 2020-12-20 12:30-14:30 edificio U6 aula 22  
     Wednesday 2020-01-15 16:30-18:30 edificio U6 aula 33  
-    _The Frontier of Monetary Engineering_  
-    [slides](https://drive.google.com/open?id=1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),
-    [text]( http://bit.ly/2NQg9VJ)
+    _The Cryptocurrency Frontier
+in Monetary Engineering_  
+    [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),
+    [text]( https://bit.ly/2NQg9VJ)
 
 In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 
 ## Python library
 
-<http://github.com/dginst/btclib>
+<https://github.com/dginst/btclib>
 
 ## Python scripts, Excel spreadsheets, and regtest lab material
 
@@ -144,7 +145,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 
 * Ferdinando M. Ametrano,  
   _"Bitcoin: oro digitale per nuovi standard monetari"_ (2018),  
-  <http://bit.ly/2NQg9VJ>
+  <https://bit.ly/2NQg9VJ>
 
 ## Technology references
 
@@ -162,7 +163,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 * A. Narayanan, et al.,  
   _"Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction"_ (2016),  
   Princeton University Press, 978-0691171692,  
-  <https://www.coursera.org/learn/cryptocurrency>, <http://bitcoinbook.cs.princeton.edu/>, <https://lopp.net/pdf/princeton_bitcoin_book.pdf>
+  <https://www.coursera.org/learn/cryptocurrency>, <https://bitcoinbook.cs.princeton.edu>, <https://bitcoinbook.cs.princeton.edu>, <https://www.lopp.net/pdf/princeton_bitcoin_book.pdf>
 * Pedro Franco,  
   _“Understanding Bitcoin: Cryptography, Engineering and Economics”_ (2014),  
   Wiley, 978-1119019169
@@ -178,20 +179,20 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 * Christof Paar, Jan Pelzl,  
   _"Understanding Cryptography"_,  
   Springer, 978-3642041006
-  <http://www.crypto-textbook.com/>, <http://wiki.crypto.rub.de/Buch/en/slides.php>, <https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
+  <https://toc.cryptobook.us//>, <https://wiki.crypto.rub.de/Buch/en/slides.php>, <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Dan Boneh,
   _"A Graduate Course in Applied Cryptography"_,  
   Stanford University  
-  <https://www.coursera.org/learn/crypto>, <https://toc.cryptobook.us/>
+  <https://www.coursera.org/learn/crypto>, <toc.cryptobook.us/>
 * Lawrence C. Washington,  
   _“Elliptic Curves Number Theory And Cryptography”_ (2008),  
   Chapman and Hall, 978-1420071467
 * Standards for Efficient Cryptography Group  
   SEC 1: Elliptic Curve Cryptography, March 2009. Version 2.0.  
-  <http://www.secg.org/sec1-v2.pdf>
+  <https://www.secg.org/sec1-v2.pdf>
 * Standards for Efficient Cryptography Group  
   SEC 2: Recommended Elliptic Curve Domain Parameters, March 2009. Version 2.0.  
-  <http://www.secg.org/sec2-v2.pdf>
+  <https://www.secg.org/sec2-v2.pdf>
 * Guidelines for Efficient Cryptography  
   GEC 2: Test Vectors for SEC 1, September 1999. Version 0.3.  
   <http://read.pudn.com/downloads168/doc/772358/TestVectorsforSEC%201-gec2.pdf>
@@ -200,7 +201,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 
 * Friedrich A. Hayek,  
   _"Denationalisation of Money: The Argument Refined"_,  
-  <https://mises.org/library/denationalisation-money-argument-refined>  
+  <mises.org/library/denationalisation-money-argument-refined>  
 * Saifedean Ammous,  
   _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_ (2018),  
   Wiley, 978-1119473862

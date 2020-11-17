@@ -1,6 +1,6 @@
 # Repo for Ferdinando M. Ametrano website
 
-[ametrano.net](https://www.ametrano.net)
+[ametrano.net](https://ametrano.net)
 
 ## Testing your GitHub Pages site locally with Jekyll
 
@@ -23,18 +23,18 @@ Configuration file: C:/path/to/repo/checksig-custody.github.io/_config.yml
        Jekyll Feed: Generating feed for posts
                     done in 25.31 seconds.
  Auto-regeneration: enabled for 'C:/path/to/repo/checksig-custody.github.io'
-    Server address: http://127.0.0.1:4000
+    Server address: 127.0.0.1:4000
   Server running... press ctrl-c to stop.
 ```
 
-To preview your site, in your web browser, navigate to <http://127.0.0.1:4000>
+To preview your site, in your web browser, navigate to <127.0.0.1:4000>
 
 From time to time you might want to update the GitHub Pages gem:
 
 ```shell
 $ bundle update github-pages
-Fetching gem metadata from https://rubygems.org/...........
-Fetching gem metadata from https://rubygems.org/.
+Fetching gem metadata from rubygems.org/...........
+Fetching gem metadata from rubygems.org/.
 Resolving dependencies....
 Using concurrent-ruby 1.1.5
 Using i18n 0.9.5
@@ -49,6 +49,6 @@ Bundle updated!
 
 See also:
 
-- <https://jekyllrb.com/docs/installation/>
-- <https://bundler.io/>
-- <https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll>
+- <jekyllrb.com/docs/installation/>
+- <bundler.io/>
+- <help.https://github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll>

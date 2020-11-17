@@ -81,8 +81,8 @@ The final exam will be individual.
 
 ## Lessons' calendar and material
 
-Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/),
-assistant lecturer ([material](https://drive.google.com/file/d/1qIazIGLDuy2DYpVzG39f2QNoiUKbRiG3)).
+Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolomazzocchi/),
+assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDuy2DYpVzG39f2QNoiUKbRiG3?usp=sharing)).
 
 01. 2020-10-06 Tuesday 14:30-16:30  
     _Interest Rate Basics_ ([slides](https://drive.google.com/file/d/1G2rr29fdURvjjYplhY_OYtRNEyJoOF2e))  

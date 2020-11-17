@@ -1,11 +1,7 @@
 ---
 layout: page
 title: Interest Rate Derivatives Course
-<<<<<<< HEAD
-description: Next edition of the 'Interest Rate Derivatives' course, including slides.
-=======
 description: Interest Rate Derivatives course, including slides, spreadsheets, etc.
->>>>>>> ee309d4665df36656f87fd2ef45297521b043eb8
 image:
     main: bicocca-logo.png
 permalink: /ird/

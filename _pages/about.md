@@ -45,16 +45,19 @@ Ferdinando is also scientific director of the
 at Milano-Bicocca University, where he teaches
 "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt/)".
 
-Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
+Former
+[Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)
 in Intesa Sanpaolo bank,
 he has been Planning Committee member of the
 [Scaling Bitcoin](https://scalingbitcoin.org/) conference,
 is current chair of the
 [Crypto Asset Lab Conference](https://cryptoassetlab.diseade.unimib.it/calconf/)
-co-organized with the European Commission, and
+co-organized with the European Commission,
 is an occasional trivial contributor to
 [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin),
-and maintains [btclib](https://github.com/dginst/btclib), a bitcoin python library.
+and
+maintains
+[btclib](https://github.com/dginst/btclib), a bitcoin Python library.
 
 Fintech innovator, technologist, and
 [open source developer](https://github.com/fametrano),

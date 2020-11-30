@@ -52,6 +52,9 @@ dell'Università Milano-Bicocca, dove insegna
 in Intesa Sanpaolo e
 membro del Comitato Organizzatore della conferenza
 [Scaling Bitcoin](https://scalingbitcoin.org/);
+è _chair_ della
+[Crypto Asset Lab Conference](https://cryptoassetlab.diseade.unimib.it/calconf/)
+organizzata assieme alla Commissione Europea,
 contribuisce occasionalmente e marginalmente a
 [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin)
 e manutiene

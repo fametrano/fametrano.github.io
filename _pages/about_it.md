@@ -58,7 +58,7 @@ organizzata assieme alla Commissione Europea,
 contribuisce occasionalmente e marginalmente a
 [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin)
 e manutiene
-[btclib](https://github.com/dginst/btclib), una libreria python bitcoin.
+[btclib](https://github.com/dginst/btclib), una libreria Python bitcoin.
 
 Innovatore nel campo *fintech*,
 [sviluppatore *open source*](https://github.com/fametrano),

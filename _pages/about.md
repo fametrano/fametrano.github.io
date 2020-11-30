@@ -49,6 +49,9 @@ Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/vide
 in Intesa Sanpaolo bank,
 he has been Planning Committee member of the
 [Scaling Bitcoin](https://scalingbitcoin.org/) conference,
+is current chair of the
+[Crypto Asset Lab Conference](https://cryptoassetlab.diseade.unimib.it/calconf/)
+co-organized with the European Commission, and
 is an occasional trivial contributor to
 [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin),
 and maintains [btclib](https://github.com/dginst/btclib), a bitcoin python library.

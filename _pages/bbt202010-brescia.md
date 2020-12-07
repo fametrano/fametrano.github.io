@@ -168,14 +168,15 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2020-11-30 Monday 11:30-13:30   
     _Wallets and Deterministic Key Chains_  
     [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
-01. 2020-12-07 Monday 11:30-13:30   
-    _The Cryptocurrency Frontier
-in Monetary Engineering_  
+01. 2020-12-14 Monday 11:30-13:30   
+    _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
-
-
+01. 2020-12-21 Monday 11:30-13:30   
+    _Encryption and Final Q&A_  
+    [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
+  
 ## Python library
 
 <https://btclib.org>  

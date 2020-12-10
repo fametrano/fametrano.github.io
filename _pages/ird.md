@@ -123,11 +123,13 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDu
     [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/), and
     [Nicola Moreni](https://www.linkedin.com/in/nicola-moreni-a636a7/)  
 01. 2020-12-04 Friday 12:30-14:30  
-    _Interest Rate Models_ ([slides](https://www.dropbox.com/s/uelte1lvn3uqnea/20181220%20Interest%20Rate%20Models.pdf?dl=0))  
+    _Interest Rate Models_ ([slides](hhttps://drive.google.com/file/d/13_YmUvUz16OZbx3mQhToJV46a1gQyN5i))  
     _Workshop on Swaptions and Bermudan Swaption_  
     Homework #7: fill in the Excel spreadsheet (deadline: 2020-12-11)  
 01. 2020-12-11 Friday 12:30-14:30  
-    _Credit Derivatives_ ([slides](https://www.dropbox.com/s/dcqb23wer56wb44/20181108%20Credit%20Risk.pdf?dl=0))  
+    _Credit Derivatives_ ([slides](https://drive.google.com/file/d/1wSP73ozxR4rupFM8kJUFPCn5o_SNUnR6))  
+    _Counterparty Risk and Collateral Protection_ ([pdf](https://drive.google.com/file/d/1ENPcbWiEG0sEGiQr0FTfoDoPGx36SN_S))  
+    _Overview of Central Clearing_ ([pdf](https://drive.google.com/file/d/1ErcrGIdlvisYBr5YR03-KIMjYcDCktmJ))  
     _Workshop on Credit Curve Bootstrapping and Credit Default Swaps_  
     Homework #8: fill in the Excel spreadsheet (deadline: 2020-12-22)  
 01. 2020-12-15 Tuesday 14:30-16:30  

@@ -176,8 +176,8 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     [extra video](https://www.youtube.com/watch?v=dvgb2YOm1y4&list=PLTLa2tRY91LIERomYutM16smoQQ2UShoj&index=2&t=2922s)
 01. 2020-12-16 Wednesday 11:30-13:30  
     _Final Q&A_  
-    _Extra Material: Diffie Hellman and Symmetric Cryptography_
-    _Extra Material: Schnorr Signature_
+    _Extra Material: Diffie Hellman and Symmetric Cryptography_  
+    _Extra Material: Schnorr Signature_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
   
 ## Python library

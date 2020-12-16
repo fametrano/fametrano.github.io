@@ -249,7 +249,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 
 * Friedrich A. Hayek,  
   _"Denationalisation of Money: The Argument Refined"_,  
-  <mises.org/library/denationalisation-money-argument-refined>  
+  <https://mises.org/library/denationalisation-money-argument-refined>  
 * Saifedean Ammous,  
   _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_ (2018),  
   Wiley, 978-1119473862

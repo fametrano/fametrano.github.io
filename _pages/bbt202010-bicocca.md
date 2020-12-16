@@ -138,7 +138,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2020-10-07 Wednesday 16:30-18:30  
     _Bitcoin as Digital Gold (Part 1)_  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
-01. 2020-10-14 Wednesday 16:30-18:30   
+01. 2020-10-14 Wednesday 16:30-18:30  
     _Bitcoin as Digital Gold (Part 2)_  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
     Homework #1: read the _"Bitcoin: oro digitale, finanza e tulipani"_ interview;
@@ -176,9 +176,12 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
+    [extra video](https://www.youtube.com/watch?v=dvgb2YOm1y4&list=PLTLa2tRY91LIERomYutM16smoQQ2UShoj&index=2&t=2922s)
 01. 2020-12-23 Wednesday 16:30-18:30  
     _Final Q&A_  
-
+    _Extra Material: Diffie Hellman and Symmetric Cryptography_
+    _Extra Material: Schnorr Signature_
+    [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
 
 ## Python library
 
@@ -263,4 +266,3 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
   _"Bitcoin: oro digitale per nuovi standard monetari"_ (2020),  
   published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta, and Alberto Mingardi)  
   <https://bit.ly/2NQg9VJ>
-

@@ -23,7 +23,7 @@ using your first and last name (no nicknames) and
 a profile picture.
 Updates and conversations about the course will be posted in the Slack channel.
 
-The course is for the students of Università Cattolica del Sacro Cuore only; 
+The course is for the students of Università Cattolica del Sacro Cuore only;
 anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives
@@ -132,49 +132,52 @@ The final exam will be individual.
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
-01. 2020-10-05 Monday 11:30-13:30   
+01. 2020-10-05 Monday 11:30-13:30  
     _Bitcoin as Digital Gold (Part 1)_  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
-01. 2020-10-12 Monday 11:30-13:30   
+01. 2020-10-12 Monday 11:30-13:30  
     _Bitcoin as Digital Gold (Part 2)_  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
     Homework #1: read the _"Bitcoin: oro digitale, finanza e tulipani"_ interview;
     then send up to three questions that, in your opinion,
     might deserve further clarifications (deadline: 2020-10-18)
-01. 2020-10-19 Monday 11:30-13:30   
+01. 2020-10-19 Monday 11:30-13:30  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
     Homeworks are included in the slides; deadline: 2020-11-08  
-01. 2020-10-26 Monday 11:30-13:30   
+01. 2020-10-26 Monday 11:30-13:30  
     _Hash Functions_  
     Homeworks are included in the slides; deadline: 2020-11-08  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     _Blockchain, Mining, and Distributed Consensus (Part 1)_  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2020-11-02 Monday 11:30-13:30   
+01. 2020-11-02 Monday 11:30-13:30  
     _Blockchain, Mining, and Distributed Consensus (Part 2)_  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2020-11-09 Monday 11:30-13:30   
+01. 2020-11-09 Monday 11:30-13:30  
     _Elliptic Curve Digital Signature Algorithm_  
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
-01. 2020-11-16 Monday 11:30-13:30   
+01. 2020-11-16 Monday 11:30-13:30  
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     _Transactions and Scripts_  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
-01. 2020-11-23 Monday 11:30-13:30   
+01. 2020-11-23 Monday 11:30-13:30  
     _Beyond Bitcoin: Between Hype and Reality_  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
-01. 2020-11-30 Monday 11:30-13:30   
+01. 2020-11-30 Monday 11:30-13:30  
     _Wallets and Deterministic Key Chains_  
     [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
-01. 2020-12-14 Monday 11:30-13:30   
+01. 2020-12-14 Monday 11:30-13:30  
     _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
-01. 2020-12-16 Wednesday 11:30-13:30   
-    _Encryption and Final Q&A_  
+    [extra video](https://www.youtube.com/watch?v=dvgb2YOm1y4&list=PLTLa2tRY91LIERomYutM16smoQQ2UShoj&index=2&t=2922s)
+01. 2020-12-16 Wednesday 11:30-13:30  
+    _Final Q&A_  
+    _Extra Material: Diffie Hellman and Symmetric Cryptography_
+    _Extra Material: Schnorr Signature_
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
   
 ## Python library

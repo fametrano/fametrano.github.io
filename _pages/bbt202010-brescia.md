@@ -172,13 +172,13 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
-    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
-    [extra video](https://www.youtube.com/watch?v=dvgb2YOm1y4&list=PLTLa2tRY91LIERomYutM16smoQQ2UShoj&index=2&t=2922s)
+    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
+    [extra video](https://www.youtube.com/watch?v=dvgb2YOm1y4&list=PLTLa2tRY91LIERomYutM16smoQQ2UShoj&index=2&t=2922s)  
 01. 2020-12-16 Wednesday 11:30-13:30  
     _Final Q&A_  
     _Extra Material: Diffie Hellman and Symmetric Cryptography_  
     _Extra Material: Schnorr Signature_  
-    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
   
 ## Python library
 

@@ -92,7 +92,7 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDu
 01. 2020-10-13 Tuesday 14:30-16:30  
     _Workshop on Interest Rate Basics_  
     Homework #1: fill in the Excel spreadsheet (deadline: 2020-10-20)  
-    Homework #2: fill in the Excel spreadsheet (deadline: 2020-10-20)   
+    Homework #2: fill in the Excel spreadsheet (deadline: 2020-10-20)  
 01. 2020-10-16 Friday 12:30-14:30  
     _Workshop on Interest Rate Basics_  
     Homework #3: fill in the Excel spreadsheet (deadline: 2020-10-30)  

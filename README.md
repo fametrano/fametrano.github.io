@@ -7,8 +7,8 @@
 The first time setup requires Ruby and Jekyll installation, plus:
 
 ```shell
-$ gem install bundler
-$ bundle install
+gem install bundler
+bundle install
 ```
 
 Then, every time:

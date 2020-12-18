@@ -10,7 +10,7 @@ permalink: /bbt202102-bicocca/
 Department of Law, University of Milano-Bicocca
 
 If you have an e-mail _@campus.unimib.it_
-please join the 202103-bicocca channel in the Slack
+please join the 202102-bicocca channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
 using your first and last name (no nicknames);
 a profile picture would be appreciated, but is not mandatory.
@@ -109,8 +109,8 @@ Italian lessons, English slides.
 To pass the exam each student must solve all the assignments
 for every lesson. Please send the homeworks
 to the e-mail that will be indicated with subject
-**BBT202103-BICOCCA #1** for the first lesson,
-**BBT202103-BICOCCA #2** for the second lesson,
+**BBT202102-BICOCCA #1** for the first lesson,
+**BBT202102-BICOCCA #2** for the second lesson,
 etc.
 
 ## Lessons' calendar and material
@@ -181,11 +181,13 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _To be defined_  
     with [Andrea Conso](https://www.linkedin.com/in/andrea-conso/)  
 01. 2021-04-12 Monday 11:30-13:30  
-    _Timestamping and The OpenTimestamp Protocol_  
+    _Timestamping and the OpenTimestamp Protocol_  
 01. 2021-04-13 Tuesday 09:30-11:30  
-    _Catch-up Lesson_
+    _Anti-Money Laundering and Countering the Financing of Terrorism_
+    with [Vito Barbera](https://www.linkedin.com/in/vito-barbera-44883a89/)  
 01. 2021-04-14 Wednesday 11:30-13:30  
-    _Catch-up Lesson_
+    _The Fiscal Aspects of Crypto-Assets_
+    with [Francesco Avella](https://www.linkedin.com/in/francesco-avella-84b1a111/)  
 01. 2021-04-19 Monday 11:30-13:30  
     _Catch-up Lesson_
 01. 2021-04-20 Tuesday 09:30-11:30  

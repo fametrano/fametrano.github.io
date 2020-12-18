@@ -183,10 +183,10 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2021-04-12 Monday 11:30-13:30  
     _Timestamping and the OpenTimestamp Protocol_  
 01. 2021-04-13 Tuesday 09:30-11:30  
-    _Anti-Money Laundering and Countering the Financing of Terrorism_
+    _Anti-Money Laundering and Countering the Financing of Terrorism_  
     with [Vito Barbera](https://www.linkedin.com/in/vito-barbera-44883a89/)  
 01. 2021-04-14 Wednesday 11:30-13:30  
-    _The Fiscal Aspects of Crypto-Assets_
+    _The Fiscal Aspects of Crypto-Assets_  
     with [Francesco Avella](https://www.linkedin.com/in/francesco-avella-84b1a111/)  
 01. 2021-04-19 Monday 11:30-13:30  
     _Catch-up Lesson_

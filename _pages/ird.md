@@ -118,7 +118,8 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDu
     _Trading Obbligazionario_ ([slide](https://drive.google.com/file/d/1AE4v_KuQC6Btg28aLii4mhXMCqXQtOWQ))  
     Guest lecturer: [Andrea Bugin](https://www.linkedin.com/in/andrea-bugin-a326715)  
 01. 2020-12-01 Tuesday 14:30-16:30  
-    _Q&A on Plain Vanilla Volatility Products and Greeks_ with
+    _Q&A on Plain Vanilla Volatility Products and Greeks_  
+    with
     [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/),
     [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/), and
     [Nicola Moreni](https://www.linkedin.com/in/nicola-moreni-a636a7/)  

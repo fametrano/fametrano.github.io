@@ -7,7 +7,7 @@ image:
 permalink: /bbt202010-bicocca/
 ---
 
-## Bitcoin and Blockchain Technology, Fall 2020
+## Bitcoin and Blockchain Technology, October-December 2020
 
 Department of Statistics and Quantitative Methods, University of Milano-Bicocca
 

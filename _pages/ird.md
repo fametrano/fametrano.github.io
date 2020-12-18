@@ -136,7 +136,7 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDu
     _XVAs: Introduction to Valuation Adjustments_ ([slides](https://drive.google.com/file/d/10PSdz4-Tz_1lkJy3n3lJdYRVT-39iq3c))  
     Guest lecturer: [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/)  
 01. 2020-12-18 Friday 12:30-14:30  
-    _The Reform of Benchmark Interest Rate Indexes and Its Impact on Derivative Pricing_ ([slides-1](https://drive.google.com/file/d/1synNexpBT3TP_Q5I-JA5pK_FRBwgYZW-), [slides-2](https://drive.google.com/file/d/1qSjxnvG0lS6EUFDTDC35IuXovn_bqK2N))  
+    _The Reform of Benchmark Interest Rate Indexes and Its Impact on Derivative Pricing_ ([slides-1](https://drive.google.com/file/d/1Z6MmcpyUGXTxHMbVq6Xe8nFbBMVkSyKb), [slides-2](https://drive.google.com/file/d/1TAFJVGlSs2lkjc3-OZie3Kd_NXTKmQYL))  
     Guest lecturers: [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/)  
 01. 2020-12-22 Tuesday 14:30-16:30  
     _Conclusions and final Q&A_

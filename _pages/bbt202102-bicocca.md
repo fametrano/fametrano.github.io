@@ -2,7 +2,7 @@
 layout: page
 title: Bitcoin and Blockchain Technology Course
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
-permalink: /bbt202103-bicocca/
+permalink: /bbt202102-bicocca/
 ---
 
 ## Bitcoin and Blockchain Technology, February-April 2021
@@ -160,7 +160,6 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. 2021-03-23 Tuesday 09:30-11:30  
     _Diffie Hellman and Symmetric Cryptography_  
-    _Schnorr Signature_  
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
 01. 2021-03-24 Wednesday 11:30-13:30  
     _The Cryptocurrency Frontier in Monetary Engineering_  

@@ -210,4 +210,3 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 * Robert Sams,  
   _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_ (2015),  
   <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
-

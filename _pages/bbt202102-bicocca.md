@@ -170,16 +170,16 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
 01. 2021-03-30 Tuesday 09:30-11:30  
     _Digital Signature and Digital Identity_  
-    with [Emanuele Cisbani]()  
+    with [Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)  
 01. 2021-03-31 Wednesday 11:30-13:30  
     _To be defined_  
-    with [Francesca Mattassoglio]()  
+    with [Francesca Mattassoglio](https://www.linkedin.com/in/francesca-mattassoglio-93042697/)  
 01. 2021-04-06 Tuesday 09:30-11:30  
     _To be defined_  
-    with [Filippo Annunziata]()  
+    with [Filippo Annunziata](https://www.linkedin.com/in/filippo-annunziata-b0394767/)  
 01. 2021-04-07 Wednesday 11:30-13:30  
     _To be defined_  
-    with [Andrea Conso]()  
+    with [Andrea Conso](https://www.linkedin.com/in/andrea-conso/)  
 01. 2021-04-12 Monday 11:30-13:30  
     _Timestamping and The OpenTimestamp Protocol_  
 01. 2021-04-13 Tuesday 09:30-11:30  
@@ -284,4 +284,3 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
   _"Bitcoin: oro digitale per nuovi standard monetari_ (2020),  
   published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta,  and Alberto Mingardi)  
   <https://bit.ly/2NQg9VJ>
-

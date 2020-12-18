@@ -36,7 +36,7 @@ da allora bitcoin è il suo principale interesse
 professionale e accademico.
 
 Fondatore ed amministratore delegato di
-[CheckSig](<https://checksig.io)
+[CheckSig](https://checksig.io)
 (soluzioni trasparenti di custodia bitcoin
 per investitori istituzionali e _high-net-worth individuals_)
 e del [Digital Gold Institute](https://dgi.io)

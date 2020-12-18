@@ -9,7 +9,7 @@ permalink: /courses/
 
 * [Bitcoin and Blockchain Technology, October-December 2020]({{ site.baseurl }}/bbt202010-bicocca/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* [Interest Rate Derivatives, Fall 2020]({{ site.baseurl }}/ird/)  
+* [Interest Rate Derivatives, October-December 2020 ]({{ site.baseurl }}/ird/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
 * [Bitcoin and Blockchain Technology, October-December 2020]({{ site.baseurl }}/bbt202010-brescia/)  
   _Università Cattolica del Sacro Cuore (Brescia)_

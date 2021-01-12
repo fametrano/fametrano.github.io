@@ -9,7 +9,7 @@ permalink: /about/
 
 * Cofounder and Chief Executive Officer, CheckSig  
   <https://checksig.io>
-* Founder and Executive Director, Digital Gold Institute  
+* Founder and Scientific Director, Digital Gold Institute  
   <https://dgi.io>
 * Cofounder and Scientific Director, Crypto Asset Lab  
   Department of Business and Law, University of Milano-Bicocca  

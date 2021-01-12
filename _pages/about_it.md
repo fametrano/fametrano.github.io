@@ -9,7 +9,7 @@ permalink: /it/about/
 
 * Cofondatore e amministratore delegato, CheckSig  
   <https://checksig.io>
-* Fondatore e direttore esecutivo, Digital Gold Institute  
+* Fondatore e direttore scientifico, Digital Gold Institute  
   <https://dgi.io>
 * Cofondatore e direttore scientifico, Crypto Asset Lab  
   Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università degli Studi di Milano-Bicocca  

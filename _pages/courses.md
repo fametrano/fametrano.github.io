@@ -7,16 +7,16 @@ permalink: /courses/
 
 ## Current and upcoming university courses
 
-* [Bitcoin and Blockchain Technology, October-December 2020]({{ site.baseurl }}/bbt202010-bicocca/)  
-  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* [Interest Rate Derivatives, October-December 2020 ]({{ site.baseurl }}/ird/)  
-  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* [Bitcoin and Blockchain Technology, October-December 2020]({{ site.baseurl }}/bbt202010-brescia/)  
-  _Università Cattolica del Sacro Cuore (Brescia)_
 * [Bitcoin and Blockchain Technology, February-April 2021]({{ site.baseurl }}/bbt202102-bicocca/)  
   _Department of Law, University of Milano-Bicocca_
 * Bitcoin and Blockchain Technology, Spring 2021  
   _Department of Mathematics, University of Milan_
+* Bitcoin and Blockchain Technology, October-December 2021  
+  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
+* Interest Rate Derivatives, October-December 2021  
+  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
+* Bitcoin and Blockchain Technology, October-December 2021  
+  _Università Cattolica del Sacro Cuore (Brescia)_
 
 For events, seminars, and conferences where I have been engaged
 as speaker, panelist, MC, or lecturer see the dedicated [events]({{ site.baseurl }}/events/) page.
@@ -25,6 +25,12 @@ as speaker, panelist, MC, or lecturer see the dedicated [events]({{ site.baseurl
 
 ## Past university courses
 
+* [Bitcoin and Blockchain Technology, October-December 2020]({{ site.baseurl }}/bbt202010-bicocca/)  
+  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
+* [Interest Rate Derivatives, October-December 2020 ]({{ site.baseurl }}/ird/)  
+  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
+* [Bitcoin and Blockchain Technology, October-December 2020]({{ site.baseurl }}/bbt202010-brescia/)  
+  _Università Cattolica del Sacro Cuore (Brescia)_
 * [Bitcoin and Blockchain Technology, Spring 2020]({{ site.baseurl }}/bbt202003-math/)  
   _Department of Mathematics, University of Milan_
 * [Bitcoin and Blockchain Technology, Fall 2019]({{ site.baseurl }}/bbt201910-bicocca/)  

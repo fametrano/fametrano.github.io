@@ -7,7 +7,7 @@ image:
 permalink: /ird/
 ---
 
-## Interest Rate Derivatives, October-December 2020 
+## Interest Rate Derivatives, October-December 2020
 
 Department of Statistics and Quantitative Methods, Università di Milano-Bicocca
 

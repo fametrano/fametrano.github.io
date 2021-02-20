@@ -9,14 +9,16 @@ permalink: /bbt/
 
 ## Bitcoin and Blockchain Technology
 
-* [Bitcoin and Blockchain Technology, October-December 2020]({{ site.baseurl }}/bbt202010-bicocca/)  
-  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* [Bitcoin and Blockchain Technology, October-December 2020]({{ site.baseurl }}/bbt202010-brescia/)  
-  _Università Cattolica del Sacro Cuore (Brescia)_
-* [Bitcoin and Blockchain Technology, February-April 2021]({{ site.baseurl }}/bbt202002-bicocca/)  
+* [February-April 2021]({{ site.baseurl }}/bbt202102-bicocca/)  
   _Department of Law, University of Milano-Bicocca_
-* Bitcoin and Blockchain Technology, Spring 2021  
+* Spring 2021  
   _Department of Mathematics, University of Milan_
+* October-December 2021  
+  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
+* October-December 2021  
+  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
+* October-December 2021  
+  _Università Cattolica del Sacro Cuore (Brescia)_
 
 Please refer to the page dedicated to your university, if available above.
 
@@ -133,8 +135,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. _Schnorr Signature Algorithm_  
     _Optimization of The Elliptic Curve Scalar Multiplication_  
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
-01. _The Cryptocurrency Frontier
-in Monetary Engineering_  
+01. _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  

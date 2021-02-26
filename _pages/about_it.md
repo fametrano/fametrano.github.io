@@ -14,14 +14,14 @@ permalink: /it/about/
 * Cofondatore e direttore scientifico, Crypto Asset Lab  
   Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università degli Studi di Milano-Bicocca  
   <https://cryptoassetlab.diseade.unimib.it>
-* Professore a contratto di *Interest Rate Derivatives*  
-  Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
-  <https://www.unimib.it/ferdinando-maria-ametrano>
 * Professore a contratto di *Bitcoin and Blockchain Technology*  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
   Departmentimento di Giurisprudenza, Università degli Studi di Milano-Bicocca  
   Departmento di Matematica, Università degli Studi di Milano  
   Interfacoltà di Scienze Naturali e Giurisprudenza, Università Cattolica del Sacro Cuore (Brescia)  
+* Professore a contratto di *Interest Rate Derivatives*  
+  Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
+  <https://www.unimib.it/ferdinando-maria-ametrano>
 * Fondatore e coamministratore, QuantLib e btclib  
   <https://www.quantlib.org>, <https://github.com/dginst/btclib>
 
@@ -29,17 +29,19 @@ permalink: /it/about/
 
 ## Profilo biografico
 
-Dopo oltre venti anni in ambito
-_investment banking_ e _asset management_,
+Fisico per formazione universitaria,
+dopo oltre venti anni in ambito
+_investment banking_, _asset management_ e _quantitative finance_,
 Ferdinando Ametrano scopre bitcoin nel 2014:
 da allora bitcoin è il suo principale interesse
 professionale e accademico.
 
-Fondatore ed amministratore delegato di
+Cofondatore ed amministratore delegato di
 [CheckSig](https://checksig.io)
 (soluzioni trasparenti di custodia bitcoin
-per investitori istituzionali e _high-net-worth individuals_)
-e del [Digital Gold Institute](https://dgi.io)
+per investitori istituzionali e _high-net-worth individuals_),
+fondatore e direttore scientifico
+del [Digital Gold Institute](https://dgi.io)
 (R&D, consulenza e formazione su bitcoin e blockchain),
 Ferdinando è anche
 direttore scientifico

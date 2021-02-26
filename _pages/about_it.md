@@ -47,7 +47,7 @@ Ferdinando è anche
 direttore scientifico
 del [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it)
 dell'Università Milano-Bicocca, dove insegna
-*[Bitcoin and Blockchain Technologies]({{ site.baseurl }}/bbt/)*
+*[Bitcoin and Blockchain Technologies]({{ site.baseurl }}/bbt/)*.
 
 È stato in precedenza
 *[Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)*

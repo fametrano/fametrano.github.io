@@ -14,14 +14,14 @@ permalink: /about/
 * Cofounder and Scientific Director, Crypto Asset Lab  
   Department of Business and Law, University of Milano-Bicocca  
   <https://cryptoassetlab.diseade.unimib.it>
-* Adjunct Professor of "Interest Rate Derivatives"  
-  Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
-  <https://www.unimib.it/ferdinando-maria-ametrano>
 * Adjunct Professor of "Bitcoin and Blockchain Technology"  
   Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
   Department of Law, University of Milano-Bicocca  
   Department of Mathematics, University of Milano  
   Mathematical, Physical and Natural Sciences / Law Interfaculty, Università Cattolica del Sacro Cuore (Brescia)  
+* Adjunct Professor of "Interest Rate Derivatives"  
+  Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
+  <https://www.unimib.it/ferdinando-maria-ametrano>
 * Founder and coadministrator of QuantLib and btclib  
   <https://www.quantlib.org>, <https://github.com/dginst/btclib>
 
@@ -29,15 +29,17 @@ permalink: /about/
 
 ## Profile
 
-After almost twenty years
-in the investment banking and asset management industry,
+Former physicist,
+after almost twenty years
+in investment banking, asset management, and quantitive finance,
 Ferdinando Ametrano discovered bitcoin in 2014:
 since then bitcoin has been his major professional
 and academic interest.
 
-Founder and CEO of [CheckSig](https://checksig.io)
+Co-founder and CEO of [CheckSig](https://checksig.io)
 (transparent bitcoin custody solutions
-for institutional investors and high-net-worth individuals) and
+for institutional investors and high-net-worth individuals),
+founder and scientific director of the
 [Digital Gold Institute](https://dgi.io)
 (R&D, consultancy, and training about bitcoin and blockchain technology),
 Ferdinando is also scientific director of the
@@ -50,7 +52,7 @@ Former
 in Intesa Sanpaolo bank,
 he has been Planning Committee member of the
 [Scaling Bitcoin](https://scalingbitcoin.org/) conference,
-is current chair of the
+is chair of the
 [Crypto Asset Lab Conference](https://cryptoassetlab.diseade.unimib.it/calconf/)
 co-organized with the European Commission,
 is an occasional trivial contributor to

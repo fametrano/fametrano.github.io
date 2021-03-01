@@ -126,18 +126,18 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Bitcoin as Digital Gold_  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. 2021-02-25 Thursday 09:30-11:30  
-    _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
+    _Discrete Logarithm Problem on (Finite Fields and) Elliptic Curves_  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
 01. 2021-03-01 Monday 11:30-13:30  
     _Hash Functions_  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_
+    _Discrete Logarithm Problem on (Finite Fields and) Elliptic Curves_  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
 01. 2021-03-03 Wednesday 11:30-13:30  
-    _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_
+    _Discrete Logarithm Problem on (Finite Fields and) Elliptic Curves_  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
 01. 2021-03-04 Thursday 09:30-11:30  
-    _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_
+    _Discrete Logarithm Problem on (Finite Fields and) Elliptic Curves_  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
 01. 2021-03-08 Monday 11:30-13:30  
     _Blockchain, Mining, and Distributed Consensus_  

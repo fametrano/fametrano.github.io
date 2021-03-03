@@ -39,10 +39,10 @@ professionale e accademico.
 Cofondatore ed amministratore delegato di
 [CheckSig](https://checksig.io)
 (soluzioni trasparenti di custodia bitcoin
-per investitori istituzionali e _high-net-worth individuals_),
+per investitori istituzionali e persone ad alta patrimonializzazione),
 fondatore e direttore scientifico
 del [Digital Gold Institute](https://dgi.io)
-(R&D, consulenza e formazione su bitcoin e blockchain),
+(consulenza, formazione, ricerca e sviluppo su bitcoin e blockchain),
 Ferdinando è anche
 direttore scientifico
 del [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it)

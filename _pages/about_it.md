@@ -54,7 +54,7 @@ dell'Università Milano-Bicocca, dove insegna
 in Intesa Sanpaolo e
 membro del Comitato Organizzatore della conferenza
 [Scaling Bitcoin](https://scalingbitcoin.org/);
-è _chair_ della
+è presidente della
 [Crypto Asset Lab Conference](https://cryptoassetlab.diseade.unimib.it/calconf/)
 organizzata assieme alla Commissione Europea,
 contribuisce occasionalmente e marginalmente a
@@ -64,13 +64,27 @@ e manutiene
 
 Innovatore nel campo *fintech*,
 [sviluppatore *open source*](https://github.com/fametrano),
-è autore di [pubblicazioni scientifiche]({{ site.baseurl }}/papers/) e collabora con molteplici [organi di informazione]({{ site.baseurl }}/media/). Apprezzato come [docente]({{ site.baseurl }}/courses/) e divulgatore,
+è autore di [pubblicazioni scientifiche]({{ site.baseurl }}/papers/)
+e collabora con molteplici [organi di informazione]({{ site.baseurl }}/media/).
+Apprezzato come [docente]({{ site.baseurl }}/courses/) e divulgatore,
 esperto UN/CEFACT (United Nations Centre for Trade Facilitation and Electronic Business),
-è regolarmente invitato a parlare di bitcoin e blockchain in [eventi]({{ site.baseurl }}/events/), organizzati anche a [Montecitorio](https://youtube.com/watch?v=vLM3FUuCFLY&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=2), dalle [Nazioni Unite](https://youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ), da diverse banche centrali e numerose università.
+è regolarmente invitato a parlare di bitcoin e blockchain in
+[eventi]({{ site.baseurl }}/events/), organizzati anche a
+[Montecitorio](https://youtube.com/watch?v=vLM3FUuCFLY&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=2),
+dalle [Nazioni Unite](https://youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ),
+da diverse banche centrali e numerose università.
 
-La sua [ricerca accademica]({{ site.baseurl }}/papers/) è focalizzata sulla stabilità dei prezzi, proponendo una nuova generazione di criptovalute a politica monetaria elastica ma automatizzata e non discrezionale ([Hayek Money](https://ssrn.com/abstract=2425270)).
+La sua [ricerca accademica]({{ site.baseurl }}/papers/) è focalizzata sulla stabilità dei prezzi,
+proponendo una nuova generazione di criptovalute a politica monetaria
+elastica ma automatizzata e non discrezionale ([Hayek Money](https://ssrn.com/abstract=2425270)).
 
-È anche cofondatore e coamministratore di [QuantLib](https://www.quantlib.org), il più importante progetto *open source* di software per la finanza quantitativa. Insegna *[Interest Rate Derivatives]({{ site.baseurl }}/ird/)* all'Università Milano-Bicocca ed ha rilevanti pubblicazioni sull'[argomento](https://ssrn.com/author=510135). In passato ha guidato team di trading, quantitativi e risk management in Banca IMI, Banca Caboto e Monte Paschi Asset Management; è stato anche co-fondatore e managing partner di RiskMap (oggi StatPro Italia).
+È stato anche cofondatore e coamministratore di [QuantLib](https://www.quantlib.org),
+il più importante progetto *open source* di software per la finanza quantitativa.
+Insegna *[Interest Rate Derivatives]({{ site.baseurl }}/ird/)* all'Università Milano-Bicocca ed ha rilevanti
+pubblicazioni sull'[argomento](https://ssrn.com/author=510135).
+In passato ha guidato team di trading, quantitativi e risk management in
+Banca IMI, Banca Caboto e Monte Paschi Asset Management;
+è stato anche co-fondatore e managing partner di RiskMap (oggi StatPro Italia).
 
 I suoi genitori sono molto orgogliosi di lui,
 sua moglie sembra condividere il sentimento

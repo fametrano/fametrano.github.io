@@ -139,10 +139,10 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2021-03-04 Thursday 09:30-11:30  
     _Elliptic Curve Digital Signature Algorithm_  
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
-    _Python workshop on Hash Functions and Elliptic Curve Digital Signature Algorithm_  
-    _Schnorr Signature Algorithm (BIP340), Diffie-Hellman, Encryption Using AES_  
+    Extra: _Schnorr Signature Algorithm (BIP340), Diffie-Hellman, Encryption Using AES_  
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
 01. 2021-03-08 Monday 11:30-13:30  
+    _Python workshop on Hash Functions and Elliptic Curve Digital Signature Algorithm_  
     _Blockchain, Mining, and Distributed Consensus_  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2021-03-10 Wednesday 11:30-13:30  

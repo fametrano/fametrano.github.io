@@ -154,10 +154,10 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Transactions and Scripts_  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
 01. 2021-03-15 Monday 11:30-13:30  
-    _Beyond Bitcoin: Between Hype and Reality_  
+    _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. 2021-03-17 Wednesday 11:30-13:30  
-    _Beyond Bitcoin: Between Hype and Reality_  
+    _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. 2021-03-18 Thursday 09:30-11:30  
     _Wallets and Deterministic Key Chains_  

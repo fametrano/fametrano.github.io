@@ -149,7 +149,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Blockchain, Mining, and Distributed Consensus_  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2021-03-11 Thursday 09:30-11:30  
-    _Blockchain, Mining, and Distributed Consensus_  
+    _Blockchain, Mining, and Distributed Consensus (Q&A)_  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2021-03-15 Monday 11:30-13:30  
     _Addresses, WIFs, and Bitcoin Message Signing_  
@@ -176,8 +176,8 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
 01. 2021-03-31 Wednesday 11:30-13:30  
-    _Digital Signature and Digital Identity_  
-    with [Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)  
+    _Timestamping and the OpenTimestamp Protocol_  
+    with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/)  
 01. 2021-04-01 Thursday 09:30-11:30  
     _To be defined_  
     with [Francesca Mattassoglio](https://www.linkedin.com/in/francesca-mattassoglio-93042697/)  
@@ -188,8 +188,8 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _To be defined_  
     with [Andrea Conso](https://www.linkedin.com/in/andrea-conso/)  
 01. 2021-04-12 Monday 11:30-13:30  
-    _Timestamping and the OpenTimestamp Protocol_  
-    with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/)  
+    _Digital Signature and Digital Identity_  
+    with [Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)  
 01. 2021-04-14 Wednesday 11:30-13:30  
     _Anti-Money Laundering and Countering the Financing of Terrorism_  
     with [Vito Barbera](https://www.linkedin.com/in/vito-barbera-44883a89/)  

@@ -154,17 +154,15 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2021-03-18 Thursday 09:30-11:30  
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
+01. 2021-03-22 Monday 11:30-13:30  
     _Transactions and Scripts_  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
-01. 2021-03-22 Monday 11:30-13:30  
+01. 2021-03-24 Wednesday 11:30-13:30  
     _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-01. 2021-03-24 Wednesday 11:30-13:30  
-    _Wallets and Deterministic Key Chains_  
-    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. 2021-03-25 Thursday 09:30-11:30  
-    _The Cryptocurrency Frontier in Monetary Engineering_  
-    _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
+    _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_  
+    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. 2021-03-29 Monday 11:30-13:30  
     _Timestamping and the OpenTimestamp Protocol_  
     with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/)  
@@ -181,9 +179,8 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _To be defined_  
     with [Andrea Conso](https://www.linkedin.com/in/andrea-conso/)  
 01. 2021-04-12 Monday 11:30-13:30  
-    _Hayek Money and Dual Asset Ledger_  
-    [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
-    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
+    _Wallets and Deterministic Key Chains_  
+    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. 2021-04-14 Wednesday 11:30-13:30  
     _Anti-Money Laundering and Countering the Financing of Terrorism_  
     with [Vito Barbera](https://www.linkedin.com/in/vito-barbera-44883a89/)  
@@ -191,17 +188,21 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _The Fiscal Aspects of Crypto-Assets_  
     with [Francesco Avella](https://www.linkedin.com/in/francesco-avella-84b1a111/)  
 01. 2021-04-19 Monday 11:30-13:30  
-    _Catch-up Lesson_
+    _The Cryptocurrency Frontier in Monetary Engineering_  
+    _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
+    _Hayek Money and Dual Asset Ledger_  
+    [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
+    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
 01. 2021-04-21 Wednesday 11:30-13:30  
-    _Catch-up Lesson_
+    _Catch-up Lesson_  
 01. 2021-04-22 Thursday 09:30-11:30  
-    _Catch-up Lesson_
+    _Catch-up Lesson_  
 01. 2021-04-26 Monday 11:30-13:30  
-    _Catch-up Lesson_
+    _Catch-up Lesson_  
 01. 2021-04-28 Wednesday 11:30-13:30  
-    _Catch-up Lesson_
+    _Catch-up Lesson_  
 01. 2021-04-29 Thursday 09:30-11:30  
-    _Catch-up Lesson_
+    _Catch-up Lesson_  
 
 In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 

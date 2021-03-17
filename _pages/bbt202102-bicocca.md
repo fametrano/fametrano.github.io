@@ -170,7 +170,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Digital Signature and Digital Identity_  
     with [Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)  
 01. 2021-04-01 Thursday 09:30-11:30  
-    _Le misure di prevenzione dei reati finanziari in ambito dei crypto-asset_  
+    _Le misure di prevenzione dei reati finanziari in ambito crypto-asset_  
     with [Vito Barbera](https://www.linkedin.com/in/vito-barbera-44883a89/)  
 01. 2021-04-07 Wednesday 11:30-13:30  
     _To be defined_  

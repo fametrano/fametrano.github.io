@@ -170,8 +170,8 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Digital Signature and Digital Identity_  
     with [Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)  
 01. 2021-04-01 Thursday 09:30-11:30  
-    _Le misure di prevenzione dei reati finanziari in ambito crypto-asset_  
-    with [Vito Barbera](https://www.linkedin.com/in/vito-barbera-44883a89/)  
+    _Wallets and Deterministic Key Chains_  
+    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. 2021-04-07 Wednesday 11:30-13:30  
     _To be defined_  
     with [Filippo Annunziata](https://www.linkedin.com/in/filippo-annunziata-b0394767/)  
@@ -179,14 +179,14 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _To be defined_  
     with [Andrea Conso](https://www.linkedin.com/in/andrea-conso/)  
 01. 2021-04-12 Monday 11:30-13:30  
-    _Wallets and Deterministic Key Chains_  
-    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. 2021-04-14 Wednesday 11:30-13:30  
-    _CBDC ed Euro digitale_  
-    with [Francesca Mattassoglio](https://www.linkedin.com/in/francesca-mattassoglio-93042697/)  
-01. 2021-04-15 Thursday 09:30-11:30  
     _The Fiscal Aspects of Crypto-Assets_  
     with [Francesco Avella](https://www.linkedin.com/in/francesco-avella-84b1a111/)  
+01. 2021-04-14 Wednesday 11:30-13:30  
+    _CBDC e Euro digitale_  
+    with [Francesca Mattassoglio](https://www.linkedin.com/in/francesca-mattassoglio-93042697/)  
+01. 2021-04-15 Thursday 09:30-11:30  
+    _Le misure di prevenzione dei reati finanziari in ambito crypto-asset_  
+    with [Vito Barbera](https://www.linkedin.com/in/vito-barbera-44883a89/)  
 01. 2021-04-19 Monday 11:30-13:30  
     _The Cryptocurrency Frontier in Monetary Engineering_  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  

@@ -179,7 +179,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _To be defined_  
     with [Andrea Conso](https://www.linkedin.com/in/andrea-conso/)  
 01. 2021-04-12 Monday 11:30-13:30  
-    _The Fiscal Aspects of Crypto-Assets_  
+    _The Tax Aspects of Crypto-Assets_  
     with [Francesco Avella](https://www.linkedin.com/in/francesco-avella-84b1a111/)  
 01. 2021-04-14 Wednesday 11:30-13:30  
     _CBDC e Euro digitale_  

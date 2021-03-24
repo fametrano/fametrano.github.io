@@ -159,6 +159,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
 01. 2021-03-24 Wednesday 11:30-13:30  
     _Timestamping and the OpenTimestamp Protocol_  
+    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)
     with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/)  
 01. 2021-03-25 Thursday 09:30-11:30  
     _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_  

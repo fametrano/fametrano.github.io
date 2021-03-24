@@ -158,14 +158,14 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Transactions and Scripts_  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
 01. 2021-03-24 Wednesday 11:30-13:30  
-    _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_  
-    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
+    _Timestamping and the OpenTimestamp Protocol_  
+    with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/)  
 01. 2021-03-25 Thursday 09:30-11:30  
     _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. 2021-03-29 Monday 11:30-13:30  
-    _Timestamping and the OpenTimestamp Protocol_  
-    with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/)  
+    _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_  
+    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. 2021-03-31 Wednesday 11:30-13:30  
     _Digital Signature and Digital Identity_  
     with [Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)  

@@ -173,7 +173,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Wallets and Deterministic Key Chains_  
     [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. 2021-04-07 Wednesday 11:30-13:30  
-    _To be defined_  
+    _The "Digital finance package" of the EU Commission_  
     with [Filippo Annunziata](https://www.linkedin.com/in/filippo-annunziata-b0394767/)  
 01. 2021-04-08 Thursday 09:30-11:30  
     _To be defined_  

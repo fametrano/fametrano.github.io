@@ -170,9 +170,6 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2021-03-31 Wednesday 11:30-13:30  
     _Digital Signature and Digital Identity_  
     with [Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)  
-01. 2021-04-01 Thursday 09:30-11:30  
-    _Wallets and Deterministic Key Chains_  
-    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
 01. 2021-04-07 Wednesday 11:30-13:30  
     _The "Digital finance package" of the EU Commission_  
     with [Filippo Annunziata](https://www.linkedin.com/in/filippo-annunziata-b0394767/)  
@@ -189,13 +186,14 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Le misure di prevenzione dei reati finanziari in ambito crypto-asset_  
     with [Vito Barbera](https://www.linkedin.com/in/vito-barbera-44883a89/)  
 01. 2021-04-19 Monday 11:30-13:30  
+    _Wallets and Deterministic Key Chains_  
+    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
+01. 2021-04-21 Wednesday 11:30-13:30  
     _The Cryptocurrency Frontier in Monetary Engineering_  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _Hayek Money and Dual Asset Ledger_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
-01. 2021-04-21 Wednesday 11:30-13:30  
-    _Catch-up Lesson_  
 01. 2021-04-22 Thursday 09:30-11:30  
     _Catch-up Lesson_  
 01. 2021-04-26 Monday 11:30-13:30  

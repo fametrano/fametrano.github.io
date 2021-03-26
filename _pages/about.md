@@ -72,8 +72,9 @@ and has been
 invited to private and public [events]({{ site.baseurl }}/events/)
 about bitcoin at the
 [United Nations](https://youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ),
-central banks,
 the [Italian Parliament](https://youtube.com/watch?v=vLM3FUuCFLY),
+the Italian office of the [European Parliament](https://www.youtube.com/watch?v=QLC_qGeZBR8),
+central banks,
 universities, conferences, and workshops.
 
 His [academic research]({{ site.baseurl }}/papers/)

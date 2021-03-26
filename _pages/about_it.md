@@ -68,10 +68,11 @@ Innovatore nel campo *fintech*,
 e collabora con molteplici [organi di informazione]({{ site.baseurl }}/media/).
 Apprezzato come [docente]({{ site.baseurl }}/courses/) e divulgatore,
 esperto UN/CEFACT (United Nations Centre for Trade Facilitation and Electronic Business),
-è regolarmente invitato a parlare di bitcoin e blockchain in
+è regolarmente invitato a parlare di bitcoin in
 [eventi]({{ site.baseurl }}/events/), organizzati anche a
 [Montecitorio](https://youtube.com/watch?v=vLM3FUuCFLY&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=2),
 dalle [Nazioni Unite](https://youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ),
+dall'ufficio italiano del [Parlamento Europeo](https://www.youtube.com/watch?v=QLC_qGeZBR8),
 da diverse banche centrali e numerose università.
 
 La sua [ricerca accademica]({{ site.baseurl }}/papers/) è focalizzata sulla stabilità dei prezzi,

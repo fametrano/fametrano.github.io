@@ -126,9 +126,10 @@ Two pages CV: <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 ## Bitcoin Public Address
 
-1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG  
-[![Bitcoin public address]({{ site.baseurl }}/images/btc-address.png)](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
+bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0  
+[![Bitcoin public address]({{ site.baseurl }}/images/btc_p2wpkh_address.png)](bitcoin:bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0)
 
+1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG (discontinued)
 ---
 
 ## Profile Pictures

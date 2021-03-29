@@ -126,10 +126,13 @@ Two pages CV: <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 ## Bitcoin Public Address
 
-bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0  
+bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0 (p2wpkh)  
 [![Bitcoin public address]({{ site.baseurl }}/images/btc_p2wpkh_address.png)](bitcoin:bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0)
 
-1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG (discontinued)
+3BrVgjhDVpMk6qLKJneQhx3426r8CGLYYp (legacy p2wpkh-p2sh)  
+1FSiPiu772NRMZPxXrugWECx2681CTE1JY (discontinued: compressed p2pkh)  
+1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG (discontinued: uncompressed p2pkh)
+
 ---
 
 ## Profile Pictures

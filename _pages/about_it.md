@@ -122,10 +122,12 @@ CV (due pagine): <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 ## Indirizzo pubblico bitcoin
 
-bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0  
+bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0 (p2wpkh)  
 [![Indirizzo pubblico bitcoin]({{ site.baseurl }}/images/btc_p2wpkh_address.png)](bitcoin:bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0)
 
-1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG (dismesso)
+3BrVgjhDVpMk6qLKJneQhx3426r8CGLYYp (legacy p2wpkh-p2sh)  
+1FSiPiu772NRMZPxXrugWECx2681CTE1JY (dismesso: compressed p2pkh)  
+1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG (dismesso: uncompressed p2pkh)
 
 ---
 

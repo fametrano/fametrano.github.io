@@ -122,8 +122,10 @@ CV (due pagine): <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 ## Indirizzo pubblico bitcoin
 
-1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG  
-[![Indirizzo pubblico bitcoin]({{ site.baseurl }}/images/btc-address.png)](bitcoin:1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG)
+bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0  
+[![Indirizzo pubblico bitcoin]({{ site.baseurl }}/images/btc_p2wpkh_address.png)](bitcoin:bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0)
+
+1FEz167JCVgBvhJBahpzmrsTNewhiwgWVG (dismesso)
 
 ---
 

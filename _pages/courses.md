@@ -9,7 +9,7 @@ permalink: /courses/
 
 * [Bitcoin and Blockchain Technology, February-April 2021]({{ site.baseurl }}/bbt202102-bicocca/)  
   _Department of Law, University of Milano-Bicocca_
-* Bitcoin and Blockchain Technology, Spring 2021  
+* [Bitcoin and Blockchain Technology, May-June 2021]({{ site.baseurl }}/bbt202103-math/)  
   _Department of Mathematics, University of Milan_
 * Bitcoin and Blockchain Technology, October-December 2021  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_

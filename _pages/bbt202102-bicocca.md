@@ -170,7 +170,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2021-03-31 Wednesday 11:30-13:30  
     _Digital Signature and Digital Identity: From RSA to eIDAS_  
     with [Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)  
-    [slides](https://docs.google.com/presentation/d/1SzML76vueT5Wm_O2JsNBSaPiriWkOm8rNifGnfL98yE/edit?ts=606436c4)
+    [slides](https://docs.google.com/presentation/d/1SzML76vueT5Wm_O2JsNBSaPiriWkOm8rNifGnfL98yE)
 01. 2021-04-07 Wednesday 11:30-13:30  
     _The "Digital finance package" of the EU Commission_  
     with [Filippo Annunziata](https://www.linkedin.com/in/filippo-annunziata-b0394767/)  

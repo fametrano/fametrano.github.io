@@ -5,7 +5,7 @@ description: Bitcoin and Blockchain Technology course, including slides, code, v
 permalink: /bbt202103-math/
 ---
 
-## Bitcoin and Blockchain Technology, Spring 2021
+## Bitcoin and Blockchain Technology, May-June 2021
 
 Department of Mathematics, University of Milano
 

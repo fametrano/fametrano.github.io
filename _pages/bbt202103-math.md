@@ -117,40 +117,46 @@ etc.
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
-01. Date to be announced  
+01. 2021-05-05 Wednesday 16:30-18:30  
     _Bitcoin as Digital Gold_  
-    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
-01. Date to be announced  
-    _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
-    [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
-01. Date to be announced  
-    _Hash Functions_  
+    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
+01. 2021-05-06 Thurday 14:30-16:30  
+     _Hash Functions_  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     _Blockchain, Mining, and Distributed Consensus_  
-    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
-01. Date to be announced  
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
+01. 2021-05-12 Wednesday 16:30-18:30  
+    _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
+    [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
+01. 2021-05-13 Thurday 14:30-16:30  
     _Elliptic Curve Digital Signature Algorithm_  
-    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. Date to be announced  
-    _Addresses, WIFs, and Bitcoin Message Signing_  
-    [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
-    _Transactions and Scripts_  
-    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
-01. Date to be announced  
-    _Beyond Bitcoin: Between Hype and Reality_  
-    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-01. Date to be announced  
-    _Wallets and Deterministic Key Chains_  
-    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. Date to be announced  
     _Schnorr Signature Algorithm_  
     _Optimization of The Elliptic Curve Scalar Multiplication_  
-    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. Date to be announced  
+    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
+01. 2021-05-19 Wednesday 16:30-18:30  
+    _Addresses, WIFs, and Bitcoin Message Signing_  
+    [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
+01. 2021-05-20 Thurday 14:30-16:30  
+    _Transactions and Scripts_  
+    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
+01. 2021-05-26 Wednesday 16:30-18:30  
+    _Timestamping and the OpenTimestamps Protocol_  
+    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)
+01. 2021-05-27 Thurday 14:30-16:30  
+    _Wallets and Deterministic Key Chains_  
+    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
+01. 2021-06-02 Wednesday 16:30-18:30  
+    _Beyond Bitcoin: Between Hype and Reality_  
+    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+01. 2021-06-03 Thurday 14:30-16:30  
     _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
-    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
+    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
+01. 2021-06-09 Wednesday 16:30-18:30  
+    _Catch-up Lesson_  
+01. 2021-06-10 Thurday 14:30-16:30  
+    _Catch-up Lesson_  
 
 In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 

@@ -158,7 +158,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Transactions and Scripts_  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
 01. 2021-03-24 Wednesday 11:30-13:30  
-    _Beyond Bitcoin: Timestamping and the OpenTimestamps Protocol_  
+    _Timestamping and the OpenTimestamps Protocol_  
     [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)
     with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/)  
 01. 2021-03-25 Thursday 09:30-11:30  
@@ -168,8 +168,9 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. 2021-03-31 Wednesday 11:30-13:30  
-    _Digital Signature and Digital Identity_  
+    _Digital Signature and Digital Identity: From RSA to eIDAS_  
     with [Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)  
+    [slides](https://docs.google.com/presentation/d/1SzML76vueT5Wm_O2JsNBSaPiriWkOm8rNifGnfL98yE/edit?ts=606436c4)
 01. 2021-04-07 Wednesday 11:30-13:30  
     _The "Digital finance package" of the EU Commission_  
     with [Filippo Annunziata](https://www.linkedin.com/in/filippo-annunziata-b0394767/)  

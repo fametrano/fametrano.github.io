@@ -170,22 +170,27 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2021-03-31 Wednesday 11:30-13:30  
     _Digital Signature and Digital Identity: From RSA to eIDAS_  
     with [Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)  
-    [slides](https://docs.google.com/presentation/d/1SzML76vueT5Wm_O2JsNBSaPiriWkOm8rNifGnfL98yE)
+    [slides](https://drive.google.com/file/d/1Ym9K-gHx8H2jMBND0tdjXhvpVCNZa8FB)
 01. 2021-04-07 Wednesday 11:30-13:30  
     _The "Digital finance package" of the EU Commission_  
     with [Filippo Annunziata](https://www.linkedin.com/in/filippo-annunziata-b0394767/)  
+    [slides to be provided](https://drive.google.com/drive/folders/1e9oG0mWJp_5aUuw7i4CvPFIW5pse3HdZ)
 01. 2021-04-08 Thursday 09:30-11:30  
-    _To be defined_  
+    _L'iniziativa europea MICA (Market Infrastructure for Crypto-Assets) ed il problema della definizione dei crypto-asset_  
     with [Andrea Conso](https://www.linkedin.com/in/andrea-conso/)  
+    [slides to be provided](https://drive.google.com/drive/folders/1e9oG0mWJp_5aUuw7i4CvPFIW5pse3HdZ)
 01. 2021-04-12 Monday 11:30-13:30  
     _The Tax Aspects of Crypto-Assets_  
     with [Francesco Avella](https://www.linkedin.com/in/francesco-avella-84b1a111/)  
+    [slides to be provided](https://drive.google.com/drive/folders/1e9oG0mWJp_5aUuw7i4CvPFIW5pse3HdZ)
 01. 2021-04-14 Wednesday 11:30-13:30  
     _CBDC e Euro digitale_  
     with [Francesca Mattassoglio](https://www.linkedin.com/in/francesca-mattassoglio-93042697/)  
+    [slides to be provided](https://drive.google.com/drive/folders/1e9oG0mWJp_5aUuw7i4CvPFIW5pse3HdZ)
 01. 2021-04-15 Thursday 09:30-11:30  
     _Le misure di prevenzione dei reati finanziari in ambito crypto-asset_  
     with [Vito Barbera](https://www.linkedin.com/in/vito-barbera-44883a89/)  
+    [slides to be provided](https://drive.google.com/drive/folders/1e9oG0mWJp_5aUuw7i4CvPFIW5pse3HdZ)
 01. 2021-04-19 Monday 11:30-13:30  
     _Wallets and Deterministic Key Chains_  
     [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  

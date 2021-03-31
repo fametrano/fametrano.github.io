@@ -11,10 +11,8 @@ permalink: /bbt/
 
 * [February-April 2021]({{ site.baseurl }}/bbt202102-bicocca/)  
   _Department of Law, University of Milano-Bicocca_
-* Spring 2021  
+* [May-June 2021]({{ site.baseurl }}/bbt202103-math/)  
   _Department of Mathematics, University of Milan_
-* October-December 2021  
-  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
 * October-December 2021  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
 * October-December 2021  

@@ -172,7 +172,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     with [Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)  
     [slides](https://drive.google.com/file/d/1Ym9K-gHx8H2jMBND0tdjXhvpVCNZa8FB)
 01. 2021-04-07 Wednesday 11:30-13:30  
-    _NEW TRENDS IN FINTECH: BLOCKCHAIN AND AI_  
+    _New trands in FinTech: Blockchain and AI_  
     with [Filippo Annunziata](https://www.linkedin.com/in/filippo-annunziata-b0394767/)  
     [slides](https://drive.google.com/file/d/1SRx8YNC3VE54R2Xd9WpKXuF2WA4JFN2x)
 01. 2021-04-08 Thursday 09:30-11:30  

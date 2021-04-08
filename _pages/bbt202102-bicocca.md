@@ -178,7 +178,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2021-04-08 Thursday 09:30-11:30  
     _Regulation on Markets in Cryptoassets (MiCA)_  
     with [Andrea Conso](https://www.linkedin.com/in/andrea-conso/)  
-    [slides to be provided](https://drive.google.com/file/d/1sl-mVjX6uqMuJRzWU8FesWCCFa39c4rH)
+    [slides](https://drive.google.com/file/d/1sl-mVjX6uqMuJRzWU8FesWCCFa39c4rH)
 01. 2021-04-12 Monday 11:30-13:30  
     _The Tax Aspects of Crypto-Assets_  
     with [Francesco Avella](https://www.linkedin.com/in/francesco-avella-84b1a111/)  

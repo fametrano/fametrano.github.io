@@ -176,9 +176,9 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     with [Filippo Annunziata](https://www.linkedin.com/in/filippo-annunziata-b0394767/)  
     [slides](https://drive.google.com/file/d/1SRx8YNC3VE54R2Xd9WpKXuF2WA4JFN2x)
 01. 2021-04-08 Thursday 09:30-11:30  
-    _L'iniziativa europea MiCA (Markets in Crypto-Assets) ed il problema della definizione dei crypto-asset_  
+    _Regulation on Markets in Cryptoassets (MiCA)_  
     with [Andrea Conso](https://www.linkedin.com/in/andrea-conso/)  
-    [slides to be provided](https://drive.google.com/drive/folders/1e9oG0mWJp_5aUuw7i4CvPFIW5pse3HdZ)
+    [slides to be provided](https://drive.google.com/file/d/1sl-mVjX6uqMuJRzWU8FesWCCFa39c4rH)
 01. 2021-04-12 Monday 11:30-13:30  
     _The Tax Aspects of Crypto-Assets_  
     with [Francesco Avella](https://www.linkedin.com/in/francesco-avella-84b1a111/)  

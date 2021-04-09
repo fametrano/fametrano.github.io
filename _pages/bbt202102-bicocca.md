@@ -182,7 +182,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2021-04-12 Monday 11:30-13:30  
     _The Tax Aspects of Crypto-Assets_  
     with [Francesco Avella](https://www.linkedin.com/in/francesco-avella-84b1a111/)  
-    [slides to be provided](https://drive.google.com/drive/folders/1e9oG0mWJp_5aUuw7i4CvPFIW5pse3HdZ)
+    [slides](https://drive.google.com/file/d/1UeBZ9J6llc0TqjW5QSE77HqKZHdOosM_)
 01. 2021-04-15 Thursday 09:30-11:30  
     _Le misure di prevenzione dei reati finanziari in ambito crypto-asset_  
     with [Vito Barbera](https://www.linkedin.com/in/vito-barbera-44883a89/)  

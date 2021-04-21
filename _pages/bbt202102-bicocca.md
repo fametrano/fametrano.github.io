@@ -193,7 +193,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2021-04-21 Wednesday 11:30-13:30  
     _CBDC e Euro digitale_  
     with [Francesca Mattassoglio](https://www.linkedin.com/in/francesca-mattassoglio-93042697/)  
-    [slides to be provided](https://drive.google.com/drive/folders/1e9oG0mWJp_5aUuw7i4CvPFIW5pse3HdZ)
+    [slides](https://drive.google.com/file/d/1czk87aaIvN_Bm8V-N51-0CojMIshy9PW)
 01. 2021-04-22 Thursday 09:30-11:30  
     _The Cryptocurrency Frontier in Monetary Engineering_  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  

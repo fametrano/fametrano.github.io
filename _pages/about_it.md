@@ -1,9 +1,21 @@
 ---
 layout: page
 title: Profilo di Ferdinando Ametrano
-description: "Profile di Ferdinando M. Ametrano: affiliazioni, biografia, social networks, foto, indirizzo pubblico bitcoin"
+description: "Profilo di Ferdinando M. Ametrano: affiliazioni, biografia, social networks, foto, indirizzo pubblico bitcoin"
 permalink: /it/about/
 ---
+
+
+Ferdinando Ametrano
+insegna _Bitcoin e tecnologia blockchain_ all'Università Milano-Bicocca
+ed è
+amministratore delegato di CheckSig, società di custodia bitcoin
+per investitori istituzionali e persone ad alta patrimonializzazione.
+
+## Affiliazione sintetica
+
+Ferdinando M. Ametrano  
+Università Milano-Bicocca e AD CheckSig
 
 ## Affiliazioni
 

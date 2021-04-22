@@ -200,8 +200,6 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Hayek Money and Dual Asset Ledger_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
-01. 2021-04-26 Monday 11:30-13:30  
-    _Catch-up Lesson_  
 01. 2021-04-28 Wednesday 11:30-13:30  
     _Catch-up Lesson_  
 01. 2021-04-29 Thursday 09:30-11:30  

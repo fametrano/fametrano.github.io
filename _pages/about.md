@@ -5,6 +5,17 @@ description: "Profile of Ferdinando M. Ametrano: affiliations, bio, social netwo
 permalink: /about/
 ---
 
+Ferdinando Ametrano
+teaches _Bitcoin and Blockchain Technology_ at the Milano-Bicocca University
+and
+is CEO of CheckSig, a company specialized in bitcoin custody services
+for institutional investors and high-net-worth individuals.
+
+## Short Affiliation
+
+Ferdinando M. Ametrano  
+Milano-Bicocca University and CEO CheckSig
+
 ## Current Affiliations
 
 * Cofounder and Chief Executive Officer, CheckSig  

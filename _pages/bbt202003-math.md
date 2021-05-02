@@ -7,7 +7,7 @@ permalink: /bbt202003-math/
 
 ## Bitcoin and Blockchain Technology, Spring 2020
 
-Department of Mathematics, University of Milano
+Department of Mathematics, University of Milan
 
 __The course is confirmed: because of COVID-19
 it will be streaming only.__

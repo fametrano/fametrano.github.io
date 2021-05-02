@@ -19,7 +19,7 @@ using your first and last name (no nicknames);
 a profile picture would be appreciated, but is not mandatory.
 Updates and conversations about the course will be posted in the Slack channel.
 
-The course is for the students of University of Milano only;
+The course is for the students of University of Milan (La Statale) only;
 anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives

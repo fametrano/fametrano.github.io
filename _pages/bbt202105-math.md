@@ -7,7 +7,7 @@ permalink: /bbt202105-math/
 
 ## Bitcoin and Blockchain Technology, May-June 2021
 
-Department of Mathematics, University of Milano
+Department of Mathematics, University of Milan
 
 If you have an e-mail _@studenti.unimi.it_
 please join the 202103-math channel in the Slack

@@ -123,16 +123,16 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2021-05-06 Thurday 14:30-16:30  
      _Hash Functions_  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    _Blockchain, Mining, and Distributed Consensus_  
-    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2021-05-12 Wednesday 16:30-18:30  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
-01. 2021-05-13 Thurday 14:30-16:30  
+01. 2021-05-12 Wednesday 16:30-18:30  
     _Elliptic Curve Digital Signature Algorithm_  
     _Schnorr Signature Algorithm_  
     _Optimization of The Elliptic Curve Scalar Multiplication_  
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
+01. 2021-05-13 Thurday 14:30-16:30  
+    _Blockchain, Mining, and Distributed Consensus_  
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2021-05-19 Wednesday 16:30-18:30  
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  

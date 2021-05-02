@@ -29,7 +29,7 @@ technology.
 
 Starting from a computationally focused approach to
 elliptic curves over finite fields and
-presenting the discrete logarithm problem as cornerstone of public-key
+presenting the discrete logarithm problem as the cornerstone of public-key
 cryptography, bitcoin is introduced as ingenious breakthrough innovation.
 
 Its game theory, computer science (distributed systems, distributed

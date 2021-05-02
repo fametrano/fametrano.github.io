@@ -28,7 +28,7 @@ Milano-Bicocca University and CEO CheckSig
 * Adjunct Professor of "Bitcoin and Blockchain Technology"  
   Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
   Department of Law, University of Milano-Bicocca  
-  Department of Mathematics, University of Milano  
+  Department of Mathematics, University of Milan (La Statale)  
   Mathematical, Physical and Natural Sciences / Law Interfaculty, Università Cattolica del Sacro Cuore (Brescia)  
 * Adjunct Professor of "Interest Rate Derivatives"  
   Department of Statistics and Quantitative Methods, University of Milano-Bicocca  

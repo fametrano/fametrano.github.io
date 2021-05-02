@@ -2,7 +2,7 @@
 layout: page
 title: Bitcoin and Blockchain Technology Course
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
-permalink: /bbt202103-math/
+permalink: /bbt202105-math/
 ---
 
 ## Bitcoin and Blockchain Technology, May-June 2021
@@ -16,7 +16,7 @@ using your first and last name (no nicknames);
 a profile picture would be appreciated, but is not mandatory.
 Updates and conversations about the course will be posted in the Slack channel.
 
-The course is for the students of University of Milano only;
+The course is for the students of University of Milan (La Statale) only;
 anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives
@@ -109,8 +109,8 @@ Italian or English, the latter if foreign students are present.
 To pass the exam each student must solve all the assignments
 for every lesson. Please send the homeworks
 to the e-mail that will be indicated with subject
-**BBT202103-MATH #1** for the first lesson,
-**BBT202103-MATH #2** for the second lesson,
+**BBT202105-MATH #1** for the first lesson,
+**BBT202105-MATH #2** for the second lesson,
 etc.
 
 ## Lessons' calendar and material

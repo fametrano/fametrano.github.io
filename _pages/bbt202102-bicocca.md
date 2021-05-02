@@ -115,8 +115,6 @@ etc.
 
 ## Lessons' calendar and material
 
-2021-02-25 Thursday 09:30-11:30  
-
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
 01. 2021-02-22 Monday 11:30-13:30  
@@ -200,10 +198,6 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Hayek Money and Dual Asset Ledger_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
-01. 2021-04-28 Wednesday 11:30-13:30  
-    _Catch-up Lesson_  
-01. 2021-04-29 Thursday 09:30-11:30  
-    _Catch-up Lesson_  
 
 In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 

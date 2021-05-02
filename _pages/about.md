@@ -86,7 +86,7 @@ about bitcoin at the
 the [Italian Parliament](https://youtube.com/watch?v=vLM3FUuCFLY),
 the Italian office of the [European Parliament](https://www.youtube.com/watch?v=QLC_qGeZBR8),
 central banks,
-universities, conferences, and workshops.
+universities, conferences, workshops, and [TEDx](https://www.youtube.com/watch?v=3XRF9erlMmU).
 
 His [academic research]({{ site.baseurl }}/papers/)
 focuses on price stability, advocating

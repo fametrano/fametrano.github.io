@@ -154,7 +154,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
 01. 2021-06-03 Thursday 14:30-16:30  
     _Transactions and Scripts_ (Part 3)  
-    [slides](https://drive.google.com/file/d/
+    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
     _Wallets and Custody_  
     [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
 01. 2021-06-09 Wednesday 16:30-18:30  

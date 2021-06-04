@@ -28,8 +28,8 @@ Università Milano-Bicocca e AD CheckSig
   <https://cryptoassetlab.diseade.unimib.it>
 * Professore a contratto di *Bitcoin and Blockchain Technology*  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
-  Departmentimento di Giurisprudenza, Università degli Studi di Milano-Bicocca  
-  Departmento di Matematica, Università degli Studi di Milano  
+  Dipartmento di Giurisprudenza, Università degli Studi di Milano-Bicocca  
+  Dipartmento di Matematica, Università degli Studi di Milano  
   Interfacoltà di Scienze Naturali e Giurisprudenza, Università Cattolica del Sacro Cuore (Brescia)  
 * Professore a contratto di *Interest Rate Derivatives*  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  

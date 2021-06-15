@@ -24,21 +24,31 @@ Updates and conversations about the course will be posted in the Slack channel.
 
 ## Learning objectives
 
-The course has a practitioner approach, presenting the current market best practices, often not yet documented in textbooks. Lecturers from the street are invited: traders, risk-managers, quants, consultants. The course aims to provide the students with the background usually tested when applying for investment banks in the interest rate derivatives area.
+The course has a practitioner approach,
+presenting the current market best practices,
+often not yet documented in textbooks.
+Lecturers from the street are invited:
+traders, risk-managers, quants, consultants.
+The course aims to provide the students with the
+knowledge usually tested when applying for
+investment banks in the interest rate derivatives area.
 
 ## Contents
 
-Interest Rate and Credit models and derivative products (linear products, plain vanillas, and exotics), with special emphasis on rate/credit curve construction and collateralization issues.
+The course is about the valuation of
+derivative products (linear, plain vanillas, and exotics) and
+presents the main Interest Rate and Credit models,
+with special emphasis on rate/credit curve construction and collateralization issues.
 
-- Interest Rate FRA, Futures, and Swaps
+- FRA, Futures, and Swaps
 - Rate curve bootstrapping in multi-curve regimes
-- Black Model
-- Interest rate volatility: par, forward, no-arbitrage, and SABR
+- Black Model and its shifted log-normal variants
+- Interest rate volatility: par, forward, no-arbitrage, and SABR model
 - Term structure models: equilibrium, no-arbitrage, short rate, and market models
 - Caps and Floors, Swaptions, and Bermudan Swaptions
 - Credit Default Swaps
 - Credit curve bootstrap
-- Counterparty risk: clearing, collateralization, and valuation adjustments
+- Counterparty risk: clearing, collateralization, and XVA valuation adjustments
 - Market risk management: greeks and static replica of structured products
 
 ## Prerequisites

@@ -14,8 +14,6 @@ permalink: /bbt/
 * [May-June 2021]({{ site.baseurl }}/bbt202105-math/)  
   _Department of Mathematics, University of Milan (La Statale)_
 * October-December 2021  
-  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* October-December 2021  
   _Università Cattolica del Sacro Cuore (Brescia)_
 
 Please refer to the page dedicated to your university, if available above.

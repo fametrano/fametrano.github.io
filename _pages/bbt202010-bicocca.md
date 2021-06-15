@@ -13,7 +13,7 @@ Department of Statistics and Quantitative Methods, University of Milano-Bicocca
 
 __Because of COVID-19 the course will be streaming only.__
 
-e-learning: <elearning.unimib.it/course/view.php?id=31548>
+e-learning: <https://elearning.unimib.it/course/view.php?id=31548>
 
 If you have an e-mail _@campus.unimib.it_
 please join the 202010-bicocca channel in the Slack

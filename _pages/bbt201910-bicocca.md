@@ -9,7 +9,7 @@ permalink: /bbt201910-bicocca/
 
 Department of Statistics and Quantitative Methods, University of Milano-Bicocca
 
-Course page: <elearning.unimib.it/course/info.php?id=25308>  
+Course page: <https://elearning.unimib.it/course/view.php?id=25308>  
 
 Please subscribe the course mailing list sending an e-mail to
 [bbt2019-bicocca+subscribe@https://dgi.io](mailto:bbt2019-bicocca+subscribe@https://dgi.io);

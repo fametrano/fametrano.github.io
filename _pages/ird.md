@@ -72,22 +72,22 @@ English if foreign students are present, else Italian.
 ## Exam
 
 Students attending the lessons are asked
-to solve the homework assignments for each lesson.
-Homeworks have a deadline and are not required/allowed
+to solve some assignments.
+Assignments have a deadline and are not required/allowed
 for students that did not actively partecipate to
-the semester activity.
+the semester didactical activity.
 
-Homework can be tackled cooperatively by team of students,
-up to three students. Successfull homeworks will contribute
-up to 5 points to the final grade.
+Assignments can be tackled cooperatively by team of students,
+up to three students. Successful assignments will contribute
+up to five points to the final grade.
 
-Please send the homeworks
+Please send the assignments
 to the e-mail that will be indicated with subject
 **IRD202010 #1** for the first assignment,
 **IRD202010 #2** for the second assignment,
 etc.
 
-The final exam will be individual.
+The final oral exam will be individual.
 
 ## Lessons' calendar and material
 
@@ -101,15 +101,15 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDu
     _Rate Curves Calibration_ ([slides](https://drive.google.com/file/d/1G6PNay2kNiFiSuPWmgwlbFoBntqXLIvv))  
 01. 2020-10-13 Tuesday 14:30-16:30  
     _Workshop on Interest Rate Basics_  
-    Homework #1: fill in the Excel spreadsheet (deadline: 2020-10-20)  
-    Homework #2: fill in the Excel spreadsheet (deadline: 2020-10-20)  
+    Assignment #1: fill in the Excel spreadsheet (deadline: 2020-10-20)  
+    Assignment #2: fill in the Excel spreadsheet (deadline: 2020-10-20)  
 01. 2020-10-16 Friday 12:30-14:30  
     _Workshop on Interest Rate Basics_  
-    Homework #3: fill in the Excel spreadsheet (deadline: 2020-10-30)  
+    Assignment #3: fill in the Excel spreadsheet (deadline: 2020-10-30)  
     _Rate Curves Calibration_ ([slides](https://drive.google.com/file/d/1G6PNay2kNiFiSuPWmgwlbFoBntqXLIvv))  
 01. 2020-10-20 Tuesday 14:30-16:30  
     _Workshop on Rate Curve Calibration_  
-    Homework #4: fill in the Excel spreadsheet (deadline: 2020-11-06)  
+    Assignment #4: fill in the Excel spreadsheet (deadline: 2020-11-06)  
 01. 2020-10-30 Friday 12:30-14:30  
     _Black Model_ ([slides](https://drive.google.com/file/d/1U23SnlCwZEtDO01VoYNVIXkbRqrI10sH))  
 01. 2020-11-03 Tuesday 14:30-16:30  
@@ -122,8 +122,8 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDu
     _Swaptions, Structured Products, and Hedging_ ([slides](https://drive.google.com/file/d/1BToPmMpV0qrcdpzurjtTfQ9HQk_9Nico))  
 01. 2020-11-13 Friday 12:30-14:30  
     _Workshop on Greeks and Hedging and Caps/Floors_  
-    Homework #5: fill in the Excel spreadsheet (deadline: 2020-12-04)  
-    Homework #6: fill in the Excel spreadsheet (deadline: 2020-12-04)  
+    Assignment #5: fill in the Excel spreadsheet (deadline: 2020-12-04)  
+    Assignment #6: fill in the Excel spreadsheet (deadline: 2020-12-04)  
 01. 2020-11-17 Tuesday 14:30-16:30  
     _Trading Obbligazionario_ ([slide](https://drive.google.com/file/d/1AE4v_KuQC6Btg28aLii4mhXMCqXQtOWQ))  
     Guest lecturer: [Andrea Bugin](https://www.linkedin.com/in/andrea-bugin-a326715)  
@@ -136,13 +136,13 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDu
 01. 2020-12-04 Friday 12:30-14:30  
     _Interest Rate Models_ ([slides](hhttps://drive.google.com/file/d/13_YmUvUz16OZbx3mQhToJV46a1gQyN5i))  
     _Workshop on Swaptions and Bermudan Swaption_  
-    Homework #7: fill in the Excel spreadsheet (deadline: 2020-12-11)  
+    Assignment #7: fill in the Excel spreadsheet (deadline: 2020-12-11)  
 01. 2020-12-11 Friday 12:30-14:30  
     _Credit Derivatives_ ([slides](https://drive.google.com/file/d/1wSP73ozxR4rupFM8kJUFPCn5o_SNUnR6))  
     _Counterparty Risk and Collateral Protection_ ([pdf](https://drive.google.com/file/d/1ENPcbWiEG0sEGiQr0FTfoDoPGx36SN_S))  
     _Overview of Central Clearing_ ([pdf](https://drive.google.com/file/d/1ErcrGIdlvisYBr5YR03-KIMjYcDCktmJ))  
     _Workshop on Credit Curve Bootstrapping and Credit Default Swaps_  
-    Homework #8: fill in the Excel spreadsheet (deadline: 2020-12-22)  
+    Assignment #8: fill in the Excel spreadsheet (deadline: 2020-12-22)  
 01. 2020-12-15 Tuesday 14:30-16:30  
     _XVAs: Introduction to Valuation Adjustments_ ([slides](https://drive.google.com/file/d/10PSdz4-Tz_1lkJy3n3lJdYRVT-39iq3c))  
     Guest lecturer: [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/)  

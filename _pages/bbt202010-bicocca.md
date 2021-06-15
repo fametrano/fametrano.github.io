@@ -114,15 +114,15 @@ Italian or English, the latter if foreign students are present.
 
 Students attending the lessons are asked
 to solve the homework assignments for each lesson.
-Homeworks have a deadline and are not required/allowed
+Assignments have a deadline and are not required/allowed
 for students that did not actively partecipate to
 the semester activity.
 
-Homework can be tackled cooperatively by team of students,
-up to three students. Successfull homeworks will contribute
-up to 5 points to the final grade.
+Assignments can be tackled cooperatively by team of students,
+up to three students. Successful assignments will contribute
+up to five points to the final grade.
 
-Please send the homeworks
+Please send the assignments
 to the e-mail that will be indicated with subject
 **BBT202010-BICOCCA #1** for the first assignment,
 **BBT202010-BICOCCA #2** for the second assignment,
@@ -141,17 +141,17 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2020-10-14 Wednesday 16:30-18:30  
     _Bitcoin as Digital Gold (Part 2)_  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
-    Homework #1: read the _"Bitcoin: oro digitale, finanza e tulipani"_ interview;
+    Assignment #1: read the _"Bitcoin: oro digitale, finanza e tulipani"_ interview;
     then send up to three questions that, in your opinion,
     might deserve further clarifications; deadline: 2020-10-20  
 01. 2020-10-21 Wednesday 16:30-18:30  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
-    Homeworks are included in the slides; deadline: 2020-11-10  
+    Assignments are included in the slides; deadline: 2020-11-10  
 01. 2020-10-28 Wednesday 16:30-18:30  
     _Hash Functions_  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    Homeworks are included in the slides; deadline: 2020-11-10  
+    Assignments are included in the slides; deadline: 2020-11-10  
     _Blockchain, Mining, and Distributed Consensus (Part 1)_  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2020-11-04 Wednesday 16:30-18:30  

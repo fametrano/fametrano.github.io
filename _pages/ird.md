@@ -11,7 +11,7 @@ permalink: /ird/
 
 Department of Statistics and Quantitative Methods, Università di Milano-Bicocca
 
-e-learning: <https://elearning.unimib.it/course/info.php?id=37838>
+e-learning: <https://elearning.unimib.it/course/view.php?id=37838>
 
 If you have an e-mail _@campus.unimib.it_
 please join the 202110-bicocca channel in the Slack

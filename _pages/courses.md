@@ -11,9 +11,7 @@ permalink: /courses/
   _Department of Law, University of Milano-Bicocca_
 * [Bitcoin and Blockchain Technology, May-June 2021]({{ site.baseurl }}/bbt202105-math/)  
   _Department of Mathematics, University of Milan (La Statale)_
-* Bitcoin and Blockchain Technology, October-December 2021  
-  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* Interest Rate Derivatives, October-December 2021  
+* [Interest Rate Derivatives, October-December 2021]({{ site.baseurl }}/ird/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
 * Bitcoin and Blockchain Technology, October-December 2021  
   _Università Cattolica del Sacro Cuore (Brescia)_
@@ -27,7 +25,7 @@ as speaker, panelist, MC, or lecturer see the dedicated [events]({{ site.baseurl
 
 * [Bitcoin and Blockchain Technology, October-December 2020]({{ site.baseurl }}/bbt202010-bicocca/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* [Interest Rate Derivatives, October-December 2020 ]({{ site.baseurl }}/ird/)  
+* [Interest Rate Derivatives, October-December 2020 ]({{ site.baseurl }}/ird202010/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
 * [Bitcoin and Blockchain Technology, October-December 2020]({{ site.baseurl }}/bbt202010-brescia/)  
   _Università Cattolica del Sacro Cuore (Brescia)_

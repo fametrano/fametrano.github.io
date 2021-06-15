@@ -110,7 +110,7 @@ Italian or English, the latter if foreign students are present.
 ## Exam
 
 To pass the exam each student must solve all the assignments
-for every lesson. Please send the homeworks
+for every lesson. Please send the assignments
 to the e-mail that will be indicated with subject
 **BBT MATEMATICA2020 #1** for the first lesson,
 **BBT MATEMATICA2020 #2** for the second lesson,

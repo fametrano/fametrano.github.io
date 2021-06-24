@@ -140,6 +140,27 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
 
+### Guest Speakers
+
+01. _Digital Signature and Digital Identity: From RSA to eIDAS_  
+    with [Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)  
+    [slides](https://drive.google.com/file/d/1Ym9K-gHx8H2jMBND0tdjXhvpVCNZa8FB)
+01. _New trends in FinTech: Blockchain and AI_  
+    with [Filippo Annunziata](https://www.linkedin.com/in/filippo-annunziata-b0394767/)  
+    [slides](https://drive.google.com/file/d/1SRx8YNC3VE54R2Xd9WpKXuF2WA4JFN2x)
+01. _Regulation on Markets in Cryptoassets (MiCA)_  
+    with [Andrea Conso](https://www.linkedin.com/in/andrea-conso/)  
+    [slides](https://drive.google.com/file/d/1sl-mVjX6uqMuJRzWU8FesWCCFa39c4rH)
+01. _The Tax Aspects of Crypto-Assets_  
+    with [Francesco Avella](https://www.linkedin.com/in/francesco-avella-84b1a111/)  
+    [slides](https://drive.google.com/file/d/1UeBZ9J6llc0TqjW5QSE77HqKZHdOosM_)
+01. _Le misure di prevenzione dei reati finanziari in ambito crypto-asset_  
+    with [Vito Barbera](https://www.linkedin.com/in/vito-barbera-44883a89/)  
+    [slides](https://drive.google.com/file/d/14PEtSO9i_QA65lKU4s7T7-rDtyGZhpAq)
+01. _CBDC e Euro digitale_  
+    with [Francesca Mattassoglio](https://www.linkedin.com/in/francesca-mattassoglio-93042697/)  
+    [slides](https://drive.google.com/file/d/1czk87aaIvN_Bm8V-N51-0CojMIshy9PW)
+
 ## Python library
 
 <https://btclib.org>  

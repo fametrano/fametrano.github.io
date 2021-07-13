@@ -137,7 +137,7 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDu
     ([slides-1](https://drive.google.com/file/d/1Z6MmcpyUGXTxHMbVq6Xe8nFbBMVkSyKb),
     [slides-2](https://drive.google.com/file/d/1TAFJVGlSs2lkjc3-OZie3Kd_NXTKmQYL))  
     Guest lecturers: [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/)  
-01. 2021-01-18 Tuesday 16:30-19:00
+01. 2021-01-18 Tuesday 16:30-19:00  
     Catch-up lesson  
 01. 2021-01-25 Tuesday 16:30-19:00  
     Catch-up lesson  

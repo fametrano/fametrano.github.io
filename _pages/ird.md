@@ -92,52 +92,52 @@ The final oral exam will be individual.
 Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolomazzocchi/),
 assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDuy2DYpVzG39f2QNoiUKbRiG3)).
 
-01. TBD  
+01. 2020-10-05 Tuesday 16:30-19:00  
     _Interest Rate Basics_ ([slides](https://drive.google.com/file/d/1G2rr29fdURvjjYplhY_OYtRNEyJoOF2e))  
-01. TBD  
     _Workshop on Interest Rate Basics_  
     Assignment #1: fill in the Excel spreadsheet (deadline: TBD)  
     Assignment #2: fill in the Excel spreadsheet (deadline: TBD)  
     Assignment #3: fill in the Excel spreadsheet (deadline: TBD)  
-01. TBD  
+01. 2020-10-12 Tuesday 16:30-19:00  
     _Rate Curves Calibration_ ([slides](https://drive.google.com/file/d/1G6PNay2kNiFiSuPWmgwlbFoBntqXLIvv))  
-01. TBD  
+01. 2020-10-19 Tuesday 16:30-19:00  
     _Workshop on Rate Curve Calibration_  
     Assignment #4: fill in the Excel spreadsheet (deadline: TBD)  
-01. TBD  
     _Black Model_ ([slides](https://drive.google.com/file/d/1U23SnlCwZEtDO01VoYNVIXkbRqrI10sH))  
-01. TBD  
+01. 2020-10-26 Tuesday 16:30-19:00  
     _Volatility_ ([slides](https://drive.google.com/file/d/16bALaGtBZ1dhKJ7AgibEtYjjib_HHDYz))  
     Guest lecturer: [Nicola Moreni](https://www.linkedin.com/in/nicola-moreni-a636a7/)  
-01. TBD  
+01. 2020-11-02 Tuesday 16:30-19:00  
     _Caps and Floors_ ([slides](https://drive.google.com/file/d/1mr3iFcefoWsx0DZxX-qPKskJ4r1hJ-Vj))  
     Guest lecturer: [Carlo Clerici](https://www.linkedin.com/in/carlo-clerici-8443375/)  
-01. TBD  
+01. 2020-11-09 Tuesday 16:30-19:00  
     _Workshop on Caps/Floors_  
     Assignment #5: fill in the Excel spreadsheet (deadline: TBD)  
-01. TBD  
     _Swaptions, Structured Products, and Hedging_ ([slides](https://drive.google.com/file/d/1BToPmMpV0qrcdpzurjtTfQ9HQk_9Nico))  
-01. TBD  
+01. 2020-11-16 Tuesday 16:30-19:00  
     _Workshop on Greeks and Hedging_  
     Assignment #6: fill in the Excel spreadsheet (deadline: TBD)  
-01. TBD  
     _Trading Obbligazionario_ ([slide](https://drive.google.com/file/d/1AE4v_KuQC6Btg28aLii4mhXMCqXQtOWQ))  
     Guest lecturer: [Andrea Bugin](https://www.linkedin.com/in/andrea-bugin-a326715)  
-01. TBD  
+01. 2020-11-30 Tuesday 16:30-19:00  
     _Interest Rate Models_ ([slides](hhttps://drive.google.com/file/d/13_YmUvUz16OZbx3mQhToJV46a1gQyN5i))  
-01. TBD  
     _Workshop on Swaptions and Bermudan Swaption_  
     Assignment #7: fill in the Excel spreadsheet (deadline: TBD)  
-01. TBD  
+01. 2020-12-14 Tuesday 16:30-19:00  
     _Credit Derivatives_ ([slides](https://drive.google.com/file/d/1wSP73ozxR4rupFM8kJUFPCn5o_SNUnR6))  
     _Counterparty Risk and Collateral Protection_ ([pdf](https://drive.google.com/file/d/1ENPcbWiEG0sEGiQr0FTfoDoPGx36SN_S))  
     _Overview of Central Clearing_ ([pdf](https://drive.google.com/file/d/1ErcrGIdlvisYBr5YR03-KIMjYcDCktmJ))  
-01. TBD  
     _Workshop on Credit Curve Bootstrapping and Credit Default Swaps_  
     Assignment #8: fill in the Excel spreadsheet (deadline: TBD)  
-01. TBD  
+01. 2020-12-21 Tuesday 16:30-19:00  
     _XVAs: Introduction to Valuation Adjustments_ ([slides](https://drive.google.com/file/d/10PSdz4-Tz_1lkJy3n3lJdYRVT-39iq3c))  
     Guest lecturer: [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/)  
-01. TBD  
-    _The Reform of Benchmark Interest Rate Indexes and Its Impact on Derivative Pricing_ ([slides-1](https://drive.google.com/file/d/1Z6MmcpyUGXTxHMbVq6Xe8nFbBMVkSyKb), [slides-2](https://drive.google.com/file/d/1TAFJVGlSs2lkjc3-OZie3Kd_NXTKmQYL))  
+01. 2021-01-11 Tuesday 16:30-19:00  
+    _The Reform of Benchmark Interest Rate Indexes and Its Impact on Derivative Pricing_
+    ([slides-1](https://drive.google.com/file/d/1Z6MmcpyUGXTxHMbVq6Xe8nFbBMVkSyKb),
+    [slides-2](https://drive.google.com/file/d/1TAFJVGlSs2lkjc3-OZie3Kd_NXTKmQYL))  
     Guest lecturers: [Maria Cristina Lege](https://www.linkedin.com/in/maria-cristina-lege-8b85a2144) and [Luigi Cefis](https://www.linkedin.com/in/luigicefis/)  
+01. 2021-01-18 Tuesday 16:30-19:00
+    Catch-up lesson  
+01. 2021-01-25 Tuesday 16:30-19:00  
+    Catch-up lesson  

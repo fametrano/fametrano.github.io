@@ -7,7 +7,7 @@ image:
 permalink: /ird/
 ---
 
-## Interest Rate Derivatives, October-December 2021
+## Interest Rate Derivatives, October 2021 - January 2022
 
 Department of Statistics and Quantitative Methods, Università di Milano-Bicocca
 

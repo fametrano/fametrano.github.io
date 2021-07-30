@@ -113,7 +113,7 @@ Italian or English, the latter if foreign students are present.
 ## Exam
 
 Students attending the lessons are asked
-to solve the homework assignments for each lesson.
+to solve course assignments for each lesson.
 Assignments have a deadline and are not required/allowed
 for students that did not actively partecipate to
 the semester activity.

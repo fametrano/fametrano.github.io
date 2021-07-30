@@ -14,8 +14,8 @@ e-learning: <https://elearning.unimib.it/course/view.php?id=31997>
 If you have an e-mail _@campus.unimib.it_
 please join the 202102-bicocca channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
-using your first and last name (no nicknames);
-a profile picture would be appreciated, but is not mandatory.
+using your first and last name (no nicknames) and
+a profile picture.
 Updates and conversations about the course will be posted in the Slack channel.
 
 The course is for the students of University of Milano-Bicocca only;

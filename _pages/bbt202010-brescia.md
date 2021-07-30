@@ -11,7 +11,7 @@ permalink: /bbt202010-brescia/
 
 ## Bitcoin and Blockchain Technology, October-December 2020
 
-Interfacoltà: Scienze Matematiche Fisiche e Naturali (Brescia) - Scienze Bancarie Finanziarie e Assicurative (Milano)  
+Interfaculty: Mathematical, Physical and Natural Sciences (Brescia) / Banking, Finance and Insurance Sciences (Milano)  
 Università Cattolica del Sacro Cuore (Brescia)
 
 __Because of COVID-19 the course will be streaming only.__
@@ -111,7 +111,7 @@ English if foreign students are present, else Italian.
 ## Exam
 
 Students attending the lessons are asked
-to solve the homework assignments for each lesson.
+to solve course assignments for each lesson.
 Assignments have a deadline and are not required/allowed
 for students that did not actively partecipate to
 the semester activity.

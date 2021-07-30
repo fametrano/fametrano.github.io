@@ -122,6 +122,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
 01. _Schnorr Signature Algorithm_  
     _Optimization of The Elliptic Curve Scalar Multiplication_  
+    _Diffie Hellman and Symmetric Cryptography_  
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
 01. _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  

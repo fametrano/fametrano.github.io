@@ -10,10 +10,10 @@ permalink: /bbt202105-math/
 Department of Mathematics, University of Milan
 
 If you have an e-mail _@studenti.unimi.it_
-please join the 202103-math channel in the Slack
+please join the 202105-math channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
-using your first and last name (no nicknames);
-a profile picture would be appreciated, but is not mandatory.
+using your first and last name (no nicknames) and
+a profile picture.
 Updates and conversations about the course will be posted in the Slack channel.
 
 The course is for the students of University of Milan (La Statale) only;

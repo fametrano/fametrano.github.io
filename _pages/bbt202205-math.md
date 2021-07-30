@@ -2,18 +2,15 @@
 layout: page
 title: Bitcoin and Blockchain Technology Course
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
-permalink: /bbt202003-math/
+permalink: /bbt202205-math/
 ---
 
-## Bitcoin and Blockchain Technology, Spring 2020
+## Bitcoin and Blockchain Technology, May-June 2021
 
 Department of Mathematics, University of Milan
 
-__The course is confirmed: because of COVID-19
-it will be streaming only.__
-
 If you have an e-mail _@studenti.unimi.it_
-please join the 202003-matematica channel in the Slack
+please join the 202205-math channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
 using your first and last name (no nicknames) and
 a profile picture.
@@ -51,7 +48,7 @@ While a rigorous formal approach is almost impossible
 in a course touching on so many and so different knowledge areas,
 intellectual curiosity is stimulated about the interplay between
 maths, cryptography, economic incentives, technology,
-monetary theory, and politics.
+monetary theory, regulatory issues, and politics.
 
 ## Contents
 
@@ -112,49 +109,62 @@ Italian or English, the latter if foreign students are present.
 To pass the exam each student must solve all the assignments
 for every lesson. Please send the assignments
 to the e-mail that will be indicated with subject
-**BBT MATEMATICA2020 #1** for the first lesson,
-**BBT MATEMATICA2020 #2** for the second lesson,
+**BBT202205-MATH #1** for the first lesson,
+**BBT202205-MATH #2** for the second lesson,
 etc.
 
 ## Lessons' calendar and material
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
-01. Monday 2020-03-16 15:30-17:30  
+01. TBD  
     _Bitcoin as Digital Gold_  
-    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
-01. Monday 2020-03-23 15:30-17:30  
+    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
+01. TBD  
+    _Bitcoin as Digital Gold_  
+    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
+01. TBD  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
-    [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
-01. Monday 2020-03-30 15:30-17:30  
-    _Hash Functions_  
+    [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
+01. TBD  
+     _Hash Functions_  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    _Blockchain, Mining, and Distributed Consensus_  
-    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
-01. Monday 2020-04-06 15:30-17:30  
+    _Blockchain, Mining, and Distributed Consensus_ (Part 1)  
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
+01. TBD  
+    _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
+01. TBD  
     _Elliptic Curve Digital Signature Algorithm_  
-    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. Monday 2020-04-20 15:30-17:30  
-    _Addresses, WIFs, and Bitcoin Message Signing_  
-    [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
-    _Transactions and Scripts_  
-    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
-01. Monday 2020-04-27 15:30-17:30  
-    _Beyond Bitcoin: Between Hype and Reality_  
-    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-01. Monday 2020-05-04 15:30-17:30  
-    _Wallets and Deterministic Key Chains_  
-    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. Monday 2020-05-11 15:30-17:30  
     _Schnorr Signature Algorithm_  
     _Optimization of The Elliptic Curve Scalar Multiplication_  
-    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. Monday 2020-05-18 15:30-17:30  
-    _The Cryptocurrency Frontier
-in Monetary Engineering_  
+    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
+01. TBD  
+    _Addresses, WIFs, and Bitcoin Message Signing_  
+    [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
+    _Transactions and Scripts_ (Part 1)  
+    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
+01. TBD  
+    _Transactions and Scripts_ (Part 2)  
+    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
+    _Timestamping and the OpenTimestamps Protocol_  
+    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)
+01. TBD  
+    _Beyond Bitcoin: Between Hype and Reality_  
+    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+01. TBD  
+    _Transactions and Scripts_ (Part 3)  
+    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
+    _Wallets and Custody_  
+    [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
+01. TBD  
+    _Deterministic Key Chains_  
+    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
+01. TBD  
+    _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
-    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
+    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
 
 In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 

@@ -1,36 +1,35 @@
 ---
 layout: page
-title: Bitcoin and Blockchain Technology Course
+title: Cyber Security Regulation (Bitcoin and Blockchain Technology Course)
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
-permalink: /bbt202003-math/
+image:
+    main: btclib-logo.jpg
+permalink: /bbt202110-brescia/
 ---
 
-## Bitcoin and Blockchain Technology, Spring 2020
+## Applied Data Science For Banking and Finance - Cyber Security Regulation
 
-Department of Mathematics, University of Milan
+## Bitcoin and Blockchain Technology, October-December 2021
 
-__The course is confirmed: because of COVID-19
-it will be streaming only.__
+Interfaculty: Mathematical, Physical and Natural Sciences (Brescia) / Banking, Finance and Insurance Sciences (Milano)  
+Università Cattolica del Sacro Cuore (Brescia)
 
-If you have an e-mail _@studenti.unimi.it_
-please join the 202003-matematica channel in the Slack
+If you have an e-mail _@unicatt.it_ or _@icatt.it_
+please join the 202110-brescia channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
 using your first and last name (no nicknames) and
 a profile picture.
 Updates and conversations about the course will be posted in the Slack channel.
 
-The course is for the students of University of Milan (La Statale) only;
+The course is for the students of Università Cattolica del Sacro Cuore only;
 anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives
 
-The course is an introduction to bitcoin and the associated blockchain
-technology.
+The course is about bitcoin, the associated blockchain
+technology, and their relevance in the field of cyber security regulation.
 
-Starting from a computationally focused approach to
-elliptic curves over finite fields and
-presenting the discrete logarithm problem as the cornerstone of public-key
-cryptography, bitcoin is introduced as ingenious breakthrough innovation.
+Bitcoin is introduced as ingenious breakthrough fintech innovation.
 
 Its game theory, computer science (distributed systems, distributed
 consensus), and monetary theory elements are examined
@@ -51,7 +50,7 @@ While a rigorous formal approach is almost impossible
 in a course touching on so many and so different knowledge areas,
 intellectual curiosity is stimulated about the interplay between
 maths, cryptography, economic incentives, technology,
-monetary theory, and politics.
+monetary theory, regulatory issues, and politics.
 
 ## Contents
 
@@ -105,59 +104,57 @@ monetary theory, and politics.
 
 ## Teaching language
 
-Italian or English, the latter if foreign students are present.
+English if foreign students are present, else Italian.
 
 ## Exam
 
-To pass the exam each student must solve all the assignments
-for every lesson. Please send the assignments
-to the e-mail that will be indicated with subject
-**BBT MATEMATICA2020 #1** for the first lesson,
-**BBT MATEMATICA2020 #2** for the second lesson,
-etc.
+Students attending the lessons are asked
+to solve course assignments for each lesson.
+Assignments can be in class or homework;
+homeworks must be sent by email
+to the indicated address
+before the deadline
+using the subject **BBT202110-BRESCIA #1** for the first one, **BBT202110-BRESCIA #2** for the second one, etc.
+Assignments are not required/allowed
+for students that do not attended the lessons.
+
+Successful assignments will contribute
+up to five points to the final grade,
+which will be determined with a final oral test.
 
 ## Lessons' calendar and material
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
-01. Monday 2020-03-16 15:30-17:30  
+01. 2020-10-04 Monday 10:30-13:30  
     _Bitcoin as Digital Gold_  
-    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
-01. Monday 2020-03-23 15:30-17:30  
-    _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
-    [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)
-01. Monday 2020-03-30 15:30-17:30  
+    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
+01. 2020-10-11 Monday 10:30-13:30  
     _Hash Functions_  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
+01. 2020-10-18 Monday 10:30-13:30  
     _Blockchain, Mining, and Distributed Consensus_  
-    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)
-01. Monday 2020-04-06 15:30-17:30  
-    _Elliptic Curve Digital Signature Algorithm_  
-    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. Monday 2020-04-20 15:30-17:30  
-    _Addresses, WIFs, and Bitcoin Message Signing_  
-    [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
-    _Transactions and Scripts_  
-    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)
-01. Monday 2020-04-27 15:30-17:30  
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
+01. 2020-10-25 Monday 10:30-13:30  
     _Beyond Bitcoin: Between Hype and Reality_  
-    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-01. Monday 2020-05-04 15:30-17:30  
-    _Wallets and Deterministic Key Chains_  
-    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)
-01. Monday 2020-05-11 15:30-17:30  
-    _Schnorr Signature Algorithm_  
-    _Optimization of The Elliptic Curve Scalar Multiplication_  
-    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
-01. Monday 2020-05-18 15:30-17:30  
-    _The Cryptocurrency Frontier
-in Monetary Engineering_  
+    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+01. 2020-11-08 Monday 10:30-13:30  
+    _Timestamping and the OpenTimestamps Protocol_  
+    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)
+01. 2020-11-15 Monday 10:30-13:30  
+    _Wallets and Custody_  
+    [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
+01. 2020-11-22 Monday 10:30-13:30  
+    _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
-    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
-
-In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
-
+    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
+    [extra video](https://www.youtube.com/watch?v=dvgb2YOm1y4&list=PLTLa2tRY91LIERomYutM16smoQQ2UShoj&index=2&t=2922s)  
+01. 2020-11-29 Monday 10:30-13:30  
+    _Catch up lesson_
+01. 2020-12-06 Monday 10:30-13:30  
+    _Catch up lesson_
+  
 ## Python library
 
 <https://btclib.org>  
@@ -238,6 +235,6 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
   _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_ (2015),  
   <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
 * Ferdinando M. Ametrano,  
-  _"Bitcoin: oro digitale per nuovi standard monetari_ (2020),  
-  published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta,  and Alberto Mingardi)  
+  _"Bitcoin: oro digitale per nuovi standard monetari"_ (2020),  
+  published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta, and Alberto Mingardi)  
   <https://bit.ly/2NQg9VJ>

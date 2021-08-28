@@ -9,7 +9,7 @@ permalink: /courses/
 
 * [Interest Rate Derivatives, October 2021 - January 2022]({{ site.baseurl }}/ird/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* Bitcoin and Blockchain Technology, October-December 2021  
+* [Bitcoin and Blockchain Technology, October-December 2021]]({{ site.baseurl }}/bbt202110-brescia/)  
   _Interfaculty, Università Cattolica del Sacro Cuore (Brescia)_
 * [Bitcoin and Blockchain Technology, February-April 2022]({{ site.baseurl }}/bbt202202-bicocca/)  
   _Department of Law, University of Milano-Bicocca_

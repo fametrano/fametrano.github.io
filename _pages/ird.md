@@ -134,9 +134,3 @@ assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDu
 01. 2020-12-21 Tuesday 17:30-19:00  
     _XVAs: Introduction to Valuation Adjustments_ ([slides](https://drive.google.com/file/d/10PSdz4-Tz_1lkJy3n3lJdYRVT-39iq3c))  
     Guest lecturer: [Andrea Prampolini](https://www.linkedin.com/in/andrea-prampolini-68a44010/)  
-01. 2021-01-11 Tuesday 16:30-19:00  
-    Catch-up lesson  
-01. 2021-01-18 Tuesday 16:30-19:00  
-    Catch-up lesson  
-01. 2021-01-25 Tuesday 16:30-19:00  
-    Catch-up lesson  

@@ -117,19 +117,20 @@ CV (due pagine): <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 ---
 
-## Social Networks
+## Profili pubblici e social networks
 
 <https://github.com/fametrano>  
-<https://ssrn.com/author=510135>  
-<https://medium.com/@nando1970>  
 <https://twitter.com/Ferdinando1970>  
+<https://ssrn.com/author=510135>  
+<https://orcid.org/0000-0001-8521-0063>
+<https://scholar.google.com/citations?user=dFSSrwwAAAAJ>
+<https://www.linkedin.com/in/ferdinandoametrano>  
+<https://youtube.com/c/FerdinandoMAmetrano>  
+<https://facebook.com/ferdinando.ametrano>  
+<https://medium.com/@nando1970>  
 <https://speakerdeck.com/nando1970>  
 <https://www.reddit.com/user/Nando1970>  
 <https://www.slideshare.net/Ferdinando1970>  
-<https://facebook.com/ferdinando.ametrano>  
-<https://www.linkedin.com/in/ferdinandoametrano>  
-<https://youtube.com/c/FerdinandoMAmetrano>  
-<https://scholar.google.com/citations?user=dFSSrwwAAAAJ>
 
 ---
 

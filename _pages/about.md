@@ -110,7 +110,7 @@ his daughters and son just don't care about his public persona,
 his friends consider him bizarre,
 his colleagues and students love and hate him depending on their sensitivities and experiences.
 
-Oh... he is a huge Bruce Springsteen fan.
+Oh... he is Catholic and a huge Bruce Springsteen fan.
 
 Europass CV: <https://ametrano.net/cv/CV-Europass-20200626-Ametrano-EN.pdf>  
 Two pages CV: <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>

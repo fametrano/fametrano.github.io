@@ -108,7 +108,7 @@ i suoi amici lo considerano bizzarro,
 colleghi e studenti lo amano e odiano a seconda
 delle loro sensibilità ed esperienze.
 
-Ah... è un grande _fan_ di Springsteen.
+Ah... è cattolico e grande _fan_ di Bruce Springsteen.
 
 CV Europass: <https://ametrano.net/cv/CV-Europass-20200626-Ametrano-EN.pdf>  
 CV (due pagine): <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>

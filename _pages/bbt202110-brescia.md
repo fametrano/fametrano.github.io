@@ -140,7 +140,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
 01. 2020-11-08 Monday 10:30-13:30  
     _Timestamping and the OpenTimestamps Protocol_  
-    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)
+    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
     _Wallets and Custody_  
     [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
 01. 2020-11-15 Monday 10:30-13:30  
@@ -155,10 +155,6 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
-01. 2020-11-29 Monday 10:30-13:30  
-    _Catch up lesson_
-01. 2020-12-06 Monday 10:30-13:30  
-    _Catch up lesson_
   
 ## Python library
 

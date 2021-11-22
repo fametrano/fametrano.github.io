@@ -141,9 +141,15 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2020-11-08 Monday 10:30-13:30  
     _Timestamping and the OpenTimestamps Protocol_  
     [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)
-01. 2020-11-15 Monday 10:30-13:30  
     _Wallets and Custody_  
     [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
+01. 2020-11-15 Monday 10:30-13:30  
+    _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
+    [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
+    _Elliptic Curve Digital Signature Algorithm_  
+    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
+    _Addresses, WIFs, and Bitcoin Message Signing_  
+    [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
 01. 2020-11-22 Monday 10:30-13:30  
     _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s)  

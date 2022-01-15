@@ -9,7 +9,8 @@ Ferdinando Ametrano
 teaches _Bitcoin and Blockchain Technology_ at the Milano-Bicocca University
 and
 is CEO of CheckSig, a company specialized in bitcoin custody services
-for institutional investors and high-net-worth individuals.
+for institutional investors and high-net-worth individuals.  
+<https://www.linkedin.com/in/ferdinandoametrano>
 
 ## Short Affiliation
 
@@ -124,8 +125,8 @@ Two pages CV: <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 <https://github.com/fametrano>  
 <https://twitter.com/Ferdinando1970>  
 <https://ssrn.com/author=510135>  
-<https://orcid.org/0000-0001-8521-0063>
-<https://scholar.google.com/citations?user=dFSSrwwAAAAJ>
+<https://orcid.org/0000-0001-8521-0063>  
+<https://scholar.google.com/citations?user=dFSSrwwAAAAJ>  
 <https://www.linkedin.com/in/ferdinandoametrano>  
 <https://youtube.com/c/FerdinandoMAmetrano>  
 <https://facebook.com/ferdinando.ametrano>  

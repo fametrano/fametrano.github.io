@@ -10,7 +10,8 @@ Ferdinando Ametrano
 insegna _Bitcoin e tecnologia blockchain_ all'Università Milano-Bicocca
 ed è
 amministratore delegato di CheckSig, società di custodia bitcoin
-per investitori istituzionali e persone ad alta patrimonializzazione.
+per investitori istituzionali e persone ad alta patrimonializzazione.  
+<https://www.linkedin.com/in/ferdinandoametrano>
 
 ## Affiliazione sintetica
 
@@ -122,8 +123,8 @@ CV (due pagine): <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 <https://github.com/fametrano>  
 <https://twitter.com/Ferdinando1970>  
 <https://ssrn.com/author=510135>  
-<https://orcid.org/0000-0001-8521-0063>
-<https://scholar.google.com/citations?user=dFSSrwwAAAAJ>
+<https://orcid.org/0000-0001-8521-0063>  
+<https://scholar.google.com/citations?user=dFSSrwwAAAAJ>  
 <https://www.linkedin.com/in/ferdinandoametrano>  
 <https://youtube.com/c/FerdinandoMAmetrano>  
 <https://facebook.com/ferdinando.ametrano>  

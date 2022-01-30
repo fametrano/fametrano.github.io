@@ -134,7 +134,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 
 ## Python library
 
-<https://github.com/dginst/btclib>
+[btclib.org](https://btclib.org)
 
 ## Python scripts, Excel spreadsheets, and regtest lab material
 

@@ -160,7 +160,7 @@ Bitcoin, arriva il film: una produzione 100% italiana
 article (ITA): <goo.gl/72A8b5>
 
 2018-01-11 Notizie.it  
-Il futuro dei Bitcoin secondo Ferdinando Ametrano  
+Il futuro dei Bitcoin secondo Ferdinando M. Ametrano  
 article (ITA): <https://www.notizie.it/futuro-bitcoin-ferdinando-ametrano/>
 
 2018-01-10 Corriere della Sera (Bergamo):  
@@ -211,7 +211,7 @@ Guest expert on bitcoin
 audio (ITA): <goo.gl/UKcmQu>
 
 2017-12-11 Mister Trend  
-Il Bitcoin spiegato dal Prof. Ferdinando Ametrano  
+Il Bitcoin spiegato dal Prof. Ferdinando M. Ametrano  
 audio (ITA): <goo.gl/wWN1oV>
 
 2017-12-11 SkyTG24 Economia  

@@ -170,12 +170,12 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 
 ## Python library
 
-<https://btclib.org>  
-<https://github.com/btclib-org/btclib>
+[btclib.org](https://btclib.org) 
+[github.com/btclib-org/btclib](https://github.com/btclib-org/btclib)
 
 ## Python scripts, Excel spreadsheets, and regtest lab material
 
-<https://github.com/btclib-org/bbt>
+[github.com/btclib-org/bbt](https://github.com/btclib-org/bbt)
 
 ## Introductory reading
 

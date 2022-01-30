@@ -1,32 +1,33 @@
 ---
 layout: page
-title: Profilo di Ferdinando Ametrano
+title: Profilo di Ferdinando M. Ametrano
 description: "Profilo di Ferdinando M. Ametrano: affiliazioni, biografia, social networks, foto, indirizzo pubblico bitcoin"
 permalink: /it/about/
 ---
 
 
-Ferdinando Ametrano
-insegna _Bitcoin e tecnologia blockchain_ all'Università Milano-Bicocca
-ed è
-amministratore delegato di CheckSig, società di custodia bitcoin
-per investitori istituzionali e persone ad alta patrimonializzazione.  
-<https://www.linkedin.com/in/ferdinandoametrano>
+Amministratore delegato e fondatore di [CheckSig](https://checksig.com),
+Ferdinando M. Ametrano
+insegna _Bitcoin e tecnologia blockchain_
+come professore a contratto
+in diverse universtità.  
+[linkedin.com/in/ferdinandoametrano](https://linkedin.com/in/ferdinandoametrano)
 
 ## Affiliazione sintetica
 
 Ferdinando M. Ametrano  
-Università Milano-Bicocca e AD CheckSig
+Amministratore delegato e fondatore di [CheckSig](https://checksig.com)  
+[Università Milano-Bicocca](https://www.unimib.it/ferdinando-maria-ametrano)
 
 ## Affiliazioni
 
-* Cofondatore e amministratore delegato, CheckSig  
-  <https://checksig.io>
+* Fondatore e amministratore delegato, CheckSig  
+  [checksig.com](https://checksig.com)
 * Fondatore e direttore scientifico, Digital Gold Institute  
-  <https://dgi.io>
-* Cofondatore e direttore scientifico, Crypto Asset Lab  
+  [dgi.io](https://dgi.io)
+* Fondatore e direttore scientifico, Crypto Asset Lab  
   Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università degli Studi di Milano-Bicocca  
-  <https://cryptoassetlab.diseade.unimib.it>
+  [cryptoassetlab.org](https://cryptoassetlab.org)
 * Professore a contratto di *Bitcoin and Blockchain Technology*  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
   Dipartmento di Giurisprudenza, Università degli Studi di Milano-Bicocca  
@@ -34,9 +35,9 @@ Università Milano-Bicocca e AD CheckSig
   Interfacoltà di Scienze Naturali e Giurisprudenza, Università Cattolica del Sacro Cuore (Brescia)  
 * Professore a contratto di *Interest Rate Derivatives*  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
-  <https://www.unimib.it/ferdinando-maria-ametrano>
+  [www.unimib.it/ferdinando-maria-ametrano](https://www.unimib.it/ferdinando-maria-ametrano)
 * Fondatore e coamministratore, QuantLib e btclib  
-  <https://www.quantlib.org>, <https://github.com/dginst/btclib>
+  [quantlib.org](https://www.quantlib.org), [btclib.org](https://btclib.org)
 
 ---
 
@@ -45,20 +46,19 @@ Università Milano-Bicocca e AD CheckSig
 Fisico per formazione universitaria,
 dopo oltre venti anni in ambito
 _investment banking_, _asset management_ e _quantitative finance_,
-Ferdinando Ametrano scopre bitcoin nel 2014:
+Ferdinando M. Ametrano scopre bitcoin nel 2014:
 da allora bitcoin è il suo principale interesse
 professionale e accademico.
 
-Cofondatore ed amministratore delegato di
-[CheckSig](https://checksig.io)
-(soluzioni trasparenti di custodia bitcoin
-per investitori istituzionali e persone ad alta patrimonializzazione),
+Fondatore ed amministratore delegato di
+[CheckSig](https://checksig.com)
+(soluzioni bitcoin e _crypto_ per investitori privati e istituzionali),
 fondatore e direttore scientifico
 del [Digital Gold Institute](https://dgi.io)
 (consulenza, formazione, ricerca e sviluppo su bitcoin e blockchain),
 Ferdinando è anche
-direttore scientifico
-del [Crypto Asset Lab](https://cryptoassetlab.diseade.unimib.it)
+fondatore e direttore scientifico
+del [Crypto Asset Lab](https://cryptoassetlab.org)
 dell'Università Milano-Bicocca, dove insegna
 *[Bitcoin and Blockchain Technologies]({{ site.baseurl }}/bbt/)*.
 
@@ -68,12 +68,12 @@ in Intesa Sanpaolo e
 membro del Comitato Organizzatore della conferenza
 [Scaling Bitcoin](https://scalingbitcoin.org/);
 è presidente della
-[Crypto Asset Lab Conference](https://cryptoassetlab.diseade.unimib.it/calconf/)
+[Crypto Asset Lab Conference](https://cryptoassetlab.org/calconf/)
 organizzata assieme alla Commissione Europea,
 contribuisce occasionalmente e marginalmente a
 [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin)
 e manutiene
-[btclib](https://github.com/dginst/btclib), una libreria Python bitcoin.
+[btclib](https://btclib.org), una libreria Python bitcoin.
 
 Innovatore nel campo *fintech*,
 [sviluppatore *open source*](https://github.com/fametrano),

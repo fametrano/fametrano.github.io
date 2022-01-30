@@ -66,7 +66,7 @@ in Intesa Sanpaolo bank,
 he has been Planning Committee member of the
 [Scaling Bitcoin](https://scalingbitcoin.org/) conference,
 is chair of the
-[Crypto Asset Lab Conference](https://cryptoassetlab.org/calconf/)
+[CAL conference](https://cryptoassetlab.org/calconf/)
 co-organized with the European Commission,
 is an occasional trivial contributor to
 [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin),
@@ -95,16 +95,16 @@ focuses on price stability, advocating
 automated non-discretionary elastic monetary policy for a new generation
 of cryptocurrencies ([Hayek Money](https://ssrn.com/abstract=2425270)).
 
-He has been also cofounder and coadministrator of the
+He has been also founder and coadministrator of the
 [QuantLib](https://www.quantlib.org) project,
 a comprehensive free/open-source software framework for quantitative finance.
-"[Interest Rate Derivatives]({{ site.baseurl }}/ird/)" Adjunct Professor at the
+Former "[Interest Rate Derivatives]({{ site.baseurl }}/ird/)" Adjunct Professor at the
 University of Milano-Bicocca, he has
 [relevant publications](https://ssrn.com/author=510135) on this subject and
 has headed trading, quantitative, and risk-management teams in Banca IMI
 (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has
-also been co-founder and managing partner of RiskMap
-(now StatPro Italia).
+also been cofounder and managing partner of RiskMap
+(now part of Confluence Technologies).
 
 His mom and dad are very proud of him,
 his wife might share the feeling but has never disclosed her opinion officially,

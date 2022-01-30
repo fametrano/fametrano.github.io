@@ -10,7 +10,7 @@ Amministratore delegato e fondatore di [CheckSig](https://checksig.com),
 Ferdinando M. Ametrano
 insegna _Bitcoin e tecnologia blockchain_
 come professore a contratto
-in diverse universtità.  
+in diverse università.  
 [linkedin.com/in/ferdinandoametrano](https://linkedin.com/in/ferdinandoametrano)
 
 ## Affiliazione sintetica
@@ -68,7 +68,7 @@ in Intesa Sanpaolo e
 membro del Comitato Organizzatore della conferenza
 [Scaling Bitcoin](https://scalingbitcoin.org/);
 è presidente della
-[Crypto Asset Lab Conference](https://cryptoassetlab.org/calconf/)
+[CAL conference](https://cryptoassetlab.org/calconf/)
 organizzata assieme alla Commissione Europea,
 contribuisce occasionalmente e marginalmente a
 [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin)
@@ -93,13 +93,13 @@ La sua [ricerca accademica]({{ site.baseurl }}/papers/) è focalizzata sulla sta
 proponendo una nuova generazione di criptovalute a politica monetaria
 elastica ma automatizzata e non discrezionale ([Hayek Money](https://ssrn.com/abstract=2425270)).
 
-È stato anche cofondatore e coamministratore di [QuantLib](https://www.quantlib.org),
+È stato anche fondatore e coamministratore di [QuantLib](https://www.quantlib.org),
 il più importante progetto *open source* di software per la finanza quantitativa.
-Insegna *[Interest Rate Derivatives]({{ site.baseurl }}/ird/)* all'Università Milano-Bicocca ed ha rilevanti
+Ha insegnato *[Interest Rate Derivatives]({{ site.baseurl }}/ird/)* all'Università Milano-Bicocca ed ha rilevanti
 pubblicazioni sull'[argomento](https://ssrn.com/author=510135).
 In passato ha guidato team di trading, quantitativi e risk management in
 Banca IMI, Banca Caboto e Monte Paschi Asset Management;
-è stato anche co-fondatore e managing partner di RiskMap (oggi StatPro Italia).
+è stato anche cofondatore e managing partner di RiskMap (oggi in Confluence Technologies).
 
 I suoi genitori sono molto orgogliosi di lui,
 sua moglie sembra condividere il sentimento

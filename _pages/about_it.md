@@ -28,12 +28,12 @@ Amministratore delegato e fondatore di [CheckSig](https://checksig.com)
 * Fondatore e direttore scientifico, Crypto Asset Lab  
   Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università degli Studi di Milano-Bicocca  
   [cryptoassetlab.org](https://cryptoassetlab.org)
-* Professore a contratto di *Bitcoin and Blockchain Technology*  
+* Professore a contratto di [*Bitcoin and Blockchain Technology*]({{ site.baseurl }}/bbt)  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
   Dipartmento di Giurisprudenza, Università degli Studi di Milano-Bicocca  
   Dipartmento di Matematica, Università degli Studi di Milano  
   Interfacoltà di Scienze Naturali e Giurisprudenza, Università Cattolica del Sacro Cuore (Brescia)  
-* Professore a contratto di *Interest Rate Derivatives*  
+* Professore a contratto di [*Interest Rate Derivatives*]({{ site.baseurl }}/ird)  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
   [www.unimib.it/ferdinando-maria-ametrano](https://www.unimib.it/ferdinando-maria-ametrano)
 * Fondatore e coamministratore, QuantLib e btclib  

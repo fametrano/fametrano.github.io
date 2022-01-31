@@ -27,12 +27,12 @@ Ferdinando M. Ametrano
 * Founder and Scientific Director, Crypto Asset Lab  
   University of Milano-Bicocca  
   [cryptoassetlab.org](https://cryptoassetlab.org)
-* Adjunct Professor of "Bitcoin and Blockchain Technology"  
+* Adjunct Professor of "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt)"  
   Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
   Department of Law, University of Milano-Bicocca  
   Department of Mathematics, University of Milan (La Statale)  
   Mathematical, Physical and Natural Sciences / Law Interfaculty, Università Cattolica del Sacro Cuore (Brescia)  
-* Adjunct Professor of "Interest Rate Derivatives"  
+* Adjunct Professor of "[Interest Rate Derivatives]({{ site.baseurl }}/ird)"  
   Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
   [www.unimib.it/ferdinando-maria-ametrano](https://www.unimib.it/ferdinando-maria-ametrano)
 * Founder and coadministrator of QuantLib and btclib  

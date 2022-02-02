@@ -108,83 +108,70 @@ Italian or English, the latter if foreign students are present.
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
-01. _Bitcoin as Digital Gold_
-    * Internet Money
-    * Bitcoin Transactions
-    * About Money
-    * Private Money and the Centralization Dilemma
-    * The Double Spending Problem
+01. _Bitcoin as Digital Gold_ ([slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1))  
+    * Internet Money  
+    * Bitcoin Transactions  
+    * About Money  
+    * Private Money and the Centralization Dilemma  
+    * The Double Spending Problem  
     * Bitcoin as Digital Gold
-    * Bitcoin as Investment Asset
-    * Financial Services
-    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
-01. _Hash Functions_
-    * Hash Functions and Their Properties
-    * Puzzle Friendliness and Partial Hash Inversion
-    * Hash–based Data Structures
-    [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-01. _Blockchain, Mining, and Distributed Consensus_
+    * Bitcoin as Investment Asset  
+    * Financial Services  
+    * Hash Functions and Their Properties  
+    * Puzzle Friendliness and Partial Hash Inversion  
+    * Hash–based Data Structures  
+01. _Blockchain, Mining, and Distributed Consensus_ ([slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz))
     * Simplified Digital Coin
     * Distributed Consensus
     * Proof-of-Work (PoW)
     * Mining
     * P2P Network
-    * Protocol Governance
-    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_
+    * Protocol Governance  
+01. _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_ ([slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS))
     * Elliptic Curves and The Discrete Logarithm Problem
     * Discrete Logarithm Problem on Finite Cyclic Groups
     * Modular Arithmetic
     * Finite Fields
-    * Discrete Logarithm Problem on Elliptic Curves Over Finite Fields
-    [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
-01. _Elliptic Curve Digital Signature Algorithm (ECDSA)_
+    * Discrete Logarithm Problem on Elliptic Curves Over Finite Fields  
+01. _Elliptic Curve Digital Signature Algorithm (ECDSA)_ ([slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W))
     * Asymmetric Cryptography on Elliptic Curves
     * Digital Signature Protocol
     * Elliptic Curve Digital Signature Algorithm
-    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
-01. _ECDSA and Beyond_
+01. _ECDSA and Beyond_ ([slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W))
     * Elliptic Curve Efficient Computations
     * Schnorr Signature Algorithm (BIP340)
     * Diffie-Hellman
     * Symmetric Cryptography
-    * Encryption Using AES
-    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
-01. _Addresses, WIFs, and Bitcoin Message Signing_
+    * Encryption Using AES  
+01. _Addresses, WIFs, and Bitcoin Message Signing_ ([slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA))
     * Base58 Encoding
     * P2PKH Addresses and Wallet Import Formats
-    * Bitcoin Message Signing
-    [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
-01. _Transactions and Scripts_  
+    * Bitcoin Message Signing  
+01. _Transactions and Scripts_ ([slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY))
     * TxIns, TxOs, and UTxOs
     * Bitcoin Script Language
     * Standard Transaction Scripts
     * Signatures Types and Smart Contracts
     * Blocks
-    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
-01. _Transactions and Blocks_
+01. _Transactions and Blocks_ ([slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY))
     * Transaction Serializazion
     * Blocks
-    * Block Header
-    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
-01. _Timestamping and the OpenTimestamps Protocol_
+    * Block Header  
+01. _Timestamping and the OpenTimestamps Protocol_ ([slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b))
     * Blockchain Immutability
     * Timestamping
     * The OpenTimestamps standard
     * Use Cases
-    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)
-01. _Wallets and Custody_
+01. _Wallets and Custody_ ([slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF))
     * Key Management and UTxO Database Access
     * Wallets as Collection of Keys
-    * Custody
-    [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
-01. _Deterministic Key Chains_  
+    * Custody  
+01. _Deterministic Key Chains_ ([slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw))
     * Deterministic Key-pair Hash-chains
     * Hierarchical Deterministic Key-pair Hash-chains: BIP32
     * Extending BIP32: BIP43, BIP44, and SLIP32
     * Mnemonic Phrases: BIP39 and Electrum
-    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
-01. _Beyond Bitcoin: Between Hype and Reality_  
+01. _Beyond Bitcoin: Between Hype and Reality_ ([slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z))
     * Other Cryptocurrencies
     * Smart Contracts
     * Initial Coin Offering
@@ -193,14 +180,13 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * Traditional Finance for Crypto Assets
     * Blockchain Without Bitcoin
     * Distributed Ledger Technology
-    * Financial Products and Services
-    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
-01. _The Cryptocurrency Frontier in Monetary Engineering_  
+    * Financial Products and Services  
+01. _The Cryptocurrency Frontier in Monetary Engineering_ ([slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s))
     * Cash, eMoney, Central Bank Money, and eCash
     * Stable Coins
     * Hayek Money: Elastic Non-discretionary Policy
     * Hayek Money: Dual Asset Ledger and Proof-of-Payment
-    [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s)  
+
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
 

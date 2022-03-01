@@ -108,7 +108,7 @@ Italian or English, the latter if foreign students are present.
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
-01. _Bitcoin as Digital Gold_ ([slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1))  
+01. _Bitcoin as Digital Gold_ ([slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho))  
     * Internet Money  
     * Bitcoin Transactions  
     * About Money  
@@ -117,6 +117,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * Bitcoin as Digital Gold
     * Bitcoin as Investment Asset  
     * Financial Services  
+01. Hash Functions ([slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1))  
     * Hash Functions and Their Properties  
     * Puzzle Friendliness and Partial Hash Inversion  
     * Hash–based Data Structures  

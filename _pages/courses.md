@@ -11,7 +11,7 @@ permalink: /courses/
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
 * [Bitcoin and Blockchain Technology, October-December 2021]({{ site.baseurl }}/bbt202110-brescia/)  
   _Interfaculty, Università Cattolica del Sacro Cuore (Brescia)_
-* [Bitcoin and Blockchain Technology, May-June 2022]({{ site.baseurl }}/bbt202205-math/)  
+* [Bitcoin and Blockchain Technology, April-June 2022]({{ site.baseurl }}/bbt202204-math/)  
   _Department of Mathematics, University of Milan (La Statale)_
 
 For events, seminars, and conferences where I have been engaged

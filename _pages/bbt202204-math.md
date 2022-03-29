@@ -5,12 +5,12 @@ description: Bitcoin and Blockchain Technology course, including slides, code, v
 permalink: /bbt202204-math/
 ---
 
-## Bitcoin and Blockchain Technology, April-June 2021
+## Bitcoin and Blockchain Technology, April-June 2022
 
 Department of Mathematics, University of Milan
 
 If you have an e-mail _@studenti.unimi.it_
-please join the 202205-math channel in the Slack
+please join the 202204-math channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
 using your first and last name (no nicknames) and
 a profile picture.
@@ -135,8 +135,8 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2022-05-18 Wednesday 17:00-19:00  
-    _Elliptic Curve Digital Signature Algorithm_  
-    _Schnorr Signature Algorithm_  
+    _Elliptic Curve Digital Signature Algorithm (ECDSA)_  
+    _Schnorr Signature Algorithm (BIP340)_  
     _Optimization of The Elliptic Curve Scalar Multiplication_  
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
 01. 2022-05-25 Wednesday 17:00-19:00  
@@ -153,13 +153,11 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Beyond Bitcoin: Between Hype and Reality_  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
 01. 2022-06-15 Wednesday 17:00-19:00  
-    _Transactions and Scripts_ (Part 3)  
-    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
-    _Wallets and Custody_  
-    [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
-01. 2022-06-22 Wednesday 17:00-19:00  
     _Deterministic Key Chains_  
     [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
+01. 2022-06-22 Wednesday 17:00-19:00  
+    _Wallets and Custody_  
+    [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
 01. 2022-06-29 Wednesday 17:00-19:00  
     _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s)  

@@ -7,12 +7,10 @@ permalink: /courses/
 
 ## Current and upcoming university courses
 
-* [Interest Rate Derivatives, October 2021 - January 2022]({{ site.baseurl }}/ird/)  
-  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* [Bitcoin and Blockchain Technology, October-December 2021]({{ site.baseurl }}/bbt202110-brescia/)  
-  _Interfaculty, Università Cattolica del Sacro Cuore (Brescia)_
 * [Bitcoin and Blockchain Technology, April-June 2022]({{ site.baseurl }}/bbt202204-math/)  
   _Department of Mathematics, University of Milan (La Statale)_
+* [Bitcoin and Cryptoasset, September-December 2022]({{ site.baseurl }}/bbt202209-essec/)  
+  _Département of Finance, ESSEC Business School_
 
 For events, seminars, and conferences where I have been engaged
 as speaker, panelist, MC, or lecturer see the dedicated [events]({{ site.baseurl }}/events/) page.
@@ -21,6 +19,10 @@ as speaker, panelist, MC, or lecturer see the dedicated [events]({{ site.baseurl
 
 ## Past university courses
 
+* [Interest Rate Derivatives, October 2021 - January 2022]({{ site.baseurl }}/ird/)  
+  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
+* [Bitcoin and Blockchain Technology, October-December 2021]({{ site.baseurl }}/bbt202110-brescia/)  
+  _Interfaculty, Università Cattolica del Sacro Cuore (Brescia)_
 * [Bitcoin and Blockchain Technology, May-June 2021]({{ site.baseurl }}/bbt202105-math/)  
   _Department of Mathematics, University of Milan (La Statale)_
 * [Bitcoin and Blockchain Technology, February-April 2021]({{ site.baseurl }}/bbt202102-bicocca/)  

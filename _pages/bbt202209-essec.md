@@ -7,7 +7,7 @@ permalink: /bbt202209-essec/
 
 ## Bitcoin & Cryptoassets (FING 31235), September-December 2022
 
-Département Finance, ESSEC Business School
+Département of Finance, ESSEC Business School
 3 Bernard Hirsch, 95021 Cergy-Pontoise Cedex
 
 The course is for the students of ESSEC Business School only;

@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Bitcoin and Blockchain Technology Course
-description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
+title: Bitcoin Courses
+description: Bitcoin courses, including slides, code, videos, etc.
 image:
     main: btclib-logo.jpg
 permalink: /bbt/
 ---
 
-## Bitcoin and Blockchain Technology
+## Bitcoin courses
 
-* [Bitcoin and Blockchain Technology, October-December 2021]({{ site.baseurl }}/bbt202110-brescia/)  
-  _Interfaculty, Università Cattolica del Sacro Cuore (Brescia)_
 * [Bitcoin and Blockchain Technology, April-June 2022]({{ site.baseurl }}/bbt202204-math/)  
   _Department of Mathematics, University of Milan (La Statale)_
+* [Bitcoin and Cryptoasset, September-December 2022]({{ site.baseurl }}/bbt202209-essec/)  
+  _Département of Finance, ESSEC Business School_
 
 Please refer to the page dedicated to your university, if available above.
 

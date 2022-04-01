@@ -5,9 +5,11 @@ description: Bitcoin & Cryptoassets course, including slides, code, videos, etc.
 permalink: /bbt202209-essec/
 ---
 
-## Bitcoin & Cryptoassets (FING 31235), September-December 2022
+## Bitcoin & Cryptoassets, September-December 2022
 
-Département of Finance, ESSEC Business School
+with Ferdinando Ametrano and Andrea Roncoroni
+
+Département of Finance, ESSEC Business School  
 3 Bernard Hirsch, 95021 Cergy-Pontoise Cedex
 
 The course is for the students of ESSEC Business School only;

@@ -114,7 +114,7 @@ his colleagues and students love and hate him depending on their sensitivities a
 
 Oh... he is Catholic and a huge Bruce Springsteen fan.
 
-Europass CV: <https://ametrano.net/cv/CV-Europass-20200626-Ametrano-EN.pdf>  
+Europass CV: <https://ametrano.net/cv/CV-Europass-Ametrano-ENG.pdf>  
 Two pages CV: <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 **email contact form**: <https://bit.ly/contactametrano>
@@ -125,12 +125,13 @@ Two pages CV: <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 <https://github.com/fametrano>  
 <https://twitter.com/Ferdinando1970>  
-<https://ssrn.com/author=510135>  
-<https://orcid.org/0000-0001-8521-0063>  
-<https://scholar.google.com/citations?user=dFSSrwwAAAAJ>  
 <https://www.linkedin.com/in/ferdinandoametrano>  
 <https://youtube.com/c/FerdinandoMAmetrano>  
 <https://facebook.com/ferdinando.ametrano>  
+<https://www.instagram.com/ferdinandoametrano>  
+<https://ssrn.com/author=510135>  
+<https://orcid.org/0000-0001-8521-0063>  
+<https://scholar.google.com/citations?user=dFSSrwwAAAAJ>  
 <https://medium.com/@nando1970>  
 <https://speakerdeck.com/nando1970>  
 <https://www.reddit.com/user/Nando1970>  

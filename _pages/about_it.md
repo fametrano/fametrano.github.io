@@ -111,7 +111,7 @@ delle loro sensibilità ed esperienze.
 
 Ah... è cattolico e grande _fan_ di Bruce Springsteen.
 
-CV Europass: <https://ametrano.net/cv/CV-Europass-20200626-Ametrano-EN.pdf>  
+CV Europass: <https://ametrano.net/cv/CV-Europass-Ametrano-ENG.pdf>  
 CV (due pagine): <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 **modulo per contatto email**: <https://bit.ly/contactametrano>
@@ -122,12 +122,13 @@ CV (due pagine): <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
 
 <https://github.com/fametrano>  
 <https://twitter.com/Ferdinando1970>  
-<https://ssrn.com/author=510135>  
-<https://orcid.org/0000-0001-8521-0063>  
-<https://scholar.google.com/citations?user=dFSSrwwAAAAJ>  
 <https://www.linkedin.com/in/ferdinandoametrano>  
 <https://youtube.com/c/FerdinandoMAmetrano>  
 <https://facebook.com/ferdinando.ametrano>  
+<https://www.instagram.com/ferdinandoametrano>  
+<https://ssrn.com/author=510135>  
+<https://orcid.org/0000-0001-8521-0063>  
+<https://scholar.google.com/citations?user=dFSSrwwAAAAJ>  
 <https://medium.com/@nando1970>  
 <https://speakerdeck.com/nando1970>  
 <https://www.reddit.com/user/Nando1970>  

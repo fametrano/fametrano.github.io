@@ -134,31 +134,34 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2022-05-11 Wednesday 17:30-19:30  
     _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2022-05-18 Wednesday 17:30-19:30  
+01. 2022-05-25 Wednesday 17:30-19:30  
     _Elliptic Curve Digital Signature Algorithm (ECDSA)_  
     _Schnorr Signature Algorithm (BIP340)_  
     _Optimization of The Elliptic Curve Scalar Multiplication_  
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
-01. 2022-05-25 Wednesday 17:30-19:30  
+01. 2022-06-01 Wednesday 17:30-19:30  
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
+01. 2022-06-08 Wednesday 17:30-19:30  
     _Transactions and Scripts_ (Part 1)  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
-01. 2022-06-01 Wednesday 17:30-19:30  
+01. 2022-06-15 Wednesday 17:30-19:30  
     _Transactions and Scripts_ (Part 2)  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
     _Timestamping and the OpenTimestamps Protocol_  
     [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)
-01. 2022-06-08 Wednesday 17:30-19:30  
-    _Beyond Bitcoin: Between Hype and Reality_  
-    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
-01. 2022-06-15 Wednesday 17:30-19:30  
+01. 2022-06-16 Thursday 17:30-19:30  
+    _Python Workshop_  
+    [Python books](https://drive.google.com/drive/folders/1XwXZ5XgKElp2zkK3QNoYOaCc39bZQGzQ)  
+01. 2022-06-22 Wednesday 17:30-19:30  
     _Deterministic Key Chains_  
     [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
-01. 2022-06-22 Wednesday 17:30-19:30  
     _Wallets and Custody_  
     [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
-01. 2022-06-29 Wednesday 17:30-19:30  
+01. 2022-06-23 Thursday 17:30-19:30  
+    _Beyond Bitcoin: Between Hype and Reality_  
+    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+01. 2022-06-30 Thursday 17:30-19:30  
     _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  

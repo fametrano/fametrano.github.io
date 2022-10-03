@@ -2,10 +2,10 @@
 layout: page
 title: Bitcoin & Cryptoassets Course
 description: Bitcoin & Cryptoassets course, including slides, code, videos, etc.
-permalink: /bbt202209-essec/
+permalink: /bbt202210-essec/
 ---
 
-## Bitcoin & Cryptoassets, September-December 2022
+## Bitcoin & Cryptoassets, October-December 2022
 
 with Ferdinando Ametrano and Andrea Roncoroni
 
@@ -53,74 +53,64 @@ blah blah
 
 ## Lessons' calendar and material
 
-01. 2022-09-27 Tuesday 13:15-16:15  
-    with Andrea Roncoroni  
+01. 2022-10-04 Tuesday 16:30-19:30  
     _Foundations_
     * Course Outline and Rules
     * Introduction to Cryptocurrencies
     * Historical Patterns  
-01. 2022-10-04 Tuesday 13:15-16:15  
-    with Andrea Roncoroni  
+01. 2022-10-11 Tuesday 16:30-19:30  
     _Blockchain Technology for Cryptocurrencies_  
     * Centralized vs. Distributed Databases
     * Addresses and Transactions
     * Definition of Blockchain
     * Wallets
     * What do we Mean by Bitcoin?  
-01. 2022-10-11 Tuesday 13:15-16:15  
-    with Andrea Roncoroni  
+01. 2022-10-18 Tuesday 16:30-19:30  
     _Economics_  
     * Money as a Medium of Exchange
     * Money as a Store of Value (Investment)
     * Money as a Numéraire
     * Deflation, Inflation, and Monetary Policy  
-01. 2022-10-18 Tuesday 13:15-16:15  
-    with Andrea Roncoroni  
+01. 2022-10-22 Saturday 9:00-12:30  
      _Financial Business Applications_  
     * Mining
     * Money Transfer
     * Exchanges, Futures,
     * Web Wallets and Custody Services
     * Automatic Teller Machines  
-01. 2022-10-25 Tuesday 13:15-16:15  
-    with Ferdinando Ametrano  
+01. 2022-10-25 Tuesday 16:30-19:30  
     _Bitcoin as Digital Gold: Investment Asset and Financial Services_  
     * Private Money and the Centralization Dilemma
     * The Double Spending Problem
     * Bitcoin as Digital Gold
     * Bitcoin as Investment Asset
     * Financial Services  
-01. 2022-11-08 Tuesday 13:15-16:15  
-    with Ferdinando Ametrano  
+01. 2022-11-08 Tuesday 16:30-19:30  
     _The Interplay Between Tech, Game Theory, and Monetary Theory_  
     * Distributed Consensus
     * Proof-of-Work and Proof-of-Stake
     * P2P Network
     * Protocol Governance
     * Environmental and societal issues  
-01. 2022-11-15 Tuesday 13:15-16:15  
-    with Ferdinando Ametrano  
+01. 2022-11-15 Tuesday 16:30-19:30  
     _Beyond Bitcoin I_  
     * Altcoins: Ethereum, Ripple, Monero, etc
     * Delivery vs Payment using Smart Contracts
     * Initial Coin Offering (ICO)
     * Non-fungible Tokens (NFT)  
-01. 2022-11-22 Tuesday 13:15-16:15  
-    with Ferdinando Ametrano  
+01. 2022-11-26 Saturday 9:00-12:30  
     _Beyond Bitcoin II_  
     * Exchange arbitrages
     * Stablecoins
     * Decentralized Finance (DeFi)
     * Blockchain Without Tokens  
-01. 2022-11-29 Tuesday 13:15-16:15  
-    with Ferdinando Ametrano  
+01. 2022-11-29 Tuesday 16:30-19:30  
     _Monetary Engineering_  
     * Cash, eCash, and eMoney
     * Central Bank Digital Currencies
     * Hayek Money
     * Dual Asset Ledger and Proof-of-Payment  
-01. 2022-12-06 Tuesday 13:15-16:15  
-    with Andrea Roncoroni  
+01. 2022-12-06 Tuesday 16:30-19:30  
     _Final exam_  
 
 ## Python library

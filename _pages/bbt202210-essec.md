@@ -99,7 +99,7 @@ and two open questions that will account for the remaining five points.
 
 ## Python library
 
-[btclib.org](https://btclib.org) 
+[btclib.org](https://btclib.org)  
 [github.com/btclib-org/btclib](https://github.com/btclib-org/btclib)
 
 ## Python scripts, Excel spreadsheets, and regtest lab material

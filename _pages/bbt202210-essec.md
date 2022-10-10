@@ -47,7 +47,8 @@ English
 
 ## Exam
 
-There will five homework assignments, each one worth one point. Assignment can be tackled by group of students, up to three, no more.
+There will five homework assignments, each one worth one point.
+Assignments can be tackled by group of students, up to three, no more.
 
 The final exam on December 6 will have ten multiple choice questions,
 each one worth one point,
@@ -56,12 +57,14 @@ and two open questions that will account for the remaining five points.
 ## Contacts
 
 * Administrative queries: Esther Bonville (bonville AT essec DOTedu)
-* Teaching assistant, assignmentes: Alessandra Guaitamacchi (B00792969 AT essec DOT edu)
+* Teaching assistant, assignments: Alessandra Guaitamacchi (B00792969 AT essec DOT edu)
 * Course content questions: Ferdinando Ametrano (B00808399 AT essec DOT edu)
 
 ## Lessons' calendar and material
 
 01. 2022-10-04 Tuesday 16:30-19:30  
+    _Course Introduction_  
+    [slides](https://drive.google.com/file/d/15n5dKA1SqgCFmpEYUpSIT0_JNsMVI1FR)  
     _Bitcoin as Digital Gold_ (Part 1)  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
 01. 2022-10-11 Tuesday 16:30-19:30 (online)  

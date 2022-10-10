@@ -1,29 +1,26 @@
 ---
 layout: page
-title: Bitcoin & Cryptoassets Course
-description: Bitcoin & Cryptoassets course, including slides, code, videos, etc.
+title: Bitcoin & Crypto-assets Course
+description: Bitcoin & Crypto-assets course, including slides, code, videos, etc.
 permalink: /bbt202210-essec/
 ---
 
-## Bitcoin & Cryptoassets, October-December 2022
+## Bitcoin & Crypto-assets, October-December 2022
 
-with Ferdinando Ametrano and Andrea Roncoroni
+with Ferdinando Ametrano (B00808399 AT essec DOT edu) and Andrea Roncoroni
 
 Département of Finance, ESSEC Business School  
 3 Bernard Hirsch, 95021 Cergy-Pontoise Cedex
 
-The course is for the students of ESSEC Business School only;
-anyone else, please consider <https://dgi.io/workshop>.
-
 ## Learning objectives
 
-The course is an introduction to bitcoin and cryptoassets.
+The course is about bitcoin and cryptoasset, their economic rationale and potential.
 
-Financial markets, investing, and monetary theory are the focus of the course;
-anyway, game theory, computer science (distributed systems, distributed
-consensus), and cryptography elements are examined too,
-in the attempt to properly convey the interdisciplinarity of the topic
-and appreciate its relevance.
+Financial markets, investing, and monetary theory are the focus of the course; anyway, game theory, computer science (distributed systems, distributed consensus), and cryptography elements are examined too, in the attempt to properly convey the interdisciplinarity of the topic and appreciate its relevance.
+
+Focusing mainly on Bitcoin as reference cryptoasset, the course will also cover Ethereum, smart assets, ICO, NFT, and the general applicability of blockchain technology.
+
+The frontier of monetary engineering will be explored
 
 ## Prerequisites
 
@@ -31,6 +28,7 @@ There are no strict prerequisites,
 even if a computer science mindset
 and some familiarity with algebra and finance
 might help to appreciate the course.
+
 While a rigorous formal approach is almost impossible
 in a course touching on so many and so different knowledge areas,
 intellectual curiosity is stimulated about the interplay between
@@ -41,75 +39,58 @@ monetary theory, regulatory issues, and politics.
 
 * Slide based lessons with associated bibliography
 * Python 3 programming assignments and technology assignments
-* Workshop labs on Bitcoin Core, Electrum, and OpenTimestamps
+* Possibly, workshop labs on Bitcoin Core, Electrum, and OpenTimestamps
 
 ## Teaching language
 
-English.
+English
 
 ## Exam
 
-blah blah
+There will five homework assignments, each one worth one point. Assignment can be tackled by group of students, up to three, no more.
+
+The final exam on December 6 will have ten multiple choice questions,
+each one worth one point,
+and two open questions that will account for the remaining five points.
+
+## Contacts
+
+* Administrative queries: Esther Bonville (bonville AT essec DOTedu)
+* Teaching assistant, assignmentes: Alessandra Guaitamacchi (B00792969 AT essec DOT edu)
+* Course content questions: Ferdinando Ametrano (B00808399 AT essec DOT edu)
 
 ## Lessons' calendar and material
 
 01. 2022-10-04 Tuesday 16:30-19:30  
-    _Foundations_
-    * Course Outline and Rules
-    * Introduction to Cryptocurrencies
-    * Historical Patterns  
-01. 2022-10-11 Tuesday 16:30-19:30  
-    _Blockchain Technology for Cryptocurrencies_  
-    * Centralized vs. Distributed Databases
-    * Addresses and Transactions
-    * Definition of Blockchain
-    * Wallets
-    * What do we Mean by Bitcoin?  
+    _Bitcoin as Digital Gold_ (Part 1)  
+    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
+01. 2022-10-11 Tuesday 16:30-19:30 (online)  
+    _Bitcoin as Digital Gold_ (Part 2)  
+    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
 01. 2022-10-18 Tuesday 16:30-19:30  
-    _Economics_  
-    * Money as a Medium of Exchange
-    * Money as a Store of Value (Investment)
-    * Money as a Numéraire
-    * Deflation, Inflation, and Monetary Policy  
+     _Hash Functions_  
+    [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
+    _Blockchain, Mining, and Distributed Consensus_ (Part 1)  
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2022-10-22 Saturday 9:00-12:30  
-     _Financial Business Applications_  
-    * Mining
-    * Money Transfer
-    * Exchanges, Futures,
-    * Web Wallets and Custody Services
-    * Automatic Teller Machines  
+    _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2022-10-25 Tuesday 16:30-19:30  
-    _Bitcoin as Digital Gold: Investment Asset and Financial Services_  
-    * Private Money and the Centralization Dilemma
-    * The Double Spending Problem
-    * Bitcoin as Digital Gold
-    * Bitcoin as Investment Asset
-    * Financial Services  
+    _Transactions and Scripts_  
+    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
 01. 2022-11-08 Tuesday 16:30-19:30  
-    _The Interplay Between Tech, Game Theory, and Monetary Theory_  
-    * Distributed Consensus
-    * Proof-of-Work and Proof-of-Stake
-    * P2P Network
-    * Protocol Governance
-    * Environmental and societal issues  
-01. 2022-11-15 Tuesday 16:30-19:30  
-    _Beyond Bitcoin I_  
-    * Altcoins: Ethereum, Ripple, Monero, etc
-    * Delivery vs Payment using Smart Contracts
-    * Initial Coin Offering (ICO)
-    * Non-fungible Tokens (NFT)  
+    _Timestamping and the OpenTimestamps Protocol_  
+    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)
+01. 2022-11-15 Tuesday 16:30-19:30 (online)  
+    _Beyond Bitcoin: Between Hype and Reality_ (Part 1)  
+    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
 01. 2022-11-26 Saturday 9:00-12:30  
-    _Beyond Bitcoin II_  
-    * Exchange arbitrages
-    * Stablecoins
-    * Decentralized Finance (DeFi)
-    * Blockchain Without Tokens  
+    _Beyond Bitcoin: Between Hype and Reality_ (Part 2)  
+    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
 01. 2022-11-29 Tuesday 16:30-19:30  
-    _Monetary Engineering_  
-    * Cash, eCash, and eMoney
-    * Central Bank Digital Currencies
-    * Hayek Money
-    * Dual Asset Ledger and Proof-of-Payment  
+    _The Cryptocurrency Frontier in Monetary Engineering_  
+    [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s)  
+    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
 01. 2022-12-06 Tuesday 16:30-19:30  
     _Final exam_  
 
@@ -122,77 +103,36 @@ blah blah
 
 [github.com/btclib-org/bbt](https://github.com/btclib-org/bbt)
 
-## Introductory reading
+## References
 
-* Ferdinando M. Ametrano,  
-  _"Bitcoin: oro digitale, finanza e tulipani"_,  
-  <https://docs.google.com/document/d/1gecm0uT43tl8d4WFYNs9H_v3p70PPfPmQITR4GxSWkE>
-
-## Technology references
-
+* Course slides with associated bibliography
 * Satoshi Nakamoto,  
   _"Bitcoin: A Peer-to-Peer Electronic Cash System"_ (2008),  
   <https://bitcoin.org/bitcoin.pdf>
-* Andreas M. Antonopoulos,  
-  _"Mastering Bitcoin: Programming the Open Blockchain"_ (2nd edition, 2017),  
-  Oreilly & Associates Inc, 978-1491954386,  
-  <https://github.com/bitcoinbook/bitcoinbook>
-* Jimmy Song,  
-  _"Programming Bitcoin: Learn How to Program Bitcoin from Scratch"_ (2020)  
-  Oreilly & Associates Inc, 978-1492031499,  
-  <https://github.com/jimmysong/programmingbitcoin>
 * A. Narayanan, et al.,  
   _"Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction"_ (2016),  
   Princeton University Press, 978-0691171692,  
-  <https://www.coursera.org/learn/cryptocurrency>, <https://bitcoinbook.cs.princeton.edu>, <https://bitcoinbook.cs.princeton.edu>, <https://www.lopp.net/pdf/princeton_bitcoin_book.pdf>
+  <https://www.coursera.org/learn/cryptocurrency>  
+  <https://bitcoinbook.cs.princeton.edu>  
+  <https://www.lopp.net/pdf/princeton_bitcoin_book.pdf>
 * Pedro Franco,  
   _“Understanding Bitcoin: Cryptography, Engineering and Economics”_ (2014),  
   Wiley, 978-1119019169
-* Ferdinando M. Ametrano,  
-  _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_ (2017),  
-  <https://ssrn.com/abstract=2832249>
-* Roger Wattenhofer,  
-  _“Blockchain Science: Distributed Ledger Technology”_ (3rd edition, 2020),  
-   Independently published, 978-1793471734
-
-## Cryptography references
-
-* Christof Paar, Jan Pelzl,  
-  _"Understanding Cryptography"_,  
-  Springer, 978-3642041006
-  <https://toc.cryptobook.us//>, <https://wiki.crypto.rub.de/Buch/en/slides.php>, <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
-* Dan Boneh,
-  _"A Graduate Course in Applied Cryptography"_,  
-  Stanford University  
-  <https://www.coursera.org/learn/crypto>, <toc.cryptobook.us/>
-* Lawrence C. Washington,  
-  _“Elliptic Curves: Number Theory And Cryptography”_ (2008),  
-  Chapman and Hall, 978-1420071467
-* Standards for Efficient Cryptography Group  
-  SEC 1: Elliptic Curve Cryptography, March 2009. Version 2.0.  
-  <https://www.secg.org/sec1-v2.pdf>
-* Standards for Efficient Cryptography Group  
-  SEC 2: Recommended Elliptic Curve Domain Parameters, March 2009. Version 2.0.  
-  <https://www.secg.org/sec2-v2.pdf>
-* Guidelines for Efficient Cryptography  
-  GEC 2: Test Vectors for SEC 1, September 1999. Version 0.3.  
-  <http://read.pudn.com/downloads168/doc/772358/TestVectorsforSEC%201-gec2.pdf>
-
-## Monetary theory references
-
 * Friedrich A. Hayek,  
   _"Denationalisation of Money: The Argument Refined"_,  
   <https://mises.org/library/denationalisation-money-argument-refined>  
+
+## Advanced references
+
+* Roger Wattenhofer,  
+  _“Blockchain Science: Distributed Ledger Technology”_ (3rd edition, 2020),  
+   Independently published, 978-1793471734
+* Christof Paar, Jan Pelzl,  
+  _"Understanding Cryptography"_,  
+  Springer, 978-3642041006  
+  <https://toc.cryptobook.us/>  
+  <https://wiki.crypto.rub.de/Buch/en/slides.php>  
+  <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Saifedean Ammous,  
   _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_ (2018),  
   Wiley, 978-1119473862
-* Ferdinando M. Ametrano,  
-  _"Hayek Money: The Cryptocurrency Price Stability Solution"_ (2014),  
-  <https://ssrn.com/abstract=2425270>
-* Robert Sams,  
-  _"A Note on Cryptocurrency Stabilisation: Seigniorage Shares"_ (2015),  
-  <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
-* Ferdinando M. Ametrano,  
-  _"Bitcoin: oro digitale per nuovi standard monetari_ (2020),  
-  published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta,  and Alberto Mingardi)  
-  <https://bit.ly/2NQg9VJ>

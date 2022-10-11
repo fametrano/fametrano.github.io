@@ -106,7 +106,7 @@ monetary theory, regulatory issues, and politics.
 
 English if foreign students are present, else Italian.
 
-## Exam
+## Assessment
 
 Students attending the lessons are asked
 to solve course assignments for each lesson.
@@ -122,7 +122,7 @@ Successful assignments will contribute
 up to five points to the final grade,
 which will be determined with a final oral test.
 
-## Lessons' calendar and material
+## Schedule
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 

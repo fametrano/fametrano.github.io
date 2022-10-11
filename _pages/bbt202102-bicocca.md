@@ -106,7 +106,7 @@ monetary theory, regulatory issues, and politics.
 
 Italian lessons, English slides.
 
-## Exam
+## Assessment
 
 To pass the exam each student must solve all the assignments
 for every lesson. Please send the assignments
@@ -115,7 +115,7 @@ to the e-mail that will be indicated with subject
 **BBT202102-BICOCCA #2** for the second lesson,
 etc.
 
-## Lessons' calendar and material
+## Schedule
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 

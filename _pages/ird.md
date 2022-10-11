@@ -67,7 +67,7 @@ Derivatives, stochastic processes, risk measures
 
 English if foreign students are present, else Italian.
 
-## Exam
+## Assessment
 
 Students attending the lessons are asked
 to solve some assignments.
@@ -87,7 +87,7 @@ etc.
 
 The final oral exam will be individual.
 
-## Lessons' calendar and material
+## Schedule
 
 Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolomazzocchi/),
 assistant lecturer ([material](https://drive.google.com/drive/folders/1qIazIGLDuy2DYpVzG39f2QNoiUKbRiG3)).

@@ -110,7 +110,7 @@ monetary theory, regulatory issues, and politics.
 
 Italian or English, the latter if foreign students are present.
 
-## Exam
+## Assessment
 
 Students attending the lessons are asked
 to solve course assignments for each lesson.
@@ -131,7 +131,7 @@ etc.
 The final exam will be individual:
 a grade of at least 18/30 is required to pass the exam.
 
-## Lessons' calendar and material
+## Schedule
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 

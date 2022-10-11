@@ -108,7 +108,7 @@ monetary theory, regulatory issues, and politics.
 
 English if foreign students are present, else Italian.
 
-## Exam
+## Assessment
 
 Students attending the lessons are asked
 to solve course assignments for each lesson.
@@ -128,7 +128,7 @@ etc.
 
 The final exam will be individual.
 
-## Lessons' calendar and material
+## Schedule
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 

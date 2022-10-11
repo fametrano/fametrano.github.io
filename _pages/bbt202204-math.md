@@ -104,7 +104,7 @@ monetary theory, regulatory issues, and politics.
 
 Italian or English, the latter if foreign students are present.
 
-## Exam
+## Assessment
 
 To pass the exam each student must solve all the assignments
 for every lesson. Please send the assignments
@@ -113,7 +113,7 @@ to the e-mail that will be indicated with subject
 **bbt202204-math #2** for the second lesson,
 etc.
 
-## Lessons' calendar and material
+## Schedule
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 

@@ -90,7 +90,7 @@ monetary theory, and politics.
 
 Italian or English, the latter if foreign students are present.
 
-## Lessons' calendar and material
+## Schedule
 
 Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/), assistant lecturer.
 

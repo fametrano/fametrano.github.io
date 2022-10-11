@@ -39,13 +39,13 @@ monetary theory, regulatory issues, and politics.
 
 * Slide based lessons with associated bibliography
 * Python 3 programming assignments and technology assignments
-* Possibly, workshop labs on Bitcoin Core, Electrum, and OpenTimestamps
+* Possibly, workshops on Bitcoin Core, Electrum, and OpenTimestamps
 
 ## Teaching language
 
 English
 
-## Exam
+## Assessment
 
 There will five homework assignments, each one worth one point.
 Assignments can be tackled by group of students, up to three, no more.
@@ -60,7 +60,7 @@ and two open questions that will account for the remaining five points.
 * Teaching assistant, assignments: Alessandra Guaitamacchi (B00792969 AT essec DOT edu)
 * Course content questions: Ferdinando Ametrano (B00808399 AT essec DOT edu)
 
-## Lessons' calendar and material
+## Schedule
 
 01. 2022-10-04 Tuesday 16:30-19:30  
     _Course Introduction_  

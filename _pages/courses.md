@@ -14,16 +14,13 @@ permalink: /courses/
 * [Bitcoin and Blockchain Technology, April-June 2023]({{ site.baseurl }}/bbt/)  
   _Department of Mathematics, University of Milan (La Statale)_
 
-For events, seminars, and conferences where I have been engaged
-as speaker, panelist, MC, or lecturer see the dedicated [events]({{ site.baseurl }}/events/) page.
-
 ---
 
 ## Past university courses
 
 * [Bitcoin and Blockchain Technology, April-June 2022]({{ site.baseurl }}/bbt202204-math/)  
   _Department of Mathematics, University of Milan (La Statale)_
-* [Interest Rate Derivatives, October 2021 - January 2022]({{ site.baseurl }}/ird/)  
+* [Interest Rate Derivatives, October 2021 - January 2022]({{ site.baseurl }}/ird202110/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
 * [Bitcoin and Blockchain Technology, October-December 2021]({{ site.baseurl }}/bbt202110-brescia/)  
   _Interfaculty, Università Cattolica del Sacro Cuore (Brescia)_

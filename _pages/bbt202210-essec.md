@@ -38,6 +38,8 @@ monetary theory, regulatory issues, and politics.
 ## Teaching method
 
 * Slide based lessons with associated bibliography
+  - Feedback about typos/mistakes to be fixed and clarification to be added is very much appreciated
+  - Slides are usually revised after each lesson to incorporate the feedback: the latest version is always available online and is clearly marked on the cover with the revision date
 * Python 3 programming assignments and technology assignments
 * Possibly, workshops on Bitcoin Core, Electrum, and OpenTimestamps
 

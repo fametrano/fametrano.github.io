@@ -77,7 +77,7 @@ and two open questions that will account for the remaining five points.
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     _Blockchain, Mining, and Distributed Consensus_ (Part 1)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2022-10-22 Saturday 9:00-12:30  
+01. 2022-10-22 Saturday 9:00-12:00  
     _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2022-10-25 Tuesday 16:30-19:30  
@@ -89,7 +89,7 @@ and two open questions that will account for the remaining five points.
 01. 2022-11-15 Tuesday 16:30-19:30 (online)  
     _Beyond Bitcoin: Between Hype and Reality_ (Part 1)  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
-01. 2022-11-26 Saturday 9:00-12:30  
+01. 2022-11-26 Saturday 9:00-12:00  
     _Beyond Bitcoin: Between Hype and Reality_ (Part 2)  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
 01. 2022-11-29 Tuesday 16:30-19:30  

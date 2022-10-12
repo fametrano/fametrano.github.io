@@ -9,7 +9,7 @@ permalink: /bbt202210-essec/
 
 with Ferdinando Ametrano (B00808399 AT essec DOT edu) and Andrea Roncoroni
 
-Département of Finance, ESSEC Business School  
+Department of Finance, ESSEC Business School  
 3 Bernard Hirsch, 95021 Cergy-Pontoise Cedex
 
 ## Learning objectives
@@ -38,8 +38,8 @@ monetary theory, regulatory issues, and politics.
 ## Teaching method
 
 * Slide based lessons with associated bibliography
-  - Feedback about typos/mistakes to be fixed and clarification to be added is very much appreciated
-  - Slides are usually revised after each lesson to incorporate the feedback: the latest version is always available online and is clearly marked on the cover with the revision date
+  * Feedback about typos/mistakes to be fixed and clarification to be added is very much appreciated
+  * Slides are usually revised after each lesson to incorporate the feedback: the latest version is always available online and is clearly marked on the cover with the revision date
 * Python 3 programming assignments and technology assignments
 * Possibly, workshops on Bitcoin Core, Electrum, and OpenTimestamps
 
@@ -65,7 +65,7 @@ and two open questions that will account for the remaining five points.
 ## Schedule
 
 01. 2022-10-04 Tuesday 16:30-19:30  
-    _Course Introduction_  
+    _Course Description_  
     [slides](https://drive.google.com/file/d/15n5dKA1SqgCFmpEYUpSIT0_JNsMVI1FR)  
     _Bitcoin as Digital Gold_ (Part 1)  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  

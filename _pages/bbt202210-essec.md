@@ -7,7 +7,7 @@ permalink: /bbt202210-essec/
 
 ## Bitcoin & Crypto-assets, October-December 2022
 
-with Ferdinando Ametrano (B00808399 AT essec DOT edu) and Andrea Roncoroni
+with Ferdinando Ametrano (B00808399 AT essec DOT edu)
 
 Department of Finance, ESSEC Business School  
 3 Bernard Hirsch, 95021 Cergy-Pontoise Cedex

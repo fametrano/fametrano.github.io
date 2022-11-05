@@ -142,7 +142,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * Finite Fields
     * Discrete Logarithm Problem on Elliptic Curves Over Finite Fields  
 01. _Elliptic Curve Digital Signature Algorithm (ECDSA)_  
-    ([slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
     * Asymmetric Cryptography on Elliptic Curves
     * Digital Signature Protocol
     * Elliptic Curve Digital Signature Algorithm

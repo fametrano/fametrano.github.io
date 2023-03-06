@@ -50,7 +50,7 @@ Slide based lessons with associated bibliography.
 
 ## Teaching language
 
-Italian or English, the latter if foreign students are present; English slides.
+English.
 
 ## Assessment
 

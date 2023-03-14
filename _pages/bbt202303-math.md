@@ -5,7 +5,7 @@ description: Bitcoin and Blockchain Technology course, including slides, code, v
 permalink: /bbt202303-math/
 ---
 
-## Bitcoin and Blockchain Technology, MArch-June 2023
+## Bitcoin and Blockchain Technology, March-June 2023
 
 Department of Mathematics, University of Milan
 

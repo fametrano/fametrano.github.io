@@ -135,7 +135,6 @@ and two open questions that will account for the remaining five points.
 * Christof Paar, Jan Pelzl,  
   _"Understanding Cryptography"_,  
   Springer, 978-3642041006  
-  <https://toc.cryptobook.us/>  
   <https://wiki.crypto.rub.de/Buch/en/slides.php>  
   <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Saifedean Ammous,  

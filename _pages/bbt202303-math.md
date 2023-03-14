@@ -2,15 +2,15 @@
 layout: page
 title: Bitcoin and Blockchain Technology Course
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
-permalink: /bbt202105-math/
+permalink: /bbt202303-math/
 ---
 
-## Bitcoin and Blockchain Technology, May-June 2021
+## Bitcoin and Blockchain Technology, MArch-June 2023
 
 Department of Mathematics, University of Milan
 
 If you have an e-mail _@studenti.unimi.it_
-please join the 202105-math channel in the Slack
+please join the 202303-math channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
 using your first and last name (no nicknames) and
 a profile picture.
@@ -98,6 +98,7 @@ monetary theory, regulatory issues, and politics.
 
 * Slide based lessons with associated bibliography
 * Python 3 programming assignments and technology assignments
+  ([workbooks](https://drive.google.com/drive/folders/1XwXZ5XgKElp2zkK3QNoYOaCc39bZQGzQ))
 * Workshop labs on Bitcoin Core, Electrum, and OpenTimestamps
 
 ## Teaching language
@@ -109,64 +110,60 @@ Italian or English, the latter if foreign students are present.
 To pass the exam each student must solve all the assignments
 for every lesson. Please send the assignments
 to the e-mail that will be indicated with subject
-**BBT202105-MATH #1** for the first lesson,
-**BBT202105-MATH #2** for the second lesson,
+**bbt202303-math #1** for the first lesson,
+**bbt202303-math #2** for the second lesson,
 etc.
 
 ## Schedule
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
-01. 2021-05-05 Wednesday 16:30-18:30  
-    _Bitcoin as Digital Gold_  
+01. 2023-03-14 Tuesday 17:30-19:00  
+    _Bitcoin as Digital Gold_ (Part 1)  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
-01. 2021-05-06 Thursday 14:30-16:30  
-    _Bitcoin as Digital Gold_  
+01. 2023-03-21 Tuesday 17:30-19:00  
+    _Bitcoin as Digital Gold_ (Part 2)  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
-01. 2021-05-12 Wednesday 16:30-18:30  
+01. 2023-03-28 Tuesday 17:30-19:00  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
-01. 2021-05-13 Thursday 14:30-16:30  
+01. 2023-04-04 Tuesday 17:30-19:00  
      _Hash Functions_  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     _Blockchain, Mining, and Distributed Consensus_ (Part 1)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2021-05-19 Wednesday 16:30-18:30  
+01. 2023-04-11 Tuesday 17:30-19:00  
     _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2021-05-20 Thursday 14:30-16:30  
-    _Elliptic Curve Digital Signature Algorithm_  
-    _Schnorr Signature Algorithm_  
+01. 2023-04-18 Tuesday 17:30-19:00  
+    _Elliptic Curve Digital Signature Algorithm (ECDSA)_  
+    _Schnorr Signature Algorithm (BIP340)_  
     _Optimization of The Elliptic Curve Scalar Multiplication_  
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
-01. 2021-05-26 Wednesday 16:00-18:00  
+01. 2023-05-02 Tuesday 17:30-19:00  
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
+01. 2023-05-10 Tuesday 17:30-19:00  
     _Transactions and Scripts_ (Part 1)  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
-01. 2021-05-27 Thursday 14:00-16:00  
+01. 2023-05-17 Tuesday 17:30-19:00  
     _Transactions and Scripts_ (Part 2)  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
     _Timestamping and the OpenTimestamps Protocol_  
     [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)
-01. 2021-06-02 Wednesday 16:30-18:30  
-    _Beyond Bitcoin: Between Hype and Reality_  
-    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
-01. 2021-06-03 Thursday 14:30-16:30  
-    _Transactions and Scripts_ (Part 3)  
-    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
-    _Wallets and Custody_  
-    [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
-01. 2021-06-09 Wednesday 16:30-18:30  
+01. 2023-05-23 Tuesday 17:30-19:00  
     _Deterministic Key Chains_  
     [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
-01. 2021-06-10 Thursday 14:30-16:30  
+    _Wallets and Custody_  
+    [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
+01. 2023-05-30 Tuesday 17:30-19:30  
+    _Beyond Bitcoin: Between Hype and Reality_  
+    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+01. 2023-06-06 Tuesday 17:30-19:30  
     _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
-
-In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 
 ## Python library
 
@@ -219,7 +216,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 * Dan Boneh,
   _"A Graduate Course in Applied Cryptography"_,  
   Stanford University  
-  <https://www.coursera.org/learn/crypto>, <https://toc.cryptobook.us/>
+  <https://www.coursera.org/learn/crypto>, <https://toc.cryptobook.us/>  
 * Lawrence C. Washington,  
   _“Elliptic Curves: Number Theory And Cryptography”_ (2008),  
   Chapman and Hall, 978-1420071467

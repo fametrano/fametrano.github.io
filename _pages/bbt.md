@@ -276,11 +276,11 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 * Christof Paar, Jan Pelzl,  
   _"Understanding Cryptography"_,  
   Springer, 978-3642041006
-  <https://toc.cryptobook.us//>, <https://wiki.crypto.rub.de/Buch/en/slides.php>, <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
+  <https://wiki.crypto.rub.de/Buch/en/slides.php>, <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Dan Boneh,
   _"A Graduate Course in Applied Cryptography"_,  
   Stanford University  
-  <https://www.coursera.org/learn/crypto>, <toc.cryptobook.us/>
+  <https://www.coursera.org/learn/crypto>, <https://toc.cryptobook.us/>
 * Lawrence C. Washington,  
   _“Elliptic Curves: Number Theory And Cryptography”_ (2008),  
   Chapman and Hall, 978-1420071467

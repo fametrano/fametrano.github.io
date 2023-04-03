@@ -261,4 +261,4 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 * Ferdinando M. Ametrano,  
   _"Bitcoin: oro digitale per nuovi standard monetari"_ (2020),  
   published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta, and Alberto Mingardi)  
-  <https://bit.ly/2NQg9VJ>
+  <https://drive.google.com/file/d/1-1k3wlL6ElZzJMjSakTjTNetJI5ws6wL>

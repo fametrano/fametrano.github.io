@@ -128,7 +128,7 @@ Workshops are with [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi
     Wednesday 2020-01-15 16:30-18:30 edificio U6 aula 33  
     _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj),
-    [text]( https://bit.ly/2NQg9VJ)
+    [text]( https://drive.google.com/file/d/1-1k3wlL6ElZzJMjSakTjTNetJI5ws6wL)
 
 In the last lesson anonymous course evaluation [forms](https://docs.google.com/document/d/1AEQTb99cVhqnVu7CxgVorP5PzB7RrSHH_ZK9Qvv2u3s/edit) will be collected
 
@@ -144,7 +144,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 
 * Ferdinando M. Ametrano,  
   _"Bitcoin: oro digitale per nuovi standard monetari"_ (2018),  
-  <https://bit.ly/2NQg9VJ>
+  <https://drive.google.com/file/d/1-1k3wlL6ElZzJMjSakTjTNetJI5ws6wL>
 
 ## Technology references
 

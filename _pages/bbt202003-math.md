@@ -240,4 +240,4 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 * Ferdinando M. Ametrano,  
   _"Bitcoin: oro digitale per nuovi standard monetari_ (2020),  
   published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta,  and Alberto Mingardi)  
-  <https://bit.ly/2NQg9VJ>
+  <https://drive.google.com/file/d/1-1k3wlL6ElZzJMjSakTjTNetJI5ws6wL>

@@ -64,24 +64,26 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     _Bitcoin as Digital Gold_  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
 01. 2023-03-15 Wednesday 08:30-10:30, U6-10  
-    _Bitcoin as Digital Gold_  
+    _Bitcoin as Digital Gold_ (Part 2)  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
-01. 2023-03-15 Wednesday 08:30-10:30, U6-10  
+01. 2023-03-22 Wednesday 08:30-10:30, U6-10  
+    _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_ (first chapter only)  
+    [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
     _Hash Functions_  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-01. 2023-03-22 Wednesday 08:30-10:30, U6-10  
-    _Blockchain, Mining, and Distributed Consensus_  
-    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2023-03-29 Wednesday 09:30-11:30  
-    _Blockchain, Mining, and Distributed Consensus (Q&A)_  
+    _Blockchain, Mining, and Distributed Consensus_ (Part 1)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2023-03-29 Wednesday 08:30-10:30, U6-10  
-    _Timestamping and the OpenTimestamps Protocol_  
-    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
+    _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2023-04-05 Wednesday 09:30-11:30  
+    _Blockchain, Mining, and Distributed Consensus_ (Part 3)  
+    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
     _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
 01. 2023-05-03 Wednesday 08:30-10:30, U6-10  
+    _Timestamping and the OpenTimestamps Protocol_  
+    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
     _Wallets and Deterministic Key Chains_  
     [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
 01. 2023-05-10 Wednesday 09:30-11:30  

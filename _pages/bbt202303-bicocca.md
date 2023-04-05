@@ -79,13 +79,13 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. 2023-04-05 Wednesday 09:30-11:30  
     _Blockchain, Mining, and Distributed Consensus_ (Part 3)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-    _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_  
-    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
-01. 2023-05-03 Wednesday 08:30-10:30, U6-10  
-    _Timestamping and the OpenTimestamps Protocol_  
-    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
     _Wallets and Deterministic Key Chains_  
     [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
+01. 2023-05-03 Wednesday 08:30-10:30, U6-10  
+    _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_  
+    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)
+    _Timestamping and the OpenTimestamps Protocol_  
+    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
 01. 2023-05-10 Wednesday 09:30-11:30  
     _The Cryptocurrency Frontier in Monetary Engineering_  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  

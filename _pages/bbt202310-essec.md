@@ -45,11 +45,12 @@ monetary theory, regulatory issues, and politics.
 ## Teaching method
 
 * Slide based lessons with associated bibliography
-  * Feedback about typos/mistakes to be fixed and clarification to be added is
-    very much appreciated
-  * Slides are usually revised after each lesson to incorporate the feedback:
+  * Slides are usually revised after each lesson to incorporate the
+    class feedback:
     the latest version is always available online and is clearly marked on
     the cover with the revision date
+  * Feedback about typos/mistakes to be fixed and clarification to be added is
+    very much appreciated
 * Python 3 programming assignments and technology assignments
 * Possibly, workshops on Bitcoin Core, Electrum, and OpenTimestamps
 
@@ -68,7 +69,7 @@ and two open questions that will account for the remaining five points.
 
 ## Contacts
 
-* Administrative queries: Esther Bonville (bonville AT essec DOTedu)
+* Administrative queries: Esther Bonville (bonville AT essec DOT edu)
 * Teaching assistant, assignments: TBD (TBD AT essec DOT edu)
 * Course content questions: Ferdinando Ametrano
   (ferdinando DOT ametrano AT essec DOT edu)

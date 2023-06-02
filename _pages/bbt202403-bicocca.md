@@ -96,7 +96,7 @@ Multi-choice questions test.
 
 ## Introductory reading
 
-* Ferdinando M. Ametrano,  
+* Ferdinando Ametrano,  
   _"Bitcoin: oro digitale, finanza e tulipani"_,  
   <https://docs.google.com/document/d/1gecm0uT43tl8d4WFYNs9H_v3p70PPfPmQITR4GxSWkE>
 
@@ -112,7 +112,7 @@ Multi-choice questions test.
 * Pedro Franco,  
   _“Understanding Bitcoin: Cryptography, Engineering and Economics”_ (2014),  
   Wiley, 978-1119019169
-* Ferdinando M. Ametrano,  
+* Ferdinando Ametrano,  
   _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_ (2017),  
   <https://ssrn.com/abstract=2832249>
 
@@ -121,10 +121,10 @@ Multi-choice questions test.
 * Friedrich A. Hayek,  
   _"Denationalisation of Money: The Argument Refined"_,  
   <https://mises.org/library/denationalisation-money-argument-refined>  
-* Ferdinando M. Ametrano,  
+* Ferdinando Ametrano,  
   _"Hayek Money: The Cryptocurrency Price Stability Solution"_ (2014),  
   <https://ssrn.com/abstract=2425270>
-* Ferdinando M. Ametrano,  
+* Ferdinando Ametrano,  
   _"Bitcoin: oro digitale per nuovi standard monetari_ (2020),  
   published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta,  and Alberto Mingardi)  
   <https://drive.google.com/file/d/1-1k3wlL6ElZzJMjSakTjTNetJI5ws6wL>

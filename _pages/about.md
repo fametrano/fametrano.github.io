@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About Ferdinando M. Ametrano
-description: "Profile of Ferdinando M. Ametrano: affiliations, bio, social networks, photos, public bitcoin address"
+title: About Ferdinando Ametrano
+description: "Profile of Ferdinando Ametrano: affiliations, bio, social networks, photos, public bitcoin address"
 permalink: /about/
 ---
 
 [CheckSig](https://checksig.com) CEO and cofounder,
-Ferdinando M. Ametrano
+Ferdinando Ametrano
 teaches [_Bitcoin and Blockchain Technology_]({{ site.baseurl }}/bbt/)
 as adjunct professor
 in many universities.  
@@ -14,13 +14,13 @@ in many universities.
 
 ## Short Affiliation
 
-Ferdinando M. Ametrano  
+Ferdinando Ametrano  
 [CheckSig](https://checksig.com) CEO and founder  
 [Milano-Bicocca University](https://www.unimib.it/ferdinando-maria-ametrano)
 
 ## Current Affiliations
 
-* Founder and Chief Executive Officer, CheckSig  
+* Cofounder and Chief Executive Officer, CheckSig  
   [checksig.com](https://checksig.com)
 * Founder and Scientific Director, Digital Gold Institute  
   [dgi.io](https://dgi.io)
@@ -28,13 +28,9 @@ Ferdinando M. Ametrano
   University of Milano-Bicocca  
   [cryptoassetlab.org](https://cryptoassetlab.org)
 * Adjunct Professor of "[Bitcoin and Blockchain Technology]({{ site.baseurl }}/bbt)"  
+  Department of Finance, ESSEC Business School  
   Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
-  Department of Law, University of Milano-Bicocca  
   Department of Mathematics, University of Milan (La Statale)  
-  Mathematical, Physical and Natural Sciences / Law Interfaculty, Università Cattolica del Sacro Cuore (Brescia)  
-* Adjunct Professor of "[Interest Rate Derivatives]({{ site.baseurl }}/ird)"  
-  Department of Statistics and Quantitative Methods, University of Milano-Bicocca  
-  [www.unimib.it/ferdinando-maria-ametrano](https://www.unimib.it/ferdinando-maria-ametrano)
 * Founder and coadministrator of QuantLib and btclib  
   [quantlib.org](https://www.quantlib.org), [btclib.org](https://btclib.org)
 
@@ -45,7 +41,7 @@ Ferdinando M. Ametrano
 Former physicist,
 after almost twenty years
 in investment banking, asset management, and quantitive finance,
-Ferdinando M. Ametrano discovered bitcoin in 2014:
+Ferdinando Ametrano discovered bitcoin in 2014:
 since then bitcoin has been his major professional
 and academic interest.
 
@@ -106,9 +102,10 @@ has headed trading, quantitative, and risk-management teams in Banca IMI
 also been cofounder and managing partner of RiskMap
 (now part of Confluence Technologies).
 
-His mom and dad are very proud of him,
-his wife might share the feeling but has never disclosed her opinion officially,
-his daughters and son just don't care about his public persona,
+His parents are very proud of him,
+his wife might share the feeling
+but has never officially disclosed her opinion,
+his daughters and son do not have interest in his professional activities,
 his friends consider him bizarre,
 his colleagues and students love and hate him depending on their sensitivities and experiences.
 
@@ -152,7 +149,7 @@ bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0 (p2wpkh)
 
 ## Profile Pictures
 
-![Ferdinando M. Ametrano]({{ site.baseurl }}/images/201809AmetranoProfileRectangular.jpg)  
+![Ferdinando Ametrano]({{ site.baseurl }}/images/201809AmetranoProfileRectangular.jpg)  
 [above picture (1200 x 720)]({{ site.baseurl }}/images/201809AmetranoProfileRectangular.jpg)
 
 [headshot (338 x 338)]({{ site.baseurl }}/images/201809AmetranoProfile.jpg)

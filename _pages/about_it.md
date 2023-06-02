@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Profilo di Ferdinando M. Ametrano
-description: "Profilo di Ferdinando M. Ametrano: affiliazioni, biografia, social networks, foto, indirizzo pubblico bitcoin"
+title: Profilo di Ferdinando Ametrano
+description: "Profilo di Ferdinando Ametrano: affiliazioni, biografia, social networks, foto, indirizzo pubblico bitcoin"
 permalink: /it/about/
 ---
 
 
 Amministratore delegato e cofondatore di [CheckSig](https://checksig.com),
-Ferdinando M. Ametrano
+Ferdinando Ametrano
 insegna _Bitcoin e tecnologia blockchain_
 come professore a contratto
 in diverse università.  
@@ -15,7 +15,7 @@ in diverse università.
 
 ## Affiliazione sintetica
 
-Ferdinando M. Ametrano  
+Ferdinando Ametrano  
 Amministratore delegato e fondatore di [CheckSig](https://checksig.com)  
 [Università Milano-Bicocca](https://www.unimib.it/ferdinando-maria-ametrano)
 
@@ -28,14 +28,10 @@ Amministratore delegato e fondatore di [CheckSig](https://checksig.com)
 * Fondatore e direttore scientifico, Crypto Asset Lab  
   Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università degli Studi di Milano-Bicocca  
   [cryptoassetlab.org](https://cryptoassetlab.org)
-* Professore a contratto di [*Bitcoin and Blockchain Technology*]({{ site.baseurl }}/bbt)  
+* Professore a contratto di [_Bitcoin and Blockchain Technology_]({{ site.baseurl }}/bbt)  
+  Department of Finance, ESSEC Business School  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
-  Dipartmento di Giurisprudenza, Università degli Studi di Milano-Bicocca  
   Dipartmento di Matematica, Università degli Studi di Milano  
-  Interfacoltà di Scienze Naturali e Giurisprudenza, Università Cattolica del Sacro Cuore (Brescia)  
-* Professore a contratto di [*Interest Rate Derivatives*]({{ site.baseurl }}/ird)  
-  Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
-  [www.unimib.it/ferdinando-maria-ametrano](https://www.unimib.it/ferdinando-maria-ametrano)
 * Fondatore e coamministratore, QuantLib e btclib  
   [quantlib.org](https://www.quantlib.org), [btclib.org](https://btclib.org)
 
@@ -46,13 +42,13 @@ Amministratore delegato e fondatore di [CheckSig](https://checksig.com)
 Fisico per formazione universitaria,
 dopo oltre venti anni in ambito
 _investment banking_, _asset management_ e _quantitative finance_,
-Ferdinando M. Ametrano scopre bitcoin nel 2014:
+Ferdinando Ametrano scopre bitcoin nel 2014:
 da allora bitcoin è il suo principale interesse
 professionale e accademico.
 
 Fondatore ed amministratore delegato di
 [CheckSig](https://checksig.com)
-(soluzioni bitcoin e _crypto_ per investitori privati e istituzionali),
+(soluzioni bitcoin e cripto per investitori _Private_ e istituzionali),
 fondatore e direttore scientifico
 del [Digital Gold Institute](https://dgi.io)
 (consulenza, formazione, ricerca e sviluppo su bitcoin e blockchain),
@@ -63,7 +59,7 @@ dell'Università Milano-Bicocca, dove insegna
 *[Bitcoin and Blockchain Technologies]({{ site.baseurl }}/bbt/)*.
 
 È stato in precedenza
-*[Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)*
+_[Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset)_
 in Intesa Sanpaolo e
 membro del Comitato Organizzatore della conferenza
 [Scaling Bitcoin](https://scalingbitcoin.org/);
@@ -75,8 +71,8 @@ contribuisce occasionalmente e marginalmente a
 e manutiene
 [btclib](https://btclib.org), una libreria Python bitcoin.
 
-Innovatore nel campo *fintech*,
-[sviluppatore *open source*](https://github.com/fametrano),
+Innovatore nel campo _fintech_,
+[sviluppatore _open source_](https://github.com/fametrano),
 è autore di [pubblicazioni scientifiche]({{ site.baseurl }}/papers/)
 e collabora con molteplici [organi di informazione]({{ site.baseurl }}/media/).
 Apprezzato come [docente]({{ site.baseurl }}/courses/) e divulgatore,
@@ -94,8 +90,8 @@ proponendo una nuova generazione di criptovalute a politica monetaria
 elastica ma automatizzata e non discrezionale ([Hayek Money](https://ssrn.com/abstract=2425270)).
 
 È stato anche fondatore e coamministratore di [QuantLib](https://www.quantlib.org),
-il più importante progetto *open source* di software per la finanza quantitativa.
-Ha insegnato *[Interest Rate Derivatives]({{ site.baseurl }}/ird/)* all'Università Milano-Bicocca ed ha rilevanti
+il più importante progetto _open source_ di software per la finanza quantitativa.
+Ha insegnato _[Interest Rate Derivatives]({{ site.baseurl }}/ird/)_ all'Università Milano-Bicocca ed ha rilevanti
 pubblicazioni sull'[argomento](https://ssrn.com/author=510135).
 In passato ha guidato team di trading, quantitativi e risk management in
 Banca IMI, Banca Caboto e Monte Paschi Asset Management;
@@ -149,7 +145,7 @@ bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0 (p2wpkh)
 
 ## Foto
 
-![Ferdinando M. Ametrano]({{ site.baseurl }}/images/201809AmetranoProfileRectangular.jpg)  
+![Ferdinando Ametrano]({{ site.baseurl }}/images/201809AmetranoProfileRectangular.jpg)  
 [la foto sopra (1200 x 720)]({{ site.baseurl }}/images/201809AmetranoProfileRectangular.jpg)
 
 [solo volto (338 x 338)]({{ site.baseurl }}/images/201809AmetranoProfile.jpg)

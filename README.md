@@ -1,4 +1,4 @@
-# Repo for Ferdinando M. Ametrano website
+# Repo for Ferdinando Ametrano website
 
 [ametrano.net](https://ametrano.net)
 

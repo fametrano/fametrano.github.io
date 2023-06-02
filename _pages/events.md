@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-description: Past, current, and upcoming courses by Ferdinando M. Ametrano
+description: Past, current, and upcoming courses by Ferdinando Ametrano
 permalink: /events/
 ---
 

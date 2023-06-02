@@ -142,7 +142,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 
 ## Introductory reading
 
-* Ferdinando M. Ametrano,  
+* Ferdinando Ametrano,  
   _"Bitcoin: oro digitale per nuovi standard monetari"_ (2018),  
   <https://drive.google.com/file/d/1-1k3wlL6ElZzJMjSakTjTNetJI5ws6wL>
 
@@ -166,7 +166,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 * Pedro Franco,  
   _“Understanding Bitcoin: Cryptography, Engineering and Economics”_ (2014),  
   Wiley, 978-1119019169
-* Ferdinando M. Ametrano,  
+* Ferdinando Ametrano,  
   _"Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"_ (2017),  
   <https://ssrn.com/abstract=2832249>
 * Roger Wattenhofer,  
@@ -204,7 +204,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 * Saifedean Ammous,  
   _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_ (2018),  
   Wiley, 978-1119473862
-* Ferdinando M. Ametrano,  
+* Ferdinando Ametrano,  
   _"Hayek Money: The Cryptocurrency Price Stability Solution"_ (2014),  
   <https://ssrn.com/abstract=2425270>
 * Robert Sams,  

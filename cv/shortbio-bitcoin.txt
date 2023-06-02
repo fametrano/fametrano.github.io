@@ -1,16 +1,16 @@
 ** affiliation (short):
-Ferdinando M. Ametrano
+Ferdinando Ametrano
 Bitcoin and Blockchain Technology
 Politecnico di Milano and University of Milano-Bicocca
 
 ** affiliation:
-Ferdinando M. Ametrano
+Ferdinando Ametrano
 Bitcoin and Blockchain Technology
 Department of Mathematics, Politecnico di Milano
 Department of Statistics and Quantitative Methods, University of Milano-Bicocca
 
 ** affiliation (long):
-Ferdinando M. Ametrano
+Ferdinando Ametrano
 "Interest Rate Derivatives" and "Bitcoin and Blockchain Technology", Department of Statistics and Quantitative Methods, University of Milano-Bicocca
 "Bitcoin and Blockchain Technology", Department of Mathematics, Politecnico di Milano
 

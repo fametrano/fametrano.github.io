@@ -5,7 +5,7 @@ description: "Profile of Ferdinando M. Ametrano: affiliations, bio, social netwo
 permalink: /about/
 ---
 
-[CheckSig](https://checksig.com) CEO and founder,
+[CheckSig](https://checksig.com) CEO and cofounder,
 Ferdinando M. Ametrano
 teaches [_Bitcoin and Blockchain Technology_]({{ site.baseurl }}/bbt/)
 as adjunct professor

@@ -6,7 +6,7 @@ permalink: /it/about/
 ---
 
 
-Amministratore delegato e fondatore di [CheckSig](https://checksig.com),
+Amministratore delegato e cofondatore di [CheckSig](https://checksig.com),
 Ferdinando M. Ametrano
 insegna _Bitcoin e tecnologia blockchain_
 come professore a contratto

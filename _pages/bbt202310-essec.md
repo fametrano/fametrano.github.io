@@ -78,8 +78,7 @@ The final exam will include
 ## Schedule
 
 1. 2023-10-03 Tuesday 13:15-16:15  
-    [_Course Description_](
-      https://drive.google.com/file/d/1QpOZD-QcV8jJ1OPxt9ls5Jxiwrtlt6v6)  
+    [_Course Description_](https://drive.google.com/file/d/1QpOZD-QcV8jJ1OPxt9ls5Jxiwrtlt6v6)  
     [_Bitcoin as Digital Gold_ (Part 1)](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
 2. 2023-10-10 Tuesday 13:15-16:15  
     [_Bitcoin as Digital Gold_ (Part 2)](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  

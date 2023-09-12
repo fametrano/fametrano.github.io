@@ -14,7 +14,7 @@ Department of Finance, ESSEC Business School
 
 ## Learning objectives
 
-The course is about bitcoin and cryptoasset,
+The course is about bitcoin and crypto-assets,
 their economic rationale and potential.
 
 Financial markets, investing, and monetary theory are the focus of the course;
@@ -23,7 +23,7 @@ distributed consensus), and cryptography elements are examined too,
 in the attempt to properly convey the interdisciplinarity of the topic and
 appreciate its relevance.
 
-Focusing mainly on Bitcoin as reference cryptoasset, the course will also
+Focusing mainly on Bitcoin as reference crypto-asset, the course will also
 cover Ethereum, smart assets, ICO, NFT, and the general applicability of
 blockchain technology.
 

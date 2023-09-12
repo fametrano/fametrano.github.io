@@ -111,8 +111,7 @@ Italian or English, the latter if foreign students are present.
 
 Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocchi-6672a591/).
 
-01. _Bitcoin as Digital Gold_  
-    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
+01. [_Bitcoin as Digital Gold_](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
     * Internet Money  
     * Bitcoin Transactions  
     * About Money  
@@ -121,74 +120,62 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * Bitcoin as Digital Gold
     * Bitcoin as Investment Asset  
     * Financial Services  
-01. Hash Functions  
-    [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
+01. [_Hash Functions_](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     * Hash Functions and Their Properties  
     * Puzzle Friendliness and Partial Hash Inversion  
     * Hash–based Data Structures  
-01. _Blockchain, Mining, and Distributed Consensus_  
-    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
+01. [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
     * Simplified Digital Coin
     * Distributed Consensus
     * Proof-of-Work (PoW)
     * Mining
     * P2P Network
     * Protocol Governance  
-01. _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
-    [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
+01. [_Discrete Logarithm Problem on Finite Fields and Elliptic Curves_](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
     * Elliptic Curves and The Discrete Logarithm Problem
     * Discrete Logarithm Problem on Finite Cyclic Groups
     * Modular Arithmetic
     * Finite Fields
     * Discrete Logarithm Problem on Elliptic Curves Over Finite Fields  
-01. _Elliptic Curve Digital Signature Algorithm (ECDSA)_  
-    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+01. [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
     * Asymmetric Cryptography on Elliptic Curves
     * Digital Signature Protocol
     * Elliptic Curve Digital Signature Algorithm
-01. _ECDSA and Beyond_
-    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+01. [_ECDSA and Beyond_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
     * Elliptic Curve Efficient Computations
     * Schnorr Signature Algorithm (BIP340)
     * Diffie-Hellman
     * Symmetric Cryptography
     * Encryption Using AES  
-01. _Addresses, WIFs, and Bitcoin Message Signing_  
-    [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
+01. [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     * Base58 Encoding
     * P2PKH Addresses and Wallet Import Formats
     * Bitcoin Message Signing  
-01. _Transactions and Scripts_  
-    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
+01. [_Transactions and Scripts_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
     * TxIns, TxOs, and UTxOs
     * Bitcoin Script Language
     * Standard Transaction Scripts
     * Signatures Types and Smart Contracts
     * Blocks
-01. _Transactions and Blocks_  
-    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
+01. [_Transactions and Blocks_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
     * Transaction Serializazion
     * Blocks
     * Block Header  
-01. _Timestamping and the OpenTimestamps Protocol_  
-    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
+01. [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
     * Blockchain Immutability
     * Timestamping
     * The OpenTimestamps standard
     * Use Cases
-01. _Wallets and Custody_  
-    [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
+01. [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
     * Key Management and UTxO Database Access
     * Wallets as Collection of Keys
     * Custody  
-01. _Deterministic Key Chains_  
-    [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
+01. [_Deterministic Key Chains_](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
     * Deterministic Key-pair Hash-chains
     * Hierarchical Deterministic Key-pair Hash-chains: BIP32
     * Extending BIP32: BIP43, BIP44, and SLIP32
     * Mnemonic Phrases: BIP39 and Electrum
-01. _Beyond Bitcoin: Between Hype and Reality_  
-    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+01. [_Beyond Bitcoin: Between Hype and Reality_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
     * Other Cryptocurrencies
     * Smart Contracts
     * Initial Coin Offering
@@ -198,8 +185,8 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * Blockchain Without Bitcoin
     * Distributed Ledger Technology
     * Financial Products and Services  
-01. _The Cryptocurrency Frontier in Monetary Engineering_  
-    [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s)  
+01. [_The Cryptocurrency Frontier in Monetary Engineering_](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)
+    ([video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s))  
     * Cash, eMoney, Central Bank Money, and eCash
     * Stable Coins
     * Hayek Money: Elastic Non-discretionary Policy
@@ -210,24 +197,18 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 
 ### Guest Speakers
 
-01. _Digital Signature and Digital Identity: From RSA to eIDAS_  
-    with [Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)  
-    [slides](https://drive.google.com/file/d/1Ym9K-gHx8H2jMBND0tdjXhvpVCNZa8FB)
-01. _New trends in FinTech: Blockchain and AI_  
-    with [Filippo Annunziata](https://www.linkedin.com/in/filippo-annunziata-b0394767/)  
-    [slides](https://drive.google.com/file/d/1SRx8YNC3VE54R2Xd9WpKXuF2WA4JFN2x)
-01. _Regulation on Markets in Crypto-assets (MiCA)_  
-    with [Andrea Conso](https://www.linkedin.com/in/andrea-conso/)  
-    [slides](https://drive.google.com/file/d/1sl-mVjX6uqMuJRzWU8FesWCCFa39c4rH)
-01. _The Tax Aspects of Crypto-Assets_  
-    with [Francesco Avella](https://www.linkedin.com/in/francesco-avella-84b1a111/)  
-    [slides](https://drive.google.com/file/d/1UeBZ9J6llc0TqjW5QSE77HqKZHdOosM_)
-01. _Le misure di prevenzione dei reati finanziari in ambito crypto-asset_  
-    with [Vito Barbera](https://www.linkedin.com/in/vito-barbera-44883a89/)  
-    [slides](https://drive.google.com/file/d/14PEtSO9i_QA65lKU4s7T7-rDtyGZhpAq)
-01. _CBDC e Euro digitale_  
-    with [Francesca Mattassoglio](https://www.linkedin.com/in/francesca-mattassoglio-93042697/)  
-    [slides](https://drive.google.com/file/d/1czk87aaIvN_Bm8V-N51-0CojMIshy9PW)
+* [_Digital Signature and Digital Identity: From RSA to eIDAS_](https://drive.google.com/file/d/1Ym9K-gHx8H2jMBND0tdjXhvpVCNZa8FB)
+  with [Emanuele Cisbani](https://www.linkedin.com/in/emanuelecisbani/)  
+* [_New trends in FinTech: Blockchain and AI_](https://drive.google.com/file/d/1SRx8YNC3VE54R2Xd9WpKXuF2WA4JFN2x)
+  with [Filippo Annunziata](https://www.linkedin.com/in/filippo-annunziata-b0394767/)  
+* [_Regulation on Markets in Crypto-assets (MiCA)_](https://drive.google.com/file/d/1sl-mVjX6uqMuJRzWU8FesWCCFa39c4rH)
+  with [Andrea Conso](https://www.linkedin.com/in/andrea-conso/)  
+* [_The Tax Aspects of Crypto-Assets_](https://drive.google.com/file/d/1UeBZ9J6llc0TqjW5QSE77HqKZHdOosM_)
+  with [Francesco Avella](https://www.linkedin.com/in/francesco-avella-84b1a111/)  
+* [_Le misure di prevenzione dei reati finanziari in ambito crypto-asset_](https://drive.google.com/file/d/14PEtSO9i_QA65lKU4s7T7-rDtyGZhpAq)
+  with [Vito Barbera](https://www.linkedin.com/in/vito-barbera-44883a89/)  
+* [_CBDC e Euro digitale_](https://drive.google.com/file/d/1czk87aaIvN_Bm8V-N51-0CojMIshy9PW)
+  with [Francesca Mattassoglio](https://www.linkedin.com/in/francesca-mattassoglio-93042697/)  
 
 ## Python library
 

@@ -45,12 +45,12 @@ monetary theory, regulatory issues, and politics.
 ## Teaching method
 
 * Slide based lessons with associated bibliography
+  * Feedback about typos/mistakes to be fixed and clarification to be added is
+    very much appreciated
   * Slides are usually revised after each lesson to incorporate the
     class feedback:
     the latest version is always available online and is clearly marked on
     the cover with the revision date
-  * Feedback about typos/mistakes to be fixed and clarification to be added is
-    very much appreciated
 * Python 3 programming assignments and technology assignments
 * Possibly, workshops on Bitcoin Core, Electrum, and OpenTimestamps
 
@@ -58,58 +58,59 @@ monetary theory, regulatory issues, and politics.
 
 English
 
-## Assessment
+## Grading
 
-There will five homework assignments, each one worth one point.
-Assignments can be tackled by group of students, up to three, no more.
+During the course, five assignments will contribute one point each.
+Assignments can be tackled by students alone or in group (up to three students).
 
-The final exam will have ten multiple choice questions,
-each one worth one point,
-and two open questions that will account for the remaining five points.
+The final exam will include
+
+* ten multiple choice questions (one point for each right answer);
+* two open questions (up to five points for both answers).
 
 ## Contacts
 
 * Administrative queries: Esther Bonville (bonville AT essec DOT edu)
 * Teaching assistant, assignments: TBD (TBD AT essec DOT edu)
-* Course content questions: Ferdinando Ametrano
+* Content questions: Ferdinando Ametrano
   (ferdinando DOT ametrano AT essec DOT edu)
 
 ## Schedule
 
-01. 2023-10-03 Tuesday 13:15-16:15  
-    _Course Description_  
-    [slides](https://drive.google.com/file/d/15n5dKA1SqgCFmpEYUpSIT0_JNsMVI1FR)  
-    _Bitcoin as Digital Gold_ (Part 1)  
-    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
-01. 2023-10-10 Tuesday 13:15-16:15  
-    _Bitcoin as Digital Gold_ (Part 2)  
-    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
-01. 2023-10-17 Tuesday 13:15-16:15  
-     _Hash Functions_  
-    [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    _Blockchain, Mining, and Distributed Consensus_ (Part 1)  
-    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2023-10-24 Saturday 9:00-12:00  
-    _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
-    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2023-10-31 Tuesday 13:15-16:15  
-    _Transactions and Scripts_  
-    [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
-01. 2023-11-07 Tuesday 13:15-16:15  
-    _Timestamping and the OpenTimestamps Protocol_  
-    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)
-01. 2023-11-14 Tuesday 13:15-16:15  
-    _Beyond Bitcoin: Between Hype and Reality_ (Part 1)  
-    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
-01. 2023-11-21 Tuesday 13:15-16:15  
-    _Beyond Bitcoin: Between Hype and Reality_ (Part 2)  
-    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
-01. 2023-11-28 Tuesday 13:15-16:15  
-    _The Cryptocurrency Frontier in Monetary Engineering_  
-    [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s)  
+1. 2023-10-03 Tuesday 13:15-16:15  
+    [_Course Description_](
+      https://drive.google.com/file/d/1QpOZD-QcV8jJ1OPxt9ls5Jxiwrtlt6v6)  
+    [_Bitcoin as Digital Gold_ (Part 1)](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
+2. 2023-10-10 Tuesday 13:15-16:15  
+    [_Bitcoin as Digital Gold_ (Part 2)](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
+3. 2023-10-17 Tuesday 13:15-16:15  
+    [_Hash Functions_](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
+    Assignment #1  
+    [_Blockchain, Mining, and Distributed Consensus_ (Part 1)](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
+4. 2023-10-24 Tuesday 13:15-16:15  
+    [_Blockchain, Mining, and Distributed Consensus_ (Part 2)](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
+    Assignment #2  
+5. 2023-10-28 Saturday 9:00-12:00  
+    [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
+    [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
+    Assignment #3  
+    [_Transactions and Scripts_ (Part 1)](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
+6. 2023-10-31 Tuesday 13:15-16:15  
+    [_Transactions and Scripts_ (Part 2)](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
+    Assignment #4  
+    [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
+    Assignment #5  
+7. 2023-11-07 Tuesday 13:15-16:15 (online)  
+    [_Beyond Bitcoin: Altcoins, Stablecoins, Smart Contracts, and Smart Assets_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+8. 2023-11-14 Tuesday 13:15-16:15 (online)  
+    [_Beyond Bitcoin: Distributed Ledger Technology_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+9. 2023-11-21 Tuesday 13:15-16:15  
+    [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
+    [_The Cryptocurrency Frontier in Monetary Engineering_](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)
+    ([video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s))  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
-01. 2023-12-05 Tuesday 13:15-16:15  
-    _Final exam_  
+10. 2023-11-28 Tuesday 13:15-16:15  
+    Final exam  
 
 ## Python library
 

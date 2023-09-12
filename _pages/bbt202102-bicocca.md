@@ -176,7 +176,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     with [Filippo Annunziata](https://www.linkedin.com/in/filippo-annunziata-b0394767/)  
     [slides](https://drive.google.com/file/d/1SRx8YNC3VE54R2Xd9WpKXuF2WA4JFN2x)
 01. 2021-04-08 Thursday 09:30-11:30  
-    _Regulation on Markets in Cryptoassets (MiCA)_  
+    _Regulation on Markets in Crypto-assets (MiCA)_  
     with [Andrea Conso](https://www.linkedin.com/in/andrea-conso/)  
     [slides](https://drive.google.com/file/d/1sl-mVjX6uqMuJRzWU8FesWCCFa39c4rH)
 01. 2021-04-12 Monday 11:30-13:30  
@@ -205,7 +205,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 
 ## Python library
 
-[btclib.org](https://btclib.org) 
+[btclib.org](https://btclib.org)
 [github.com/btclib-org/btclib](https://github.com/btclib-org/btclib)
 
 ## Python scripts, Excel spreadsheets, and regtest lab material

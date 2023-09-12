@@ -9,7 +9,7 @@ permalink: /bbt/
 
 ## Bitcoin courses
 
-* [Bitcoin and Cryptoasset, October-December 2023]({{ site.baseurl }}/bbt202310-math/)  
+* [Bitcoin and Crypto-asset, October-December 2023]({{ site.baseurl }}/bbt202310-essec/)  
   _Department of Finance, ESSEC Business School_
 * [Bitcoin and Blockchain Technology, March-May 2024]({{ site.baseurl }}/bbt202403-bicocca/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
@@ -216,7 +216,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 01. _New trends in FinTech: Blockchain and AI_  
     with [Filippo Annunziata](https://www.linkedin.com/in/filippo-annunziata-b0394767/)  
     [slides](https://drive.google.com/file/d/1SRx8YNC3VE54R2Xd9WpKXuF2WA4JFN2x)
-01. _Regulation on Markets in Cryptoassets (MiCA)_  
+01. _Regulation on Markets in Crypto-assets (MiCA)_  
     with [Andrea Conso](https://www.linkedin.com/in/andrea-conso/)  
     [slides](https://drive.google.com/file/d/1sl-mVjX6uqMuJRzWU8FesWCCFa39c4rH)
 01. _The Tax Aspects of Crypto-Assets_  

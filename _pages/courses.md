@@ -7,7 +7,7 @@ permalink: /courses/
 
 ## Current and upcoming university courses
 
-* [Bitcoin and Cryptoasset, October-December 2023]({{ site.baseurl }}/bbt202310-essec/)  
+* [Bitcoin and Crypto-assets, October-December 2023]({{ site.baseurl }}/bbt202310-essec/)  
   _Department of Finance, ESSEC Business School_
 * [Bitcoin and Blockchain Technology, March-May 2024]({{ site.baseurl }}/bbt202403-bicocca/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
@@ -22,7 +22,7 @@ permalink: /courses/
   _Department of Mathematics, University of Milan (La Statale)_
 * [Bitcoin and Blockchain Technology, March-May 2023]({{ site.baseurl }}/bbt202303-bicocca/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* [Bitcoin and Cryptoasset, October-December 2022]({{ site.baseurl }}/bbt202210-essec/)  
+* [Bitcoin and Crypto-assets, October-December 2022]({{ site.baseurl }}/bbt202210-essec/)  
   _Department of Finance, ESSEC Business School_
 * [Bitcoin and Blockchain Technology, April-June 2022]({{ site.baseurl }}/bbt202204-math/)  
   _Department of Mathematics, University of Milan (La Statale)_

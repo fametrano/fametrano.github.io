@@ -71,7 +71,7 @@ The final exam will include
 ## Contacts
 
 * Administrative queries: Esther Bonville (bonville AT essec DOT edu)
-* Teaching assistant, assignments: TBD (TBD AT essec DOT edu)
+* Teaching assistant, assignments: Pragnya Konanur (b00783785 AT essec DOT edu)
 * Content questions: Ferdinando Ametrano
   (ferdinando DOT ametrano AT essec DOT edu)
 

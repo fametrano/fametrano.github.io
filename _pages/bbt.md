@@ -184,7 +184,14 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * Traditional Finance for Crypto Assets
     * Blockchain Without Bitcoin
     * Distributed Ledger Technology
-    * Financial Products and Services  
+01. [_Financial Products and Services for the Blockchain Economy_](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
+    * Bitcoin as Investment Asset
+    * Crypto as Investment Asset
+    * Regulation
+    * Payment Processors
+    * Exchanges
+    * Custodians
+    * Financial Products
 01. [_The Cryptocurrency Frontier in Monetary Engineering_](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)
     ([video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s))  
     * Cash, eMoney, Central Bank Money, and eCash

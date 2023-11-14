@@ -103,6 +103,7 @@ The final exam will include
     [_Beyond Bitcoin: Altcoins, Stablecoins, Smart Contracts, and Smart Assets_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
 8. 2023-11-14 Tuesday 13:15-16:15 (online)  
     [_Beyond Bitcoin: Distributed Ledger Technology_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+    [_Financial Products and Services for the Blockchain Economy_](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
 9. 2023-11-21 Tuesday 13:15-16:15  
     [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
     [_The Cryptocurrency Frontier in Monetary Engineering_](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)

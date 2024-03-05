@@ -2,7 +2,7 @@
 layout: page
 title: Bitcoin and Blockchain Technology Course
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
-permalink: /bbt202403-bicocca/
+permalink: /bbt202402-bicocca/
 ---
 
 ## Bitcoin, Crypto-Assets, and Blockchain Technology, February-March 2024

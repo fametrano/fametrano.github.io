@@ -107,7 +107,7 @@ Italian or English, the latter if foreign students are present.
 
 ## Assessment
 
-For the early exam each student must solve all the assignments
+To pass the exam each student must solve all the assignments
 for every lesson. Please send the assignments
 to the e-mail that will be indicated with subject
 **bbt202404-math #1** for the first lesson,

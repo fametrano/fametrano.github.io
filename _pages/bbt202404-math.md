@@ -10,7 +10,7 @@ permalink: /bbt202404-math/
 Department of Mathematics, University of Milan
 
 If you have an e-mail _@studenti.unimi.it_
-please join the 202403-math channel in the Slack
+please join the 202404-math channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
 using your first and last name (no nicknames) and
 a profile picture.
@@ -107,11 +107,11 @@ Italian or English, the latter if foreign students are present.
 
 ## Assessment
 
-To pass the exam each student must solve all the assignments
+For the early exam each student must solve all the assignments
 for every lesson. Please send the assignments
 to the e-mail that will be indicated with subject
-**bbt202403-math #1** for the first lesson,
-**bbt202403-math #2** for the second lesson,
+**bbt202404-math #1** for the first lesson,
+**bbt202404-math #2** for the second lesson,
 etc.
 
 ## Schedule

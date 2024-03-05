@@ -12,7 +12,7 @@ University of Milano-Bicocca
 e-learning: <https://elearning.unimib.it/course/view.php?id=47971>
 
 If you have an e-mail _@campus.unimib.it_
-please join the 202403-bicocca channel in the Slack
+please join the 202402-bicocca channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
 using your first and last name (no nicknames) and
 a profile picture.
@@ -54,7 +54,25 @@ English.
 
 ## Assessment
 
-Multi-choice questions test.
+To access the early exam session,
+each student must solve five homeworks
+that will be assigned during the course.
+Please send the homeworks
+to the e-mail that will be indicated with subject
+**bbt202404-math #1** for the first assignment,
+**bbt202404-math #2** for the second assignment,
+etc.
+Wrong email with wrong subject will not be accepted.
+
+The homeworks contribute one point each to the final grade (5 homeworks, 5 points).
+The early exam will be
+multiple-choice questions (40 questions, 20 minutes, 20 points),
+plus two open questions (10 minutes, 5 points).
+
+Later exam sessions will be multiple-choice questions test (60 questionsm, 30 points).
+
+The final grade for this half-couse will be averaged with
+the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
 
 ## Schedule
 

@@ -116,49 +116,49 @@ etc.
 
 ## Schedule
 
-01. 2024-03-05 Tuesday 17:30-19:00  
+01. 2024-04-15 Monday 17:15-19:00  
     _Bitcoin as Digital Gold_ (Part 1)  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
-01. 2024-03-12 Tuesday 17:30-19:00  
+01. 2024-04-22 Monday 17:15-19:00  
     _Bitcoin as Digital Gold_ (Part 2)  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
-01. 2024-03-19 Tuesday 17:30-19:00  
+01. 2024-05-06 Monday 17:15-19:00  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
      _Hash Functions_  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-01. 2024-03-26 Tuesday 17:30-19:00  
+01. 2024-05-13 Monday 17:15-19:00  
     _Blockchain, Mining, and Distributed Consensus_ (Part 1)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2024-04-02 Tuesday 17:30-19:00  
+01. 2024-05-20 Monday 17:15-19:00  
     _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2024-04-09 Tuesday 17:30-19:00  
+01. 2024-05-27 Monday 17:15-19:00  
     _Elliptic Curve Digital Signature Algorithm (ECDSA)_  
     _Schnorr Signature Algorithm (BIP340)_  
     _Optimization of The Elliptic Curve Scalar Multiplication_  
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
-01. 2024-04-30 Tuesday 17:30-19:00  
+01. 2024-06-03 Monday 17:15-19:00  
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
-01. 2024-05-07 Tuesday 17:30-19:00  
+01. 2024-06-10 Monday 17:15-19:00  
     _Transactions and Scripts_  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
-01. 2024-05-14 Wednesday 17:30-19:00  
+01. 2024-06-17 Wednesday 17:15-19:00  
     _Transactions and Scripts_ (Part 2)  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
-01. 2024-05-21 Monday 17:30-19:00  
+01. 2024-06-24 Monday 17:15-19:00  
     _Deterministic Key Chains_  
     [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
     _Wallets and Custody_  
     [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
-01. 2024-05-28 Tuesday 17:30-19:00  
+01. 2024-07-01 Monday 17:15-19:00  
     _Timestamping and the OpenTimestamps Protocol_  
     [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)
     _Beyond Bitcoin: Between Hype and Reality_  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
     _Financial Products and Services for the Blockchain Economy_ [slides](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
-01. 2024-06-04 Tuesday 17:30-19:00  
+01. 2024-07-08 Monday 17:15-19:00  
     _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  

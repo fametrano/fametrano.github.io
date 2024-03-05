@@ -5,7 +5,7 @@ description: Bitcoin and Blockchain Technology course, including slides, code, v
 permalink: /bbt202403-bicocca/
 ---
 
-## Bitcoin, Crypto-Assets, and Blockchain Technology, March-May 2024
+## Bitcoin, Crypto-Assets, and Blockchain Technology, February-March 2024
 
 University of Milano-Bicocca
 

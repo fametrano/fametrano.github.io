@@ -58,42 +58,44 @@ Multi-choice questions test.
 
 ## Schedule
 
-01. 2024-03-06 Wednesday 08:30-10:30, U6-10  
+01. 2024-02-28 Wednesday 10:30-13:30, U2-06  
     _Bitcoin as Digital Gold_  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
-01. 2024-03-13 Wednesday 08:30-10:30, U6-10  
+01. 2024-03-04 Monday 11:30-14:30, U6-11  
     _Bitcoin as Digital Gold_ (Part 2)  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
-01. 2024-03-20 Wednesday 08:30-10:30, U6-10  
+01. 2024-03-06 Wednesday 10:30-13:30, U2-06  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_ (first chapter only)  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
     _Hash Functions_  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     _Blockchain, Mining, and Distributed Consensus_ (Part 1)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2024-03-27 Wednesday 08:30-10:30, U6-10  
+01. 2024-03-11 Monday 11:30-14:30, U6-11  
     _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2024-04-03 Wednesday 08:30-10:30, U6-10  
+01. 2024-03-13 Wednesday 10:30-13:30, U2-06  
     _Blockchain, Mining, and Distributed Consensus_ (Part 3)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
     _Wallets and Custody_  
     [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
-01. 2024-04-10 Wednesday 08:30-10:30, U6-10  
+01. 2024-03-18 Monday 11:30-14:30, U6-11  
     _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
-01. 2024-05-08 Wednesday 08:30-10:30, U6-10  
+01. 2024-03-20 Wednesday 10:30-13:30, U2-06  
     _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_ (Part 2)  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+01. 2024-03-25 Monday 11:30-14:30, U6-11  
     _Timestamping and the OpenTimestamps Protocol_  
     [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
     _Financial Products and Services for the Blockchain Economy_ [slides](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
-01. 2024-05-15 Wednesday 08:30-10:30, U6-10  
+01. 2024-03-27 Wednesday 10:30-13:30, U2-06  
     _The Cryptocurrency Frontier in Monetary Engineering_  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
     _Hayek Money and Dual Asset Ledger_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s)  
-    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_
+    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
+    Early exam session
 
 ## Introductory reading
 

@@ -59,8 +59,8 @@ each student must solve five homeworks
 that will be assigned during the course.
 Please send the homeworks
 to the e-mail that will be indicated with subject
-**bbt202404-math #1** for the first assignment,
-**bbt202404-math #2** for the second assignment,
+**bbt202402-bicocca #1** for the first assignment,
+**bbt202402-bicocca #2** for the second assignment,
 etc.
 Wrong email with wrong subject will not be accepted.
 

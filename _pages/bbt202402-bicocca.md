@@ -116,7 +116,7 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
     _Hayek Money and Dual Asset Ledger_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s)  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
-    Early exam session
+    **Early exam session**
 
 ## Introductory reading
 

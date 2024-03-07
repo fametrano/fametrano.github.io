@@ -57,12 +57,13 @@ English.
 To access the early exam session,
 each student must solve five homeworks
 that will be assigned during the course.
-Please send the homeworks
-to the e-mail that will be indicated with subject
+Please send the homeworks via e-mail to the address
+ferdinando.ametrano+hw AT unimib DOT it
+with subject
 **bbt202402-bicocca #1** for the first assignment,
 **bbt202402-bicocca #2** for the second assignment,
 etc.
-Wrong email with wrong subject will not be accepted.
+E-mail submissions with wrong address or wrong subject will not be accepted.
 
 The homeworks contribute one point each to the final grade (5 homeworks, 5 points).
 The early exam will be

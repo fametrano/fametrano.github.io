@@ -70,12 +70,14 @@ The early exam will be
 multiple-choice questions (40 questions, 20 minutes, 20 points),
 plus two open questions (10 minutes, 5 points).
 
-Later exam sessions will be multiple-choice questions test (60 questionsm, 30 points).
+Later exam sessions will be multiple-choice questions test (60 questions, 30 points).
 
 The final grade for this half-couse will be averaged with
 the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
 
 ## Schedule
+
+[Syllabus](https://drive.google.com/open?id=1aIkWq32CKxKMA3SE72C6NNC7houkUO59)
 
 01. 2024-02-28 Wednesday 10:30-13:30, U2-06  
     _Bitcoin as Digital Gold_  

@@ -90,11 +90,13 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
     _Hash Functions_  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
+    Homework #1 (slide 15) due before 2024-03-18 Monday  
     _Blockchain, Mining, and Distributed Consensus_ (Part 1)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2024-03-11 Monday 11:30-14:30, U6-11  
     _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
+    Homework #2 (slide 85) due before 2024-03-18 Monday  
 01. 2024-03-13 Wednesday 10:30-13:30, U2-06  
     _Blockchain, Mining, and Distributed Consensus_ (Part 3)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  

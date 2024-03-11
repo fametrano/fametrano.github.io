@@ -9,7 +9,7 @@ permalink: /bbt202402-bicocca/
 
 University of Milano-Bicocca
 
-e-learning: <https://elearning.unimib.it/course/view.php?id=47971>
+e-learning: <https://elearning.unimib.it/course/view.php?id=52337>
 
 If you have an e-mail _@campus.unimib.it_
 please join the 202402-bicocca channel in the Slack

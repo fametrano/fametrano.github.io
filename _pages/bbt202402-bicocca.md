@@ -58,7 +58,7 @@ To access the early exam session,
 each student must solve five homeworks
 that will be assigned during the course.
 Please send the homeworks via e-mail to the address
-ferdinando.ametrano+hw AT unimib DOT it
+ferdinando.ametrano AT unimib DOT it
 with subject
 **bbt202402-bicocca #1** for the first assignment,
 **bbt202402-bicocca #2** for the second assignment,

@@ -63,7 +63,7 @@ with subject
 **bbt202402-bicocca #1** for the first assignment,
 **bbt202402-bicocca #2** for the second assignment,
 etc.
-E-mail submissions with wrong address or wrong subject will not be accepted.
+E-mail submissions with the wrong address or wrong subject will not be accepted.
 
 The homeworks contribute one point each to the final grade (5 homeworks, 5 points).
 The early exam will be

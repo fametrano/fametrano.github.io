@@ -104,7 +104,7 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
-    Homework #3 (slide XX due before 2024-03-20 Wednesday)  
+    Homework #3 (slide 34) due before 2024-03-20 Wednesday  
 01. 2024-03-18 Monday 11:30-14:30, U6-11  
     _Homework #1 and #2: discussion_  
     _Wallets and Custody_  

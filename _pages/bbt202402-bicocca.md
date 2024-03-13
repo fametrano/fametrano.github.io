@@ -80,30 +80,21 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
 [Syllabus](https://drive.google.com/open?id=1aIkWq32CKxKMA3SE72C6NNC7houkUO59)
 
 01. 2024-02-28 Wednesday 10:30-13:30, U2-06  
-    _Bitcoin as Digital Gold_  
-    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
+    [_Bitcoin as Digital Gold_](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho) (Part 1)  
 01. 2024-03-04 Monday 11:30-14:30, U6-11  
-    _Bitcoin as Digital Gold_ (Part 2)  
-    [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)
+    [_Bitcoin as Digital Gold_](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho) (Part 2)  
 01. 2024-03-06 Wednesday 10:30-13:30, U2-06  
-    _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_ (first chapter only)  
-    [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
-    _Hash Functions_  
-    [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
+    [_Discrete Logarithm Problem on Finite Fields and Elliptic Curves_](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS) (first chapter only)  
+    [_Hash Functions_](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     Homework #1 (slide 15) due before 2024-03-18 Monday  
-    _Blockchain, Mining, and Distributed Consensus_ (Part 1)  
-    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
+    [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 1)  
 01. 2024-03-11 Monday 11:30-14:30, U6-11  
-    _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
-    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
+    [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 2)  
     Homework #2 (slide 85) due before 2024-03-18 Monday  
 01. 2024-03-13 Wednesday 10:30-13:30, U2-06  
-    _Blockchain, Mining, and Distributed Consensus_ (Part 3)  
-    [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-    _Elliptic Curve Digital Signature Algorithm (ECDSA)_  
-    [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
-    _Addresses, WIFs, and Bitcoin Message Signing_  
-    [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
+    [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 3)  
+    [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
+    [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     Homework #3 (slide 34) due before 2024-03-20 Wednesday  
 01. 2024-03-18 Monday 11:30-14:30, U6-11  
     _Homework #1 and #2: discussion_  

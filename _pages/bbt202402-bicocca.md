@@ -86,35 +86,30 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
 01. 2024-03-06 Wednesday 10:30-13:30, U2-06  
     [_Discrete Logarithm Problem on Finite Fields and Elliptic Curves_](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS) (first section only)  
     [_Hash Functions_](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    Homework #1 (slide 15) due before 2024-03-18 Monday  
+    Homework #1 (slide 15) due before 2024-03-18  
     [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 1)  
 01. 2024-03-11 Monday 11:30-14:30, U6-11  
     [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 2)  
-    Homework #2 (slide 85) due before 2024-03-18 Monday  
+    Homework #2 (slide 85) due before 2024-03-18  
 01. 2024-03-13 Wednesday 10:30-13:30, U2-06  
     [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 3)  
     [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W) (first two sections only)  
-    [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
-    Homework #3 (slide 34) due before 2024-03-20 Wednesday  
+    [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA) (Part 1)  
 01. 2024-03-18 Monday 11:30-14:30, U6-11  
+    [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA) (Part 2)  
+    Homework #3 (slide 34) due before 2024-03-25  
     _Homework #1 and #2: discussion_  
-    _Wallets and Custody_  
-    [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
-    _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_  
-    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+    [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
+    [_Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z) (Part 1)  
 01. 2024-03-20 Wednesday 10:30-13:30, U2-06  
-    _Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_ (Part 2)  
-    [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+    [_Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z) (Part 2)  
 01. 2024-03-25 Monday 11:30-14:30, U6-11  
-    _Timestamping and the OpenTimestamps Protocol_  
-    [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
-    _Financial Products and Services for the Blockchain Economy_ [slides](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
+    [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
+    [_Financial Products and Services for the Blockchain Economy_](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
 01. 2024-03-27 Wednesday 10:30-13:30, U2-06  
-    _The Cryptocurrency Frontier in Monetary Engineering_  
-    _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  
-    _Hayek Money and Dual Asset Ledger_  
-    [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s)  
-    _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
+    [_Bitcoin: oro digitale per nuovi standard monetari_](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)  
+    [_Hayek Money: The Cryptocurrency Price Stability Solution_](https://ssrn.com/abstract=2425270)  
+    [_The Cryptocurrency Frontier in Monetary Engineering_](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) ([video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s))  
     **Early exam session**
 
 ## Introductory reading

@@ -84,7 +84,7 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
 01. 2024-03-04 Monday 11:30-14:30, U6-11  
     [_Bitcoin as Digital Gold_](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho) (Part 2)  
 01. 2024-03-06 Wednesday 10:30-13:30, U2-06  
-    [_Discrete Logarithm Problem on Finite Fields and Elliptic Curves_](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS) (first chapter only)  
+    [_Discrete Logarithm Problem on Finite Fields and Elliptic Curves_](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS) (first section only)  
     [_Hash Functions_](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     Homework #1 (slide 15) due before 2024-03-18 Monday  
     [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 1)  
@@ -93,7 +93,7 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
     Homework #2 (slide 85) due before 2024-03-18 Monday  
 01. 2024-03-13 Wednesday 10:30-13:30, U2-06  
     [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 3)  
-    [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
+    [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W) (first two sections only)  
     [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     Homework #3 (slide 34) due before 2024-03-20 Wednesday  
 01. 2024-03-18 Monday 11:30-14:30, U6-11  

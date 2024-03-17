@@ -99,12 +99,15 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
     [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA) (Part 2)  
     Homework #3 (slide 34) due before 2024-03-25  
     _Homework #1 and #2: discussion_  
+    [_Transactions and Scripts_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY) (section 1 and 5 only)  
+    Homework #4 (slide xx) due before 2024-03-25  
     [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
-    [_Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z) (Part 1)  
 01. 2024-03-20 Wednesday 10:30-13:30, U2-06  
-    [_Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z) (Part 2)  
-01. 2024-03-25 Monday 11:30-14:30, U6-11  
     [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
+    Homework #5 (slide xx) due before 2024-03-27  
+    [_Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z) (Part 1)  
+01. 2024-03-25 Monday 11:30-14:30, U6-11  
+    [_Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z) (Part 2)  
     [_Financial Products and Services for the Blockchain Economy_](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
 01. 2024-03-27 Wednesday 10:30-13:30, U2-06  
     [_Bitcoin: oro digitale per nuovi standard monetari_](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)  

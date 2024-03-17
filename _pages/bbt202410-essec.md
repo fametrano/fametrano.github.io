@@ -89,12 +89,12 @@ The final exam will include:
     [_Blockchain, Mining, and Distributed Consensus_ (Part 2)](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
     Assignment #2  
 5. 2024-10-29 Saturday 13:15-16:15  
-    [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
+    [_Discrete Logarithm Problem on Finite Fields and Elliptic Curves_](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS) (first section only)  
+    [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W) (first two sections only)  
     [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     Assignment #3  
-    [_Transactions and Scripts_ (Part 1)](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
 6. 2024-11-05 Tuesday 13:15-16:15  
-    [_Transactions and Scripts_ (Part 2)](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
+    [_Transactions and Scripts_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY) (section 1 and 5 only)  
     Assignment #4  
     [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
     Assignment #5  

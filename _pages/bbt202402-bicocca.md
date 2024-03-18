@@ -54,8 +54,9 @@ English.
 
 ## Assessment
 
-To access the early exam session,
-each student must solve five homeworks
+To access the _early exam session_,
+students must attend the classes
+and solve five homeworks
 that will be assigned during the course.
 Please send the homeworks via e-mail to the address
 ferdinando.ametrano AT unimib DOT it
@@ -67,10 +68,10 @@ E-mail submissions with the wrong address or wrong subject will not be accepted.
 
 The homeworks contribute one point each to the final grade (5 homeworks, 5 points).
 The early exam will be
-multiple-choice questions (40 questions, 20 minutes, 20 points),
-plus two open questions (10 minutes, 5 points).
+multiple-choice questions (50 questions, 25 minutes, 25 points, computer based: bring your own laptop),
+plus two open questions (10 minutes, 5 points, paper based: bring your own pen).
 
-Later exam sessions will be multiple-choice questions test (60 questions, 30 points).
+Later exam sessions will be multiple-choice questions test (62 questions, 30 minutes, 30L points).
 
 The final grade for this half-couse will be averaged with
 the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
@@ -100,11 +101,11 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
     Homework #3 (slide 34) due before 2024-03-25  
     _Homework #1 and #2: discussion_  
     [_Transactions and Scripts_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY) (section 1 and 5 only)  
-    Homework #4 (slide xx) due before 2024-03-25  
+    Homework #4 (slide 120) due before 2024-03-25  
     [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
 01. 2024-03-20 Wednesday 10:30-13:30, U2-06  
     [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
-    Homework #5 (slide xx) due before 2024-03-27  
+    Homework #5 (slide 48) due before 2024-03-27  
     [_Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z) (Part 1)  
 01. 2024-03-25 Monday 11:30-14:30, U6-11  
     [_Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z) (Part 2)  

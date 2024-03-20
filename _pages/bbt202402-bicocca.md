@@ -106,10 +106,9 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
 01. 2024-03-20 Wednesday 10:30-13:30, U2-06  
     [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
     Homework #5 (slide 48) due before 2024-03-27  
-    [_Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z) (Part 1)  
-01. 2024-03-25 Monday 11:30-14:30, U6-11  
-    [_Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z) (Part 2)  
     [_Financial Products and Services for the Blockchain Economy_](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
+01. 2024-03-25 Monday 11:30-14:30, U6-11  
+    [_Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
 01. 2024-03-27 Wednesday 10:30-13:30, U2-06  
     [_Bitcoin: oro digitale per nuovi standard monetari_](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)  
     [_Hayek Money: The Cryptocurrency Price Stability Solution_](https://ssrn.com/abstract=2425270)  

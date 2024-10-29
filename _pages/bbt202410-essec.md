@@ -70,9 +70,8 @@ The final exam will include:
 ## Contacts
 
 * Administrative queries: Jennifer Perrot (perrot AT essec DOT edu)
-* Teaching assistant, assignments: TBA (TBA AT essec DOT edu)
-* Content questions: Ferdinando Ametrano
-  (ferdinando DOT ametrano AT essec DOT edu)
+* Teaching assistant, assignments: Augustin PERRAUD (b00786645 AT essec DOT edu)
+* Content questions: Ferdinando Ametrano (ferdinando DOT ametrano AT essec DOT edu)
 
 ## Schedule
 

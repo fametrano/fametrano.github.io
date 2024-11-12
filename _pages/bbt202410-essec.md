@@ -87,7 +87,7 @@ The final exam will include:
 4. 2024-10-29 Tuesday 13:15-16:15  
     [_Blockchain, Mining, and Distributed Consensus_ (Part 2)](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
     Assignment #2  
-5. 2024-11-05 Saturday 13:15-16:15  
+5. 2024-11-05 Tuesday 13:15-16:15  
     [_Discrete Logarithm Problem on Finite Fields and Elliptic Curves_](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS) (first section only)  
     [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W) (first two sections only)  
     [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
@@ -95,19 +95,19 @@ The final exam will include:
 6. 2024-11-12 Tuesday 13:15-16:15  
     [_Transactions and Scripts_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY) (section 1 and 5 only)  
     Assignment #4  
+    [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
+7. 2024-11-26 Tuesday 13:15-16:15  
+    [_Financial Products and Services for the Blockchain Economy_](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
     [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
     Assignment #5  
-7. 2024-11-26 Tuesday 13:15-16:15 (online)  
-    [_Beyond Bitcoin: Altcoins, Stablecoins, Smart Contracts, and Smart Assets_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
-8. 2024-12-03 Tuesday 13:15-16:15 (online)  
+8. 2024-12-03 Tuesday 13:15-16:15  
     [_Beyond Bitcoin: Distributed Ledger Technology_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
-    [_Financial Products and Services for the Blockchain Economy_](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
 9. 2024-12-10 Tuesday 13:15-16:15  
-    [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
+    [_Beyond Bitcoin: Altcoins, Stablecoins, Smart Contracts, and Smart Assets_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
     [_The Cryptocurrency Frontier in Monetary Engineering_](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)
     ([video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s))  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
-10. 2024-12-17 Tuesday 16:30-18:00  
+10. 2024-12-17 Tuesday 13:15-16:15  
     Final exam  
 
 ## Python library

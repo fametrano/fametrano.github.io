@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bitcoin and Blockchain Technology Course
+title: Bitcoin and Blockchain Technology Course - Spring 2020
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
 permalink: /bbt202003-math/
 ---
@@ -112,8 +112,8 @@ Italian or English, the latter if foreign students are present.
 To pass the exam each student must solve all the assignments
 for every lesson. Please send the assignments
 to the e-mail that will be indicated with subject
-**BBT MATEMATICA2020 #1** for the first lesson,
-**BBT MATEMATICA2020 #2** for the second lesson,
+__BBT MATEMATICA2020 #1__ for the first lesson,
+__BBT MATEMATICA2020 #2__ for the second lesson,
 etc.
 
 ## Schedule
@@ -160,7 +160,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 
 ## Python library
 
-[btclib.org](https://btclib.org) 
+[btclib.org](https://btclib.org)
 [github.com/btclib-org/btclib](https://github.com/btclib-org/btclib)
 
 ## Python scripts, Excel spreadsheets, and regtest lab material

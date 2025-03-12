@@ -9,12 +9,12 @@ permalink: /bbt/
 
 ## Bitcoin courses
 
-* [Bitcoin and Crypto-assets, October-December 2023]({{ site.baseurl }}/bbt202310-essec/)  
-  _Department of Finance, ESSEC Business School_
-* [Bitcoin and Blockchain Technology, February-March 2024]({{ site.baseurl }}/bbt202402-bicocca/)  
+* [Bitcoin & Crypto-Assets, March-April 2025]({{ site.baseurl }}/bbt202503-bicocca/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* [Bitcoin and Blockchain Technology, April-June 2024]({{ site.baseurl }}/bbt202404-math/)  
+* [Bitcoin & Crypto-Assets, April-June 2025]({{ site.baseurl }}/bbt202504-math/)  
   _Department of Mathematics, University of Milan (La Statale)_
+* [Bitcoin & Crypto-Assets, October-December 2025]({{ site.baseurl }}/bbt202510-essec/)  
+  _Department of Finance, ESSEC Business School_
 
 Please refer to the page dedicated to your university, if available above.
 For previous editions, see the [courses page]({{ site.baseurl }}/courses).

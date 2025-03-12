@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bitcoin and Blockchain Technology Course
+title: Bitcoin and Blockchain Technology Course, February-April 2021
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
 permalink: /bbt202102-bicocca/
 ---

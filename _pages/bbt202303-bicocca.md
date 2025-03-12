@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bitcoin and Blockchain Technology Course
+title: Bitcoin and Blockchain Technology Course, March-May 2023
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
 permalink: /bbt202303-bicocca/
 ---
@@ -23,8 +23,8 @@ anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives
 
-The course is an introduction to bitcoin
-crypto- assets,
+The course is an introduction to bitcoin,
+crypto-assets,
 and the associated blockchain technology.
 
 Game theory, computer science (distributed systems, distributed

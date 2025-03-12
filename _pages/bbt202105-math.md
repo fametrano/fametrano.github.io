@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bitcoin and Blockchain Technology Course
+title: Bitcoin and Blockchain Technology Course, May-June 2021
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
 permalink: /bbt202105-math/
 ---
@@ -170,7 +170,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 
 ## Python library
 
-[btclib.org](https://btclib.org) 
+[btclib.org](https://btclib.org)
 [github.com/btclib-org/btclib](https://github.com/btclib-org/btclib)
 
 ## Python scripts, Excel spreadsheets, and regtest lab material

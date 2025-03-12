@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bitcoin and Blockchain Technology Course
+title: Bitcoin and Blockchain Technology Course, April-June 2022
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
 permalink: /bbt202204-math/
 ---
@@ -169,7 +169,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 
 ## Python library
 
-[btclib.org](https://btclib.org) 
+[btclib.org](https://btclib.org)
 [github.com/btclib-org/btclib](https://github.com/btclib-org/btclib)
 
 ## Python scripts, Excel spreadsheets, and regtest lab material

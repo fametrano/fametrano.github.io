@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cyber Security Regulation (Bitcoin and Blockchain Technology Course)
+title: Cyber Security Regulation (Bitcoin and Blockchain Technology Course), October-December 2021
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
 image:
     main: btclib-logo.jpg
@@ -158,7 +158,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
   
 ## Python library
 
-[btclib.org](https://btclib.org) 
+[btclib.org](https://btclib.org)
 [github.com/btclib-org/btclib](https://github.com/btclib-org/btclib)
 
 ## Python scripts, Excel spreadsheets, and regtest lab material

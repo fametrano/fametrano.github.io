@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bitcoin & Crypto-assets Course
+title: Bitcoin & Crypto-assets Course, October-December 2024
 description: Bitcoin & Crypto-assets course, including slides, code, videos, etc.
 permalink: /bbt202410-essec/
 ---
@@ -14,7 +14,7 @@ Department of Finance, ESSEC Business School
 
 ## Learning objectives
 
-The course is about bitcoin and crypto-assets,
+The course is about Bitcoin and crypto-assets,
 their economic rationale and potential.
 
 Financial markets, investing, and monetary theory are the focus of the course;

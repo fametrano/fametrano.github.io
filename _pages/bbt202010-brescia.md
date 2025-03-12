@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cyber Security Regulation (Bitcoin and Blockchain Technology Course)
+title: Cyber Security Regulation (Bitcoin and Blockchain Technology Course), 2020
 description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
 image:
     main: btclib-logo.jpg
@@ -122,8 +122,8 @@ up to five points to the final grade.
 
 Please send the assignments
 to the e-mail that will be indicated with subject
-**BBT202010-BRESCIA #1** for the first assignment,
-**BBT202010-BRESCIA #2** for the second assignment,
+__BBT202010-BRESCIA #1__ for the first assignment,
+__BBT202010-BRESCIA #2__ for the second assignment,
 etc.
 
 The final exam will be individual.
@@ -181,7 +181,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
   
 ## Python library
 
-[btclib.org](https://btclib.org) 
+[btclib.org](https://btclib.org)
 [github.com/btclib-org/btclib](https://github.com/btclib-org/btclib)
 
 ## Python scripts, Excel spreadsheets, and regtest lab material

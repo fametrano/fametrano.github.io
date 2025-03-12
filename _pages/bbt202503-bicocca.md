@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Bitcoin and Blockchain Technology Course, February-March 2024
-description: Bitcoin and Blockchain Technology course, including slides, code, videos, etc.
-permalink: /bbt202402-bicocca/
+title: Bitcoin & Crypto-Assets, March-May 2025
+description: Bitcoin & Crypto-Assets, including slides, code, videos, etc.
+permalink: /bbt202503-bicocca/
 ---
 
-## Bitcoin, Crypto-Assets, and Blockchain Technology, February-March 2024
+## Bitcoin, Crypto-Assets, and Blockchain Technology, March-May 2025
 
 University of Milano-Bicocca
 
-e-learning: <https://elearning.unimib.it/course/view.php?id=52337>
+e-learning: <https://elearning.unimib.it/course/view.php?id=55237>
 
 If you have an e-mail _@campus.unimib.it_
-please join the 202402-bicocca channel in the Slack
+please join the 202503-bicocca channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)
 using your first and last name (no nicknames) and
 a profile picture.
@@ -61,8 +61,8 @@ that will be assigned during the course.
 Please send the homeworks via e-mail to the address
 ferdinando.ametrano AT unimib DOT it
 with subject
-**bbt202402-bicocca #1** for the first assignment,
-**bbt202402-bicocca #2** for the second assignment,
+**bbt202503-bicocca #1** for the first assignment,
+**bbt202503-bicocca #2** for the second assignment,
 etc.
 E-mail submissions with the wrong address or wrong subject will not be accepted.
 
@@ -80,39 +80,40 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
 
 [Syllabus](https://drive.google.com/open?id=1aIkWq32CKxKMA3SE72C6NNC7houkUO59)
 
-01. 2024-02-28 Wednesday 10:30-13:30, U2-06  
+01. 2025-03-17 Monday 11:30-14:30, U6-40  
     [_Bitcoin as Digital Gold_](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho) (Part 1)  
-01. 2024-03-04 Monday 11:30-14:30, U6-11  
+01. 2025-03-24 Monday 11:30-14:30, U6-40  
     [_Bitcoin as Digital Gold_](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho) (Part 2)  
-01. 2024-03-06 Wednesday 10:30-13:30, U2-06  
+01. 2025-03-31 Monday 11:30-14:30, U6-40  
     [_Discrete Logarithm Problem on Finite Fields and Elliptic Curves_](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS) (first section only)  
     [_Hash Functions_](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    Homework #1 (slide 15) due before 2024-03-18  
+    Homework #1 (slide 15) due before 2025-03-18  
     [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 1)  
-01. 2024-03-11 Monday 11:30-14:30, U6-11  
+01. 2025-04-07 Monday 11:30-14:30, U6-40  
     [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 2)  
-    Homework #2 (slide 85) due before 2024-03-18  
-01. 2024-03-13 Wednesday 10:30-13:30, U2-06  
+    Homework #2 (slide 85) due before 2025-03-18  
+01. 2025-04-28 Monday 11:30-14:30, U6-40  
     [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 3)  
     [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W) (first two sections only)  
     [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA) (Part 1)  
-01. 2024-03-18 Monday 11:30-14:30, U6-11  
+01. 2025-05-05 Monday 11:30-14:30, U6-40  
     [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA) (Part 2)  
-    Homework #3 (slide 34) due before 2024-03-25  
+    Homework #3 (slide 34) due before 2025-03-25  
     _Homework #1 and #2: discussion_  
     [_Transactions and Scripts_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY) (section 1 and 5 only)  
-    Homework #4 (slide 120) due before 2024-03-25  
+    Homework #4 (slide 120) due before 2025-03-25  
     [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
-01. 2024-03-20 Wednesday 10:30-13:30, U2-06  
+01. 2025-05-05 Monday 11:30-14:30, U6-40  
     [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
-    Homework #5 (slide 48) due before 2024-03-27  
+    Homework #5 (slide 48) due before 2025-03-27  
     [_Financial Products and Services for the Blockchain Economy_](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
-01. 2024-03-25 Monday 11:30-14:30, U6-11  
+01. 2025-05-05 Monday 11:30-14:30, U6-40  
     [_Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
-01. 2024-03-27 Wednesday 10:30-13:30, U2-06  
+01. 2025-05-05 Monday 11:30-14:30, U6-40  
     [_Bitcoin: oro digitale per nuovi standard monetari_](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)  
     [_Hayek Money: The Cryptocurrency Price Stability Solution_](https://ssrn.com/abstract=2425270)  
     [_The Cryptocurrency Frontier in Monetary Engineering_](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) ([video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s))  
+01. 2025-05-12 Monday 11:30-14:30, U6-40  
     **Early exam session**
 
 ## Introductory reading

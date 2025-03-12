@@ -75,39 +75,39 @@ The final exam will include:
 
 ## Schedule
 
-1. 2025-10-01 Tuesday 13:15-16:15  
+1. 2025-10-07 Tuesday 13:15-16:15  
     [_Course Description_](https://drive.google.com/file/d/1QpOZD-QcV8jJ1OPxt9ls5Jxiwrtlt6v6)  
     [_Bitcoin as Digital Gold_ (Part 1)](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
-2. 2025-10-15 Tuesday 13:15-16:15  
+2. 2025-10-14 Tuesday 13:15-16:15  
     [_Bitcoin as Digital Gold_ (Part 2)](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
-3. 2025-10-22 Tuesday 13:15-16:15  
+3. 2025-10-21 Tuesday 13:15-16:15  
     [_Hash Functions_](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     Assignment #1  
     [_Blockchain, Mining, and Distributed Consensus_ (Part 1)](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-4. 2025-10-29 Tuesday 13:15-16:15  
+4. 2025-10-28 Tuesday 13:15-16:15  
     [_Blockchain, Mining, and Distributed Consensus_ (Part 2)](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
     Assignment #2  
-5. 2025-11-05 Tuesday 13:15-16:15  
+5. 2025-11-04 Tuesday 13:15-16:15  
     [_Discrete Logarithm Problem on Finite Fields and Elliptic Curves_](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS) (first section only)  
     [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W) (first two sections only)  
     [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     Assignment #3  
-6. 2025-11-12 Tuesday 13:15-16:15  
+6. 2025-11-11 Tuesday 13:15-16:15  
     [_Transactions and Scripts_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY) (section 1 and 5 only)  
     Assignment #4  
     [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
-7. 2025-11-26 Tuesday 13:15-16:15  
+7. 2025-11-18 Tuesday 13:15-16:15  
     [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
     Assignment #5  
     [_Beyond Bitcoin: Altcoins, Stablecoins, Smart Contracts, and Smart Assets_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
-8. 2025-12-03 Tuesday 13:15-16:15  
+8. 2025-11-25 Tuesday 13:15-16:15  
     [_Beyond Bitcoin: Distributed Ledger Technology_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
     [_Financial Products and Services for the Blockchain Economy_](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
-9. 2025-12-10 Tuesday 13:15-16:15  
+9. 2025-12-09 Tuesday 13:15-16:15  
     [_The Cryptocurrency Frontier in Monetary Engineering_](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)
     ([video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s))  
     _[Hayek Money: The Cryptocurrency Price Stability Solution](https://ssrn.com/abstract=2425270)_  
-10. 2025-12-17 Tuesday 13:15-16:15  
+10. 2025-12-16 Tuesday 13:15-16:15  
     Final exam  
 
 ## Python library

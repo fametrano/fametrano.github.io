@@ -78,40 +78,35 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
 
 ## Schedule
 
-[Syllabus](https://drive.google.com/open?id=1aIkWq32CKxKMA3SE72C6NNC7houkUO59)
+[Syllabus](https://drive.google.com/open?id=1ulDXSMM36khIB2-C78Db4kFiw1nmEDhj)
 
 01. 2025-03-17 Monday 11:30-14:30, U6-40  
     [_Bitcoin as Digital Gold_](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho) (Part 1)  
 01. 2025-03-24 Monday 11:30-14:30, U6-40  
     [_Bitcoin as Digital Gold_](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho) (Part 2)  
+    Assignment #1 (testnet transaction) due before 2025-03-31  
 01. 2025-03-31 Monday 11:30-14:30, U6-40  
-    [_Discrete Logarithm Problem on Finite Fields and Elliptic Curves_](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS) (first section only)  
     [_Hash Functions_](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    Homework #1 (slide 15) due before 2025-03-18  
-    [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 1)  
-01. 2025-04-07 Monday 11:30-14:30, U6-40  
-    [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 2)  
-    Homework #2 (slide 85) due before 2025-03-18  
-01. 2025-04-28 Monday 11:30-14:30, U6-40  
-    [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 3)  
+    Assignment #2 (slide 15) due before 2025-04-07  
+    [_Discrete Logarithm Problem on Finite Fields and Elliptic Curves_](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS) (first section only)  
     [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W) (first two sections only)  
-    [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA) (Part 1)  
-01. 2025-05-05 Monday 11:30-14:30, U6-40  
-    [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA) (Part 2)  
-    Homework #3 (slide 34) due before 2025-03-25  
-    _Homework #1 and #2: discussion_  
+    [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
+    Assignment #3 (slide 34) due before 2025-04-28  
+01. 2025-04-07 Monday 11:30-14:30, U6-40  
     [_Transactions and Scripts_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY) (section 1 and 5 only)  
     Homework #4 (slide 120) due before 2025-03-25  
     [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
-01. 2025-05-05 Monday 11:30-14:30, U6-40  
+01. 2025-04-xx online material  
     [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
-    Homework #5 (slide 48) due before 2025-03-27  
-    [_Financial Products and Services for the Blockchain Economy_](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
-01. 2025-05-05 Monday 11:30-14:30, U6-40  
-    [_Beyond Bitcoin: Altcoins, Tokens, Smart Contract, and Blockchain Applications_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
-01. 2025-05-05 Monday 11:30-14:30, U6-40  
-    [_Bitcoin: oro digitale per nuovi standard monetari_](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)  
+    Homework #5 (slide 48) due before 2025-05-05  
+01. 2025-04-xx online material  
+    [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
+01. 2025-04-xx online material  
     [_Hayek Money: The Cryptocurrency Price Stability Solution_](https://ssrn.com/abstract=2425270)  
+    [_Bitcoin: oro digitale per nuovi standard monetari_](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)  
+01. 2025-04-28 Monday 11:30-14:30, U6-40  
+    [_Beyond Bitcoin: Altcoins, Stablecoins, Smart Contracts, Smart Assets, and DLT_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+01. 2025-05-05 Monday 11:30-14:30, U6-40  
     [_The Cryptocurrency Frontier in Monetary Engineering_](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) ([video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s))  
 01. 2025-05-12 Monday 11:30-14:30, U6-40  
     **Early exam session**

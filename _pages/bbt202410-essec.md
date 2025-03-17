@@ -75,18 +75,19 @@ The final exam will include:
 
 ## Schedule
 
+[Syllabus](https://drive.google.com/file/d/1QpOZD-QcV8jJ1OPxt9ls5Jxiwrtlt6v6)
+
 1. 2024-10-01 Tuesday 13:15-16:15  
-    [_Course Description_](https://drive.google.com/file/d/1QpOZD-QcV8jJ1OPxt9ls5Jxiwrtlt6v6)  
-    [_Bitcoin as Digital Gold_ (Part 1)](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
+    [_Bitcoin as Digital Gold_](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho) (Part 1)  
 2. 2024-10-15 Tuesday 13:15-16:15  
-    [_Bitcoin as Digital Gold_ (Part 2)](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
+    [_Bitcoin as Digital Gold_](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho) (Part 2)  
 3. 2024-10-22 Tuesday 13:15-16:15  
     [_Hash Functions_](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    Assignment #1  
-    [_Blockchain, Mining, and Distributed Consensus_ (Part 1)](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
+    Assignment #1 (slide 15)  
+    [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 1)  
 4. 2024-10-29 Tuesday 13:15-16:15  
-    [_Blockchain, Mining, and Distributed Consensus_ (Part 2)](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-    Assignment #2  
+    [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz) (Part 2)  
+    Assignment #2 (testnet)  
 5. 2024-11-05 Tuesday 13:15-16:15  
     [_Discrete Logarithm Problem on Finite Fields and Elliptic Curves_](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS) (first section only)  
     [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W) (first two sections only)  
@@ -99,9 +100,9 @@ The final exam will include:
 7. 2024-11-26 Tuesday 13:15-16:15  
     [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
     Assignment #5  
-    [_Beyond Bitcoin: Altcoins, Stablecoins, Smart Contracts, and Smart Assets_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+    [_Beyond Bitcoin: Altcoins, Stablecoins, Smart Contracts, and Smart Assets_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z) (Part 1)  
 8. 2024-12-03 Tuesday 13:15-16:15  
-    [_Beyond Bitcoin: Distributed Ledger Technology_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
+    [_Beyond Bitcoin: Distributed Ledger Technology_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z) (Part 2)  
     [_Financial Products and Services for the Blockchain Economy_](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
 9. 2024-12-10 Tuesday 13:15-16:15  
     [_The Cryptocurrency Frontier in Monetary Engineering_](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj)

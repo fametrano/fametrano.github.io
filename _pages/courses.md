@@ -7,9 +7,9 @@ permalink: /courses/
 
 ## Current and upcoming university courses
 
-* [Bitcoin & Crypto-Assets, March-April 2025]({{ site.baseurl }}/bbt202503-bicocca/)  
+* [Bitcoin & Crypto-Assets, April-May 2025]({{ site.baseurl }}/bbt202503-bicocca/)  
   _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* [Bitcoin & Crypto-Assets, April-June 2025]({{ site.baseurl }}/bbt202504-math/)  
+* [Bitcoin & Crypto-Assets, May-June 2025]({{ site.baseurl }}/bbt202504-math/)  
   _Department of Mathematics, University of Milan (La Statale)_
 * [Bitcoin & Crypto-Assets, October-December 2025]({{ site.baseurl }}/bbt202510-essec/)  
   _Department of Finance, ESSEC Business School_

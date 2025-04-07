@@ -5,8 +5,9 @@ description: Bitcoin & Crypto-Assets, including slides, code, videos, etc.
 permalink: /bbt202503-bicocca/
 ---
 
-## Bitcoin, Crypto-Assets, and Blockchain Technology, March-May 2025
+## Bitcoin, Crypto-Assets, and Blockchain Technology
 
+March-May 2025  
 University of Milano-Bicocca
 
 e-learning: <https://elearning.unimib.it/course/view.php?id=55237>
@@ -84,21 +85,31 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
     [_Bitcoin as Digital Gold_](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho) (Part 1)  
 01. 2025-03-24 Monday 11:30-14:30, U6-40  
     [_Bitcoin as Digital Gold_](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho) (Part 2)  
-    Assignment #1 [(testnet transaction)](https://drive.google.com/file/d/1DjFl4xickJZLfkIDkSBr-N89rabMh4L-) due before 2025-04-08  
+    Assignment #1
+    ([Testnet Transaction](https://drive.google.com/file/d/1DjFl4xickJZLfkIDkSBr-N89rabMh4L-))
+    due before 2025-04-08  
 01. 2025-03-31 Monday 11:30-14:30, U6-40  
     [_Hash Functions_](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    Assignment #2 [(partial hash inversion))](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1) due before 2025-04-14  
+    Assignment #2
+    ([Partial Hash Inversion](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1))
+    due before 2025-04-14  
     [_Discrete Logarithm Problem on Finite Fields and Elliptic Curves_](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS) (first section only)  
     [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W) (first two sections only)  
     [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
-    Assignment #3 [(bitcoin message signature)](https://drive.google.com/file/d/1tlFoVT_k_H4Y9TJfU9OBGHmhy6BY8QL3) due before 2025-04-21  
+    Assignment #3
+    ([Bitcoin Message Signature](https://drive.google.com/file/d/1tlFoVT_k_H4Y9TJfU9OBGHmhy6BY8QL3))
+    due before 2025-04-21  
 01. 2025-04-07 Monday 11:30-14:30, U6-40  
     [_Transactions and Scripts_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY) (section 1 and 5 only)  
-    Assignment #4 [(halving blocks)](https://drive.google.com/file/d/1AvICvFSJexzWiXcvYPO0UD6e8Es51BeP) due before 2025-04-28  
+    Assignment #4
+    ([Halving Blocks](https://drive.google.com/file/d/1AvICvFSJexzWiXcvYPO0UD6e8Es51BeP))
+    due before 2025-04-28  
     [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
 01. 2025-04-xx online material  
     [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
-    Assignment #5 (slide 48) due before 2025-05-05  
+    Assignment #5
+    ()
+    due before 2025-05-05  
 01. 2025-04-xx online material  
     [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2025-04-xx online material  

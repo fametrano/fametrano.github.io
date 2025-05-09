@@ -122,18 +122,20 @@ etc.
 01. 2025-05-05 Monday 15:30-18:30, aula di dottorato  
     _Bitcoin as Digital Gold_ (Part 2)  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
+    _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
+    [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
 01. 2025-05-12 Monday 15:30-18:30, aula di dottorato  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
-01. 2025-05-19 Monday 15:30-18:30, aula di dottorato  
      _Hash Functions_  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     _Blockchain, Mining, and Distributed Consensus_ (Part 1)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2025-05-26 Monday 15:30-18:30, aula di dottorato  
+01. 2025-05-19 Monday 15:30-18:30, online  
     _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2025-05-27 Monday 15:30-18:30, aula di dottorato  
+01. 2025-05-26 Monday 15:30-18:30, online  
+01. 2025-05-27 Tuesday 15:30-18:30, online  
     _Elliptic Curve Digital Signature Algorithm (ECDSA)_  
     _Schnorr Signature Algorithm (BIP340)_  
     _Optimization of The Elliptic Curve Scalar Multiplication_  
@@ -143,7 +145,7 @@ etc.
     [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
     _Transactions and Scripts_  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
-01. 2025-06-10 Monday 15:30-18:30, aula di dottorato  
+01. 2025-06-10 Tuesday 15:30-18:30, aula di dottorato  
     _Deterministic Key Chains_  
     [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
     _Wallets and Custody_  
@@ -155,7 +157,7 @@ etc.
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
     _Financial Products and Services for the Blockchain Economy_  
     [slides](https://drive.google.com/file/d/1KnZL6dXQTJRbCKtCRfBvVO9xrRnHJTgb)  
-01. 2025-06-16 Monday 15:30-18:30, aula di dottorato  
+01. 2025-06-17 Tuesday 15:30-18:30, online  
     _The Cryptocurrency Frontier in Monetary Engineering_  
     [slides](https://drive.google.com/file/d/1T2z4vfRvEv_wooerJI7FgD8IkxeTihlj) and [video](https://www.youtube.com/watch?v=dvgb2YOm1y4&t=2922s)  
     _[Bitcoin: oro digitale per nuovi standard monetari](https://www.amazon.it/Dal-sesterzio-bitcoin-Angelo-Miglietta/dp/8849856806)_  

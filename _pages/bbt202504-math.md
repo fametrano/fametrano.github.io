@@ -134,7 +134,6 @@ etc.
 01. 2025-05-19 Monday 15:30-18:30, online  
     _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2025-05-26 Monday 15:30-18:30, online  
 01. 2025-05-27 Tuesday 15:30-18:30, online  
     _Elliptic Curve Digital Signature Algorithm (ECDSA)_  
     _Schnorr Signature Algorithm (BIP340)_  

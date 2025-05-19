@@ -78,7 +78,7 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
 
 ## Schedule
 
-[Syllabus](https://drive.google.com/open?id=1aIkWq32CKxKMA3SE72C6NNC7houkUO59)
+[Syllabus](https://drive.google.com/file/d/1aIkWq32CKxKMA3SE72C6NNC7houkUO59)
 
 01. 2024-02-28 Wednesday 10:30-13:30, U2-06  
     [_Bitcoin as Digital Gold_](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho) (Part 1)  

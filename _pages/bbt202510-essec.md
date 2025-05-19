@@ -80,9 +80,10 @@ The final exam will include:
     [_Bitcoin as Digital Gold_ (Part 1)](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
 2. 2025-10-14 Tuesday 13:15-16:15  
     [_Bitcoin as Digital Gold_ (Part 2)](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
+    Assignment: [Testnet transaction](https://drive.google.com/file/d/1DjFl4xickJZLfkIDkSBr-N89rabMh4L-)  
 3. 2025-10-21 Tuesday 13:15-16:15  
     [_Hash Functions_](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    Assignment #1  
+    Assignment: [Partial Hash Inversion](https://drive.google.com/file/d/1nAcw9UjcI3qbUvhYjFiUtKUJpJ1R7S9p)  
     [_Blockchain, Mining, and Distributed Consensus_ (Part 1)](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 4. 2025-10-28 Tuesday 13:15-16:15  
     [_Blockchain, Mining, and Distributed Consensus_ (Part 2)](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  

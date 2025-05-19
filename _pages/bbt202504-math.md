@@ -110,8 +110,8 @@ Italian or English, the latter if foreign students are present.
 To pass the exam each student must solve all the assignments
 for every lesson. Please send the assignments
 to the e-mail that will be indicated with subject
-**bbt202504-math #1** for the first lesson,
-**bbt202504-math #2** for the second lesson,
+**bbt202504-math #1** for the first assignment,
+**bbt202504-math #2** for the second assignment,
 etc.
 
 ## Schedule
@@ -122,16 +122,16 @@ etc.
 01. 2025-05-05 Monday 15:30-18:30, aula di dottorato  
     _Bitcoin as Digital Gold_ (Part 2)  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
-    Assignment: [Testnet transaction](https://drive.google.com/file/d/1DjFl4xickJZLfkIDkSBr-N89rabMh4L-)  
+    Assignment #1: [Testnet transaction](https://drive.google.com/file/d/1DjFl4xickJZLfkIDkSBr-N89rabMh4L-)  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
 01. 2025-05-12 Monday 15:30-18:30, aula di dottorato  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
-    Assignment: [Finite Fields and Elliptic Curves](https://drive.google.com/file/d/1UejN7o9uW6iRgWd5ea5YE4-6oiS5ijpR)  
+    Assignment #2: [Finite Fields and Elliptic Curves](https://drive.google.com/file/d/1UejN7o9uW6iRgWd5ea5YE4-6oiS5ijpR)  
      _Hash Functions_  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    Assignment: [Partial Hash Inversion](https://drive.google.com/file/d/1nAcw9UjcI3qbUvhYjFiUtKUJpJ1R7S9p)  
+    Assignment #3: [Partial Hash Inversion](https://drive.google.com/file/d/1nAcw9UjcI3qbUvhYjFiUtKUJpJ1R7S9p)  
     _Blockchain, Mining, and Distributed Consensus_ (Part 1)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 01. 2025-05-19 Monday 15:30-18:30, [online](https://meet.google.com/vib-uooa-yfn)  

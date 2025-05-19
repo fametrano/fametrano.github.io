@@ -122,26 +122,29 @@ etc.
 01. 2025-05-05 Monday 15:30-18:30, aula di dottorato  
     _Bitcoin as Digital Gold_ (Part 2)  
     [slides](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
+    Assignment: [Testnet transaction](https://drive.google.com/file/d/1DjFl4xickJZLfkIDkSBr-N89rabMh4L-)  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
 01. 2025-05-12 Monday 15:30-18:30, aula di dottorato  
     _Discrete Logarithm Problem on Finite Fields and Elliptic Curves_  
     [slides](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS)  
+    Assignment: [Finite Fields and Elliptic Curves](https://drive.google.com/file/d/1UejN7o9uW6iRgWd5ea5YE4-6oiS5ijpR)  
      _Hash Functions_  
     [slides](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
+    Assignment: [Partial Hash Inversion](https://drive.google.com/file/d/1nAcw9UjcI3qbUvhYjFiUtKUJpJ1R7S9p)  
     _Blockchain, Mining, and Distributed Consensus_ (Part 1)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2025-05-19 Monday 15:30-18:30, online  
+01. 2025-05-19 Monday 15:30-18:30, [online](https://meet.google.com/vib-uooa-yfn)  
     _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-01. 2025-05-27 Tuesday 15:30-18:30, online  
     _Elliptic Curve Digital Signature Algorithm (ECDSA)_  
     _Schnorr Signature Algorithm (BIP340)_  
     _Optimization of The Elliptic Curve Scalar Multiplication_  
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
-01. 2025-06-09 Monday 15:30-18:30, aula di dottorato  
+01. 2025-05-27 Tuesday 15:30-18:30, online  
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
+01. 2025-06-09 Monday 15:30-18:30, aula di dottorato  
     _Transactions and Scripts_  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
 01. 2025-06-10 Tuesday 15:30-18:30, aula di dottorato  

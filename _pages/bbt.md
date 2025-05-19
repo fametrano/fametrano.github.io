@@ -119,11 +119,12 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * The Double Spending Problem  
     * Bitcoin as Digital Gold
     * Bitcoin as Investment Asset  
-    * Financial Services  
+    * Assignment: [Testnet transaction](https://drive.google.com/file/d/1DjFl4xickJZLfkIDkSBr-N89rabMh4L-)  
 01. [_Hash Functions_](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
     * Hash Functions and Their Properties  
     * Puzzle Friendliness and Partial Hash Inversion  
     * Hash–based Data Structures  
+    * Assignment: [Partial Hash Inversion](https://drive.google.com/file/d/1nAcw9UjcI3qbUvhYjFiUtKUJpJ1R7S9p)  
 01. [_Blockchain, Mining, and Distributed Consensus_](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
     * Simplified Digital Coin
     * Distributed Consensus
@@ -137,6 +138,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * Modular Arithmetic
     * Finite Fields
     * Discrete Logarithm Problem on Elliptic Curves Over Finite Fields  
+    * Assignment: [Finite Fields and Elliptic Curves](https://drive.google.com/file/d/1UejN7o9uW6iRgWd5ea5YE4-6oiS5ijpR)  
 01. [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
     * Asymmetric Cryptography on Elliptic Curves
     * Digital Signature Protocol
@@ -151,12 +153,14 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * Base58 Encoding
     * P2PKH Addresses and Wallet Import Formats
     * Bitcoin Message Signing  
+    * Assignment: [Bitcoin Message Signature](https://drive.google.com/file/d/  )  
 01. [_Transactions and Scripts_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
     * TxIns, TxOs, and UTxOs
     * Bitcoin Script Language
     * Standard Transaction Scripts
     * Signatures Types and Smart Contracts
     * Blocks
+    * Assignment: [Halving Blocks](https://drive.google.com/file/d/   )  
 01. [_Transactions and Blocks_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
     * Transaction Serializazion
     * Blocks

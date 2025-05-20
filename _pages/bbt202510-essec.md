@@ -80,26 +80,25 @@ The final exam will include:
     [_Bitcoin as Digital Gold_ (Part 1)](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
 2. 2025-10-14 Tuesday 13:15-16:15  
     [_Bitcoin as Digital Gold_ (Part 2)](https://drive.google.com/file/d/1FpudunEQrBY8WLTSLzwThOoFxMKGTCho)  
-    Assignment: [Testnet transaction](https://drive.google.com/file/d/1DjFl4xickJZLfkIDkSBr-N89rabMh4L-)  
+    Assignment #1: [Testnet transaction](https://drive.google.com/file/d/1DjFl4xickJZLfkIDkSBr-N89rabMh4L-)  
 3. 2025-10-21 Tuesday 13:15-16:15  
     [_Hash Functions_](https://drive.google.com/file/d/1LzaOx1rrFzswkKBrmZjIbMYkxWYpn-m1)  
-    Assignment: [Partial Hash Inversion](https://drive.google.com/file/d/1nAcw9UjcI3qbUvhYjFiUtKUJpJ1R7S9p)  
+    Assignment #2: [Partial Hash Inversion](https://drive.google.com/file/d/1nAcw9UjcI3qbUvhYjFiUtKUJpJ1R7S9p)  
     [_Blockchain, Mining, and Distributed Consensus_ (Part 1)](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
 4. 2025-10-28 Tuesday 13:15-16:15  
     [_Blockchain, Mining, and Distributed Consensus_ (Part 2)](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
-    Assignment #2  
 5. 2025-11-04 Tuesday 13:15-16:15  
     [_Discrete Logarithm Problem on Finite Fields and Elliptic Curves_](https://drive.google.com/file/d/1FgQaVBv__y7x07cRCMaCXM9xTJMW9lgS) (first section only)  
     [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W) (first two sections only)  
     [_Addresses, WIFs, and Bitcoin Message Signing_](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
-    Assignment #3  
+    Assignment #3: [Bitcoin Message Signature](https://drive.google.com/file/d/1tlFoVT_k_H4Y9TJfU9OBGHmhy6BY8QL3/)
 6. 2025-11-11 Tuesday 13:15-16:15  
     [_Transactions and Scripts_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY) (section 1 and 5 only)  
-    Assignment #4  
+    Assignment #4: [Halving Blocks](https://drive.google.com/file/d/1AvICvFSJexzWiXcvYPO0UD6e8Es51BeP/)  
     [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
 7. 2025-11-18 Tuesday 13:15-16:15  
     [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
-    Assignment #5  
+    Assignment #5: [Timestamped document](https://drive.google.com/file/d/1qTscc6dS-zzEDoSASORQpmYQqtmM_1g/)  
     [_Beyond Bitcoin: Altcoins, Stablecoins, Smart Contracts, and Smart Assets_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
 8. 2025-11-25 Tuesday 13:15-16:15  
     [_Beyond Bitcoin: Distributed Ledger Technology_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  

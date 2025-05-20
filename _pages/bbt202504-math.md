@@ -137,16 +137,18 @@ etc.
 01. 2025-05-19 Monday 15:30-18:30, [online](https://meet.google.com/vib-uooa-yfn)  
     _Blockchain, Mining, and Distributed Consensus_ (Part 2)  
     [slides](https://drive.google.com/file/d/1_rGy7wdI8iWx6w6LG_CGCmmLnAIFhncz)  
+01. 2025-05-27 Tuesday 15:30-18:30, online  
     _Elliptic Curve Digital Signature Algorithm (ECDSA)_  
     _Schnorr Signature Algorithm (BIP340)_  
     _Optimization of The Elliptic Curve Scalar Multiplication_  
     [slides](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)  
-01. 2025-05-27 Tuesday 15:30-18:30, online  
     _Addresses, WIFs, and Bitcoin Message Signing_  
     [slides](https://drive.google.com/file/d/1xEcBCyN3yLN40A3Ny8k-2PQ-xKJw1RlA)  
+    Assignment #4: [Bitcoin Message Signature](https://drive.google.com/file/d/1tlFoVT_k_H4Y9TJfU9OBGHmhy6BY8QL3/)
 01. 2025-06-09 Monday 15:30-18:30, aula di dottorato  
     _Transactions and Scripts_  
     [slides](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
+    Assignment #5: [Halving Blocks](https://drive.google.com/file/d/1AvICvFSJexzWiXcvYPO0UD6e8Es51BeP/)  
 01. 2025-06-10 Tuesday 15:30-18:30, aula di dottorato  
     _Deterministic Key Chains_  
     [slides](https://drive.google.com/file/d/1bM9DBgWOxegnGE6Ls3_A2NoV7f-5pILw)  
@@ -154,6 +156,7 @@ etc.
     [slides](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
     _Timestamping and the OpenTimestamps Protocol_  
     [slides](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)
+    Assignment #6: [Timestamped document](https://drive.google.com/file/d/1qTscc6dS-zzEDoSASORQpmYQqtmM_1g/)  
 01. 2025-06-16 Monday 15:30-18:30, aula di dottorato  
     _Beyond Bitcoin: Between Hype and Reality_  
     [slides](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  

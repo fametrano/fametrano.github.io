@@ -153,14 +153,14 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * Base58 Encoding
     * P2PKH Addresses and Wallet Import Formats
     * Bitcoin Message Signing  
-    * Assignment: [Bitcoin Message Signature](https://drive.google.com/file/d/  )  
+    * Assignment: [Bitcoin Message Signature](https://drive.google.com/file/d/1tlFoVT_k_H4Y9TJfU9OBGHmhy6BY8QL3/)  
 01. [_Transactions and Scripts_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
     * TxIns, TxOs, and UTxOs
     * Bitcoin Script Language
     * Standard Transaction Scripts
     * Signatures Types and Smart Contracts
     * Blocks
-    * Assignment: [Halving Blocks](https://drive.google.com/file/d/   )  
+    * Assignment: [Halving Blocks](https://drive.google.com/file/d/1AvICvFSJexzWiXcvYPO0UD6e8Es51BeP/)  
 01. [_Transactions and Blocks_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
     * Transaction Serializazion
     * Blocks
@@ -170,6 +170,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * Timestamping
     * The OpenTimestamps standard
     * Use Cases
+    * Assignment: [Timestamped document](https://drive.google.com/file/d/1qTscc6dS-zzEDoSASORQpmYQqtmM_1g/)  
 01. [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
     * Key Management and UTxO Database Access
     * Wallets as Collection of Keys

@@ -5,6 +5,7 @@
 </div></div>
 <div class="narrow prose">
   {{ .Content }}
+  {{- if hugo.Data.media.featured }}
   <h2>Selected</h2>
   {{- range $lang, $label := dict "en" "English" "it" "Italiano" }}
   <h3 lang="{{ $lang }}">{{ $label }}</h3>
@@ -15,6 +16,7 @@
     </li>
     {{- end }}
   </ul>
+  {{- end }}
   {{- end }}
   <h2>Coverage</h2>
   {{ partial "yearlist.html" (dict "items" hugo.Data.media.items "id" "media") }}

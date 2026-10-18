@@ -7,9 +7,9 @@ cards:
     text: "Eight short posts on bitcoin, blockchain and a bit of politics, in English and Italian."
   - title: "Events"
     url: "/events/"
-    text: "Talks, lectures and panels since 2014, filterable by year."
+    text: "A selection of talks, lectures and panels, filterable by year."
   - title: "Media"
     url: "/media/"
-    text: "Articles, interviews and videos, with the YouTube playlists in English and Italian."
+    text: "A selection of articles, interviews and videos."
 ---
-Posts and event listings stay in their original language, marked EN or IT.
+Posts, event listings and media coverage are a selection, not a complete record. They stay in their original language, marked EN or IT.

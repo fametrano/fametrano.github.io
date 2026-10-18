@@ -7,9 +7,9 @@ cards:
     text: "Articoli brevi su bitcoin, blockchain e un po' di politica, in inglese e in italiano."
   - title: "Eventi"
     url: "/events/"
-    text: "Interventi, lezioni e panel dal 2014, filtrabili per anno."
+    text: "Una selezione di interventi, lezioni e panel, filtrabili per anno."
   - title: "Media"
     url: "/media/"
-    text: "Articoli, interviste e video, con le playlist YouTube in inglese e in italiano."
+    text: "Una selezione di articoli, interviste e video."
 ---
-Articoli ed elenchi di eventi restano nella lingua originale, indicata con EN o IT.
+Articoli, eventi e rassegna stampa sono una selezione, non un elenco completo. Restano nella lingua originale, indicata con EN o IT.

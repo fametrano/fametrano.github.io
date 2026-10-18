@@ -1,6 +1,6 @@
 ---
 title: "Events"
-description: "Past events and talks by Ferdinando Ametrano"
+description: "A selection of past events and talks by Ferdinando Ametrano"
 url: /events/
 layout: events
 ---

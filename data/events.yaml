@@ -1,589 +1,133 @@
-# Converted from the Jekyll _pages/events.md. Newest first as in the source.
-# Fields: date, year, title (markdown), details (markdown lines).
 items:
+  - date: "2026-10-06"
+    year: 2026
+    title: "Digital Gold Institute, quarterly report #31 (Q3 2026)"
+    details:
+      - "online, live"
+      - "[video](https://www.youtube.com/watch?v=zRZNBqs6gYA) · [all editions](https://dgi.io/events)"
+    lang: it
+  - date: "2026-09-24"
+    year: 2026
+    title: "Camera dei Deputati, Stati Generali of the parliamentary intergroup \"Asset digitali, blockchain e bitcoin\""
+    details:
+      - "Presents the findings of the working group he leads on taxation of digital assets"
+      - "Rome"
+      - "<https://www.checksig.com/eu/en/2026-09-24-crypto-tax-26-percent-rate/>"
+    lang: it
+  - date: "2026-04-07"
+    year: 2026
+    title: "Lodi Liberale"
+    details:
+      - "Presentation of the book \"Villaggio Bitcoin\", with Valerio Dalla Costa and Alberto De Luigi"
+      - "Lodi"
+      - "[video](https://www.youtube.com/watch?v=2afxx6aMvuk)"
+    lang: it
+  - date: "2026-01-23"
+    year: 2026
+    title: "[CAL2026, 6th Crypto Asset Lab Conference](https://www.unimib.it/eventi/crypto-asset-lab-conference-2026)"
+    details:
+      - "Concluding remarks"
+      - "Università di Milano-Bicocca, Milan"
+    lang: en
+  - date: "2025-04-14"
+    year: 2025
+    title: "Clear Summit 2025 (CheckSig)"
+    details:
+      - "Crypto market and Bitcoin update, with Consob and members of parliament from four parties"
+      - "Fondazione Cariplo conference centre, Milan"
+      - "<https://www.checksig.com/eu/en/2025-03-31-clear-summit-2025/>"
+    lang: it
+  - date: "2025-01-16"
+    year: 2025
+    title: "[CAL2025, 5th Crypto Asset Lab Conference](https://cryptoassetlab.unimib.it/conference-cal2025/)"
+    details:
+      - "Program chair; presents the state of the market with the 2025 CAL Report"
+      - "Università di Milano-Bicocca, Milan, with the European Commission JRC"
+      - "[coverage](https://arenadigitale.it/2025/01/17/crypto-asset-ed-euro-digitale-protagonisti-della-crypto-asset-lab-conference/)"
+    lang: en
+  - date: "2021-12-17"
+    year: 2021
+    title: "Banca d'Italia seminar \"Fintech e moneta digitale\""
+    details:
+      - "Bitcoin: oro digitale per nuovi standard monetari"
+      - "Monastero dei Benedettini, Catania"
+      - "[video](https://www.youtube.com/watch?v=vARb612Q144)"
+    lang: it
+  - date: "2021-03-26"
+    year: 2021
+    title: "European Parliament webinar on MiCA"
+    details:
+      - "Cripto-attività: tra recenti sviluppi e Digital Finance Package"
+      - "online"
+      - "[video](https://www.youtube.com/watch?v=QLC_qGeZBR8)"
+    lang: it
+  - date: "2019-11-08"
+    year: 2019
+    title: "Salone dei Pagamenti"
+    details:
+      - "Moderates the panel \"Cryptovalute e nuovi player nel mercato dei pagamenti\""
+      - "Milan"
+      - "<https://www.ipsos.com/it-it/evento-il-salone-dei-pagamenti-2019>"
+    lang: it
   - date: "2019-07-11"
     year: 2019
-    title: "[Istituto Bruno Leoni](http://www.brunoleoni.it/criptovalute-cosa-cambia-con-libra) / [Crypto Asset Lab](https://cryptoassetlab.org/2019/07/05/) / [Università Milano-Bicocca](https://www.diseade.unimib.it/it/eventi/criptovalute-cosa-cambia-libra)"
+    title: "Istituto Bruno Leoni, Crypto Asset Lab, Università di Milano-Bicocca"
     details:
-      - "[Bitcoin e Libra](https://facebook.com/events/2435413189854205)"
-      - "18:00, Piazza Castello 23, Milano"
-      - "Accesso gratuito previa [registrazione](https://www.eventbrite.it/e/biglietti-criptovalute-cosa-cambia-con-libra-64718684327)"
-  - date: "2019-09-20"
-    year: 2019
-    title: "Le Fonti"
-    details:
-      - "Criptovalute e crypto-assets: qualificazione giuridica e prospettive di mercato"
-      - "Milano"
-      - "(dettagli disponibili a breve)"
-  - date: "2019-09-30"
-    year: 2019
-    title: "Craon CodeCampus"
-    details:
-      - "10:00-18:00 Hotel Michelangelo, Piazza Luigi di Savoia 6, Milano"
-      - "[₿lockchain Dates](https://www.craon.it/blockchain-dates-early-bird/): workshop sull’Internet del valore, tra bitcoin e blockchain"
-      - "[iscrizione obbligatoria](https://www.craon.it/blockchain-dates-early-bird/#form)"
-  - date: "2019-07-04"
-    year: 2019
-    title: "Bicocca Alumni"
-    details:
-      - "[The Blockchain Series: Bitcoin First](https://www.bicoccalumni.it/it/news-ed-eventi/the-blockchain-series-bitcoin-first)"
-      - "18:30-21:00 Spazio MIL, via Luigi Granelli, Sesto San Giovanni"
-  - date: "2019-06-05"
-    year: 2019
-    title: "Università di Milano-Bicocca"
-    details:
-      - "Crypto Asset tra tecnologia e tentativi di regolazione"
-      - "Presentazione dell’osservatorio [Crypto Asset Lab](https://cryptoassetlab.org)"
-      - "<https://cryptoassetlab.org/2019/06/12/workshop.html>"
+      - "Criptovalute: cosa cambia con Libra"
+      - "Milan"
+    lang: it
   - date: "2019-04-09"
     year: 2019
     title: "Harvard Extension Student Environmental Club"
     details:
       - "Bitcoin and Blockchain Technology: Economics and Environmental Sustainability"
-      - "<https://hesec.extension.harvard.edu/webinars>"
-      - "webinar: <https://youtu.be/36slArIgsbw?t=18>"
-  - date: "2019-04-06"
-    year: 2019
-    title: "Palazzo Vecchio, Firenze"
-    details:
-      - "Seminario sulle monete virtuali"
-  - date: "2019-03-25"
-    year: 2019
-    title: "Dipartimento di Ingegneria dell'Informazione, Università degli Studi di Padova"
-    details:
-      - "Cryptography and Distributed Consensus: Tools for Better Money"
+      - "webinar"
+      - "[video](https://www.youtube.com/watch?v=36slArIgsbw)"
+    lang: en
   - date: "2019-03-17"
     year: 2019
     title: "TEDx Livorno"
     details:
-      - "Bitcoin: l'oro della civilizzazione digitale"
-      - "<https://tedxlivorno.com>"
-  - date: "2018-01-25"
-    year: 2018
-    title: "Università di Milano-Bicocca"
-    details:
-      - "La certificazione blockchain nell’education"
-      - "Blockchain Certification: Bitcoin & OpenTimestamps"
-      - "<https://speakerdeck.com/nando1970/blockchain-certification-bitcoin-and-opentimestamps>"
-  - date: "2018-01-23"
-    year: 2018
-    title: "SingularityU Milan Chapter"
-    details:
-      - "Blockchain Futures"
-      - "Il futuro della blockchain: bitcoin"
-      - "<https://youtu.be/jKuNbOAJGTw?t=1266>"
-  - date: "2018-12-17"
-    year: 2018
-    title: "iBicocca, Università di Milano-Bicocca"
-    details:
-      - "Alla scoperta di Bitcoin"
-  - date: "2018-12-15"
-    year: 2018
-    title: "Master in Fintech & Innovation"
-    details:
-      - "Economics and Technology of Digital Assets"
-      - "Webinar"
-  - date: "2018-12-11"
-    year: 2018
-    title: "#Aperitech BlockchainEDU, Milano LUISS Hub"
-    details:
-      - "La scarsità in ambito digitale: la missione del [Digital Gold Institute](https://dgi.io)"
-  - date: "2018-12-11"
-    year: 2018
-    title: "ESSEC Business School, Paris"
-    details:
-      - "Bitcoin and Blockchain Technology: An Introduction"
-      - "Webinar"
-  - date: "2018-11-28"
-    year: 2018
-    title: "14:00-18:00 CERIF, Università Cattolica, Milan"
-    details:
-      - "Bitcoin and Blockchain Technology"
-      - "<https://cerif.it/macro-micro-la-congiuntura-economica-3/>"
-  - date: "2018-11-26/27"
-    year: 2018
-    title: "Luxembourg"
-    details:
-      - "Blockchain Academy"
-      - "<https://www.theblockchainacademy.org/blockchain-bitcoin-academy-luxembourg-2018>"
-  - date: "2018-11-23"
-    year: 2018
-    title: "Università di Milano-Bicocca, Milan"
-    details:
-      - "Master in Business Intelligence & Big Data Analytics"
-      - "Bitcoin e Blockchain: fra esagerazione e realtà"
-  - date: "2018-11-21"
-    year: 2018
-    title: "Assagenti, Genoa"
-    details:
-      - "Blockchain for the shipping industry"
-      - "<https://bit.ly/2JfVYQd>"
-  - date: "2018-11-22"
-    year: 2018
-    title: "Politecnico di Milano, Milan"
-    details:
-      - "Bitcoin & Blockchain: stato dell'arte e prospettive future"
-  - date: "2018-11-20"
-    year: 2018
-    title: "Borsa Italiana, Milan"
-    details:
-      - "Bitcoin e digital economy: sfide e opportunità per il mondo finanziario"
-      - "[LSEG Borsa Italiana](https://lseg.com/it/markets-products-and-services/business-services/academy/milan-campus/course-calendar-italy/blockchain-e-digital-economy-sfide-e-opportunit%C3%A0-il-mondo-finanziario), [AssosIM](https://www.assosim.it/scheda/?id=20181019150403.xml)"
-  - date: "2018-11-09"
-    year: 2018
-    title: "Salone dei Pagamenti, Milano"
-    details:
-      - "Criptovalute: cosa sono e come funzionano"
-      - "agenda: <https://www.salonedeipagamenti.com/agenda/criptovalute-cosa-sono-e-come-funzionano>"
-      - "gallery: <https://www.salonedeipagamenti.com/galleries/criptovalute-cosa-sono-e-come-funzionano>"
-  - date: "2018-10-24"
-    year: 2018
-    title: "ExPLORE TALKS - Spaces, Milan"
-    details:
-      - "Blockchain Economy"
-      - "<https://exploretalks.com/>"
-  - date: "2018-10-18/19"
-    year: 2018
-    title: "ExPLORE 2018 _The Future of Work_, OpenZone - Bresso, Milan"
-    details:
-      - "Bitcoin and Blockchain Technology"
-      - "<https://exploretalks.com/explore/>"
-  - date: "2018-10-16"
-    year: 2018
-    title: "Regione Lombardia, Milan"
-    details:
-      - "Bitcoin and Blockchain Technology"
-      - "video (ITA): <https://bit.ly/2EHgmev>"
-  - date: "2018-10-15/16"
-    year: 2018
-    title: "EFMA Innovation Summit: Payments & Wallets, Lisbon"
-    details:
-      - "seminar: Bitcoin and blockchain: between money, digital gold, and payment systems"
-      - "<https://www.efma.com/conference/program/619>"
-  - date: "2018-10-05"
-    year: 2018
-    title: "Four Seasons Hotel, Milan"
-    details:
-      - "Bitcoin as Digital Gold"
-  - date: "2018-07-25"
-    year: 2018
-    title: "Ambrosetti Live, Milan"
-    details:
-      - "Understanding Blockchain: potenzialità e applicazioni di una tecnologia rivoluzionaria"
-      - "Webinar: <https://live.ambrosetti.eu/20180625ametrano>"
-  - date: "2018-05-30"
-    year: 2018
-    title: "iBicocca.it, Milan"
-    details:
-      - "iKnow: Alla scoperta di Bitcoin"
-      - "talk"
-  - date: "2018-05-21/22"
-    year: 2018
-    title: "Blockchain Academy, Milan"
-    details:
-      - "seminar: Bitcoin and Blockchain technology"
-  - date: "2018-05-03"
-    year: 2018
-    title: "3rd Banking Transformation & Innovation Summit, London"
-    details:
-      - "Bitcoin: The Digital Rush"
-      - "talk"
-  - date: "2018-04-14"
-    year: 2018
-    title: "Università Cattolica, Milan"
-    details:
-      - "Bitcoin: The Digital Rush"
-      - "lecture"
-  - date: "2018-03-21"
-    year: 2018
-    title: "Camplus, Milan"
-    details:
-      - "Bitcoin: The Digital Rush"
-      - "lecture"
-  - date: "2018-03-15"
-    year: 2018
-    title: "iKN, Milan"
-    details:
-      - "Bitcoin and Blockchain Technology"
-      - "seminar"
-  - date: "2018-03-05"
-    year: 2018
-    title: "Sun Life Financial International, Milan"
-    details:
-      - "Bitcoin as Digital Gold"
-      - "talk"
-  - date: "2018-03-05"
-    year: 2018
-    title: "Istituto Gislieri, Pavia"
-    details:
-      - "Bitcoin: The Digital Rush"
-      - "lecture"
-  - date: "2018-03-02"
-    year: 2018
-    title: "Istituto Luigi Sturzo, Rome"
-    details:
-      - "Bitcoin: The Digital Rush"
-      - "lecture"
-  - date: "2018-02-21"
-    year: 2018
-    title: "Ambrosetti Live, Milan"
-    details:
-      - "Webinar: Understanding Bitcoin: una rivoluzione fatta per durare?"
-      - "<https://live.ambrosetti.eu/20180221ametrano>"
+      - "[Bitcoin, l'oro del ventunesimo secolo](https://www.ted.com/talks/ferdinando_ametrano_bitcoin_l_oro_del_ventunesimo_secolo)"
+      - "Teatro Goldoni, Livorno"
+    lang: it
   - date: "2018-02-01"
     year: 2018
-    title: "United Nations (Department of Economic and Social Affairs), New York"
+    title: "[United Nations, DESA](https://www.un.org/development/desa/dpad/2018/seminar-understanding-bitcoin-blockchains-and-the-crypto-economy/)"
     details:
-      - "Bitcoin as Digital Gold"
-      - "talk"
-      - "video (ENG): <https://goo.gl/NkEC9w>"
-      - "slides (ENG): <https://goo.gl/szzBXh>"
-      - "more info and material (ENG): <https://goo.gl/XoQNfA>"
-  - date: "2018-01-27"
-    year: 2018
-    title: "\"Liberi di Scegliere\", Piacenza"
-    details:
-      - "Bitcoin e blockchain. Ci attende una rivoluzione?"
-  - date: "2018-01-19"
-    year: 2018
-    title: "Cà Foscari, Bitcoin Meetup Venezia"
-    details:
-      - "Bitcoin: The Digital Rush"
-      - "video (ITA): <https://goo.gl/zwfuXK>"
-      - "video Q&A (ITA)): <https://goo.gl/nkyBew>"
-      - "slides (ENG): <https://speakerdeck.com/nando1970/bitcoin-the-digital-rush>"
-  - date: "2017-12-19"
-    year: 2017
-    title: "Università di Milano-Bicocca, Milan"
-    details:
-      - "Digital Gold: Bitcoin as Investment Asset"
-      - "slides (ENG): <https://goo.gl/MuxT8x>"
-      - "video (ITA): <https://goo.gl/v9Tcn7>"
-  - date: "2017-11-29"
-    year: 2017
-    title: "Università di Pavia, Pavia"
-    details:
-      - "Digital Gold: Bitcoin as Investment Asset"
-  - date: "2017-11-28"
-    year: 2017
-    title: "Università Bocconi, Milan"
-    details:
-      - "Bitcoin, Blockchain e le nuove forme di finanziamento"
-  - date: "2017-11-14"
-    year: 2017
-    title: "Università IULM, Milan"
-    details:
-      - "Bitcoin: oro digitale e stabilità dei prezzi"
-  - date: "2017-10-14"
-    year: 2017
-    title: "The IFTA 30th Annual Conference, Milan"
-    details:
-      - "Keynote Speech: Bitcoin as Investment Asset"
-      - "event programme (ENG): <https://www.ifta-conferences.org/speakers-page/>"
-  - date: "2017-10"
-    year: 2017
-    title: "-9/10 Blockchain Academy, Munich"
-    details:
-      - "2 days workshop on Bitcoin, Blockchain and DLT"
-  - date: "2017-09-25"
-    year: 2017
-    title: "Forum Banca, Milan"
-    details:
-      - "Unlocking Blockchain and DLT Technologies"
-      - "video (ITA): <https://goo.gl/Vf8HsG>"
-  - date: "2017-09-12"
-    year: 2017
-    title: "Payments International 2017, London"
-    details:
-      - "DLT proof of concepts panel"
-      - "<https://finance.knect365.com/payments-international/>"
-  - date: "2017-09-12"
-    year: 2017
-    title: "Distributed Innovation Summit, London"
-    details:
-      - "Distributed Financial Services in the next 3 to 10 years"
-      - "<https://dis-event.com/>"
-  - date: "2017-07-10"
-    year: 2017
-    title: "Università di Perugia, Perugia"
-    details:
-      - "Bitcoin and the Future of Money"
-  - date: "2017-06-29"
-    year: 2017
-    title: "Blockchain Academy, Munich"
-    details:
-      - "Bitcoin, Blockchain, and Distributed Ledger Technology"
-      - "<https://youtube.com/watch?v=pNfWmGE_dfM&feature=youtu.be>"
-  - date: "2017-05-18"
-    year: 2017
-    title: "The Trading Show, Chicago"
-    details:
-      - "The great blockchain debate – disruption or distraction?"
-      - "<https://goo.gl/dKx59V>"
-  - date: "2017-05-02"
-    year: 2017
-    title: "Polimi Fintech Journey, Politecnico di Milano, Milan"
-    details:
-      - "Moneta Virtuale"
-      - "<https://www.eko.polimi.it/index.php/fintech/fintech>"
-  - date: "2017-04-21"
-    year: 2017
-    title: "Dipartimento di Fisica, Università degli Studi di Milano, Milan"
-    details:
-      - "About Bitcoin and Blockchain: A Cultural Paradigm Shift"
-  - date: "2017-04-14"
-    year: 2017
-    title: "MBA; International University of Monaco, Monaco"
-    details:
-      - "Bitcoin and Blockchain Technology: An Introduction"
-      - "slides (ENG): <https://goo.gl/gxkhJe>"
-  - date: "2017-03-27"
-    year: 2017
-    title: "Università di Milano-Bicocca, Milan"
-    details:
-      - "Bitcoin and Blockchain Technology: An Introduction"
-      - "video (ITA): <https://goo.gl/tbB4Pu>"
-      - "slides (ENG): <https://goo.gl/KKX92T>"
-  - date: "2017-03-23"
-    year: 2017
-    title: "Università della Calabria, Cosenza"
-    details:
-      - "Bitcoin, Hayek Money, and The Future of Money"
-  - date: "2017-03-20"
-    year: 2017
-    title: "IDC Pan European Utilities Executive Summit, Lisbon"
-    details:
-      - "Bitcoin, Blockchain, and Distributed Ledger Technology: Hype or Reality"
-      - "<https://idcutilitiessummit.com/>"
-      - "slides (ENG): <https://goo.gl/ykmUaz>"
-  - date: "2017-03-15"
-    year: 2017
-    title: "Quant Summit Europe, London"
-    details:
-      - "Bitcoin, Blockchain, and the DLT Chimera"
-  - date: "2017-03-13/14"
-    year: 2017
-    title: "Blockchain Business Board, London"
-    details:
-      - "Blockchain Academy"
-      - "event: <https://goo.gl/JoeI5s>"
-  - date: "2016-12-12/13"
-    year: 2016
-    title: "Blockchain Business Board, Politecnico di Milano, Milan"
-    details:
-      - "Blockchain Academy"
-      - "event: <https://goo.gl/bhU6LN>"
-  - date: "2016-12-05"
-    year: 2016
-    title: "Giovani Imprenditori, Unione Industriali Pordenone, Pordenone"
-    details:
-      - "Bitcoin and Blockchain Technology: An Introduction"
-      - "video (ITA): <https://goo.gl/NeIxg3>"
-  - date: "2016-12-05"
-    year: 2016
-    title: "Università Bocconi, Milan"
-    details:
-      - "Bitcoin and Blockchain Technology: An Introduction"
-  - date: "2016-11-23"
-    year: 2016
-    title: "The European House - Ambrosetti, Milan"
-    details:
-      - "About Bitcoin And Blockchain: A Cultural Paradigme Shift"
-      - "video interview (ITA): <https://goo.gl/zInFVA>"
+      - "Bitcoin as Digital Gold (Frontier Issues seminar, with David Yermack)"
+      - "New York"
+      - "[video](https://www.youtube.com/watch?v=VbwUwioZ9F0) · [slides](https://speakerdeck.com/nando1970/bitcoin-as-digital-gold)"
+    lang: en
   - date: "2016-11-22"
     year: 2016
-    title: "Consob, Rome"
+    title: "Consob"
     details:
-      - "About Bitcoin, Blockchain, and the Distributed ledger Chimera"
-      - "slides (ENG): <https://goo.gl/dE5uNM>"
-  - date: "2016-11-14"
-    year: 2016
-    title: "Università della Calabria, Cosenza"
-    details:
-      - "Hayek Money: The Cryptocurrency Price Stability Solution"
-  - date: "2016-11-11"
-    year: 2016
-    title: "Blockchain Summit, London"
-    details:
-      - "<https://www.b3chain.com/b3-blockchain-summit-london/>"
-  - date: "2016-11-10"
-    year: 2016
-    title: "International Chamber of Commerce, Rome"
-    details:
-      - "<https://www.iccitalia.org/atti_convegno_blockchain.htm>"
-      - "slides (ENG): <https://goo.gl/Oh0HdC>"
-  - date: "2016-11-07"
-    year: 2016
-    title: "\"Blockchain : Money\" conference, London"
-    details:
-      - "<<https://conference.bitcoin.com/>"
-      - "roundtable: Banks And Blockchain Technology"
-      - "interview: <https://goo.gl/C2SkhY>"
-  - date: "2016-11-01"
-    year: 2016
-    title: "Post-Trade Distributed Ledger Working Group, London"
-    details:
-      - "DLT Applied to Securities Markets"
-      - "slides (ENG): <https://goo.gl/q6232X>"
-  - date: "2016-10-24"
-    year: 2016
-    title: "EFMA Blockchain Conference, Barcelona"
-    details:
-      - "<https://www.efma.com/event/overview/475>"
-      - "slides (ENG): <https://goo.gl/Xc1UMP>"
-  - date: "2016-10-17"
-    year: 2016
-    title: "Scuola di Economia e Statistica, Università di Milano-Bicocca, Milan"
-    details:
-      - "Opening of the 2016-2015 Academic Year"
-      - "slides (ENG): <https://goo.gl/hC2xTS>"
-  - date: "2016-10-03"
-    year: 2016
-    title: "Blockchain for Finance Conference, London"
-    details:
-      - "Bitcoin, Blockchain, and the DLT Chimera"
-      - "<https://blockchain.fintecnet.com/>"
-      - "slides (ENG): <https://goo.gl/1ETHLK>"
-      - "video: <https://goo.gl/40mim9>"
-  - date: "2016-09-22"
-    year: 2016
-    title: "Digital Payment Revolution, Rome"
-    details:
-      - "Rivoluzione Blockchain, l’Internet of banking: una Uber per le transazioni finanziarie?"
-      - "<https://goo.gl/kKWy1T>"
-      - "interview (ITA): <https://goo.gl/edF3BX>"
-  - date: "2016-09-08"
-    year: 2016
-    title: "2nd International Workshop P2P Financial Systems, London"
-    details:
-      - "Hayek Money: The Cryptocurrency Price Stability Solution"
-      - "slides (ENG): <https://goo.gl/iKoEgC>"
-  - date: "2016-07-07"
-    year: 2016
-    title: "European Banking Federation, Bruxelles"
-    details:
-      - "About Bitcoin And Blockchain: A Cultural Paradigme Shift"
-      - "slides (ENG): <https://goo.gl/4uui6b>"
+      - "About Bitcoin, Blockchain, and the Distributed Ledger Chimera"
+      - "Rome"
+      - "[slides](https://speakerdeck.com/nando1970/about-bitcoin-blockchain-and-the-dlt-chimera)"
+    lang: en
   - date: "2016-06-21"
     year: 2016
-    title: "Bank of Italy Workshop on Virtual Currencies, Rome"
+    title: "Banca d'Italia, Workshop on Virtual Currencies"
     details:
-      - "About Bitcoin And Blockchain: A Cultural Paradigme Shift"
-      - "slides (ENG): <https://goo.gl/6QSzY4>"
-  - date: "2016-06-07"
-    year: 2016
-    title: "Payments Conference and Exhibition EBAday, Milan"
-    details:
-      - "How mainstream can Blockchain be?"
-      - "<https://goo.gl/P9xsGN>"
-  - date: "2016-05-12"
-    year: 2016
-    title: "Deloitte Blockchain Conference, Milan"
-    details:
-      - "roundtable: Will Blockchain radically transform payments ecosystem?"
-      - "<https://goo.gl/GtH58L>"
-  - date: "2016-03-10"
-    year: 2016
-    title: "Università Bocconi, Milan"
-    details:
-      - "Bitcoin ed altri racconti"
-      - "roundtable"
-  - date: "2016-02-25"
-    year: 2016
-    title: "FonDir executive education program, Milan"
-    details:
-      - "Luci ed ombre della criptofinanza"
-      - "slides (ENG): <https://goo.gl/Ctc0ee>"
-  - date: "2015-11-30"
-    year: 2015
-    title: "QuantLib User Meeting, Düsseldorf"
-    details:
-      - "The abcd of Forward Rate Bootstrapping"
-      - "slides (ENG): <https://goo.gl/ekqNpc>"
-  - date: "2015-10-08"
-    year: 2015
-    title: "Digital Currency Summit, Barcelona"
-    details:
-      - "A Cryptocurrency Price Stability Solution"
-      - "slides (ENG): <https://goo.gl/cgSleH>"
-  - date: "2015-06-16"
-    year: 2015
-    title: "Università degli Studi, Milan"
-    details:
-      - "Blockchain Revolution and the Future of Money"
-      - "slides (ENG): <https://goo.gl/9cBi3j>"
-  - date: "2015-05-20"
-    year: 2015
-    title: "Labex Seminar Series, ESSEC Business School, Paris"
-    details:
-      - "The Cryptocurrency Frontier in Commodity Monetary Standard"
-      - "slides (ENG): <https://goo.gl/r14bzR>"
-      - "video: <https://goo.gl/hYsQmX>"
-  - date: "2015-05-19"
-    year: 2015
-    title: "ESSEC Business School, Cergy-Pontoise, Paris"
-    details:
-      - "Blockchain Revolution and the Future of Money"
-      - "slides (ENG): <https://goo.gl/G12CpW>"
-  - date: "2015-03-13"
-    year: 2015
-    title: "Camplus, Milan"
-    details:
-      - "Distributed Public Ledger Revolution & the Future of Money"
-      - "slides (ENG): <https://goo.gl/HsL7XV>"
-  - date: "2015-03-05"
-    year: 2015
-    title: "InsideBitcoins, Berlin"
-    details:
-      - "The Future of Money: Hayek Money, Seigniorage Shares, Reserve Bank, and Proof-of-Payment"
-      - "slides (ENG): <https://goo.gl/BhXSEF>"
-      - "video (ENG): <https://youtu.be/ndT59662sog?t=12m8s>"
-  - date: "2014-12-09"
-    year: 2014
-    title: "RiskMinds International Conference, Amsterdam"
-    details:
-      - "Bitcoin and Cryptocurrencies: Elastic Money Supply"
-      - "slides (ENG): <https://goo.gl/aEb8ik>"
-  - date: "2014-12-05"
-    year: 2014
-    title: "QuantLib User Meeting, Düsseldorf"
-    details:
-      - "EONIA Jumps and Proper Euribor Forwarding"
-      - "slides (ENG): <https://goo.gl/mTS95O>"
-  - date: "2014-12-04"
-    year: 2014
-    title: "Keynote speech, QuantLib User Meeting, Düsseldorf"
-    details:
-      - "Open Source Finance: QuantLib, OpenGamma, and Bitcoin"
-      - "slides (ENG): <https://goo.gl/tllC3V>"
-  - date: "2014-09-30"
-    year: 2014
-    title: "Hogan Lovells, Milan/Rome"
-    details:
-      - "Distributed Public Ledger Revolution & the Future of Money"
-      - "slides (ENG): <https://goo.gl/LnYm9U>"
-  - date: "2014-07-03"
-    year: 2014
-    title: "Bitcoin Finance 2014, Dublin"
-    details:
-      - "The Governance and Economics of Bitcoin"
-      - "roundtable"
-  - date: "2014-07-01"
-    year: 2014
-    title: "Università di Milano-Bicocca, Milan"
-    details:
-      - "Bitcoin + Hayek Money: blockchain revolution & price stability"
-      - "slides (ENG): <https://goo.gl/W3CB8c>"
+      - "About Bitcoin and Blockchain: A Cultural Paradigm Shift"
+      - "Rome"
+      - "[slides](https://speakerdeck.com/nando1970/about-bitcoin-and-blockchain-a-cultural-paradigm-shift)"
+    lang: en
   - date: "2014-06-11"
     year: 2014
-    title: "Montecitorio Italian Parliament Lower Chamber, Rome"
+    title: "Camera dei Deputati (Montecitorio)"
     details:
       - "Bitcoin + Hayek Money: blockchain revolution & price stability"
-      - "slides (ENG): <https://goo.gl/66rWb6>"
-      - "video (ITA): <https://goo.gl/3mEjJ9>"
+      - "Rome"
+      - "[slides](https://speakerdeck.com/nando1970/bitcoin-plus-hayek-money-blockchain-revolution-and-price-stability)"
+    lang: en
   - date: "2014-06-09"
     year: 2014
-    title: "Bank of Italy, Rome"
+    title: "Banca d'Italia"
     details:
       - "Hayek Money: the Cryptocurrency Price Stability Solution"
-      - "slides (ENG): <https://goo.gl/UY4GFl>"
+      - "Rome"
+      - "[slides](https://speakerdeck.com/nando1970/hayek-money-the-cryptocurrency-price-stability-solution)"
+    lang: en

@@ -1,6 +1,6 @@
 ---
 title: "Media"
-description: "Collection of assorted media material by Ferdinando Ametrano"
+description: "A selection of media coverage of Ferdinando Ametrano"
 url: /media/
 layout: media
 ---

@@ -217,3 +217,5 @@ Concerti non ufficiali:
 ---
 
 Grazie ad Alberto, Giorgio, Maria Claudia, Paolo, Pierluca, Raffaele, Rosa, Stefano, Walter
+
+Le immagini di questa pagina appartengono ai rispettivi autori.

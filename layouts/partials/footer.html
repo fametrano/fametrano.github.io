@@ -2,7 +2,7 @@
   <div class="wrap footer-grid">
     <div>
       <p class="disclaimer">{{ i18n "disclaimer" }}</p>
-      <p class="copy">{{ i18n "copyright" }}</p>
+      <p class="copy">{{ if eq .Section "bruce" }}{{ i18n "copyrightBruce" }}{{ else }}{{ i18n "copyright" }}{{ end }}</p>
     </div>
     <ul class="socials" aria-label="Social">
       {{- range partial "socials.html" . }}

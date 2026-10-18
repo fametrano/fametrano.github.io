@@ -1,13 +1,14 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-<meta name="generator" content="HTML Tidy, see https://www.w3.org">
-<title>My City Of Ruins: lyrics</title>
-</head>
-<body>
-<h3>My City Of Ruins</h3>
+---
+title: "My City Of Ruins"
+subtitle: "Lyrics"
+description: "Lyrics of My City Of Ruins, played at the Asbury Park holiday show in December 2000."
+aliases:
+  - /bruce/mcorlyrics.html
+---
 
-<pre>
+Played at the [Asbury Park holiday show](/bruce/asbury/).
+
+<pre class="lyrics" lang="en">
 There's a blood red circle
 on the cold dark ground
 and the rain is falling down
@@ -60,6 +61,3 @@ Come on rise up!
 Come on rise up!
 Rise up
 </pre>
-</body>
-</html>
-

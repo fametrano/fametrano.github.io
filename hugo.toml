@@ -16,8 +16,6 @@ disableKinds = ["taxonomy", "term"]
   endLevel = 3
 
 [security]
-  # The legacy page content/bruce/foreverfriends.html is raw HTML.
-  allowContent = ['! ^text/org$']
   [security.exec]
     allow = ['^$']
   [security.funcs]

@@ -19,14 +19,14 @@
       <h3>{{ index .title $lang }}</h3>
       <p>{{ index .text $lang }}</p>
       {{- if .image }}{{ partial "img.html" (dict "src" .image "alt" (index .alt $lang) "widths" (slice 480 800) "sizes" "28rem") }}{{ end }}
-      <p><a href="{{ .archive }}">{{ i18n "archive" }} →</a></p>
+      <p><a href="{{ index .url $lang }}">{{ i18n "readStory" }} →</a>{{ with .badge }}{{ with index . $lang }}{{ partial "badge.html" . }}{{ end }}{{ end }}</p>
     </div>
   </article>
   {{- end }}
   <h2>{{ .Params.moreTitle }}</h2>
   <ul>
     {{- range hugo.Data.bruce.more }}
-    <li><a href="{{ .url }}">{{ index .title $lang }}</a></li>
+    <li><a href="{{ index .url $lang }}">{{ index .title $lang }}</a>{{ with .badge }}{{ with index . $lang }}{{ partial "badge.html" . }}{{ end }}{{ end }}</li>
     {{- end }}
   </ul>
 </div>

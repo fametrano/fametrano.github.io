@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article>
+<div class="page-head"><div class="narrow">
+  <p class="crumbs"><a href="{{ .Parent.RelPermalink }}">← {{ .Parent.Title }}</a></p>
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.subtitle }}<p class="lead">{{ . }}</p>{{ end }}
+  {{ with .Params.dateline }}<p class="meta">{{ . }}</p>{{ end }}
+</div></div>
+<div class="narrow prose bruce-story">
+  {{ .Content }}
+  <p class="back"><a href="{{ .Parent.RelPermalink }}">← {{ .Parent.Title }}</a></p>
+</div>
+</article>
+{{ end }}

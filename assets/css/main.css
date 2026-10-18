@@ -253,3 +253,23 @@ section.alt { background: var(--bg-alt); }
 .prose .rows, .prose .course-list, .prose .filter { padding-left: 0; }
 figure { margin: 1.5rem 0; }
 figcaption { color: var(--muted); font-size: .85rem; margin-top: .4rem; }
+
+/* Bruce story pages: images from static/bruce/ */
+.bruce-story::after { content: ""; display: block; clear: both; }
+.bruce-story h2, .bruce-story hr, .bruce-story .back { clear: both; }
+.bfig { margin: 1rem auto; max-width: min(var(--w), 100%); text-align: center; }
+.bfig img, .bgallery img { display: block; width: 100%; height: auto; }
+.bfig.left, .bfig.right { width: min(var(--w), 30%); max-width: 14rem; margin-top: .35rem; }
+.bfig.left { float: left; margin-right: 1.5rem; margin-bottom: 1rem; }
+.bfig.right { float: right; margin-left: 1.5rem; margin-bottom: 1rem; }
+@media (max-width: 40rem) { .bfig.left, .bfig.right { float: none; width: auto; margin-inline: auto; } }
+.bgallery { clear: both; list-style: none; padding: 0 !important; margin: 1.5rem 0; display: grid; gap: .75rem; grid-template-columns: repeat(auto-fill, minmax(min(var(--min), 45%), 1fr)); }
+.bgallery li { margin: 0; background: var(--bg-alt); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+.bgallery a { display: block; }
+.bgallery img { aspect-ratio: 4 / 3; object-fit: var(--fit); border-radius: 0; }
+.bruce-story audio { display: block; width: 100%; margin: 1rem 0; }
+.bruce-story blockquote.letter { color: inherit; background: var(--surface); border-radius: 0 12px 12px 0; padding: .5rem 1.2rem; }
+.bruce-story pre.lyrics { font-family: var(--font); font-size: 1rem; background: transparent; padding: 0; white-space: pre-wrap; }
+.bruce-story .setlist { columns: 14rem; }
+.bruce-story .setlist li { break-inside: avoid; }
+.bruce-quote { font-style: italic; border-left-color: var(--accent); }

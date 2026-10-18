@@ -1,0 +1,3 @@
+{{- /* Old root-level URL of a page that now lives under /it/. Same output as a Hugo alias. */ -}}
+{{- $to := .Params.target | absLangURL -}}
+<!doctype html><html lang="it"><head><title>{{ $to }}</title><link rel="canonical" href="{{ $to }}"><meta charset="utf-8"><meta http-equiv="refresh" content="0; url={{ $to }}"><meta name="robots" content="noindex"></head></html>

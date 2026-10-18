@@ -1,0 +1,8 @@
+{{- /* One image from static/bruce/. Args: src, alt, large, caption, side (left or right). */ -}}
+{{- $src := .Get "src" -}}
+{{- $large := .Get "large" | default $src -}}
+{{- $cfg := imageConfig (printf "static/bruce/%s" $src) -}}
+<figure class="bfig{{ with .Get "side" }} {{ . }}{{ end }}" style="--w:{{ $cfg.Width }}px">
+  <a href="/bruce/{{ replace $large " " "%20" }}"><img src="/bruce/{{ replace $src " " "%20" }}" width="{{ $cfg.Width }}" height="{{ $cfg.Height }}" alt="{{ .Get "alt" }}" loading="lazy" decoding="async"></a>
+  {{- with .Get "caption" }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+</figure>

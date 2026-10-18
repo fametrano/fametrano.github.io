@@ -1,0 +1,12 @@
+{{- /* Grid of images from static/bruce/, one per line: "path | alt | large path (optional)". Args: min (cell width in rem), fit (contain or cover). */ -}}
+<ul class="bgallery" style="--min:{{ .Get "min" | default 9 }}rem;--fit:{{ .Get "fit" | default "contain" }}">
+{{- range split (trim .Inner "\n ") "\n" }}
+{{- $f := apply (split . "|") "trim" "." " " }}
+{{- if gt (len $f) 1 }}
+{{- $src := index $f 0 }}
+{{- $large := cond (gt (len $f) 2) (index $f 2) $src }}
+{{- $cfg := imageConfig (printf "static/bruce/%s" $src) }}
+<li><a href="/bruce/{{ replace $large " " "%20" }}"><img src="/bruce/{{ replace $src " " "%20" }}" width="{{ $cfg.Width }}" height="{{ $cfg.Height }}" alt="{{ index $f 1 }}" loading="lazy" decoding="async"></a></li>
+{{- end }}
+{{- end }}
+</ul>

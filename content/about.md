@@ -1,52 +1,19 @@
 ---
 title: "About and press kit"
-description: "Bios in three lengths, headshots, speaking topics and booking information for Ferdinando Ametrano."
+description: "Bio link, headshots, speaking topics and booking information for Ferdinando Ametrano."
 layout: about
+aliases:
+  - /cv/shortbio-bitcoin.txt
+  - /cv/shortbio-bitcoin-updated.txt
+  - /cv/shortbio-finance.txt
+  - /cv/shortbio-finance-it.txt
 photoAlt: "Portrait of Ferdinando Ametrano"
 ---
 Name to use: **Ferdinando Ametrano**. Affiliation line: CheckSig co-founder and CEO; founder and Scientific Director, Digital Gold Institute and Crypto Asset Lab (Department of Business and Law, University of Milano-Bicocca); adjunct professor, University of Milano-Bicocca.
 
-## Short bio
+## Bio
 
-<div class="bio" id="bio-short">
-
-Ferdinando Ametrano is co-founder and CEO of [CheckSig](https://checksig.com), an Italian regulated bitcoin custodian, and founder and Scientific Director of [Digital Gold Institute](https://dgi.io) and of [Crypto Asset Lab](https://cryptoassetlab.org) (Department of Business and Law, University of Milano-Bicocca). A former physicist with more than twenty years in finance, he teaches Bitcoin & Crypto-Assets as adjunct professor.
-
-</div>
-
-## Medium bio
-
-<div class="bio" id="bio-medium">
-
-Former physicist, after more than twenty years in investment banking, asset management and quantitative finance, Ferdinando Ametrano discovered bitcoin in 2014. Since then it has been his main professional and academic interest.
-
-He is co-founder and CEO of [CheckSig](https://checksig.com) (bitcoin and crypto solutions for private and institutional investors), founder and scientific director of [Digital Gold Institute](https://dgi.io) and of [Crypto Asset Lab](https://cryptoassetlab.org) (Department of Business and Law, University of Milano-Bicocca), and adjunct professor of Bitcoin & Crypto-Assets at Milano-Bicocca, the University of Milan and ESSEC Business School. He maintains [btclib](https://btclib.org), a bitcoin Python library, and founded the [QuantLib](https://www.quantlib.org) project.
-
-His research focuses on price stability and proposes automated, non-discretionary elastic monetary policy for a new generation of cryptocurrencies ([Hayek Money](https://ssrn.com/abstract=2425270)).
-
-</div>
-
-## Long bio
-
-<div class="bio" id="bio-long">
-
-Former physicist, after more than twenty years in investment banking, asset management, and quantitative finance, Ferdinando Ametrano discovered bitcoin in 2014: since then bitcoin has been his major professional and academic interest.
-
-Co-founder and CEO of [CheckSig](https://checksig.com) (bitcoin and crypto solutions for private and institutional investors), founder and scientific director of the [Digital Gold Institute](https://dgi.io) (R&D, consultancy, and training about bitcoin and blockchain technology), Ferdinando is also founder and scientific director of the [Crypto Asset Lab](https://cryptoassetlab.org) (Department of Business and Law, University of Milano-Bicocca), where he teaches Bitcoin & Crypto-Assets.
-
-Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset) in Intesa Sanpaolo bank, he has been Planning Committee member of the [Scaling Bitcoin](https://scalingbitcoin.org/) conference, is chair of the [CAL conference](https://web.archive.org/web/20250811015742/https://cryptoassetlab.org/calconf/) co-organized with the European Commission, is an occasional contributor to [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin), and maintains [btclib](https://btclib.org).
-
-Fintech innovator, technologist, and [open source developer](https://github.com/fametrano), he is author of [scientific publications](/research/) and contributor to multiple [media](/media/) outlets. Speaker, panelist, lecturer, and instructor, he is UN/CEFACT expert and has been invited to [events](/events/) about bitcoin at the [United Nations](https://youtube.com/watch?v=VbwUwioZ9F0&t=330s&index=10&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ), the [Italian Parliament](https://youtube.com/watch?v=vLM3FUuCFLY), the Italian office of the [European Parliament](https://www.youtube.com/watch?v=QLC_qGeZBR8), central banks, universities, conferences, workshops, and [TEDx](https://www.youtube.com/watch?v=3XRF9erlMmU).
-
-His academic research focuses on price stability, advocating automated non-discretionary elastic monetary policy for a new generation of cryptocurrencies ([Hayek Money](https://ssrn.com/abstract=2425270)).
-
-He has also been founder and coadministrator of [QuantLib](https://www.quantlib.org), a comprehensive free/open-source software framework for quantitative finance. Former Interest Rate Derivatives adjunct professor at the University of Milano-Bicocca, he has [relevant publications](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=510135) on the subject and has headed trading, quantitative, and risk-management teams in Banca IMI (Intesa Sanpaolo), Banca Caboto and Monte Paschi Asset Management; he has also been cofounder and managing partner of RiskMap (now part of Confluence Technologies).
-
-Catholic, Bruce Springsteen fan, husband and father of three.
-
-</div>
-
-<!-- TODO: confirm he is happy to keep "husband and father of three" in the press bio; the legacy page has a longer, humorous paragraph. -->
+The maintained bio is on the [CheckSig profile](https://www.checksig.com/eu/en/ferdinando-ametrano/).
 
 ## Speaking topics
 

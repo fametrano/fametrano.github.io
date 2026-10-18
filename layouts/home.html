@@ -52,11 +52,11 @@
     <div class="section-head"><h2>{{ i18n "latest" }}</h2></div>
     <ul class="latest">
       {{- with index (sort hugo.Data.events.items "date" "desc") 0 }}
-      <li><span class="tag">{{ i18n "latestEvent" }} · {{ .date }}</span><strong>{{ .title | markdownify }}{{ with .lang }}{{ partial "badge.html" . }}{{ end }}</strong>|<strong>{{ .title | markdownify }}{{ with .lang }}{{ partial "badge.html" . }}{{ end }}</strong>
+      <li><span class="tag">{{ i18n "latestEvent" }} · {{ .date }}</span><strong>{{ .title | markdownify }}{{ with .lang }}{{ partial "badge.html" . }}{{ end }}</strong>
         {{- with .details }}<span class="muted">{{ index . 0 | markdownify }}</span>{{ end }}</li>
       {{- end }}
       {{- with index (sort hugo.Data.media.items "date" "desc") 0 }}
-      <li><span class="tag">{{ i18n "latestMedia" }} · {{ .date }}</span><strong>{{ .title | markdownify }}{{ with .lang }}{{ partial "badge.html" . }}{{ end }}</strong>|<strong>{{ .title | markdownify }}{{ with .lang }}{{ partial "badge.html" . }}{{ end }}</strong>
+      <li><span class="tag">{{ i18n "latestMedia" }} · {{ .date }}</span><strong>{{ .title | markdownify }}{{ with .lang }}{{ partial "badge.html" . }}{{ end }}</strong>
         {{- with .details }}<span class="muted">{{ index . 0 | markdownify }}</span>{{ end }}</li>
       {{- end }}
       {{- with index (where site.RegularPages "Type" "post").ByDate.Reverse 0 }}

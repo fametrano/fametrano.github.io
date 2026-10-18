@@ -126,3 +126,5 @@ The artwork, plus a letter which should go to everyone getting the set, was publ
 </ul>
 
 Thanks for supporting the Parkinson's Disease Foundation ... and the Bruce Springsteen tape trading community!!!
+
+The images on this page belong to their respective authors.

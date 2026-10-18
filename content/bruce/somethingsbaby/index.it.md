@@ -11,3 +11,5 @@ Il secondo volume della raccolta, quello che l'autore offre a Patti Scialfa in [
 {{< fig src="foreverfriends/large/SomeThingsBabyback.jpg" alt="Retro di Some Things Baby, con l'elenco delle canzoni" >}}
 
 Il primo volume è [I'm A Big Girl Now](/it/bruce/imabiggirlnow/).
+
+Le immagini di questa pagina appartengono ai rispettivi autori.

@@ -13,3 +13,5 @@ The second volume of the fan compilation, the one the author offered to Patti Sc
 {{< fig src="foreverfriends/large/SomeThingsBabyback.jpg" alt="Back cover of Some Things Baby, with the song list" >}}
 
 The first volume is [I'm A Big Girl Now](/bruce/imabiggirlnow/).
+
+The images on this page belong to their respective authors.

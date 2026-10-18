@@ -11,3 +11,5 @@ La raccolta non ufficiale, senza scopo di lucro, di outtake, apparizioni televis
 {{< fig src="foreverfriends/large/ImABigGirlNowback.jpg" alt="Retro di I'm A Big Girl Now, con l'elenco delle canzoni" >}}
 
 Il secondo volume è [Some Things Baby](/it/bruce/somethingsbaby/).
+
+Le immagini di questa pagina appartengono ai rispettivi autori.

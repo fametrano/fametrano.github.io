@@ -142,3 +142,5 @@ Su My City Of Ruins, Chiara mi chiede per la prima volta quando andiamo a casa. 
 Usciamo lentamente, c'è il tempo per salutare tutti, un panino. Ci avviamo alla macchina. Mia figlia domanda ancora: "papà, perché non ha fatto 'hiding on the backstreets'?". Un attimo di incertezza, e poi rispondo: "perché l'ha già cantata ieri per te." - "Ah, ho capito". Più avanti, mentre si lamenta dei piedi nudi nei sandaletti, bagnati nelle gigantesche pozzanghere, mi dice: "Sei proprio un bel papà. Voglio che tu rimanga a lungo con me, non voglio perderti."
 
 Il giorno dopo accompagno Leo all'aeroporto. La sera torniamo a Cernobbio: Kelly mi ha segnalato che il libro che avevo lasciato in reception non è stato consegnato, mi chiede di prenderlo e spedirlo. Gli Springsteen sono già partiti, ma nonostante questo stavolta all'ingresso non ci fanno passare: entro solo io e Chiara. Alla piscina Chiara domanda: "Bruce è tornato in America?" - "Sì" - "È partito in aereo con Leo, vero?". Sorrido... we swore: forever friends.
+
+Le immagini di questa pagina appartengono ai rispettivi autori.

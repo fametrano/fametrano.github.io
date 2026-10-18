@@ -13,3 +13,5 @@ The not-for-profit fan compilation of outtakes, TV appearances and rare b-sides 
 {{< fig src="foreverfriends/large/ImABigGirlNowback.jpg" alt="Back cover of I'm A Big Girl Now, with the song list" >}}
 
 The second volume is [Some Things Baby](/bruce/somethingsbaby/).
+
+The images on this page belong to their respective authors.

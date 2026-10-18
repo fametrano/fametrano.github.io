@@ -5,6 +5,7 @@
 {{- $desc := "" }}
 {{- with .Description }}{{ $desc = . }}
 {{- else }}{{ if and .IsPage (not .IsHome) }}{{ $desc = .Summary | plainify | htmlUnescape | truncate 160 }}{{ end }}{{ end }}
+{{- if and .Params.course .Params.university .Params.term }}{{ $desc = printf "%s, %s, %s: slides, code and readings." .Params.course .Params.university .Params.term }}{{ end }}
 {{- if not $desc }}{{ $desc = site.Params.description }}{{ end }}
 <title>{{ $title }}</title>
 <meta name="description" content="{{ $desc }}">

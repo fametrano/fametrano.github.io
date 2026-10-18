@@ -1,5 +1,5 @@
 ---
-title: "Privacy"
+title: "Informativa privacy"
 description: "Cosa fa questo sito con i dati di visita."
 ---
 Questo sito non imposta cookie propri.

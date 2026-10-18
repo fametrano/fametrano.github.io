@@ -13,6 +13,6 @@ The course has a practitioner approach: it presents current market best practice
 * [October 2021 - January 2022](/ird202110/)
 * [Fall 2019](/ird201910/)
 
-Earlier editions (Fall 2013 to Fall 2018) have no page. Ferdinando's [papers on the subject](https://ssrn.com/author=510135) and the [QuantLib](https://www.quantlib.org/) project are the related reading.
+Earlier editions (Fall 2013 to Fall 2018) have no page. Ferdinando's [papers on the subject](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=510135) and the [QuantLib](https://www.quantlib.org/) project are the related reading.
 
 See also: [all courses](/teaching/).

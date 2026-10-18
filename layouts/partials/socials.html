@@ -10,5 +10,5 @@
 {{- with $p.nostr }}{{ $l = $l | append (dict "name" "Nostr" "url" (printf "https://njump.me/%s" .)) }}{{ end -}}
 {{- with $p.orcid }}{{ $l = $l | append (dict "name" "ORCID" "url" (printf "https://orcid.org/%s" .)) }}{{ end -}}
 {{- with $p.scholar }}{{ $l = $l | append (dict "name" "Google Scholar" "url" (printf "https://scholar.google.com/citations?user=%s" .)) }}{{ end -}}
-{{- with $p.ssrn }}{{ $l = $l | append (dict "name" "SSRN" "url" (printf "https://ssrn.com/author=%s" .)) }}{{ end -}}
+{{- with $p.ssrn }}{{ $l = $l | append (dict "name" "SSRN" "url" (printf "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=%s" .)) }}{{ end -}}
 {{- return $l -}}

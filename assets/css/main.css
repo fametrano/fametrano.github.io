@@ -273,3 +273,8 @@ figcaption { color: var(--muted); font-size: .85rem; margin-top: .4rem; }
 .bruce-story .setlist { columns: 14rem; }
 .bruce-story .setlist li { break-inside: avoid; }
 .bruce-quote { font-style: italic; border-left-color: var(--accent); }
+.paper-meta { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; margin-top: .4rem !important; }
+.paper-meta small { font: 500 .8rem var(--mono); }
+.list-title { font: 800 1.6rem var(--font); margin: 3rem 0 1.25rem; }
+.subhead { font: 700 1.1rem var(--mono); color: var(--muted); margin: 0 0 .75rem; }
+.row .badge { margin-left: .6rem; }

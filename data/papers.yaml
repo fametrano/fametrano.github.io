@@ -1,54 +1,182 @@
-# Converted from the Jekyll _pages/papers.md.
+# Confirmed by the owner on 2026-10-18: all entries are his, including the 1995-96 physics papers,
+# the 2024 patents, QuantLib as software and the Rubbettino chapter. Citations from Google Scholar, 2026-10-18.
 papers:
-  - date: "2020-01"
+  - date: "2024-02"
+    year: 2024
+    title: "Device, system and method for managing cryptocurrency transactions"
+    authors: "Ametrano, Ferdinando M. and Mazzocchi, Paolo"
+    venue: "US Patent Applications 18/266,388 (US20240046260A1) and 18/266,408 (US20240062205A1)"
+    type: patent
+    url: "https://patents.google.com/patent/US20240046260A1/en"
+    links:
+      - { label: "US20240046260A1", url: "https://patents.google.com/patent/US20240046260A1/en" }
+      - { label: "US20240062205A1", url: "https://patents.google.com/patent/US20240062205A1/en" }
+    note: "Two applications, published 2024-02-08 and 2024-02-22"
+  - date: "2023-11"
+    year: 2023
+    title: "Hayek, l'oro digitale Bitcoin e l'euro digitale di BCE"
+    authors: "Ametrano, Ferdinando M."
+    venue: "Digital Italy 2023: Costruire la Nazione digitale (ed. Arianna Perri), Maggioli Editore, chapter 21. ISBN 9788891667601"
+    type: chapter
+    url: "https://www.maggiolieditore.it/digital-italy-2023.html"
+    links:
+      - { label: "Maggioli", url: "https://www.maggiolieditore.it/digital-italy-2023.html" }
+      - { label: "PDF", url: "/docs/DigitalItaly2023.pdf" }
+  - date: "2022-02"
+    year: 2022
+    title: "Exploring the dependencies among main cryptocurrency log-returns: A hidden Markov model"
+    authors: "Pennoni, Fulvia and Bartolucci, Francesco and Forte, Gianfranco and Ametrano, Ferdinando"
+    venue: "Economic Notes 51(1), e12193"
+    type: journal
+    url: "https://doi.org/10.1111/ecno.12193"
+    links:
+      - { label: "DOI", url: "https://doi.org/10.1111/ecno.12193" }
+      - { label: "CAL 2020 version", url: "https://boa.unimib.it/handle/10281/319989" }
+    note: "Earlier version presented at the 2nd Crypto Asset Lab Conference, 2020"
+    citations: 27
+    featured: true
+  - date: "2020-02"
     year: 2020
     title: "Bitcoin: oro digitale per nuovi standard monetari"
     authors: "Ametrano, Ferdinando M."
-    note: "published in \"Dal sesterzio al bitcoin\" Rubettino Editore (edited by Miglietta, Angelo and Mingardi, Alberto)"
-  - date: "2016-09"
-    year: 2016
-    title: "Response to [ESMA Consultation](https://www.esma.europa.eu/press-news/esma-news/esma-assesses-usefulness-distributed-ledger-technologies) on _The Distributed Ledger Technology Applied to Securities Markets_"
-    authors: "Ametrano, Ferdinando M. and Barucci, Emilio and Marazzina, Daniele and Zanero, Stefano"
-    url: "https://ssrn.com/abstract=3265776"
-  - date: "2016-08"
-    year: 2016
-    title: "Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"
-    authors: "Ametrano, Ferdinando M."
-    url: "https://ssrn.com/abstract=2832249"
+    venue: "Dal sesterzio al bitcoin: Vecchie e nuove dimensioni del denaro (eds. Angelo Miglietta and Alberto Mingardi), Rubbettino Editore. ISBN 9788849856804"
+    type: chapter
+    url: "https://www.macrolibrarsi.it/libri/__dal-sesterzio-al-bitcoin.php"
+    links:
+      - { label: "Book", url: "https://www.macrolibrarsi.it/libri/__dal-sesterzio-al-bitcoin.php" }
   - date: "2016-12"
     year: 2016
     title: "Advanced EONIA Curve Calibration"
     authors: "Ametrano, Ferdinando M. and Bertocchi, Nicholas and Mazzocchi, Paolo"
+    venue: "SSRN working paper 2881445"
+    type: working paper
     url: "https://ssrn.com/abstract=2881445"
+    links:
+      - { label: "SSRN", url: "https://ssrn.com/abstract=2881445" }
+  - date: "2016-09"
+    year: 2016
+    title: "Response to ESMA/2016/773: The Distributed Ledger Technology Applied to Securities Markets"
+    authors: "Ametrano, Ferdinando M. and Barucci, Emilio and Marazzina, Daniele and Zanero, Stefano"
+    venue: "Response to ESMA consultation; SSRN 3265776"
+    type: report
+    url: "https://ssrn.com/abstract=3265776"
+    links:
+      - { label: "SSRN", url: "https://ssrn.com/abstract=3265776" }
+    citations: 4
+  - date: "2016-08"
+    year: 2016
+    title: "Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"
+    authors: "Ametrano, Ferdinando M."
+    venue: "SSRN working paper 2832249"
+    type: working paper
+    url: "https://ssrn.com/abstract=2832249"
+    links:
+      - { label: "SSRN", url: "https://ssrn.com/abstract=2832249" }
+    citations: 11
+    featured: true
   - date: "2015-11"
     year: 2015
     title: "The ABCD of Interest Rate Basis Spreads"
     authors: "Ametrano, Ferdinando M. and Ballabio, Luigi and Mazzocchi, Paolo"
+    venue: "SSRN working paper 2696743"
+    type: working paper
     url: "https://ssrn.com/abstract=2696743"
+    links:
+      - { label: "SSRN", url: "https://ssrn.com/abstract=2696743" }
+  - date: "2015"
+    year: 2015
+    title: "QuantLib: A free/open-source library for quantitative finance"
+    authors: "Ametrano, Ferdinando and Ballabio, Luigi and Bianchetti, Marco and others"
+    venue: "Software, quantlib.org"
+    type: software
+    url: "https://www.quantlib.org"
+    links:
+      - { label: "QuantLib", url: "https://www.quantlib.org" }
+    citations: 25
   - date: "2014-10"
     year: 2014
-    title: "The Cryptocurrency Frontier in Commodity Monetary Standard"
+    title: "The Cryptocurrency Frontier in Monetary Engineering"
     authors: "Ametrano, Ferdinando M."
+    venue: "SSRN working paper 2508296"
+    type: working paper
     url: "https://ssrn.com/abstract=2508296"
+    links:
+      - { label: "SSRN", url: "https://ssrn.com/abstract=2508296" }
+    note: "First posted 2014-10 as \"The Cryptocurrency Frontier in Commodity Monetary Standard\"; revised 2020-10"
+    featured: true
   - date: "2014-05"
     year: 2014
     title: "Hayek Money: The Cryptocurrency Price Stability Solution"
     authors: "Ametrano, Ferdinando M."
+    venue: "SSRN working paper 2425270"
+    type: working paper
     url: "https://ssrn.com/abstract=2425270"
+    links:
+      - { label: "SSRN", url: "https://ssrn.com/abstract=2425270" }
+    note: "Posted 2014-04-17, revised 2016-08-23"
+    citations: 155
+    featured: true
   - date: "2013-02"
     year: 2013
     title: "Everything You Always Wanted to Know About Multiple Interest Rate Curve Bootstrapping but Were Afraid to Ask"
     authors: "Ametrano, Ferdinando M. and Bianchetti, Marco"
+    venue: "SSRN working paper 2219548"
+    type: working paper
     url: "https://ssrn.com/abstract=2219548"
+    links:
+      - { label: "SSRN", url: "https://ssrn.com/abstract=2219548" }
+    citations: 114
+    featured: true
+  - date: "2013"
+    year: 2013
+    title: "Bootstrapping the Illiquidity: Multiple Yield Curves Construction for Market Coherent Discount and FRA Rates Estimation"
+    authors: "Ametrano, Ferdinando M. and Bianchetti, Marco"
+    venue: "Interest Rate Modelling after the Financial Crisis, Risk Books, pp. 153-215"
+    type: chapter
+    url: "https://cris.unibo.it/handle/11585/842215"
+    links:
+      - { label: "Record", url: "https://cris.unibo.it/handle/11585/842215" }
+    citations: 1
+  - date: "2011-04"
+    year: 2011
+    title: "Smooth Simultaneous Calibration of the LMM to Caplets and Co-terminal Swaptions"
+    authors: "Ametrano, Ferdinando M. and Joshi, Mark S."
+    venue: "Quantitative Finance 11(4), 547-558"
+    type: journal
+    url: "https://doi.org/10.1080/14697688.2010.535839"
+    links:
+      - { label: "DOI", url: "https://doi.org/10.1080/14697688.2010.535839" }
+      - { label: "SSRN", url: "https://ssrn.com/abstract=1092665" }
+    citations: 7
+    featured: true
   - date: "2009-04"
     year: 2009
     title: "Bootstrapping the Illiquidity: Multiple Yield Curves Construction for Market Coherent Forward Rates Estimation"
     authors: "Ametrano, Ferdinando M. and Bianchetti, Marco"
+    venue: "Modeling Interest Rates (ed. Fabio Mercurio), Risk Books, chapter 1. ISBN 9781906348137"
+    type: chapter
     url: "https://ssrn.com/abstract=1371311"
-    note: "A version of this paper has been published as chapter 1 in \"Modeling Interest Rates\", edited by Fabio Mercurio, Risk Books, 1 May 2009, ISBN 9781906348137"
-  - date: "2008-02"
-    year: 2008
-    title: "Smooth Simultaneous Calibration of the LMM to Caplets and Coterminal Swaptions"
-    authors: "Ametrano, Ferdinando M. and Joshi, Mark"
-    url: "https://ssrn.com/abstract=1092665"
-    note: "Quantitative Finance, vol. 11 (4), pp.547 - 558"
+    links:
+      - { label: "SSRN", url: "https://ssrn.com/abstract=1371311" }
+    citations: 129
+    featured: true
+  - date: "1996-06"
+    year: 1996
+    title: "Stability of a Nb3Sn low-beta quadrupole in the LHC radiation environment"
+    authors: "Ambrosio, G. and Ametrano, F. M. and Broggi, F. and Ferrari, A. and Rossi, L."
+    venue: "Proceedings of EPAC 1996, pp. 2293-2295"
+    type: proceedings
+    url: "https://proceedings.jacow.org/e96/PAPERS/MOPG/MOP089G.PDF"
+    links:
+      - { label: "PDF", url: "https://proceedings.jacow.org/e96/PAPERS/MOPG/MOP089G.PDF" }
+    citations: 3
+  - date: "1995"
+    year: 1995
+    title: "Preliminary proposal of a Nb3Sn quadrupole model for the low-beta insertions of the LHC"
+    authors: "Ambrosio, G. and Ametrano, F. and Bellomo, G. and Broggi, F. and Rossi, L. and Volpini, G."
+    venue: "INFN report INFN-TC-95-25"
+    type: report
+    url: "https://inis.iaea.org/records/hptev-jnb19"
+    links:
+      - { label: "INIS", url: "https://inis.iaea.org/records/hptev-jnb19" }
+    citations: 7

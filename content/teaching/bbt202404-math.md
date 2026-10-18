@@ -248,5 +248,5 @@ etc.
   <https://github.com/rmsams/stablecoins/blob/master/paper.pdf>
 * Ferdinando Ametrano,  
   _"Bitcoin: oro digitale per nuovi standard monetari_ (2020),  
-  published in "Dal sesterzio al bitcoin", Rubettino Editore (edited by Angelo Miglietta,  and Alberto Mingardi)  
+  published in "Dal sesterzio al bitcoin", Rubbettino Editore (edited by Angelo Miglietta,  and Alberto Mingardi)  
   <https://drive.google.com/file/d/1-1k3wlL6ElZzJMjSakTjTNetJI5ws6wL>

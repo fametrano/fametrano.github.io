@@ -1,0 +1,14 @@
+{{/* One paper. Context: dict "p" (the paper) "featured" (bool). */}}
+{{- $p := .p -}}
+<div class="what">
+  <p>{{ if $p.url }}<a href="{{ $p.url }}">{{ $p.title | markdownify }}</a>{{ else }}{{ $p.title | markdownify }}{{ end }}{{ with $p.type }}<span class="badge">{{ i18n (printf "paperType_%s" (replace . " " "_")) | upper }}</span>{{ end }}</p>
+  <p class="muted">{{ $p.authors }}</p>
+  {{- with $p.venue }}<p class="muted">{{ . }}{{ if $.featured }}, {{ $p.year }}{{ end }}</p>{{ end }}
+  {{- with $p.note }}<p class="muted">{{ . | markdownify }}</p>{{ end }}
+  {{- if or $p.links $p.citations }}
+  <p class="paper-meta">
+    {{- range $p.links }}<a class="btn small" href="{{ .url }}">{{ .label }}</a>{{ end }}
+    {{- with $p.citations }}<small class="muted">{{ i18n "citations" . }}</small>{{ end }}
+  </p>
+  {{- end }}
+</div>

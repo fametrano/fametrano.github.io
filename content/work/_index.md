@@ -1,6 +1,6 @@
 ---
 title: "Work"
-description: "A founder's day job, two research institutes, two open source projects and a career in finance before bitcoin."
+description: "A founder's day job, two research institutes, two open source projects and a career in finance from 1996 to 2018."
 groups:
   - title: "Now"
     items:
@@ -41,5 +41,5 @@ groups:
         text: "Headed trading, quantitative and risk-management teams. Cofounder and managing partner of RiskMap, now part of Confluence Technologies."
       - name: "Physics"
         role: "Education"
-        text: "Former physicist; more than twenty years in investment banking, asset management and quantitative finance, then bitcoin in 2014."
+        text: "Former physicist. More than twenty years in finance, 1996 to 2018: investment banking, asset management and quantitative finance. Bitcoin since 2014, only bitcoin since 2018."
 ---

@@ -4,7 +4,7 @@ description: "Ferdinando Ametrano: co-fondatore e CEO di CheckSig, fondatore e d
 hero:
   eyebrow: "Bitcoin · Didattica · Ricerca"
   title: "Imprenditore, docente, ricercatore. <em>Bitcoin</em> dal 2014."
-  intro: "Co-fondatore e CEO di [CheckSig](https://checksig.com), custode bitcoin italiano regolamentato. Fondatore e direttore scientifico di [Digital Gold Institute](https://dgi.io) e di [Crypto Asset Lab](https://cryptoassetlab.org) (Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università di Milano-Bicocca). Ex fisico, oltre vent'anni in finanza, fondatore di [QuantLib](https://www.quantlib.org/) e manutentore di [btclib](https://github.com/btclib-org/btclib)."
+  intro: "Co-fondatore e CEO di [CheckSig](https://checksig.com), custode bitcoin italiano regolamentato. Fondatore e direttore scientifico di [Digital Gold Institute](https://dgi.io) e di [Crypto Asset Lab](https://cryptoassetlab.org) (Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università di Milano-Bicocca). Ex fisico, in finanza dal 1996 al 2018, fondatore di [QuantLib](https://www.quantlib.org/) e manutentore di [btclib](https://github.com/btclib-org/btclib)."
   badges: ["CheckSig", "DGI", "Crypto Asset Lab", "Bicocca · Unimi · ESSEC", "QuantLib", "btclib"]
   cta: "Invitami"
   ctaUrl: "/it/contact/"
@@ -30,7 +30,7 @@ cards:
     text: "Fan di Springsteen da sempre, con qualche storia da raccontare."
 bitcoin:
   title: "Oro digitale, da insegnare e da costruire"
-  text: "Ho scoperto bitcoin nel 2014 dopo oltre vent'anni da professionista della finanza. Da allora è il mio principale interesse professionale e accademico: [Hayek Money](https://ssrn.com/abstract=2425270) per la stabilità dei prezzi, un corso universitario, una libreria Python e un'azienda di custodia."
+  text: "Ho lavorato in finanza per oltre vent'anni, dal 1996 al 2018. Ho scoperto bitcoin nel 2014. Dal 2018 mi occupo solo di bitcoin. È il mio principale interesse professionale e accademico: [Hayek Money](https://ssrn.com/abstract=2425270) per la stabilità dei prezzi, un corso universitario, una libreria Python e un'azienda di custodia."
   links:
     - label: "Pubblicazioni"
       url: "/it/research/"

@@ -1,6 +1,6 @@
 ---
 title: "Lavoro"
-description: "Un'azienda da fondatore, due centri di ricerca, due progetti open source e una carriera in finanza prima di bitcoin."
+description: "Un'azienda da fondatore, due centri di ricerca, due progetti open source e una carriera in finanza dal 1996 al 2018."
 groups:
   - title: "Oggi"
     items:
@@ -41,5 +41,5 @@ groups:
         text: "Ha guidato team di trading, quantitativi e di risk management. Cofondatore e managing partner di RiskMap, oggi parte di Confluence Technologies."
       - name: "Fisica"
         role: "Formazione"
-        text: "Fisico per formazione, oltre vent'anni in investment banking, asset management e finanza quantitativa, poi bitcoin nel 2014."
+        text: "Fisico per formazione. Oltre vent'anni in finanza, dal 1996 al 2018: investment banking, asset management e finanza quantitativa. Bitcoin dal 2014, solo bitcoin dal 2018."
 ---

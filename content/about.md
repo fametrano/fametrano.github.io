@@ -36,9 +36,7 @@ Original files, free to use with credit to the name above.
 
 ## Curriculum vitae
 
-A short CV is available on request through the [contact form](https://bit.ly/contactametrano).
-
-<!-- TODO: publish a CV with the personal data (address, phone, birth date) removed and link it here. -->
+The [curriculum vitae](/cv/) is a page of this site. Print it to get a PDF.
 
 ## Booking
 

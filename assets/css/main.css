@@ -227,7 +227,14 @@ section.alt { background: var(--bg-alt); }
 .fingerprint { font-family: var(--mono); overflow-wrap: anywhere; background: var(--bg-alt); border: 1px dashed var(--border); border-radius: 12px; padding: .8rem 1rem; }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
-@media print { .site-header, .site-footer .socials, .tools { display: none; } }
+@media print {
+  .site-header, .site-footer .socials, .tools { display: none; }
+  body { background: #fff; color: #000; }
+  :root, :root[data-theme], :root:not([data-theme="light"]) { --text: #000; --muted: #444; --bg: #fff; --bg-alt: #fff; --link: #000; color-scheme: light; }
+  .prose a { color: inherit; text-decoration: underline; }
+  h2, h3 { break-after: avoid; }
+  li { break-inside: avoid; }
+}
 
 .badge { display: inline-block; font: 700 .65rem/1 var(--mono); letter-spacing: .08em; padding: .22rem .4rem; border: 1px solid var(--border); border-radius: 6px; color: var(--muted); vertical-align: middle; margin-left: .4rem; background: var(--bg-alt); }
 .btn.small { padding: .5rem 1rem; font-size: .92rem; }

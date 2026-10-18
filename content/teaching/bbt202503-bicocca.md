@@ -142,7 +142,7 @@ the grade obtained in the complementary exam by prof. Alessia Pedrazzoli.
 * A. Narayanan, et al.,  
   _"Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction"_ (2016),  
   Princeton University Press, 978-0691171692,  
-  <https://www.coursera.org/learn/cryptocurrency>, <https://bitcoinbook.cs.princeton.edu>, <https://bitcoinbook.cs.princeton.edu>, <https://www.lopp.net/pdf/princeton_bitcoin_book.pdf>
+  <https://www.coursera.org/learn/cryptocurrency>, <https://bitcoinbook.cs.princeton.edu>, <https://www.lopp.net/pdf/princeton_bitcoin_book.pdf>
 * Pedro Franco,  
   _“Understanding Bitcoin: Cryptography, Engineering and Economics”_ (2014),  
   Wiley, 978-1119019169

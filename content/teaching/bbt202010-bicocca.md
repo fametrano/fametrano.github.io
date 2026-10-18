@@ -206,9 +206,9 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 * Satoshi Nakamoto,  
   _"Bitcoin: A Peer-to-Peer Electronic Cash System"_ (2008),  
   <https://bitcoin.org/bitcoin.pdf>
-* Andreas M. Antonopoulos,  
-  _"Mastering Bitcoin: Programming the Open Blockchain"_ (2nd edition, 2017),  
-  Oreilly & Associates Inc, 978-1491954386,  
+* Andreas M. Antonopoulos and David A. Harding,  
+  _"Mastering Bitcoin: Programming the Open Blockchain"_ (3rd edition, 2023),  
+  O'Reilly Media,  
   <https://github.com/bitcoinbook/bitcoinbook>
 * Jimmy Song,  
   _"Programming Bitcoin: Learn How to Program Bitcoin from Scratch"_ (2020)  
@@ -233,7 +233,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 * Christof Paar, Jan Pelzl,  
   _"Understanding Cryptography"_,  
   Springer, 978-3642041006  
-  <https://wiki.crypto.rub.de/Buch/en/slides.php>, <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
+  <https://www.cryptography-textbook.com/>, <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Dan Boneh,
   _"A Graduate Course in Applied Cryptography"_,  
   Stanford University  
@@ -249,7 +249,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
   <https://www.secg.org/sec2-v2.pdf>
 * Guidelines for Efficient Cryptography  
   GEC 2: Test Vectors for SEC 1, September 1999. Version 0.3.  
-  <http://read.pudn.com/downloads168/doc/772358/TestVectorsforSEC%201-gec2.pdf>
+  <https://www.secg.org/>
 
 ## Monetary theory references
 

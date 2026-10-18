@@ -104,7 +104,7 @@ The final exam will include:
     [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
 7. 2025-11-18 Tuesday 13:15-16:15  
     [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
-    Assignment #5: [Timestamped document](https://drive.google.com/file/d/1qTscc6dS-zzEDoSASORQpmYQqtmM_1g/)  
+    Assignment #5: Timestamped document  
     [_Beyond Bitcoin: Altcoins, Stablecoins, Smart Contracts, and Smart Assets_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
 8. 2025-11-25 Tuesday 13:15-16:15  
     [_Beyond Bitcoin: Distributed Ledger Technology_](https://drive.google.com/file/d/12jGsSBY5sMwgRQwvjwlnG6J9xOxi0P0Z)  
@@ -152,7 +152,7 @@ The final exam will include:
 * Christof Paar, Jan Pelzl,  
   _"Understanding Cryptography"_,  
   Springer, 978-3642041006  
-  <https://wiki.crypto.rub.de/Buch/en/slides.php>  
+  <https://www.cryptography-textbook.com/>  
   <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Saifedean Ammous,  
   _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_ (2018),  

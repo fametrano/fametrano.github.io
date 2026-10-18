@@ -137,11 +137,11 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * Finite Fields
     * Discrete Logarithm Problem on Elliptic Curves Over Finite Fields  
     * Assignment: [Finite Fields and Elliptic Curves](https://drive.google.com/file/d/1UejN7o9uW6iRgWd5ea5YE4-6oiS5ijpR)  
-01. [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+01. [_Elliptic Curve Digital Signature Algorithm (ECDSA)_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W) (sections 1-2)  
     * Asymmetric Cryptography on Elliptic Curves
     * Digital Signature Protocol
     * Elliptic Curve Digital Signature Algorithm
-01. [_ECDSA and Beyond_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W)
+01. [_ECDSA and Beyond_](https://drive.google.com/file/d/1MZu_4zbI8khdYhbGJg9SwWkNA5x-Tb_W) (remaining sections)  
     * Elliptic Curve Efficient Computations
     * Schnorr Signature Algorithm (BIP340)
     * Diffie-Hellman
@@ -152,15 +152,15 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * P2PKH Addresses and Wallet Import Formats
     * Bitcoin Message Signing  
     * Assignment: [Bitcoin Message Signature](https://drive.google.com/file/d/1tlFoVT_k_H4Y9TJfU9OBGHmhy6BY8QL3/)  
-01. [_Transactions and Scripts_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
+01. [_Transactions and Scripts_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY) (sections 1-4)  
     * TxIns, TxOs, and UTxOs
     * Bitcoin Script Language
     * Standard Transaction Scripts
     * Signatures Types and Smart Contracts
     * Blocks
     * Assignment: [Halving Blocks](https://drive.google.com/file/d/1AvICvFSJexzWiXcvYPO0UD6e8Es51BeP/)  
-01. [_Transactions and Blocks_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
-    * Transaction Serializazion
+01. [_Transactions and Blocks_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY) (remaining sections)  
+    * Transaction Serialization
     * Blocks
     * Block Header  
 01. [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  
@@ -168,7 +168,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * Timestamping
     * The OpenTimestamps standard
     * Use Cases
-    * Assignment: [Timestamped document](https://drive.google.com/file/d/1qTscc6dS-zzEDoSASORQpmYQqtmM_1g/)  
+    * Assignment: Timestamped document  
 01. [_Wallets and Custody_](https://drive.google.com/file/d/10p-oWviNRLBv5hQUJa3KPxMQLl1a3nXF)  
     * Key Management and UTxO Database Access
     * Wallets as Collection of Keys
@@ -240,9 +240,9 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 * Satoshi Nakamoto,  
   _"Bitcoin: A Peer-to-Peer Electronic Cash System"_ (2008),  
   <https://bitcoin.org/bitcoin.pdf>
-* Andreas M. Antonopoulos,  
-  _"Mastering Bitcoin: Programming the Open Blockchain"_ (2nd edition, 2017),  
-  Oreilly & Associates Inc, 978-1491954386,  
+* Andreas M. Antonopoulos and David A. Harding,  
+  _"Mastering Bitcoin: Programming the Open Blockchain"_ (3rd edition, 2023),  
+  O'Reilly Media,  
   <https://github.com/bitcoinbook/bitcoinbook>
 * Jimmy Song,  
   _"Programming Bitcoin: Learn How to Program Bitcoin from Scratch"_ (2020)  
@@ -251,7 +251,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 * A. Narayanan, et al.,  
   _"Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction"_ (2016),  
   Princeton University Press, 978-0691171692,  
-  <https://www.coursera.org/learn/cryptocurrency>, <https://bitcoinbook.cs.princeton.edu>, <https://bitcoinbook.cs.princeton.edu>, <https://www.lopp.net/pdf/princeton_bitcoin_book.pdf>
+  <https://www.coursera.org/learn/cryptocurrency>, <https://bitcoinbook.cs.princeton.edu>, <https://www.lopp.net/pdf/princeton_bitcoin_book.pdf>
 * Pedro Franco,  
   _“Understanding Bitcoin: Cryptography, Engineering and Economics”_ (2014),  
   Wiley, 978-1119019169
@@ -267,7 +267,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
 * Christof Paar, Jan Pelzl,  
   _"Understanding Cryptography"_,  
   Springer, 978-3642041006  
-  <https://wiki.crypto.rub.de/Buch/en/slides.php>, <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
+  <https://www.cryptography-textbook.com/>, <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Dan Boneh,
   _"A Graduate Course in Applied Cryptography"_,  
   Stanford University  
@@ -283,7 +283,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
   <https://www.secg.org/sec2-v2.pdf>
 * Guidelines for Efficient Cryptography  
   GEC 2: Test Vectors for SEC 1, September 1999. Version 0.3.  
-  <http://read.pudn.com/downloads168/doc/772358/TestVectorsforSEC%201-gec2.pdf>
+  <https://www.secg.org/>
 
 ## Monetary theory references
 

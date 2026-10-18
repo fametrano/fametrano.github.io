@@ -154,7 +154,7 @@ The final exam will include
 * Christof Paar, Jan Pelzl,  
   _"Understanding Cryptography"_,  
   Springer, 978-3642041006  
-  <https://wiki.crypto.rub.de/Buch/en/slides.php>  
+  <https://www.cryptography-textbook.com/>  
   <https://youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos>
 * Saifedean Ammous,  
   _"The Bitcoin Standard: The Decentralized Alternative to Central Banking"_ (2018),  

@@ -1,0 +1,195 @@
+items:
+  - date: "2018-02-01"
+    year: 2018
+    title: "United Nations, DESA"
+    details:
+      - "Bitcoin as Digital Gold"
+      - "New York"
+      - "[slides](https://speakerdeck.com/nando1970/bitcoin-as-digital-gold)"
+  - date: "2018-01-19"
+    year: 2018
+    title: "Bitcoin Meetup, Ca' Foscari University campus"
+    details:
+      - "Bitcoin: The Digital Rush"
+      - "Venice"
+      - "[slides](https://speakerdeck.com/nando1970/bitcoin-the-digital-rush)"
+    lang: it
+  - date: "2017-12-19"
+    year: 2017
+    title: "Università Milano-Bicocca"
+    details:
+      - "Digital Gold: Bitcoin as Investment Asset"
+      - "[slides](https://speakerdeck.com/nando1970/digital-gold-bitcoin-as-investment-asset)"
+    lang: it
+  - date: "2017-11-28"
+    year: 2017
+    title: "Università Bocconi"
+    details:
+      - "Digital Gold: Bitcoin as Investment Asset"
+      - "[slides](https://speakerdeck.com/nando1970/digital-gold-bitcoin-as-investment-asset)"
+    lang: it
+  - date: "2016-11-22"
+    year: 2016
+    title: "Consob"
+    details:
+      - "About Bitcoin, Blockchain, and the DLT Chimera"
+      - "Rome"
+      - "[slides](https://speakerdeck.com/nando1970/about-bitcoin-blockchain-and-the-dlt-chimera)"
+  - date: "2016-11-10"
+    year: 2016
+    title: "International Chamber of Commerce"
+    details:
+      - "Introduction to Blockchain"
+      - "Rome"
+      - "[slides](https://speakerdeck.com/nando1970/introduction-to-blockchain)"
+  - date: "2016-11-01"
+    year: 2016
+    title: "Post Trade Distributed Ledger working group"
+    details:
+      - "Response to ESMA on DLT Applied to Securities Markets"
+      - "London"
+      - "[slides](https://speakerdeck.com/nando1970/response-to-esma-on-dlt-applied-to-securities-markets)"
+  - date: "2016-10-24"
+    year: 2016
+    title: "EFMA Innovation Summit Conference"
+    details:
+      - "Bitcoin, Blockchain, and the DLT Chimera"
+      - "Barcelona"
+      - "[slides](https://speakerdeck.com/nando1970/bitcoin-blockchain-and-the-dlt-chimera-1)"
+  - date: "2016-10-17"
+    year: 2016
+    title: "Università Milano-Bicocca, Scuola di Economia e Statistica"
+    details:
+      - "Bitcoin and Blockchain Technology: An Introduction (opening of the academic year)"
+      - "[slides](https://speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-an-introduction)"
+  - date: "2016-10-03"
+    year: 2016
+    title: "Blockchain For Finance Conference"
+    details:
+      - "Bitcoin, Blockchain, and the DLT Chimera"
+      - "London"
+      - "[slides](https://speakerdeck.com/nando1970/bitcoin-blockchain-and-the-dlt-chimera)"
+  - date: "2016-09-09"
+    year: 2016
+    title: "P2P Financial Systems 2016, University College London"
+    details:
+      - "Hayek Money: The Cryptocurrency Price Stability Solution"
+      - "[slides](https://speakerdeck.com/nando1970/hayek-money-the-cryptocurrency-price-stability-solution-1)"
+  - date: "2016-07-12"
+    year: 2016
+    title: "QuantLib User Meeting"
+    details:
+      - "The ABCD of Interest Rate Basis Spreads"
+      - "London"
+      - "[slides](https://speakerdeck.com/nando1970/the-abcd-of-interest-rate-basis-spreads)"
+  - date: "2016-07-07"
+    year: 2016
+    title: "European Banking Federation"
+    details:
+      - "About Bitcoin And Blockchain"
+      - "Brussels"
+      - "[slides](https://speakerdeck.com/nando1970/about-bitcoin-and-blockchain-1)"
+  - date: "2016-06-21"
+    year: 2016
+    title: "Banca d'Italia"
+    details:
+      - "About Bitcoin And Blockchain"
+      - "Rome"
+      - "[slides](https://speakerdeck.com/nando1970/about-bitcoin-and-blockchain-1)"
+  - date: "2015-11-30"
+    year: 2015
+    title: "QuantLib User Meeting 2015"
+    details:
+      - "The abcd of Forward Rate Bootstrapping"
+      - "Düsseldorf"
+      - "[slides](https://speakerdeck.com/nando1970/the-abcd-of-forward-rate-bootstrapping)"
+  - date: "2015-10-08"
+    year: 2015
+    title: "Digital Currency Summit"
+    details:
+      - "A Cryptocurrency Price Stability Solution"
+      - "Barcelona"
+      - "[slides](https://speakerdeck.com/nando1970/a-cryptocurrency-price-stability-solution)"
+  - date: "2015-06-15"
+    year: 2015
+    title: "Università degli Studi di Milano"
+    details:
+      - "Blockchain Revolution and the Future of Money"
+      - "Milan"
+      - "[slides](https://speakerdeck.com/nando1970/blockchain-revolution-and-the-future-of-money-1)"
+  - date: "2015-05-20"
+    year: 2015
+    title: "ESSEC Business School, Labex Seminar Series in Energy and Commodity Markets"
+    details:
+      - "The Cryptocurrency Frontier in Commodity Monetary Standard"
+      - "Paris La Défense"
+      - "[slides](https://speakerdeck.com/nando1970/the-cryptocurrency-frontier-in-commodity-monetary-standard)"
+  - date: "2015-05-19"
+    year: 2015
+    title: "ESSEC Business School, Energy and Commodity Markets and Products course"
+    details:
+      - "Blockchain Revolution and the Future of Money"
+      - "Cergy-Pontoise"
+      - "[slides](https://speakerdeck.com/nando1970/blockchain-revolution-and-the-future-of-money)"
+  - date: "2015-03-13"
+    year: 2015
+    title: "Camplus"
+    details:
+      - "Distributed Public Ledger Revolution & the Future of Money"
+      - "Milan"
+      - "[slides](https://speakerdeck.com/nando1970/presentazione-bitcoin-per-camplus)"
+  - date: "2015-03-05"
+    year: 2015
+    title: "InsideBitcoins"
+    details:
+      - "The Future of Money: Hayek Money, Seigniorage Shares, Reserve Bank, and Proof-of-Payment"
+      - "Berlin"
+      - "[slides](https://speakerdeck.com/nando1970/the-future-of-money-hayek-money-seigniorage-shares-reserve-bank-and-proof-of-payment)"
+  - date: "2014-12-09"
+    year: 2014
+    title: "RiskMinds International 2014"
+    details:
+      - "Bitcoin and Cryptocurrencies: Elastic Money Supply"
+      - "Amsterdam"
+      - "[slides](https://speakerdeck.com/nando1970/bitcoin-and-cryptocurrencies-elastic-money-supply)"
+  - date: "2014-12-05"
+    year: 2014
+    title: "QuantLib User Meeting 2014"
+    details:
+      - "EONIA Jumps and Proper Euribor Forwarding"
+      - "Düsseldorf"
+      - "[slides](https://speakerdeck.com/nando1970/eonia-jumps-and-proper-euribor-forwarding)"
+  - date: "2014-12-04"
+    year: 2014
+    title: "QuantLib User Meeting 2014"
+    details:
+      - "Open Source Finance: QuantLib, OpenGamma, Bitcoin (keynote)"
+      - "Düsseldorf"
+      - "[slides](https://speakerdeck.com/nando1970/open-source-finance-quantlib-opengamma-bitcoin)"
+  - date: "2014-09-30"
+    year: 2014
+    title: "Hogan Lovells roundtable \"Bitcoin: quale futuro per la moneta virtuale?\""
+    details:
+      - "Distributed Public Ledger Revolution & the Future of Money"
+      - "Rome/Milan"
+      - "[slides](https://speakerdeck.com/nando1970/distributed-public-ledger-revolution-and-the-future-of-money)"
+  - date: "2014-07-01"
+    year: 2014
+    title: "Università Milano-Bicocca"
+    details:
+      - "Bitcoin + Hayek Money: blockchain revolution & price stability"
+      - "[slides](https://speakerdeck.com/nando1970/bitcoin-plus-hayek-money-blockchain-revolution-and-price-stability-1)"
+  - date: "2014-06-11"
+    year: 2014
+    title: "Camera dei Deputati (Montecitorio)"
+    details:
+      - "Bitcoin + Hayek Money: blockchain revolution & price stability"
+      - "Rome"
+      - "[slides](https://speakerdeck.com/nando1970/bitcoin-plus-hayek-money-blockchain-revolution-and-price-stability)"
+  - date: "2014-06-09"
+    year: 2014
+    title: "Banca d'Italia"
+    details:
+      - "Hayek Money: the Cryptocurrency Price Stability Solution"
+      - "Rome"
+      - "[slides](https://speakerdeck.com/nando1970/hayek-money-the-cryptocurrency-price-stability-solution)"

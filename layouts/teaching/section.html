@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="page-head"><div class="narrow">
+  <h1>{{ .Title }}</h1>
+  <p class="lead">{{ .Description }}</p>
+</div></div>
+<div class="narrow prose">
+  {{ .Content }}
+  {{- $courses := where .Pages "Layout" "course" }}
+  {{- range $courses.GroupByDate "2006" "desc" }}
+  <section class="year-group">
+    <h2>{{ .Key }}</h2>
+    <ul class="course-list">
+      {{- range .Pages }}
+      <li><div><a href="{{ .RelPermalink }}">{{ .Params.course }}, {{ .Params.term }}</a>{{ partial "badge.html" "en" }}</div>
+        <span class="muted">{{ .Params.department }}</span></li>
+      {{- end }}
+    </ul>
+  </section>
+  {{- end }}
+</div>
+{{ end }}

@@ -1,0 +1,79 @@
+{{ define "main" }}
+{{- $h := .Params.hero -}}
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="eyebrow">{{ $h.eyebrow }}</p>
+      <h1>{{ $h.title | safeHTML }}</h1>
+      <p class="lead">{{ $h.intro | markdownify }}</p>
+      <ul class="badges">
+        {{- range $h.badges }}<li>{{ . }}</li>{{ end }}
+      </ul>
+      <div class="btn-row">
+        <a class="btn primary" href="{{ $h.ctaUrl }}">{{ $h.cta }}</a>
+        <a class="btn" href="{{ $h.cta2Url }}">{{ $h.cta2 }}</a>
+      </div>
+    </div>
+    <div class="portrait">
+      {{ partial "img.html" (dict "src" "images/ferdinando-ametrano-hero.jpg" "alt" $h.alt "widths" (slice 480 720 960) "sizes" "(max-width: 52rem) 70vw, 22rem" "eager" true) }}
+    </div>
+  </div>
+</section>
+
+<section class="block">
+  <div class="wrap">
+    <ul class="cards" style="list-style:none;padding:0;margin:0">
+      {{- range .Params.cards }}
+      <li class="card">
+        {{- if .image }}{{ partial "img.html" (dict "src" .image "alt" "" "class" "cover" "widths" (slice 480 800) "sizes" "(min-width: 72rem) 17rem, 90vw") }}
+        {{- else }}<span class="ico">{{ partial "icon.html" .icon }}</span>{{ end }}
+        <h3><a class="stretch" href="{{ .url }}">{{ .title }}</a></h3>
+        <p>{{ .text }}</p>
+        <span class="more" aria-hidden="true">→</span>
+      </li>
+      {{- end }}
+    </ul>
+  </div>
+</section>
+
+<section class="block btc-band">
+  <div class="wrap">
+    <p class="eyebrow">Bitcoin</p>
+    <h2>{{ .Params.bitcoin.title }}</h2>
+    <p class="lead">{{ .Params.bitcoin.text | markdownify }}</p>
+    <div class="btn-row">
+      {{- range .Params.bitcoin.links }}<a class="btn" href="{{ .url }}">{{ .label }}</a>{{ end }}
+    </div>
+  </div>
+</section>
+
+<section class="block alt">
+  <div class="wrap">
+    <div class="section-head"><h2>{{ i18n "latest" }}</h2></div>
+    <ul class="latest">
+      {{- with index (sort hugo.Data.events.items "date" "desc") 0 }}
+      <li><span class="tag">{{ i18n "latestEvent" }} · {{ .date }}</span><strong>{{ .title | markdownify }}</strong>
+        {{- with .details }}<span class="muted">{{ index . 0 | markdownify }}</span>{{ end }}</li>
+      {{- end }}
+      {{- with index (sort hugo.Data.media.items "date" "desc") 0 }}
+      <li><span class="tag">{{ i18n "latestMedia" }} · {{ .date }}</span><strong>{{ .title | markdownify }}</strong>
+        {{- with .details }}<span class="muted">{{ index . 0 | markdownify }}</span>{{ end }}</li>
+      {{- end }}
+      {{- with index (where site.RegularPages "Type" "post").ByDate.Reverse 0 }}
+      <li><span class="tag">{{ i18n "latestPost" }} · {{ .Date.Format "2006-01-02" }}</span><strong><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ partial "badge.html" (.Params.contentLang | default "en") }}</strong></li>
+      {{- end }}
+    </ul>
+  </div>
+</section>
+
+<section class="block">
+  <div class="wrap">
+    <div class="cta">
+      <h2>{{ .Params.contact.title }}</h2>
+      <p>{{ .Params.contact.text }}</p>
+      <div class="btn-row"><a class="btn primary" href="{{ site.Params.contactForm }}">{{ i18n "contactForm" }}</a>
+        <a class="btn" style="background:transparent;color:#fff;border-color:#555" href="{{ .Params.contact.url }}">{{ .Params.contact.more }}</a></div>
+    </div>
+  </div>
+</section>
+{{ end }}

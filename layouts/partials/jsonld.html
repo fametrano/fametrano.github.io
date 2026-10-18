@@ -1,0 +1,21 @@
+{{- $same := slice -}}
+{{- range partial "socials.html" . }}{{ $same = $same | append .url }}{{ end -}}
+{{- /* TODO: add alumniOf once his degrees are confirmed; about.md does not state them. */ -}}
+{{- $org := slice
+  (dict "@type" "CollegeOrUniversity" "name" "University of Milano-Bicocca" "url" "https://www.unimib.it")
+  (dict "@type" "CollegeOrUniversity" "name" "University of Milan" "url" "https://www.unimi.it")
+  (dict "@type" "CollegeOrUniversity" "name" "ESSEC Business School" "url" "https://www.essec.edu")
+  (dict "@type" "Organization" "name" "Digital Gold Institute" "url" "https://dgi.io")
+  (dict "@type" "Organization" "name" "Crypto Asset Lab" "url" "https://cryptoassetlab.org") -}}
+{{- $person := dict
+  "@context" "https://schema.org"
+  "@type" "Person"
+  "name" "Ferdinando Ametrano"
+  "url" site.BaseURL
+  "jobTitle" "Founder and CEO"
+  "worksFor" (dict "@type" "Organization" "name" "CheckSig" "url" "https://checksig.com")
+  "affiliation" $org
+  "knowsAbout" (slice "Bitcoin" "Blockchain" "Monetary theory" "Quantitative finance")
+  "sameAs" $same -}}
+{{- with resources.Get "images/ferdinando-ametrano-square.jpg" }}{{ $person = merge $person (dict "image" (.Fill "600x600 jpg Smart q85").Permalink) }}{{ end -}}
+<script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>

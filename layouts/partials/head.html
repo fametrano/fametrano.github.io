@@ -1,0 +1,66 @@
+{{- $isHome := .IsHome -}}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{- $title := cond $isHome (printf "%s | %s" site.Title site.Params.subtitle) (printf "%s | %s" .Title site.Title) }}
+{{- $desc := "" }}
+{{- with .Description }}{{ $desc = . }}
+{{- else }}{{ if and .IsPage (not .IsHome) }}{{ $desc = .Summary | plainify | htmlUnescape | truncate 160 }}{{ end }}{{ end }}
+{{- if not $desc }}{{ $desc = site.Params.description }}{{ end }}
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $desc }}">
+<meta name="author" content="Ferdinando Ametrano">
+<link rel="canonical" href="{{ .Permalink }}">
+{{- if gt (len .AllTranslations) 1 }}
+{{- range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Language.Locale }}" href="{{ .Permalink }}">
+{{- end }}
+{{- range .AllTranslations }}{{ if eq .Language.Lang "en" }}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{- end }}{{ end }}
+{{- end }}
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:title" content="{{ cond $isHome $title .Title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="{{ cond (eq .Type "post") "article" "website" }}">
+<meta property="og:locale" content="{{ cond (eq site.Language.Lang "it") "it_IT" "en_US" }}">
+{{- with resources.Get "images/ferdinando-ametrano-square.jpg" }}
+{{- $og := .Fill "1200x630 jpg Smart q85" }}
+<meta property="og:image" content="{{ $og.Permalink }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:image" content="{{ $og.Permalink }}">
+{{- end }}
+<meta name="twitter:card" content="summary_large_image">
+{{- with site.Params.x }}
+<meta name="twitter:site" content="@{{ . }}">
+<meta name="twitter:creator" content="@{{ . }}">
+{{- end }}
+<meta name="theme-color" content="#f7931a">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+{{- with .OutputFormats.Get "rss" }}
+<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ "feed.xml" | relLangURL }}">
+{{- end }}
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem("theme");
+    if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t);
+  } catch (e) {}
+})();
+</script>
+{{- with resources.Get "css/main.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
+{{- end }}
+{{ partial "jsonld.html" . }}
+{{- if and hugo.IsProduction site.Params.cloudflareAnalyticsToken }}
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ site.Params.cloudflareAnalyticsToken }}"}'></script>
+{{- end }}
+{{- if and hugo.IsProduction site.Params.metricoolHash }}
+{{/* TODO: Metricool sets cookies. Add consent handling before launch. */}}
+<script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"{{ site.Params.metricoolHash }}"})});</script>
+{{- end }}

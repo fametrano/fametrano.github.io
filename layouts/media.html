@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="page-head"><div class="narrow">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+</div></div>
+<div class="narrow prose">
+  {{ .Content }}
+  <h2>Selected</h2>
+  {{- range $lang, $label := dict "en" "English" "it" "Italiano" }}
+  <h3 lang="{{ $lang }}">{{ $label }}</h3>
+  <ul>
+    {{- range index hugo.Data.media.featured $lang }}
+    <li lang="{{ $lang }}">
+      {{- range $i, $p := . }}{{ if $i }}<br>{{ end }}{{ if $p.url }}<a href="{{ $p.url }}">{{ $p.text }}</a>{{ else }}{{ $p.text }}{{ end }}{{ end -}}
+    </li>
+    {{- end }}
+  </ul>
+  {{- end }}
+  <h2>Coverage</h2>
+  {{ partial "yearlist.html" (dict "items" hugo.Data.media.items "id" "media") }}
+</div>
+{{ end }}

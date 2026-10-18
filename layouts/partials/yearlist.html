@@ -1,0 +1,27 @@
+{{/* Items grouped by year, newest first, filterable by year. Args: items, id. */}}
+{{- $items := sort .items "date" "desc" -}}
+{{- $years := slice -}}
+{{- range $items }}{{ $years = $years | append .year }}{{ end -}}
+{{- $years = $years | uniq -}}
+<ul class="filter" data-filter="#{{ .id }}" aria-label="{{ i18n "filterYear" }}" hidden>
+  <li><button type="button" data-value="all" aria-pressed="true">{{ i18n "all" }}</button></li>
+  {{- range $years }}<li><button type="button" data-value="{{ . }}" aria-pressed="false">{{ . }}</button></li>{{ end }}
+</ul>
+<div id="{{ .id }}">
+  {{- range $y := $years }}
+  <section class="year-group" data-year="{{ $y }}">
+    <h2>{{ $y }}</h2>
+    <ul class="rows">
+      {{- range where $items "year" $y }}
+      <li class="row">
+        <span class="date">{{ .date }}</span>
+        <div class="what">
+          <p>{{ .title | markdownify }}</p>
+          {{- range .details }}<p class="muted">{{ . | markdownify }}</p>{{ end }}
+        </div>
+      </li>
+      {{- end }}
+    </ul>
+  </section>
+  {{- end }}
+</div>

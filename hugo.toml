@@ -1,0 +1,149 @@
+baseURL = "https://ametrano.net/"
+title = "Ferdinando Ametrano"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+# Old Jekyll URLs keep their case (for example /2018/10/11/Not-a-blockchain/).
+disablePathToLower = true
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+[markup.goldmark.renderer]
+  # Course pages and posts contain raw HTML.
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3
+
+[security]
+  # The legacy page content/bruce/foreverfriends.html is raw HTML.
+  allowContent = ['! ^text/org$']
+  [security.exec]
+    allow = ['^$']
+  [security.funcs]
+    getenv = ['^HUGO_']
+
+[outputFormats.Feed]
+  # Keeps /feed.xml working for existing subscribers.
+  mediaType = "application/rss+xml"
+  baseName = "feed"
+  isPlainText = false
+
+[outputs]
+  home = ["html", "rss", "feed"]
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+
+[params]
+  description = "Bitcoin, teaching, research and writing by Ferdinando Ametrano."
+  # Open Graph image, path under static/ or assets/.
+  # TODO: he must provide the full PGP fingerprint; empty hides the block on /contact/.
+  pgpFingerprint = ""
+  contactForm = "https://bit.ly/contactametrano"
+  email = ""
+  # Socials: handle only. An empty value hides the icon.
+  x = "Ferdinando1970"
+  linkedin = "ferdinandoametrano"
+  youtube = "c/FerdinandoMAmetrano"
+  facebook = "ferdinando.ametrano"
+  instagram = "ferdinandoametrano"
+  github = "fametrano"
+  # TODO: add the npub here once he opens a Nostr account; then fill
+  # static/.well-known/nostr.json. Empty hides the icon.
+  nostr = ""
+  orcid = "0000-0001-8521-0063"
+  scholar = "dFSSrwwAAAAJ"
+  ssrn = "510135"
+  # Metricool tracker hash, loaded in production builds only.
+  # TODO: the tracker sets cookies. Decide on a consent banner (or switch to
+  # a cookieless tool) before the Hugo site goes live.
+  # Cloudflare Web Analytics token (cookieless). Empty disables it; production
+  # builds only. CI passes it as HUGO_PARAMS_CLOUDFLAREANALYTICSTOKEN.
+  cloudflareAnalyticsToken = ""
+  metricoolHash = "1c0fb924b6344bbea59bc6318b3c715c"
+
+[languages]
+  [languages.en]
+    label = "English"
+    locale = "en"
+    weight = 1
+    [languages.en.params]
+      subtitle = "Bitcoin and Blockchain Technology"
+    [[languages.en.menus.main]]
+      name = "Work"
+      url = "/work/"
+      identifier = "work"
+      weight = 10
+    [[languages.en.menus.main]]
+      name = "Teaching"
+      url = "/teaching/"
+      identifier = "teaching"
+      weight = 20
+    [[languages.en.menus.main]]
+      name = "Research"
+      url = "/research/"
+      identifier = "research"
+      weight = 30
+    [[languages.en.menus.main]]
+      name = "Writing & Talks"
+      url = "/writing/"
+      identifier = "writing"
+      weight = 40
+    [[languages.en.menus.main]]
+      name = "Bruce"
+      url = "/bruce/"
+      identifier = "bruce"
+      weight = 50
+    [[languages.en.menus.main]]
+      name = "About"
+      url = "/about/"
+      identifier = "about"
+      weight = 60
+    [[languages.en.menus.main]]
+      name = "Contact"
+      url = "/contact/"
+      identifier = "contact"
+      weight = 70
+  [languages.it]
+    label = "Italiano"
+    locale = "it"
+    weight = 2
+    [languages.it.params]
+      subtitle = "Bitcoin e tecnologia blockchain"
+    [[languages.it.menus.main]]
+      name = "Lavoro"
+      url = "/it/work/"
+      identifier = "work"
+      weight = 10
+    [[languages.it.menus.main]]
+      name = "Didattica"
+      url = "/it/teaching/"
+      identifier = "teaching"
+      weight = 20
+    [[languages.it.menus.main]]
+      name = "Ricerca"
+      url = "/it/research/"
+      identifier = "research"
+      weight = 30
+    [[languages.it.menus.main]]
+      name = "Scritti e interventi"
+      url = "/it/writing/"
+      identifier = "writing"
+      weight = 40
+    [[languages.it.menus.main]]
+      name = "Bruce"
+      url = "/it/bruce/"
+      identifier = "bruce"
+      weight = 50
+    [[languages.it.menus.main]]
+      name = "Profilo"
+      url = "/it/about/"
+      identifier = "about"
+      weight = 60
+    [[languages.it.menus.main]]
+      name = "Contatti"
+      url = "/it/contact/"
+      identifier = "contact"
+      weight = 70

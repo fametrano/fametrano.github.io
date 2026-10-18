@@ -1,0 +1,33 @@
+{{ define "main" }}
+<section class="bruce-hero">
+  <div class="wrap">
+    <div>
+      <p class="eyebrow">{{ .Params.eyebrow }}</p>
+      <h1>{{ .Title }}</h1>
+      <p class="lead">{{ .Description }}</p>
+    </div>
+    <div>{{ partial "img.html" (dict "src" "images/bruce-milan-2003.jpg" "alt" .Params.heroAlt "widths" (slice 480) "sizes" "(min-width: 52rem) 28rem, 90vw" "eager" true) }}</div>
+  </div>
+</section>
+<div class="narrow prose">
+  {{ .Content }}
+  {{- $lang := site.Language.Lang }}
+  {{- range hugo.Data.bruce.stories }}
+  <article class="story" id="{{ .id }}">
+    <div class="year">{{ .year }}</div>
+    <div>
+      <h3>{{ index .title $lang }}</h3>
+      <p>{{ index .text $lang }}</p>
+      {{- if .image }}{{ partial "img.html" (dict "src" .image "alt" (index .alt $lang) "widths" (slice 480 800) "sizes" "28rem") }}{{ end }}
+      <p><a href="{{ .archive }}">{{ i18n "archive" }} →</a></p>
+    </div>
+  </article>
+  {{- end }}
+  <h2>{{ .Params.moreTitle }}</h2>
+  <ul>
+    {{- range hugo.Data.bruce.more }}
+    <li><a href="{{ .url }}">{{ index .title $lang }}</a></li>
+    {{- end }}
+  </ul>
+</div>
+{{ end }}

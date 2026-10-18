@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="page-head"><div class="wrap">
+  <h1>{{ .Title }}</h1>
+  <p class="lead">{{ .Description }}</p>
+</div></div>
+<div class="wrap prose">
+  {{ .Content }}
+  {{- range .Params.groups }}
+  <h2>{{ .title }}</h2>
+  <div class="cards">
+    {{- range .items }}
+    <article class="card">
+      {{- if .image }}{{ partial "img.html" (dict "src" .image "alt" (.alt | default "") "class" "cover" "widths" (slice 480 800)) }}{{ end }}
+      <span class="tag">{{ .role }}</span>
+      <h3>{{ .name }}</h3>
+      <p>{{ .text | markdownify }}</p>
+      {{- if .url }}<a class="more" href="{{ .url }}">{{ .urlLabel | default .url }} →</a>{{ end }}
+    </article>
+    {{- end }}
+  </div>
+  {{- end }}
+</div>
+{{ end }}

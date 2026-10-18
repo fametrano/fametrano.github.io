@@ -1,0 +1,15 @@
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <p class="disclaimer">{{ i18n "disclaimer" }}</p>
+      <p class="copy">{{ i18n "copyright" }}</p>
+    </div>
+    <ul class="socials" aria-label="Social">
+      {{- range partial "socials.html" . }}
+      <li><a href="{{ .url }}" rel="me noopener">{{ .name }}</a></li>
+      {{- end }}
+      <li><a href="{{ "feed.xml" | relLangURL }}">RSS</a></li>
+      <li><a href="{{ "privacy/" | relLangURL }}">{{ i18n "privacy" }}</a></li>
+    </ul>
+  </div>
+</footer>

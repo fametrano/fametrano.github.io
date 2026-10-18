@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="page-head"><div class="narrow">
+  <p class="crumbs"><a href="{{ "teaching/" | relLangURL }}">← {{ i18n "allCourses" }}</a></p>
+  <h1>{{ .Params.course }}</h1>
+  <ul class="chips">
+    <li>{{ .Params.term }}</li>
+    <li>{{ .Params.university }}</li>
+    <li>{{ .Params.department }}</li>
+  </ul>
+</div></div>
+<div class="narrow prose">
+  {{ .Content }}
+</div>
+{{ end }}

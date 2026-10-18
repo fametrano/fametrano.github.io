@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="page-head"><div class="narrow">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+</div></div>
+<div class="narrow prose">
+  <ul class="rows">
+  {{- range (where site.RegularPages "Type" "post").ByDate.Reverse }}
+    <li class="row">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      <div class="what">
+        <p><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+        <p class="muted">{{ .Summary | plainify | truncate 180 }}</p>
+      </div>
+    </li>
+  {{- end }}
+  </ul>
+  <p><a href="/feed.xml">{{ i18n "subscribe" }}</a></p>
+</div>
+{{ end }}

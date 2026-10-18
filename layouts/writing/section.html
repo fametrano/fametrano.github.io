@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="page-head btc"><div class="narrow">
+  <h1>{{ .Title }}</h1>
+  <p class="lead">{{ .Description }}</p>
+</div></div>
+<div class="wrap prose">
+  {{ .Content }}
+  <ul class="cards" style="list-style:none;padding:0">
+    {{- range .Params.cards }}
+    <li class="card">
+      <h3><a class="stretch" href="{{ .url }}">{{ .title }}</a></h3>
+      <p>{{ .text }}</p>
+      <span class="more" aria-hidden="true">→</span>
+    </li>
+    {{- end }}
+  </ul>
+  <h2>{{ i18n "latestPost" }}</h2>
+  <ul class="rows">
+  {{- range first 5 (where site.RegularPages "Type" "post").ByDate.Reverse }}
+    <li class="row">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      <div class="what"><p><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ partial "badge.html" (.Params.contentLang | default "en") }}</p></div>
+    </li>
+  {{- end }}
+  </ul>
+  <p><a href="/blog/">{{ i18n "seeAll" }} →</a> · <a href="/feed.xml">{{ i18n "subscribe" }}</a></p>
+  <p class="muted">{{ i18n "originalLanguageNote" }}</p>
+</div>
+{{ end }}

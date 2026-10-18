@@ -1,0 +1,14 @@
+{{/* Returns a slice of dicts: name, url. Empty handles are skipped. */}}
+{{- $p := site.Params -}}
+{{- $l := slice -}}
+{{- with $p.x }}{{ $l = $l | append (dict "name" "X" "url" (printf "https://x.com/%s" .)) }}{{ end -}}
+{{- with $p.linkedin }}{{ $l = $l | append (dict "name" "LinkedIn" "url" (printf "https://www.linkedin.com/in/%s" .)) }}{{ end -}}
+{{- with $p.youtube }}{{ $l = $l | append (dict "name" "YouTube" "url" (printf "https://youtube.com/%s" .)) }}{{ end -}}
+{{- with $p.facebook }}{{ $l = $l | append (dict "name" "Facebook" "url" (printf "https://facebook.com/%s" .)) }}{{ end -}}
+{{- with $p.instagram }}{{ $l = $l | append (dict "name" "Instagram" "url" (printf "https://www.instagram.com/%s" .)) }}{{ end -}}
+{{- with $p.github }}{{ $l = $l | append (dict "name" "GitHub" "url" (printf "https://github.com/%s" .)) }}{{ end -}}
+{{- with $p.nostr }}{{ $l = $l | append (dict "name" "Nostr" "url" (printf "https://njump.me/%s" .)) }}{{ end -}}
+{{- with $p.orcid }}{{ $l = $l | append (dict "name" "ORCID" "url" (printf "https://orcid.org/%s" .)) }}{{ end -}}
+{{- with $p.scholar }}{{ $l = $l | append (dict "name" "Google Scholar" "url" (printf "https://scholar.google.com/citations?user=%s" .)) }}{{ end -}}
+{{- with $p.ssrn }}{{ $l = $l | append (dict "name" "SSRN" "url" (printf "https://ssrn.com/author=%s" .)) }}{{ end -}}
+{{- return $l -}}

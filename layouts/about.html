@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="page-head"><div class="wrap">
+  <h1>{{ .Title }}</h1>
+  <p class="lead">{{ .Description }}</p>
+</div></div>
+<div class="wrap prose about-grid">
+  <div>{{ .Content }}</div>
+  <aside>
+    {{ partial "img.html" (dict "src" "images/ferdinando-ametrano-hero.jpg" "alt" .Params.photoAlt "widths" (slice 480) "sizes" "15rem") }}
+    {{ with .TableOfContents }}<nav aria-label="{{ i18n "openProfile" }}" class="toc-links">{{ . }}</nav>{{ end }}
+  </aside>
+</div>
+{{ end }}

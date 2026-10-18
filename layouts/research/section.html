@@ -1,0 +1,34 @@
+{{ define "main" }}
+<div class="page-head btc"><div class="narrow">
+  <h1>{{ .Title }}</h1>
+  <p class="lead">{{ .Description }}</p>
+  <div class="btn-row">
+    <a class="btn small" href="https://scholar.google.com/citations?user={{ site.Params.scholar }}">Google Scholar</a>
+    <a class="btn small" href="https://ssrn.com/author={{ site.Params.ssrn }}">SSRN</a>
+    <a class="btn small" href="https://orcid.org/{{ site.Params.orcid }}">ORCID</a>
+  </div>
+</div></div>
+<div class="narrow prose">
+  {{ .Content }}
+  {{- $items := sort hugo.Data.papers.papers "date" "desc" }}
+  {{- $years := slice }}
+  {{- range $items }}{{ $years = $years | append .year }}{{ end }}
+  {{- range $years | uniq }}
+  <section class="year-group">
+    <h2>{{ . }}</h2>
+    <ul class="rows">
+      {{- range where $items "year" . }}
+      <li class="row">
+        <span class="date">{{ .date }}</span>
+        <div class="what">
+          <p>{{ if .url }}<a href="{{ .url }}">{{ .title | markdownify }}</a>{{ else }}{{ .title | markdownify }}{{ end }}</p>
+          <p class="muted">{{ .authors }}</p>
+          {{- with .note }}<p class="muted">{{ . | markdownify }}</p>{{ end }}
+        </div>
+      </li>
+      {{- end }}
+    </ul>
+  </section>
+  {{- end }}
+</div>
+{{ end }}

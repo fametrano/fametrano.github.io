@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article>
+<div class="page-head"><div class="narrow">
+  <p class="crumbs"><a href="/blog/">← Blog</a></p>
+  <h1>{{ .Title }}</h1>
+  <p class="meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></p>
+</div></div>
+<div class="narrow prose"{{ with .Params.contentLang }} lang="{{ . }}"{{ end }}>
+  {{ .Content }}
+</div>
+</article>
+{{ end }}

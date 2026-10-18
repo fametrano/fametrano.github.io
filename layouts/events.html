@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="page-head"><div class="narrow">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+</div></div>
+<div class="narrow prose">
+  {{ .Content }}
+  {{ partial "yearlist.html" (dict "items" hugo.Data.events.items "id" "events") }}
+</div>
+{{ end }}

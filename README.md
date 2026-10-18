@@ -1,54 +1,42 @@
-# Repo for Ferdinando Ametrano website
+# ametrano.net
 
-[ametrano.net](https://ametrano.net)
+Personal site of Ferdinando Ametrano, built with [Hugo](https://gohugo.io) (extended, 0.168.0). English at the root, Italian under `/it/`. Italiano: [README.it.md](README.it.md).
 
-## Testing your GitHub Pages site locally with Jekyll
+No Node, no Tailwind, no third-party JavaScript, no web fonts. CSS and JS are processed by Hugo Pipes; images are resized to WebP by Hugo.
 
-The first time setup requires Ruby and Jekyll installation, plus:
-
-```shell
-gem install bundler
-bundle install
-```
-
-Then, every time:
+## Run locally
 
 ```shell
-$ bundle exec jekyll serve
-Configuration file: C:/path/to/repo/checksig-custody.github.io/_config.yml
-            Source: C:/path/to/repo/checksig-custody.github.io
-       Destination: C:/path/to/repo/checksig-custody.github.io/_site
- Incremental build: disabled. Enable with --incremental
-      Generating...
-       Jekyll Feed: Generating feed for posts
-                    done in 25.31 seconds.
- Auto-regeneration: enabled for 'C:/path/to/repo/checksig-custody.github.io'
-    Server address: 127.0.0.1:4000
-  Server running... press ctrl-c to stop.
+hugo server
 ```
 
-To preview your site, in your web browser, navigate to <127.0.0.1:4000>
+Production build: `hugo --gc --minify` (output in `public/`).
 
-From time to time you might want to update the GitHub Pages gem:
+## Add content
 
-```shell
-$ bundle update github-pages
-Fetching gem metadata from rubygems.org/...........
-Fetching gem metadata from rubygems.org/.
-Resolving dependencies....
-Using concurrent-ruby 1.1.5
-Using i18n 0.9.5
-Fetching minitest 5.14.0 (was 5.13.0)
-Installing minitest 5.14.0 (was 5.13.0)
-[...]
-Using terminal-table 1.8.0
-Fetching github-pages 204 (was 203)
-Installing github-pages 204 (was 203)
-Bundle updated!
-```
+- **Post:** a file in `content/writing/posts/` named `YYYY-MM-DD-slug.md`, with `title`, `date`, `slug` and `url: /YYYY/MM/DD/slug/`. Add `contentLang: it` for Italian posts.
+- **Event or media item:** a new entry at the top of `data/events.yaml` or `data/media.yaml` (`date`, `year`, `title`, `details`).
+- **Paper:** an entry in `data/papers.yaml`.
+- **Course edition:** a file in `content/teaching/` such as `bbt202610-essec.md`. Copy the front matter of an existing one (`url`, `date`, `layout: course`, `course`, `courseKind`, `term`, `department`, `university`). Keep the root URL.
+- **Bruce stories:** `data/bruce.yaml`, with English and Italian text. The old pages live in `static/bruce/` and keep their URLs.
 
-See also:
+Old Jekyll URLs all still resolve: posts keep `/:year/:month/:day/:title/`, courses keep their root URLs, `/papers/` and `/courses/` are aliases, `/feed.xml` is a feed of the posts, files are under `static/`.
 
-- <jekyllrb.com/docs/installation/>
-- <bundler.io/>
-- <help.https://github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll>
+## Deploy
+
+`.github/workflows/hugo.yaml` builds on pull requests and on pushes to `master`, and deploys to GitHub Pages only from `master`.
+**At merge time the repository's Pages source must be switched to "GitHub Actions"** (Settings, Pages).
+
+Analytics load in production builds only: Metricool (`params.metricoolHash`) and Cloudflare Web Analytics (`params.cloudflareAnalyticsToken`, empty by default; the workflow reads the `CLOUDFLARE_ANALYTICS_TOKEN` secret).
+
+## TODO for the owner
+
+- **Nostr:** when the account exists, put the npub in `params.nostr` (hugo.toml; the icon is hidden while empty) and the name-to-pubkey map in `static/.well-known/nostr.json` (now `{"names": {}}`).
+- **PGP:** set `params.pgpFingerprint` to the full fingerprint (the block on `/contact/` is hidden while empty). Do not guess it.
+- **Metricool sets cookies:** decide on consent or a cookieless tool before launch.
+- **CV:** publish a CV without personal data and link it from the press kit; for now it says "on request".
+- Search the source for `TODO` for the rest (photo credits, article titles, bio wording).
+
+## Licence
+
+See `LICENSE`: text and teaching material CC BY 4.0; photos and the Bruce section all rights reserved; code MIT.

@@ -1,0 +1,17 @@
+{{/* Responsive WebP from assets/. Args: src, alt, widths, sizes, class, eager. */}}
+{{- $img := resources.Get .src -}}
+{{- if not $img }}{{ errorf "img partial: %q not found in assets" .src }}{{ end -}}
+{{- $ws := .widths | default (slice 480 800 1200) -}}
+{{- $srcs := slice -}}
+{{- $big := $img -}}
+{{- range $ws }}
+  {{- if le . $img.Width }}
+    {{- $r := $img.Resize (printf "%dx webp q80" .) }}
+    {{- $srcs = $srcs | append (printf "%s %dw" $r.RelPermalink $r.Width) }}
+    {{- $big = $r }}
+  {{- end }}
+{{- end -}}
+{{- if not $srcs }}{{ $big = $img.Process "webp q80" }}{{ $srcs = slice (printf "%s %dw" $big.RelPermalink $big.Width) }}{{ end -}}
+<img src="{{ $big.RelPermalink }}" srcset="{{ delimit $srcs ", " }}" sizes="{{ .sizes | default "100vw" }}" width="{{ $big.Width }}" height="{{ $big.Height }}" alt="{{ .alt }}"
+  {{- with .class }} class="{{ . }}"{{ end }}
+  {{- if .eager }} fetchpriority="high" decoding="async"{{ else }} loading="lazy" decoding="async"{{ end }}>

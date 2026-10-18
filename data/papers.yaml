@@ -21,7 +21,7 @@ papers:
     url: "https://www.maggiolieditore.it/digital-italy-2023.html"
     links:
       - { label: "Maggioli", url: "https://www.maggiolieditore.it/digital-italy-2023.html" }
-      - { label: "PDF", url: "/docs/DigitalItaly2023.pdf" }
+      - { label: "PDF (© Maggioli Editore)", url: "/docs/DigitalItaly2023.pdf" }
   - date: "2022-02"
     year: 2022
     title: "Exploring the dependencies among main cryptocurrency log-returns: A hidden Markov model"

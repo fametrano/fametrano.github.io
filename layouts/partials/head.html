@@ -62,6 +62,5 @@
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ site.Params.cloudflareAnalyticsToken }}"}'></script>
 {{- end }}
 {{- if and hugo.IsProduction site.Params.metricoolHash }}
-{{/* TODO: Metricool sets cookies. Add consent handling before launch. */}}
 <script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"{{ site.Params.metricoolHash }}"})});</script>
 {{- end }}

@@ -1,19 +1,19 @@
 ---
-title: "Bitcoin & Crypto-Assets, March-May 2025"
+title: "Bitcoin & Crypto-Assets, March-April 2025"
 description: Bitcoin & Crypto-Assets, including slides, code, videos, etc.
 url: /bbt202503-bicocca/
 date: 2025-03-01
 layout: course
 course: "Bitcoin & Crypto-Assets"
 courseKind: bbt
-term: "April-May 2025"
+term: "March-April 2025"
 department: "Department of Statistics and Quantitative Methods, University of Milano-Bicocca"
 university: "University of Milano-Bicocca"
 ---
 
 ## Bitcoin, Crypto-Assets, and Blockchain Technology
 
-March-May 2025  
+March-April 2025  
 University of Milano-Bicocca
 
 e-learning: <https://elearning.unimib.it/course/view.php?id=55237>

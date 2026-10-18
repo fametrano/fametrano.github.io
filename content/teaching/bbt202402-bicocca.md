@@ -6,7 +6,7 @@ date: 2024-02-01
 layout: course
 course: "Bitcoin and Blockchain Technology"
 courseKind: bbt
-term: "February-April 2024"
+term: "February-March 2024"
 department: "Department of Statistics and Quantitative Methods, University of Milano-Bicocca"
 university: "University of Milano-Bicocca"
 ---

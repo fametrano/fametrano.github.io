@@ -10,7 +10,7 @@ Nome da usare: **Ferdinando Ametrano**. Affiliazione sintetica: fondatore e ammi
 
 <div class="bio" id="bio-short">
 
-Ferdinando Ametrano è fondatore e amministratore delegato di [CheckSig](https://checksig.com), custode bitcoin italiano regolamentato, e direttore scientifico di [Digital Gold Institute](https://dgi.io) e [Crypto Asset Lab](https://cryptoassetlab.org). Ex fisico con 20 anni in finanza, insegna Bitcoin and Blockchain Technology come professore a contratto.
+Ferdinando Ametrano è fondatore e amministratore delegato di [CheckSig](https://checksig.com), custode bitcoin italiano regolamentato, e direttore scientifico di [Digital Gold Institute](https://dgi.io) e [Crypto Asset Lab](https://cryptoassetlab.org). Ex fisico con 20 anni in finanza, insegna Bitcoin & Crypto-Assets come professore a contratto.
 
 </div>
 
@@ -20,7 +20,7 @@ Ferdinando Ametrano è fondatore e amministratore delegato di [CheckSig](https:/
 
 Fisico per formazione universitaria, dopo quasi venti anni in _investment banking_, _asset management_ e finanza quantitativa, Ferdinando Ametrano scopre bitcoin nel 2014: da allora è il suo principale interesse professionale e accademico.
 
-È fondatore e amministratore delegato di [CheckSig](https://checksig.com) (soluzioni bitcoin e cripto per investitori _private_ e istituzionali), fondatore e direttore scientifico di [Digital Gold Institute](https://dgi.io) e di [Crypto Asset Lab](https://cryptoassetlab.org) all'Università di Milano-Bicocca, e professore a contratto di Bitcoin and Blockchain Technology a Milano-Bicocca, all'Università di Milano e alla ESSEC Business School. Manutiene [btclib](https://btclib.org), una libreria Python per bitcoin, ed è fondatore del progetto [QuantLib](https://www.quantlib.org).
+È fondatore e amministratore delegato di [CheckSig](https://checksig.com) (soluzioni bitcoin e cripto per investitori _private_ e istituzionali), fondatore e direttore scientifico di [Digital Gold Institute](https://dgi.io) e di [Crypto Asset Lab](https://cryptoassetlab.org) all'Università di Milano-Bicocca, e professore a contratto di Bitcoin & Crypto-Assets a Milano-Bicocca, all'Università di Milano e alla ESSEC Business School. Manutiene [btclib](https://btclib.org), una libreria Python per bitcoin, ed è fondatore del progetto [QuantLib](https://www.quantlib.org).
 
 La sua ricerca è focalizzata sulla stabilità dei prezzi e propone una nuova generazione di criptovalute a politica monetaria elastica ma automatizzata e non discrezionale ([Hayek Money](https://ssrn.com/abstract=2425270)).
 
@@ -32,7 +32,7 @@ La sua ricerca è focalizzata sulla stabilità dei prezzi e propone una nuova ge
 
 Fisico per formazione universitaria, dopo oltre venti anni in ambito _investment banking_, _asset management_ e _quantitative finance_, Ferdinando Ametrano scopre bitcoin nel 2014: da allora bitcoin è il suo principale interesse professionale e accademico.
 
-Fondatore ed amministratore delegato di [CheckSig](https://checksig.com) (soluzioni bitcoin e cripto per investitori _private_ e istituzionali), fondatore e direttore scientifico di [Digital Gold Institute](https://dgi.io) (R&D, consulenza e formazione su bitcoin e tecnologia blockchain), è anche fondatore e direttore scientifico del [Crypto Asset Lab](https://cryptoassetlab.org) all'Università di Milano-Bicocca, dove insegna Bitcoin and Blockchain Technology.
+Fondatore ed amministratore delegato di [CheckSig](https://checksig.com) (soluzioni bitcoin e cripto per investitori _private_ e istituzionali), fondatore e direttore scientifico di [Digital Gold Institute](https://dgi.io) (R&D, consulenza e formazione su bitcoin e tecnologia blockchain), è anche fondatore e direttore scientifico del [Crypto Asset Lab](https://cryptoassetlab.org) all'Università di Milano-Bicocca, dove insegna Bitcoin & Crypto-Assets.
 
 È stato [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset) in Intesa Sanpaolo e membro del Comitato Organizzatore della conferenza [Scaling Bitcoin](https://scalingbitcoin.org/); è presidente della [CAL conference](https://cryptoassetlab.org/calconf/) organizzata assieme alla Commissione Europea, contribuisce occasionalmente a [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin) e manutiene [btclib](https://btclib.org).
 

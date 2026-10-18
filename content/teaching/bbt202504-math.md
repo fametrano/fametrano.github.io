@@ -6,7 +6,7 @@ date: 2025-04-01
 layout: course
 course: "Bitcoin & Crypto-Assets"
 courseKind: bbt
-term: "May-June 2025"
+term: "April-June 2025"
 department: "Department of Mathematics, University of Milan (La Statale)"
 university: "University of Milan (La Statale)"
 ---

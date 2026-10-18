@@ -1,6 +1,6 @@
 ---
 title: "Ferdinando Ametrano"
-description: "Ferdinando Ametrano: CheckSig founder and CEO, scientific director of Digital Gold Institute and Crypto Asset Lab, adjunct professor of Bitcoin and Blockchain Technology."
+description: "Ferdinando Ametrano: CheckSig founder and CEO, scientific director of Digital Gold Institute and Crypto Asset Lab, adjunct professor of Bitcoin & Crypto-Assets."
 hero:
   eyebrow: "Bitcoin · Teaching · Research"
   title: "Founder, professor, researcher. <em>Bitcoin</em> since 2014."
@@ -19,7 +19,7 @@ cards:
   - title: "Teaching & Research"
     icon: teaching
     url: "/teaching/"
-    text: "Bitcoin and Blockchain Technology at Milano-Bicocca, the University of Milan and ESSEC. Papers on Hayek Money and interest rates."
+    text: "Bitcoin & Crypto-Assets at Milano-Bicocca, the University of Milan and ESSEC. Papers on Hayek Money and interest rates."
   - title: "Writing & Talks"
     icon: writing
     url: "/writing/"

@@ -1,6 +1,6 @@
 ---
 title: "Ferdinando Ametrano"
-description: "Ferdinando Ametrano: fondatore e amministratore delegato di CheckSig, direttore scientifico di Digital Gold Institute e Crypto Asset Lab, professore a contratto di Bitcoin and Blockchain Technology."
+description: "Ferdinando Ametrano: fondatore e amministratore delegato di CheckSig, direttore scientifico di Digital Gold Institute e Crypto Asset Lab, professore a contratto di Bitcoin & Crypto-Assets."
 hero:
   eyebrow: "Bitcoin · Didattica · Ricerca"
   title: "Imprenditore, docente, ricercatore. <em>Bitcoin</em> dal 2014."
@@ -19,7 +19,7 @@ cards:
   - title: "Didattica e ricerca"
     icon: teaching
     url: "/it/teaching/"
-    text: "Bitcoin and Blockchain Technology a Milano-Bicocca, Università di Milano ed ESSEC. Articoli su Hayek Money e tassi d'interesse."
+    text: "Bitcoin & Crypto-Assets a Milano-Bicocca, Università di Milano ed ESSEC. Articoli su Hayek Money e tassi d'interesse."
   - title: "Scritti e interventi"
     icon: writing
     url: "/it/writing/"

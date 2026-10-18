@@ -10,7 +10,7 @@ Name to use: **Ferdinando Ametrano**. Affiliation line: CheckSig founder and CEO
 
 <div class="bio" id="bio-short">
 
-Ferdinando Ametrano is founder and CEO of [CheckSig](https://checksig.com), an Italian regulated bitcoin custodian, and Scientific Director of [Digital Gold Institute](https://dgi.io) and [Crypto Asset Lab](https://cryptoassetlab.org). A former physicist with 20 years in finance, he teaches Bitcoin and Blockchain Technology as adjunct professor.
+Ferdinando Ametrano is founder and CEO of [CheckSig](https://checksig.com), an Italian regulated bitcoin custodian, and Scientific Director of [Digital Gold Institute](https://dgi.io) and [Crypto Asset Lab](https://cryptoassetlab.org). A former physicist with 20 years in finance, he teaches Bitcoin & Crypto-Assets as adjunct professor.
 
 </div>
 
@@ -20,7 +20,7 @@ Ferdinando Ametrano is founder and CEO of [CheckSig](https://checksig.com), an I
 
 Former physicist, after almost twenty years in investment banking, asset management and quantitative finance, Ferdinando Ametrano discovered bitcoin in 2014. Since then it has been his main professional and academic interest.
 
-He is founder and CEO of [CheckSig](https://checksig.com) (bitcoin and crypto solutions for private and institutional investors), founder and scientific director of [Digital Gold Institute](https://dgi.io) and of [Crypto Asset Lab](https://cryptoassetlab.org) at Milano-Bicocca University, and adjunct professor of Bitcoin and Blockchain Technology at Milano-Bicocca, the University of Milan and ESSEC Business School. He maintains [btclib](https://btclib.org), a bitcoin Python library, and founded the [QuantLib](https://www.quantlib.org) project.
+He is founder and CEO of [CheckSig](https://checksig.com) (bitcoin and crypto solutions for private and institutional investors), founder and scientific director of [Digital Gold Institute](https://dgi.io) and of [Crypto Asset Lab](https://cryptoassetlab.org) at Milano-Bicocca University, and adjunct professor of Bitcoin & Crypto-Assets at Milano-Bicocca, the University of Milan and ESSEC Business School. He maintains [btclib](https://btclib.org), a bitcoin Python library, and founded the [QuantLib](https://www.quantlib.org) project.
 
 His research focuses on price stability and proposes automated, non-discretionary elastic monetary policy for a new generation of cryptocurrencies ([Hayek Money](https://ssrn.com/abstract=2425270)).
 
@@ -32,7 +32,7 @@ His research focuses on price stability and proposes automated, non-discretionar
 
 Former physicist, after almost twenty years in investment banking, asset management, and quantitative finance, Ferdinando Ametrano discovered bitcoin in 2014: since then bitcoin has been his major professional and academic interest.
 
-Founder and CEO of [CheckSig](https://checksig.com) (bitcoin and crypto solutions for private and institutional investors), founder and scientific director of the [Digital Gold Institute](https://dgi.io) (R&D, consultancy, and training about bitcoin and blockchain technology), Ferdinando is also founder and scientific director of the [Crypto Asset Lab](https://cryptoassetlab.org) at Milano-Bicocca University, where he teaches Bitcoin and Blockchain Technology.
+Founder and CEO of [CheckSig](https://checksig.com) (bitcoin and crypto solutions for private and institutional investors), founder and scientific director of the [Digital Gold Institute](https://dgi.io) (R&D, consultancy, and training about bitcoin and blockchain technology), Ferdinando is also founder and scientific director of the [Crypto Asset Lab](https://cryptoassetlab.org) at Milano-Bicocca University, where he teaches Bitcoin & Crypto-Assets.
 
 Former [Head of Blockchain and Virtual Currencies](https://www.finextra.com/videoarticle/1241/blockchain-needs-a-native-digital-asset) in Intesa Sanpaolo bank, he has been Planning Committee member of the [Scaling Bitcoin](https://scalingbitcoin.org/) conference, is chair of the [CAL conference](https://cryptoassetlab.org/calconf/) co-organized with the European Commission, is an occasional contributor to [Bitcoin](https://github.com/pulls?q=author%3Afametrano+user%3Abitcoin-core+user%3Abitcoin), and maintains [btclib](https://btclib.org).
 

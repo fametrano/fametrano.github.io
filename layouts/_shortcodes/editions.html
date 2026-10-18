@@ -1,0 +1,11 @@
+{{- /* Editions of a course that have a page, newest first. Args: kind (courseKind), from (first year, optional). Course name, term and department come from each edition's own page params. */ -}}
+{{- $kind := .Get "kind" -}}
+{{- $from := int (.Get "from" | default 0) -}}
+<ul class="course-list">
+{{- range (where site.RegularPages "Params.coursekind" $kind).ByDate.Reverse }}
+  {{- if ge .Date.Year $from }}
+  <li><div><a href="{{ .RelPermalink }}">{{ .Params.course }}, {{ .Params.term }}</a></div>
+    <span class="muted">{{ .Params.department }}</span></li>
+  {{- end }}
+{{- end }}
+</ul>

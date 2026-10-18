@@ -1,27 +1,28 @@
 ---
-title: "Bitcoin Courses"
-description: Bitcoin courses, including slides, code, videos, etc.
+title: "Bitcoin & Crypto-Assets"
+description: Bitcoin & Crypto-Assets course, including slides, code, videos, etc.
 url: /bbt/
 ---
 
-## Bitcoin courses
+## Bitcoin & Crypto-Assets
 
-* [Bitcoin & Crypto-Assets, March-April 2025](/bbt202503-bicocca/)  
-  _Department of Statistics and Quantitative Methods, University of Milano-Bicocca_
-* [Bitcoin & Crypto-Assets, April-June 2025](/bbt202504-math/)  
-  _Department of Mathematics, University of Milan (La Statale)_
-* [Bitcoin & Crypto-Assets, October-December 2025](/bbt202510-essec/)  
-  _Department of Finance, ESSEC Business School_
+The course was earlier called "Bitcoin and Blockchain Technology".
+
+Current edition: Bitcoin & Crypto-Assets, ESSEC Business School, autumn 2026. The syllabus below applies.
+
+Previous editions with a page, most recent first:
+
+{{< editions kind="bbt" from="2025" >}}
 
 Please refer to the page dedicated to your university, if available above.
-For previous editions, see the [courses page](/courses).
+For previous editions, see the [courses page](/teaching/).
 
 These courses are for the students of those universities;
 anyone else, please consider <https://dgi.io/workshop>.
 
 ## Learning objectives
 
-The course is about bitcoin and the associated blockchain
+The course is about bitcoin, crypto-assets, and the associated blockchain
 technology.
 
 Starting from a computationally focused approach to

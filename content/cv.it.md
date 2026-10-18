@@ -43,6 +43,11 @@ La [pagina della didattica](/it/teaching/) elenca tutte le edizioni.
 * Laurea in Fisica, Università degli Studi di Milano, 110/110 con lode.
 * Borsa di studio Ansaldo Energie: simulazione di magneti superconduttori all'INFN di Milano e al CERN di Ginevra.
 
+## Lingue
+
+* Italiano: madrelingua.
+* Inglese: competenza professionale completa.
+
 ## Pubblicazioni scelte
 
 Stabilità dei prezzi per le criptovalute ([Hayek Money](https://ssrn.com/abstract=2425270)), bitcoin e distributed ledger, modelli per i tassi d'interesse. L'elenco completo è nella [pagina della ricerca](/it/research/).
@@ -52,4 +57,4 @@ Stabilità dei prezzi per le criptovalute ([Hayek Money](https://ssrn.com/abstra
 * **btclib.** Manutentore. Una libreria Python per bitcoin.
 * **QuantLib.** Fondatore ed ex coamministratore. Un framework software libero e open source per la finanza quantitativa.
 * **Bitcoin Core.** Contributore.
-* **Scaling Bitcoin.** Ex membro del comitato organizzatore.
+* **Scaling Bitcoin.** Presidente del comitato ospitante, [Scaling Bitcoin](https://scalingbitcoin.org/milan2016/), Milano, 8-9 ottobre 2016.

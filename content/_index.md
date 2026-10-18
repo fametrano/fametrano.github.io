@@ -1,10 +1,10 @@
 ---
 title: "Ferdinando Ametrano"
-description: "Ferdinando Ametrano: CheckSig founder and CEO, scientific director of Digital Gold Institute and Crypto Asset Lab, adjunct professor of Bitcoin & Crypto-Assets."
+description: "Ferdinando Ametrano: CheckSig co-founder and CEO, founder and scientific director of Digital Gold Institute and Crypto Asset Lab, adjunct professor of Bitcoin & Crypto-Assets."
 hero:
   eyebrow: "Bitcoin · Teaching · Research"
   title: "Founder, professor, researcher. <em>Bitcoin</em> since 2014."
-  intro: "Founder and CEO of [CheckSig](https://checksig.com), an Italian regulated bitcoin custodian. Scientific Director of [Digital Gold Institute](https://dgi.io) and [Crypto Asset Lab](https://cryptoassetlab.org). Former physicist, 20 years in finance, [QuantLib](https://www.quantlib.org/) founder and [btclib](https://github.com/btclib-org/btclib) maintainer."
+  intro: "Co-founder and CEO of [CheckSig](https://checksig.com), an Italian regulated bitcoin custodian. Founder and Scientific Director of [Digital Gold Institute](https://dgi.io) and of [Crypto Asset Lab](https://cryptoassetlab.org) (Department of Business and Law, University of Milano-Bicocca). Former physicist, more than twenty years in finance, [QuantLib](https://www.quantlib.org/) founder and [btclib](https://github.com/btclib-org/btclib) maintainer."
   badges: ["CheckSig", "DGI", "Crypto Asset Lab", "Bicocca · Unimi · ESSEC", "QuantLib", "btclib"]
   cta: "Invite me"
   ctaUrl: "/contact/"
@@ -30,7 +30,7 @@ cards:
     text: "A long-time Springsteen fan, with a few stories to tell."
 bitcoin:
   title: "Digital gold, taught and built"
-  text: "I discovered bitcoin in 2014 after 20 years as a finance professional. Since then it has been my main professional and academic interest: [Hayek Money](https://ssrn.com/abstract=2425270) for price stability, a university course, a Python library and a custody company."
+  text: "I discovered bitcoin in 2014 after more than twenty years as a finance professional. Since then it has been my main professional and academic interest: [Hayek Money](https://ssrn.com/abstract=2425270) for price stability, a university course, a Python library and a custody company."
   links:
     - label: "Papers"
       url: "/research/"

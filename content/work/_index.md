@@ -5,7 +5,7 @@ groups:
   - title: "Now"
     items:
       - name: "CheckSig"
-        role: "Founder and CEO"
+        role: "Co-founder and CEO"
         text: "Bitcoin and crypto solutions for private and institutional investors. Italian regulated bitcoin custodian."
         url: "https://checksig.com"
         urlLabel: "checksig.com"
@@ -16,7 +16,7 @@ groups:
         urlLabel: "dgi.io"
       - name: "Crypto Asset Lab"
         role: "Founder and Scientific Director"
-        text: "Research lab at the University of Milano-Bicocca. Ferdinando chairs the [CAL conference](https://cryptoassetlab.org/calconf/), co-organised with the European Commission."
+        text: "Research lab of the Department of Business and Law, University of Milano-Bicocca. Ferdinando chairs the [CAL conference](https://cryptoassetlab.org/calconf/), co-organised with the European Commission."
         url: "https://cryptoassetlab.org"
         urlLabel: "cryptoassetlab.org"
   - title: "Open source"
@@ -41,5 +41,5 @@ groups:
         text: "Headed trading, quantitative and risk-management teams. Cofounder and managing partner of RiskMap, now part of Confluence Technologies."
       - name: "Physics"
         role: "Education"
-        text: "Former physicist; almost twenty years in investment banking, asset management and quantitative finance, then bitcoin in 2014."
+        text: "Former physicist; more than twenty years in investment banking, asset management and quantitative finance, then bitcoin in 2014."
 ---

@@ -6,13 +6,13 @@
   (dict "@type" "CollegeOrUniversity" "name" "University of Milan" "url" "https://www.unimi.it")
   (dict "@type" "CollegeOrUniversity" "name" "ESSEC Business School" "url" "https://www.essec.edu")
   (dict "@type" "Organization" "name" "Digital Gold Institute" "url" "https://dgi.io")
-  (dict "@type" "Organization" "name" "Crypto Asset Lab" "url" "https://cryptoassetlab.org") -}}
+  (dict "@type" "Organization" "name" "Crypto Asset Lab" "url" "https://cryptoassetlab.org" "parentOrganization" (dict "@type" "Organization" "name" "Department of Business and Law, University of Milano-Bicocca")) -}}
 {{- $person := dict
   "@context" "https://schema.org"
   "@type" "Person"
   "name" "Ferdinando Ametrano"
   "url" site.BaseURL
-  "jobTitle" "Founder and CEO"
+  "jobTitle" "Co-founder and CEO"
   "worksFor" (dict "@type" "Organization" "name" "CheckSig" "url" "https://checksig.com")
   "affiliation" $org
   "knowsAbout" (slice "Bitcoin" "Blockchain" "Monetary theory" "Quantitative finance")

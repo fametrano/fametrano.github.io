@@ -29,7 +29,7 @@ File originali, liberi da usare citando il nome qui sopra.
 
 ## Curriculum vitae
 
-Un CV sintetico è disponibile su richiesta tramite il [modulo di contatto](https://bit.ly/contactametrano).
+Il [curriculum vitae](/it/cv/) è una pagina di questo sito. Stampala per ottenere un PDF.
 
 ## Inviti
 

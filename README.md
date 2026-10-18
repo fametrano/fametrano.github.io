@@ -33,7 +33,6 @@ Analytics load in production builds only: Metricool (`params.metricoolHash`) and
 
 - **Nostr:** when the account exists, put the npub in `params.nostr` (hugo.toml; the icon is hidden while empty) and the name-to-pubkey map in `static/.well-known/nostr.json` (now `{"names": {}}`).
 - **PGP:** set `params.pgpFingerprint` to the full fingerprint (the block on `/contact/` is hidden while empty). Do not guess it.
-- **CV:** publish a CV without personal data and link it from the press kit; for now it says "on request".
 - Search the source for `TODO` for the rest (photo credits, article titles, bio wording).
 
 ## Commits

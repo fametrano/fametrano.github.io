@@ -6,7 +6,7 @@ groups:
     items:
       - name: "CheckSig"
         role: "Co-fondatore e CEO"
-        text: "Soluzioni bitcoin e cripto per investitori private e istituzionali. Custode bitcoin italiano regolamentato."
+        text: "Soluzioni bitcoin e cripto per investitori privati e istituzionali. Custode bitcoin italiano regolamentato."
         url: "https://checksig.com"
         urlLabel: "checksig.com"
       - name: "Digital Gold Institute"

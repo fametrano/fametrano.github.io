@@ -33,7 +33,6 @@ Le statistiche sono caricate solo nelle build di produzione: Metricool (`params.
 
 - **Nostr:** quando l'account esiste, inserire la npub in `params.nostr` (hugo.toml; l'icona è nascosta finché è vuoto) e la mappa nome-chiave pubblica in `static/.well-known/nostr.json` (ora `{"names": {}}`).
 - **PGP:** impostare `params.pgpFingerprint` con l'impronta completa (il blocco in `/contact/` è nascosto finché è vuoto). Non va indovinata.
-- **CV:** pubblicare un CV senza dati personali e collegarlo dal press kit; per ora dice "su richiesta".
 - Cercare `TODO` nei sorgenti per il resto (crediti delle foto, titoli degli articoli, testo delle bio).
 
 ## Commit

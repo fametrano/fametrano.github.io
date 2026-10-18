@@ -96,6 +96,12 @@ items:
     details:
       - "[Bitcoin: come funzionano, i valori, i rischi e l'esperimento di Rovereto](https://www.iene.mediaset.it/video/bitcoin-come-funzionano-i-valori-esperimento-di-rovereto_1031237.shtml)"
     lang: it
+  - date: "2018-12-05"
+    year: 2018
+    title: "Corriere della Sera"
+    details:
+      - "Crolla l'illusione del bitcoin · [PDF](/images/20181205-Crolla-illusione-bitcoin.pdf) (© Corriere della Sera)"
+    lang: it
   - date: "2018-11-21"
     year: 2018
     title: "Il Foglio"

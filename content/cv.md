@@ -43,6 +43,11 @@ The [teaching page](/teaching/) has every edition.
 * Laurea in Physics, Università degli Studi di Milano, 110/110 cum laude.
 * Ansaldo Energie fellowship: simulation of superconducting magnets at INFN Milan and CERN Geneva.
 
+## Languages
+
+* Italian: native.
+* English: full professional proficiency.
+
 ## Selected publications
 
 Price stability for cryptocurrencies ([Hayek Money](https://ssrn.com/abstract=2425270)), bitcoin and distributed ledgers, interest rate modelling. The full list is on the [research page](/research/).
@@ -52,4 +57,4 @@ Price stability for cryptocurrencies ([Hayek Money](https://ssrn.com/abstract=24
 * **btclib.** Maintainer. A Python library for bitcoin.
 * **QuantLib.** Founder and former co-administrator. A free and open source software framework for quantitative finance.
 * **Bitcoin Core.** Contributor.
-* **Scaling Bitcoin.** Former member of the organising committee.
+* **Scaling Bitcoin.** Chair of the host committee, [Scaling Bitcoin](https://scalingbitcoin.org/milan2016/), Milan, 8-9 October 2016.

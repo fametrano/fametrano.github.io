@@ -3,7 +3,7 @@ name: Hugo site
 on:
   pull_request:
   push:
-    branches: [master]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -11,7 +11,7 @@ permissions:
 
 concurrency:
   group: pages-${{ github.ref }}
-  cancel-in-progress: ${{ github.ref != 'refs/heads/master' }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
 
 jobs:
   build:
@@ -29,15 +29,15 @@ jobs:
         # production, so pull requests build without it.
         env:
           HUGO_PARAMS_CLOUDFLAREANALYTICSTOKEN: ${{ secrets.CLOUDFLARE_ANALYTICS_TOKEN }}
-        run: hugo --gc --minify --environment ${{ github.ref == 'refs/heads/master' && 'production' || 'development' }}
+        run: hugo --gc --minify --environment ${{ github.ref == 'refs/heads/main' && 'production' || 'development' }}
       - name: Upload artifact
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:
           path: ./public
 
   deploy:
-    if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     needs: build
     runs-on: ubuntu-24.04
     permissions:

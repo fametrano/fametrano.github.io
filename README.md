@@ -24,7 +24,7 @@ Old Jekyll URLs all still resolve: posts keep `/:year/:month/:day/:title/`, cour
 
 ## Deploy
 
-`.github/workflows/hugo.yaml` builds on pull requests and on pushes to `master`, and deploys to GitHub Pages only from `master`.
+`.github/workflows/hugo.yaml` builds on pull requests and on pushes to `main`, and deploys to GitHub Pages only from `main`.
 **At merge time the repository's Pages source must be switched to "GitHub Actions"** (Settings, Pages).
 
 Analytics load in production builds only: Metricool (`params.metricoolHash`) and Cloudflare Web Analytics (`params.cloudflareAnalyticsToken`, empty by default; the workflow reads the `CLOUDFLARE_ANALYTICS_TOKEN` secret).

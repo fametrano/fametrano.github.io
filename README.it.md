@@ -24,7 +24,7 @@ Tutti i vecchi URL di Jekyll continuano a funzionare: gli articoli mantengono `/
 
 ## Pubblicazione
 
-`.github/workflows/hugo.yaml` costruisce il sito sulle pull request e sui push su `master`, e pubblica su GitHub Pages solo da `master`.
+`.github/workflows/hugo.yaml` costruisce il sito sulle pull request e sui push su `main`, e pubblica su GitHub Pages solo da `main`.
 **Al momento del merge la sorgente di Pages del repository va impostata su "GitHub Actions"** (Settings, Pages).
 
 Le statistiche sono caricate solo nelle build di produzione: Metricool (`params.metricoolHash`) e Cloudflare Web Analytics (`params.cloudflareAnalyticsToken`, vuoto di default; il workflow legge il secret `CLOUDFLARE_ANALYTICS_TOKEN`).

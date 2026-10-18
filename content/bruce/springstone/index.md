@@ -15,6 +15,8 @@ BruceSpringstone/bruce_springstone.jpg | Springstone artwork, front and back: Br
 BruceSpringstone/springstone.jpg | Springstone artwork, front (different version): Take Me Out To The Ball Game
 {{< /gallery >}}
 
+The images on this page belong to their respective authors.
+
 ## Music
 
 1. Bedrock Rap - Meet The Flintstones

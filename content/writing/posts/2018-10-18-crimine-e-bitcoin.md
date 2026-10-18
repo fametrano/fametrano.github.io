@@ -9,7 +9,10 @@ url: /2018/10/18/crimine-e-bitcoin/
 Ha avuto in questi giorni una certa diffusione il [Cryptocurrency
 Anti-Money Laundering Report Q2](https://web.archive.org/web/20240806082448/https://cdn2.hubspot.net/hubfs/4345106/crypto_aml_report_2018q2.pdf), che tenta di far luce sull'utilizzo di bitcoin ed affini nel riciclaggio. Il report documenta un fenomeno in crescita, ma non riesce a contestualizzarlo appropriatamente.
 
-![Crimine e bitcoin](/images/bitcoin-crime.jpg)
+<figure class="bfig" style="--w:480px">
+<img src="/images/bitcoin-crime.jpg" alt="Crimine e bitcoin" width="480" height="320" />
+<figcaption>Immagine di autore incerto.</figcaption>
+</figure>
 
 Anzitutto perché non distingue tra il crimine che colpisce gli intermediari come le borse di scambio con falle nei loro sistemi di sicurezza (rubando bitcoin), dal crimine che invece usa bitcoin nei ricatti online (ransomware), o infine dall’utilizzo in attività criminali tradizionali (spaccio, vendita di armi, terrorismo).
 

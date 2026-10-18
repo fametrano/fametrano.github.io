@@ -30,7 +30,7 @@ cards:
     text: "Fan di Springsteen da sempre, con qualche storia da raccontare."
 bitcoin:
   title: "Oro digitale, da insegnare e da costruire"
-  text: "Ho lavorato in finanza per oltre vent'anni, dal 1996 al 2018. Ho scoperto bitcoin nel 2014. Dal 2018 mi occupo solo di bitcoin. È il mio principale interesse professionale e accademico: [Hayek Money](https://ssrn.com/abstract=2425270) per la stabilità dei prezzi, un corso universitario, una libreria Python e un'azienda di custodia."
+  text: "Ho lavorato in finanza per oltre vent'anni, dal 1996 al 2018. Ho scoperto bitcoin nel 2014. Da allora ha occupato una parte sempre maggiore del mio lavoro. Ho lasciato la banca nel 2018 e ho smesso di insegnare finanza nel 2022. Oggi bitcoin è il mio principale interesse professionale e accademico: [Hayek Money](https://ssrn.com/abstract=2425270) per la stabilità dei prezzi, un corso universitario, una libreria Python e un'azienda di custodia."
   links:
     - label: "Pubblicazioni"
       url: "/it/research/"

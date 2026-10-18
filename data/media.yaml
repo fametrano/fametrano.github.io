@@ -96,6 +96,12 @@ items:
     details:
       - "[Bitcoin: come funzionano, i valori, i rischi e l'esperimento di Rovereto](https://www.iene.mediaset.it/video/bitcoin-come-funzionano-i-valori-esperimento-di-rovereto_1031237.shtml)"
     lang: it
+  - date: "2020-10-28"
+    year: 2020
+    title: "Il Sole 24 Ore"
+    details:
+      - "op-ed: [Se la valuta digitale diventa di Stato](https://it.linkedin.com/pulse/se-la-valuta-digitale-diventa-di-stato-ferdinando-maria-ametrano)"
+    lang: it
   - date: "2018-12-05"
     year: 2018
     title: "Corriere della Sera"

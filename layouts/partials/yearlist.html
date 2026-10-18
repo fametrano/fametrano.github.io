@@ -16,7 +16,7 @@
       <li class="row">
         <span class="date">{{ .date }}</span>
         <div class="what">
-          <p>{{ .title | markdownify }}{{ with .lang }}{{ partial "badge.html" . }}{{ end }}</p>| markdownify }}</p>
+          <p>{{ .title | markdownify }}{{ with .lang }}{{ partial "badge.html" . }}{{ end }}</p>
           {{- range .details }}<p class="muted">{{ . | markdownify }}</p>{{ end }}
         </div>
       </li>

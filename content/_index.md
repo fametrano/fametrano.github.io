@@ -30,7 +30,7 @@ cards:
     text: "A long-time Springsteen fan, with a few stories to tell."
 bitcoin:
   title: "Digital gold, taught and built"
-  text: "I worked in finance for more than twenty years, from 1996 to 2018. I discovered bitcoin in 2014. From then on it took a growing share of my work. I left the bank in 2018 and stopped teaching finance in 2022. Bitcoin is now my main professional and academic interest: [Hayek Money](https://ssrn.com/abstract=2425270) for price stability, a university course, a Python library and a custody company."
+  text: "I worked in finance for more than twenty years, from 1996 to 2018. I discovered bitcoin in 2014. Since then bitcoin has taken a growing share of my work. I left Banca IMI in 2018 and stopped teaching finance in 2022. Bitcoin is now my main professional and academic interest: [Hayek Money](https://ssrn.com/abstract=2425270) for price stability, a university course, a Python library and a custody company."
   links:
     - label: "Papers"
       url: "/research/"

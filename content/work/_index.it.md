@@ -41,5 +41,5 @@ groups:
         text: "Ha guidato team di trading, quantitativi e di risk management. Cofondatore e managing partner di RiskMap, oggi parte di Confluence Technologies."
       - name: "Fisica"
         role: "Formazione"
-        text: "Fisico per formazione. Oltre vent'anni in finanza, dal 1996 al 2018: investment banking, asset management e finanza quantitativa. Bitcoin dal 2014, con una parte sempre maggiore del suo lavoro. Ha lasciato la banca nel 2018 e ha smesso di insegnare finanza nel 2022."
+        text: "Fisico per formazione. Oltre vent'anni in finanza, dal 1996 al 2018: investment banking, asset management e finanza quantitativa. Dal 2014 bitcoin occupa una parte sempre maggiore del suo lavoro. Ha lasciato Banca IMI nel 2018 e ha smesso di insegnare finanza nel 2022."
 ---

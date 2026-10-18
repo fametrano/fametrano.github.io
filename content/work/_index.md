@@ -41,5 +41,5 @@ groups:
         text: "Headed trading, quantitative and risk-management teams. Cofounder and managing partner of RiskMap, now part of Confluence Technologies."
       - name: "Physics"
         role: "Education"
-        text: "Former physicist. More than twenty years in finance, 1996 to 2018: investment banking, asset management and quantitative finance. Bitcoin since 2014, a growing share of his work. He left the bank in 2018 and stopped teaching finance in 2022."
+        text: "Former physicist. More than twenty years in finance, 1996 to 2018: investment banking, asset management and quantitative finance. Since 2014 bitcoin has taken a growing share of his work. He left Banca IMI in 2018 and stopped teaching finance in 2022."
 ---

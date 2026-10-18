@@ -83,7 +83,7 @@ https://www.ilsole24ore.com/art/finanza-e-mercati/2017-04-05/chi-governa-bitcoin
 
 2017-03-27 Università di Milano-Bicocca
 Bitcoin and Blockchain Technology: An Introduction
-video (ITA): goo.gl/tbB4Pu
+video (ITA): https://www.youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=8
 slides (ENG): https://www.slideshare.net/Ferdinando1970/bitcoin-and-blockchain-technology-an-introduction-75326058
 
 2017-03-23 Universit� della Calabria
@@ -100,7 +100,7 @@ events.risk.net/quantsummiteurope
 
 2017-03-13/14 Blockchain Business Board, London
 Blockchain Academy
-event: goo.gl/JoeI5s
+event:
 
 2017-03-08 Triwu
 (ITA) video interview: Bitcoin Totale
@@ -112,45 +112,44 @@ smartmoney.startupitalia.eu/bitcoin-blockchain/60163-20170303-ferdinando-ametran
 
 2017-02-23 Interlogica
 (ITA) video interview: Inside Blockchain
-goo.gl/9Wzg8w
+https://www.youtube.com/watch?v=NiuM5DA_9tY&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=7
 
 2017-02 Blockchain Business Board
 video interview
-part 1 goo.gl/trUYs8
-part 2 goo.gl/rLW6lS
-part 3 goo.gl/ZWBR8A
+part 1
+part 2 https://www.youtube.com/watch?v=1HMwoEzHbUc&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=7
+part 3
 
 2017-02-09 Class CNBC
 (ITA) Bitcoin come strumento di investimento
-video (original): goo.gl/8e5HGh
+video (original): http://video.milanofinanza.it/classcnbc/patrimoni/I-vantaggi-di-trust-e-bitcoin--Quanto-guadagnano-i-private-bankers--61244/
 video (only the bitcoin segment): youtu.be/K8ZEz5f_LnY
 
 2017-01-31 CoinDesk
 Life After SegWit? Bitcoin Gridlock Takes the Stage
-goo.gl/9bkmOU
 
 2017-01-29 N�va IlSole24Ore
 Il valore vero della blockchain
-article (ITA): goo.gl/wlRF5F
+article (ITA):
 
 2017-01-04 CoinDesk
 Why 2017 Will Prove 'Blockchain' Was a Bad Idea
-article: goo.gl/Lq7Ncu
+article: http://www.coindesk.com/2017-will-prove-blockchain-bad-idea/
 
 2016-12-12/13 Blockchain Business Board, Politecnico di Milano
 Blockchain Academy
-event: goo.gl/bhU6LN
+event: http://www.b3chain.com/the-blockchain-academy-milan-12-13-december/
 
 2016-12-05 Giovani Imprenditori, Unione Industriali Pordenone
 Bitcoin and Blockchain Technology: An Introduction
-video (ITA): goo.gl/NeIxg3
+video (ITA):
 
 2016-12-05 Universit� Bocconi, Milano
 Bitcoin and Blockchain Technology: An Introduction
 
 2016-11-23 The European House - Ambrosetti, Milan
 About Bitcoin And Blockchain: A Cultural Paradigme Shift
-video interview (ITA): goo.gl/zInFVA
+video interview (ITA):
 
 2016-11-22 Consob, Roma
 About Bitcoin, Blockchain, and the Distributed ledger Chimera
@@ -158,7 +157,7 @@ slides: https://www.slideshare.net/Ferdinando1970/about-bitcoin-blockchain-and-t
 
 2016-11-16 The Swift Institute
 Bitcoin, Blockchain and the DLT Chimera
-article: goo.gl/KIKT32
+article:
 
 2016-11-14 Universit� della Calabria, Cosenza
 Hayek Money: The Cryptocurrency Price Stability Solution
@@ -168,20 +167,20 @@ https://www.b3chain.com/b3-blockchain-summit-london/
 
 2016-11-10 International Chamber of Commerce, Rome
 https://www.iccitalia.org/atti_convegno_blockchain.htm
-slides: goo.gl/Oh0HdC
+slides: https://speakerdeck.com/nando1970/introduction-to-blockchain
 
 2016-11-07 "Blockchain : Money" conference, London
 conference.bitcoin.com/
 roundtable: Banks And Blockchain Technology
-interview: goo.gl/C2SkhY
+interview:
 
 2016-11-01 Post-Trade Distributed Ledger Working Group, London
 DLT Applied to Securities Markets
-slides: goo.gl/q6232X
+slides: https://speakerdeck.com/nando1970/response-to-esma-on-dlt-applied-to-securities-markets
 
 2016-10-24 EFMA Blockchain Conference, Barcelona
 https://www.efma.com/event/overview/475
-slide: goo.gl/Xc1UMP
+slide: https://speakerdeck.com/nando1970/bitcoin-blockchain-and-the-dlt-chimera-1
 
 2016-10-23 Il Sole 24 Ore
 La blockchain entra all�Universit�
@@ -195,7 +194,7 @@ slides: https://speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-an-i
 Bitcoin, Blockchain, and the DLT Chimera
 blockchain.fintecnet.com/
 slides: https://speakerdeck.com/nando1970/bitcoin-blockchain-and-the-dlt-chimera
-video: goo.gl/40mim9
+video:
 
 2016-09-22 Digital Payment Revolution, Rome
 roundtable: Rivoluzione Blockchain, l�Internet of banking: una Uber per le transazioni finanziarie?
@@ -238,52 +237,52 @@ roundtable
 
 2016-02-25 FonDir executive education program, Milan
 Luci ed ombre della criptofinanza
-slides goo.gl/Ctc0ee
+slides https://speakerdeck.com/nando1970/luci-ed-ombre-della-criptofinanza
 
 2015-11-30 QuantLib User Meeting, D�sseldorf
 The abcd of Forward Rate Bootstrapping
-slides goo.gl/ekqNpc
+slides https://speakerdeck.com/nando1970/the-abcd-of-forward-rate-bootstrapping
 
 2015-11-24 IlSole24Ore
 Il bitcoin � oro digitale e sancir� la fine del contante
-interview (ITA): goo.gl/SUZMnd
+interview (ITA): http://www.econopoly.ilsole24ore.com/2015/11/24/banca-intesa-ametrano/
 
 2015-10-08 Digital Currency Summit, Barcelona
 A Cryptocurrency Price Stability Solution
-slides goo.gl/cgSleH
+slides https://speakerdeck.com/nando1970/a-cryptocurrency-price-stability-solution
 
 2015-06-16 Universit� degli Studi, Milan
 Blockchain Revolution and the Future of Money
-slides goo.gl/9cBi3j
+slides https://speakerdeck.com/nando1970/blockchain-revolution-and-the-future-of-money-1
 
 2015-05-20 Labex Seminar Series, ESSEC Business School, Paris
 The Cryptocurrency Frontier in Commodity Monetary Standard
-slides: goo.gl/r14bzR
+slides: https://speakerdeck.com/nando1970/the-cryptocurrency-frontier-in-commodity-monetary-standard
 video: https://youtube.com/watch?v=XUT9T0RAmxo&index=2&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ
 
 2015-05-19 ESSEC Business School, Cergy-Pontoise
 Blockchain Revolution and the Future of Money
-slides goo.gl/G12CpW
+slides https://speakerdeck.com/nando1970/blockchain-revolution-and-the-future-of-money
 
 2015-05-03 IlSole24Ore
 Criptovalute tra opportunit� e voglia di regolamentazione
-roundtable (ITA): transcript goo.gl/1i435b
+roundtable (ITA): transcript http://nova.ilsole24ore.com/frontiere/criptovalute-tra-opportunita-e-richieste-di-regolamentazione/
 
 2015-04-22 Radio24 SmartCity, Maurizio Melis
 Soldi, trasparenza, anonimato e bitcoin
-interview goo.gl/1rXW0R
+interview
 
 2015-03-20 Radio24 SmartCity, Maurizio Melis
 La scomparsa del contante, bitcoin ed Hayek Money
-interview goo.gl/uD5Vd6
+interview
 
 2015-03-13 Camplus, Milan
 Distributed Public Ledger Revolution & the Future of Money
-slides goo.gl/HsL7XV
+slides https://speakerdeck.com/nando1970/presentazione-bitcoin-per-camplus
 
 2015-03-05 InsideBitcoins, Berlin
 The Future of Money: Hayek Money, Seigniorage Shares, Reserve Bank, and Proof-of-Payment
-slides: goo.gl/BhXSEF
+slides: https://speakerdeck.com/nando1970/the-future-of-money-hayek-money-seigniorage-shares-reserve-bank-and-proof-of-payment
 video: youtu.be/ndT59662sog?t=12m8s
 
 2014-12 Intesa Sanpaolo Executive Education Educasts
@@ -291,19 +290,19 @@ video (ITA): youtu.be/3UzHB8EfqWk?list=PLrVvuryXHYTfX6dg884fSGYLbLJgX6vAQ
 
 2014-12-09 RiskMinds International Conference, Amsterdam
 Bitcoin and Cryptocurrencies: Elastic Money Supply
-slides goo.gl/aEb8ik
+slides https://speakerdeck.com/nando1970/bitcoin-and-cryptocurrencies-elastic-money-supply
 
 2014-12-05 QuantLib User Meeting, D�sseldorf
 EONIA Jumps and Proper Euribor Forwarding
-slides goo.gl/mTS95O
+slides https://speakerdeck.com/nando1970/eonia-jumps-and-proper-euribor-forwarding
 
 2014-12-04 Keynote speech, QuantLib User Meeting, D�sseldorf
 Open Source Finance: QuantLib, OpenGamma, Bitcoin
-slides goo.gl/tllC3V
+slides
 
 2014-09-30 Hogan Lovells, Milan/Rome
 Distributed Public Ledger Revolution & the Future of Money
-slides goo.gl/LnYm9U
+slides
 
 2014-07-03 Bitcoin Finance 2014, Dublin
 The Governance and Economics of Bitcoin
@@ -311,16 +310,16 @@ roundtable
 
 2014-07-01 University of Milano-Bicocca, Milan
 Bitcoin + Hayek Money: blockchain revolution & price stability
-slides goo.gl/W3CB8c
+slides https://speakerdeck.com/nando1970/bitcoin-plus-hayek-money-blockchain-revolution-and-price-stability-1
 
 2014-06-11 Montecitorio Italian Parliament Lower Chamber, Rome
 Bitcoin + Hayek Money: blockchain revolution & price stability
-slides: goo.gl/66rWb6
+slides: https://speakerdeck.com/nando1970/bitcoin-plus-hayek-money-blockchain-revolution-and-price-stability
 video (ITA): https://youtube.com/watch?v=vLM3FUuCFLY&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=1
 
 2014-06-09 Bank of Italy, Rome
 Hayek Money: the Cryptocurrency Price Stability Solution
-slides goo.gl/UY4GFl
+slides
 
 2014-05-14 SSRN
 Hayek Money: The Cryptocurrency Price Stability Solution

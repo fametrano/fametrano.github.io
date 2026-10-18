@@ -7,6 +7,8 @@ Usa il modulo di contatto per inviti, stampa e consulenze. Compatibilmente con a
 
 ## Indirizzo pubblico bitcoin
 
+Un indirizzo pubblico personalizzato (vanity): chiunque può vedere cosa riceve, ed è voluto.
+
 <p class="mono" style="overflow-wrap:anywhere"><a href="bitcoin:bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0">bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0</a> (p2wpkh)</p>
 
 <a href="bitcoin:bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0"><img src="/images/btc_p2wpkh_address.png" alt="Codice QR dell'indirizzo bitcoin qui sopra" width="200" height="200" style="background:#fff;padding:.5rem"></a>

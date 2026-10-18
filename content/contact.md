@@ -7,13 +7,15 @@ Use the contact form for invitations, press and consulting. Depending on agenda 
 
 ## Bitcoin public address
 
+A public vanity address: anyone can see what it receives, and that is intended.
+
 <p class="mono" style="overflow-wrap:anywhere"><a href="bitcoin:bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0">bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0</a> (p2wpkh)</p>
 
 <a href="bitcoin:bc1qnehtvnd4fedkwjq6axfgsrxgllwne3k58rhdh0"><img src="/images/btc_p2wpkh_address.png" alt="QR code of the bitcoin address above" width="200" height="200" style="background:#fff;padding:.5rem"></a>
 
 Legacy p2wpkh-p2sh: `3BrVgjhDVpMk6qLKJneQhx3426r8CGLYYp`.
 
-<!-- TODO: add a signed message proving control of the address, and the full PGP fingerprint (param pgpFingerprint in hugo.toml). -->
+<!-- TODO: add a signed message proving control of the address, and the Lightning address (#14). -->
 
 ## Verified profiles
 

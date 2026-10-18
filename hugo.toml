@@ -38,7 +38,7 @@ disableKinds = ["taxonomy", "term"]
   description = "Bitcoin, teaching, research and writing by Ferdinando Ametrano."
   # Open Graph image, path under static/ or assets/.
   # TODO: he must provide the full PGP fingerprint; empty hides the block on /contact/.
-  pgpFingerprint = ""
+  pgpFingerprint = "91D9 67D0 8A2F 3646 A0C4  2ED0 07B5 59B7 1373 BF5D"
   contactForm = "https://bit.ly/contactametrano"
   email = ""
   # Socials: handle only. An empty value hides the icon.

@@ -9,6 +9,7 @@
   {{- with site.Params.pgpFingerprint }}
   <h2>{{ i18n "pgp" }}</h2>
   <p class="fingerprint">{{ . }}</p>
+  <p><a href="/pgp.asc">pgp.asc</a> · <code>ferdinando@ametrano.net</code> (WKD)</p>
   {{- end }}
 </div>
 {{ end }}

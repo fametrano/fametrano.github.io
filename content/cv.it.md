@@ -13,9 +13,9 @@ Aggiornato a ottobre 2026. Stampa questa pagina per ottenere un PDF. La bio aggi
 
 ## Carriera precedente
 
-Ferdinando ha scoperto bitcoin nel 2014.
+Ferdinando ha lavorato in finanza dal 1996 al 2018, per oltre vent'anni. Ha scoperto bitcoin nel 2014. Da allora bitcoin occupa una parte sempre maggiore del suo lavoro. Ferdinando ha lasciato Banca IMI nel 2018 e ha smesso di insegnare finanza nel 2022.
 
-* **2016-2017, Banca IMI (Gruppo Intesa Sanpaolo).** Prova di concetto di digitalizzazione del contante su una blockchain privata basata sul protocollo bitcoin.
+* **2016-2018, Banca IMI (Gruppo Intesa Sanpaolo).** Prova di concetto di digitalizzazione del contante su una blockchain privata basata sul protocollo bitcoin.
 * **2016, Intesa Sanpaolo, Chief Innovation Office.** Head of Blockchain and Virtual Currencies.
 * **2007-2015, Banca IMI, Financial Engineering.** Responsabile di curve dei tassi e strumenti di clearing.
 * **2006-2007, Banca Caboto, Financial Engineering.** Responsabile di ricerca e sviluppo quantitativi di front office.

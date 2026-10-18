@@ -13,9 +13,9 @@ Updated October 2026. Print this page to get a PDF. The [CheckSig profile](https
 
 ## Earlier career
 
-Ferdinando discovered bitcoin in 2014.
+Ferdinando worked in finance from 1996 to 2018, more than twenty years. He discovered bitcoin in 2014. Since then bitcoin has taken a growing share of his work. Ferdinando left Banca IMI in 2018 and stopped teaching finance in 2022.
 
-* **2016 to 2017, Banca IMI (Intesa Sanpaolo Group).** Proof of concept of cash digitization on a private bitcoin-protocol blockchain.
+* **2016 to 2018, Banca IMI (Intesa Sanpaolo Group).** Proof of concept of cash digitization on a private bitcoin-protocol blockchain.
 * **2016, Intesa Sanpaolo, Chief Innovation Office.** Head of Blockchain and Virtual Currencies.
 * **2007 to 2015, Banca IMI, Financial Engineering.** Head of Rate Curves and Clearing Tools.
 * **2006 to 2007, Banca Caboto, Financial Engineering.** Head of Front Office Quantitative R&D.

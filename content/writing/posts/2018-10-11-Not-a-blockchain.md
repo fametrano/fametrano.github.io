@@ -8,10 +8,10 @@ url: /2018/10/11/Not-a-blockchain/
 If 25 years ago somebody would have claimed to deliver pizza as e-mail
 attachment, the implausibility would have probably been lost for most
 people, as almost nobody was familiar with e-mail at the time. Similarly,
-today [Carrefour Italia](http://blockchain.carrefour.it/?lot=315123&skunr=PRD100023&shelflifedate=17.10.2018) and others claim to track food using blockchain.
+today [Carrefour Italia](https://web.archive.org/web/20190715182633/http://blockchain.carrefour.it/?lot=315123&skunr=PRD100023&shelflifedate=17.10.2018) and others claim to track food using blockchain.
 
 <figure>
-<a href="https://blog.dilbert.com/2018/05/09/all-of-the-dilbert-comics-on-blockchain-bitcoin-or-cryptocurrency/"><img src="/images/dilbert-blockchain.jpg" alt="Dilbert blockchain"></a>
+<a href="https://web.archive.org/web/20190713001047/https://blog.dilbert.com/2018/05/09/all-of-the-dilbert-comics-on-blockchain-bitcoin-or-cryptocurrency/"><img src="/images/dilbert-blockchain.jpg" alt="Dilbert blockchain"></a>
 <figcaption>© Scott Adams</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ if a non-bitcoin blockchain is used,
 all these details do compromise the reliability further.
 
 [IBM Food Trust](https://www.ibm.com/blockchain/solutions/food-trust),
-[EY Wine Blockchain](https://www.ey.com/it/it/services/advisory/ey-blockchain),
+[EY Wine Blockchain](https://web.archive.org/web/20191230200847/https://www.ey.com/it/it/services/advisory/ey-blockchain),
 this Carrefour attempt, and similar campaigns are just
 dishonest marketing gimmick, i.e. misleading advertising.
 

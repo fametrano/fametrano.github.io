@@ -7,7 +7,7 @@ url: /2018/10/18/crimine-e-bitcoin/
 ---
 
 Ha avuto in questi giorni una certa diffusione il [Cryptocurrency
-Anti-Money Laundering Report Q2](https://cdn2.hubspot.net/hubfs/4345106/crypto_aml_report_2018q2.pdf?submissionGuid=cba5b329-4964-431c-92bd-652d70d249d3), che tenta di far luce sull'utilizzo di bitcoin ed affini nel riciclaggio. Il report documenta un fenomeno in crescita, ma non riesce a contestualizzarlo appropriatamente.
+Anti-Money Laundering Report Q2](https://web.archive.org/web/20240806082448/https://cdn2.hubspot.net/hubfs/4345106/crypto_aml_report_2018q2.pdf), che tenta di far luce sull'utilizzo di bitcoin ed affini nel riciclaggio. Il report documenta un fenomeno in crescita, ma non riesce a contestualizzarlo appropriatamente.
 
 ![Crimine e bitcoin](/images/bitcoin-crime.jpg)
 
@@ -29,4 +29,4 @@ Ad oggi bitcoin resta uno straordinario esperimento: la creazione della scarsit�
 
 ---
 
-Aggiornamento: è appena uscito il report [Q3](https://ciphertrace.com/wp-content/uploads/2018/10/crypto_aml_report_2018q3.pdf), anche se nel dibattito pubblico la discussione è ancora sul report Q2, a cui abbiamo fatto riferimento sopra.
+Aggiornamento: è appena uscito il report [Q3](https://web.archive.org/web/20250511150905/https://ciphertrace.com/wp-content/uploads/2018/10/crypto_aml_report_2018q3.pdf), anche se nel dibattito pubblico la discussione è ancora sul report Q2, a cui abbiamo fatto riferimento sopra.

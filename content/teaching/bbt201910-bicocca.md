@@ -15,7 +15,7 @@ university: "University of Milano-Bicocca"
 
 Department of Statistics and Quantitative Methods, University of Milano-Bicocca
 
-Course page: <https://elearning.unimib.it/course/view.php?id=25308>  
+Course page: <https://web.archive.org/web/20230322033805/https://elearning.unimib.it/course/view.php?id=25308>  
 
 Please subscribe the course mailing list sending an e-mail to
 [bbt2019-bicocca+subscribe@https://dgi.io](mailto:bbt2019-bicocca+subscribe@https://dgi.io);
@@ -144,7 +144,7 @@ In the last lesson anonymous course evaluation [forms](https://docs.google.com/d
 
 ## Python scripts, Excel spreadsheets, and regtest lab material
 
-<https://github.com/dginst/bbt>
+<https://web.archive.org/web/20191211203200/https://github.com/dginst/bbt>
 
 ## Introductory reading
 

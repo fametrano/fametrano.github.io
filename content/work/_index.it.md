@@ -16,7 +16,7 @@ groups:
         urlLabel: "dgi.io"
       - name: "Crypto Asset Lab"
         role: "Fondatore e direttore scientifico"
-        text: "Laboratorio di ricerca del Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università di Milano-Bicocca. Ferdinando presiede la [CAL conference](https://cryptoassetlab.org/calconf/), organizzata con la Commissione Europea."
+        text: "Laboratorio di ricerca del Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università di Milano-Bicocca. Ferdinando presiede la [CAL conference](https://web.archive.org/web/20250811015742/https://cryptoassetlab.org/calconf/), organizzata con la Commissione Europea."
         url: "https://cryptoassetlab.org"
         urlLabel: "cryptoassetlab.org"
   - title: "Open source"

@@ -16,7 +16,7 @@ groups:
         urlLabel: "dgi.io"
       - name: "Crypto Asset Lab"
         role: "Founder and Scientific Director"
-        text: "Research lab of the Department of Business and Law, University of Milano-Bicocca. Ferdinando chairs the [CAL conference](https://cryptoassetlab.org/calconf/), co-organised with the European Commission."
+        text: "Research lab of the Department of Business and Law, University of Milano-Bicocca. Ferdinando chairs the [CAL conference](https://web.archive.org/web/20250811015742/https://cryptoassetlab.org/calconf/), co-organised with the European Commission."
         url: "https://cryptoassetlab.org"
         urlLabel: "cryptoassetlab.org"
   - title: "Open source"

@@ -8,7 +8,10 @@ url: /2019/02/23/formigoni/
 
 Questa volta non parlo di bitcoin…
 
-<img src="https://cdn-images-1.medium.com/max/900/0*eW0GgVWafWyz6wAS" alt="Roberto Formigoni" width="300" align="left" hspace="10" vspace="10" />
+<figure class="bfig left" style="--w:300px">
+<img src="/images/20190223-formigoni.jpg" alt="Roberto Formigoni" width="300" height="389" />
+<figcaption>Roberto Formigoni. Immagine: versione Medium di questo articolo.</figcaption>
+</figure>
 
 Un ventennio di governo è misura pericolosa non solo per Mussolini, ma anche per Roberto Formigoni, perché il potere corrompe, lentamente ma inesorabilmente, incrostando sintonie che diventano connivenze e ruoli che diventano privilegi. Per questo l'alternanza è decisiva in politica. Per di più, erano evidenti nell'ultimo Formigoni preoccupanti segnali di involuzione narcisistica e senescente, sia nello stile mondano che nell'intelligenza politica.
 

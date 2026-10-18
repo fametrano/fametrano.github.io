@@ -3,6 +3,7 @@ title: "Events"
 description: "A selection of past events and talks by Ferdinando Ametrano"
 url: /events/
 layout: events
+archive: "Earlier talks, 2014-2018: [archive with slides](/talks/)"
 ---
 For university courses see [Teaching](/teaching/).
 

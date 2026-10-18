@@ -9,7 +9,7 @@ aliases:
   - /cv/shortbio-finance-it.txt
 photoAlt: "Portrait of Ferdinando Ametrano"
 ---
-Name to use: **Ferdinando Ametrano**. Affiliation line: CheckSig co-founder and CEO; founder and Scientific Director, Digital Gold Institute and Crypto Asset Lab (Department of Business and Law, University of Milano-Bicocca); adjunct professor, University of Milano-Bicocca.
+Name to use: **Ferdinando Ametrano**. Affiliation line: CheckSig co-founder and CEO; founder and Scientific Director, Digital Gold Institute and Crypto Asset Lab (Department of Business and Law, University of Milano-Bicocca); adjunct professor, ESSEC Business School.
 
 ## Bio
 
@@ -18,11 +18,9 @@ The maintained bio is on the [CheckSig profile](https://www.checksig.com/eu/en/f
 ## Speaking topics
 
 * Bitcoin as digital gold
-* Bitcoin: the digital rush
-* Hayek Money: the cryptocurrency price stability solution
-* Bitcoin and blockchain technology: an introduction
-* Bitcoin and the DLT chimera: what distributed ledgers promise and what they deliver
-* Cryptography and distributed consensus: tools for better money
+* Crypto taxation and regulation: MiCAR and the Italian tax regime
+* Bitcoin for institutional investors: custody, ETFs, banks and intermediaries
+* The digital euro, Hayek Money and the future of money
 
 ## Headshots
 

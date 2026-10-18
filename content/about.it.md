@@ -4,7 +4,7 @@ description: "Link alla bio, foto, temi degli interventi e informazioni per gli 
 layout: about
 photoAlt: "Ritratto di Ferdinando Ametrano"
 ---
-Nome da usare: **Ferdinando Ametrano**. Affiliazione sintetica: co-fondatore e CEO di CheckSig; fondatore e direttore scientifico di Digital Gold Institute e Crypto Asset Lab (Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università di Milano-Bicocca); professore a contratto, Università di Milano-Bicocca.
+Nome da usare: **Ferdinando Ametrano**. Affiliazione sintetica: co-fondatore e CEO di CheckSig; fondatore e direttore scientifico di Digital Gold Institute e Crypto Asset Lab (Dipartimento di Scienze Economico-Aziendali e Diritto per l'Economia, Università di Milano-Bicocca); professore a contratto, ESSEC Business School.
 
 ## Bio
 
@@ -12,12 +12,10 @@ La bio aggiornata è nel [profilo su CheckSig](https://www.checksig.com/eu/it/fe
 
 ## Temi degli interventi
 
-* Bitcoin come oro digitale (_Bitcoin as digital gold_)
-* Bitcoin: la corsa all'oro digitale (_The digital rush_)
-* Hayek Money: la soluzione alla stabilità dei prezzi delle criptovalute
-* Bitcoin e tecnologia blockchain: un'introduzione
-* Bitcoin e la chimera DLT: promesse e realtà dei distributed ledger
-* Crittografia e consenso distribuito: strumenti per una moneta migliore
+* Bitcoin come oro digitale
+* Fiscalità e regolazione delle cripto-attività: MiCAR e il regime fiscale italiano
+* Bitcoin per gli investitori istituzionali: custodia, ETF, banche e intermediari
+* Euro digitale, Hayek Money e il futuro della moneta
 
 ## Foto
 

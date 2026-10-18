@@ -31,7 +31,7 @@ groups:
         text: "A free and open source C++ library for quantitative finance, with a [Python binding on PyPI](https://pypi.org/project/QuantLib/). The project began in 2000 at RiskMap, a company Ferdinando co-founded. Ferdinando signed the first announcement, on 11 December 2000, with Luigi Ballabio and Marco Marchioro ([history](https://en.wikipedia.org/wiki/QuantLib)). The code is BSD-licensed and on [GitHub](https://github.com/lballabio/QuantLib)."
         url: "https://www.quantlib.org/"
         urlLabel: "quantlib.org"
-  - title: "Before bitcoin"
+  - title: "Finance"
     items:
       - name: "Intesa Sanpaolo"
         role: "Head of Blockchain and Virtual Currencies"
@@ -41,5 +41,5 @@ groups:
         text: "Headed trading, quantitative and risk-management teams. Cofounder and managing partner of RiskMap, now part of Confluence Technologies."
       - name: "Physics"
         role: "Education"
-        text: "Former physicist. More than twenty years in finance, 1996 to 2018: investment banking, asset management and quantitative finance. Since 2014 bitcoin has taken a growing share of his work. He left Banca IMI in 2018 and stopped teaching finance in 2022."
+        text: "Former physicist. More than twenty years in finance, 1996 to 2018: investment banking, asset management and quantitative finance. Since 2014 bitcoin has taken a growing share of his work. Ferdinando left Banca IMI in 2018 and stopped teaching finance in 2022."
 ---

@@ -31,7 +31,7 @@ groups:
         text: "Una libreria C++ libera e open source per la finanza quantitativa, con un [binding Python su PyPI](https://pypi.org/project/QuantLib/). Il progetto è nato nel 2000 in RiskMap, società cofondata da Ferdinando. Ferdinando ha firmato il primo annuncio, l'11 dicembre 2000, con Luigi Ballabio e Marco Marchioro ([storia](https://en.wikipedia.org/wiki/QuantLib), in inglese). Il codice ha licenza BSD ed è su [GitHub](https://github.com/lballabio/QuantLib)."
         url: "https://www.quantlib.org/"
         urlLabel: "quantlib.org"
-  - title: "Prima di bitcoin"
+  - title: "Finanza"
     items:
       - name: "Intesa Sanpaolo"
         role: "Head of Blockchain and Virtual Currencies"
@@ -41,5 +41,5 @@ groups:
         text: "Ha guidato team di trading, quantitativi e di risk management. Cofondatore e managing partner di RiskMap, oggi parte di Confluence Technologies."
       - name: "Fisica"
         role: "Formazione"
-        text: "Fisico per formazione. Oltre vent'anni in finanza, dal 1996 al 2018: investment banking, asset management e finanza quantitativa. Dal 2014 bitcoin occupa una parte sempre maggiore del suo lavoro. Ha lasciato Banca IMI nel 2018 e ha smesso di insegnare finanza nel 2022."
+        text: "Fisico per formazione. Oltre vent'anni in finanza, dal 1996 al 2018: investment banking, asset management e finanza quantitativa. Dal 2014 bitcoin occupa una parte sempre maggiore del suo lavoro. Ferdinando ha lasciato Banca IMI nel 2018 e ha smesso di insegnare finanza nel 2022."
 ---

@@ -157,7 +157,6 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * Bitcoin Script Language
     * Standard Transaction Scripts
     * Signatures Types and Smart Contracts
-    * Blocks
     * Assignment: [Halving Blocks](https://drive.google.com/file/d/1AvICvFSJexzWiXcvYPO0UD6e8Es51BeP/)  
 01. [_Transactions and Blocks_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY) (remaining sections)  
     * Transaction Serialization

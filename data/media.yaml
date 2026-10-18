@@ -1,0 +1,484 @@
+# Converted from the Jekyll _pages/media.md.
+# TODO: the 2021 and 2023 entries were added with their PDFs; add the article titles.
+# featured: hand-picked links by language; items: chronological coverage.
+featured:
+  en:
+    - - text: "Harvard ESEC: Introduction to Bitcoin and Blockchain Technology webinar"
+        url: "https://youtu.be/36slArIgsbw?t=18"
+    - - text: "CoinDesk: Why 2017 Will Prove 'Blockchain' Was a Bad Idea"
+        url: "https://www.coindesk.com/2017-will-prove-blockchain-bad-idea"
+    - - text: "The Swift Institute: Bitcoin, Blockchain and the DLT Chimera"
+        url: "https://swiftinstitute.org/newsletters/guest-article-bitcoin-blockchain-and-the-dlt-chimera/"
+    - - text: "United Nations, New York: Bitcoin as Digital Gold"
+        url: "https://youtube.com/watch?v=VbwUwioZ9F0&t=330s&list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ&index=10"
+    - - text: "Comprehensive YouTube playlist"
+        url: "https://youtube.com/playlist?list=PLrVvuryXHYTezxoQBL7Lw3svQEVd2uTzZ"
+  it:
+    - - text: "Il Foglio: Tenete il resto della rivoluzione Bitcoin"
+        url: "https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164"
+    - - text: "Le Iene: video-intervista"
+        url: "https://www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448"
+    - - text: "video della lezione universitaria introduttiva al corso bitcoin (edizione 2017)"
+        url: "https://youtube.com/watch?v=Ef3d1N4Ogxw&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=8"
+    - - text: "blockchain: Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"
+        url: "https://ssrn.com/abstract=2832249"
+      - text: "e il video di un'altra lezione universitaria (edizione 2017)"
+        url: "https://youtube.com/watch?v=ByzoYHx7eTc&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&t=0s&index=10"
+    - - text: "aspetti monetari: Hayek Money: The Cryptocurrency Price Stability Solution"
+        url: "https://ssrn.com/abstract=2425270"
+      - text: "e il video di un'altra lezione universitaria (edizione 2017)"
+        url: "https://youtube.com/watch?v=Wu_7RVwoV84&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=9"
+    - - text: "YouTube playlist completa"
+        url: "https://youtube.com/playlist?list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp"
+items:
+  - date: "2023"
+    year: 2023
+    title: "Digital Italy 2023"
+    details:
+      - "[PDF](/docs/DigitalItaly2023.pdf)"
+      - "Digital Italy 2023 · © Maggioli"
+  - date: "2021-04-28"
+    year: 2021
+    title: "Il Foglio"
+    details:
+      - "article (ITA): [PDF](/docs/IlFoglio20210428-Ametrano.pdf)"
+      - "Il Foglio, 28 Apr 2021 · © Il Foglio"
+  - date: "2019-06-26"
+    year: 2019
+    title: "Il Sole 24 Ore, diretta Facebook"
+    details:
+      - "Bitcoin e Libra"
+      - "<https://youtube.com/watch?v=EQPdmLzikGQ&list=PLrVvuryXHYTdKXzpIx7aYAzqAiRpaebWp&index=44&t=344s>"
+  - date: "2019-04-09"
+    year: 2019
+    title: "Harvard Extension Student Environmental Club"
+    details:
+      - "Bitcoin and Blockchain Technology: Economics and Environmental Sustainability"
+      - "webinar: <https://youtu.be/36slArIgsbw?t=18>"
+  - date: "2019-01-05"
+    year: 2019
+    title: "Il Sole 24 Ore"
+    details:
+      - "Criptovalute, quotazioni a picco. Ma Facebook lavora al suo Bitcoin"
+      - "article (ITA): <https://www.ilsole24ore.com/art/finanza-e-mercati/2019-01-04/criptovalute-quotazioni-picco-ma-facebook-lavora-suo-bitcoin-192628.shtml>"
+  - date: "2018-12-05"
+    year: 2018
+    title: "Corriere della Sera"
+    details:
+      - "Crolla l'illusione del bitcoin"
+      - "article (ITA): <https://ametrano.net/images/20181205-Crolla-illusione-bitcoin.pdf>"
+      - "Corriere della Sera, 5 Dec 2018 · © RCS"
+  - date: "2018-11-16"
+    year: 2018
+    title: "Borsa Italiana"
+    details:
+      - "Bitcoin, Blockchain e la Chimera DLT"
+      - "article (ITA): <https://www.borsaitaliana.it/borsaitaliana/academy/bitcoin-blockchain-chimera-dlt.htm>"
+  - date: "2018-11-15"
+    year: 2018
+    title: "Gellify"
+    details:
+      - "promo per lezione \"Bitcoin e Blockchain\""
+      - "video (ITA): <https://vimeo.com/297901828/84d3980079>"
+  - date: "2018-11-11"
+    year: 2018
+    title: "Il Foglio"
+    details:
+      - "Tenete il resto della rivoluzione Bitcoin"
+      - "article (ITA): <https://www.ilfoglio.it/economia/2018/11/11/news/tenete-il-resto-della-rivoluzione-bitcoin-223164/>"
+  - date: "2018-11-08"
+    year: 2018
+    title: "Radio3 Scienza"
+    details:
+      - "Dieci anni di Bitcoin"
+      - "audio (ITA): <https://www.raiplayradio.it/audio/2018/11/RADIO3-SCIENZA-Dieci-anni-di-Bitcoin-c75c5378-e404-419b-84d2-6cea1b4a9f3b.html>"
+  - date: "2018-11-02"
+    year: 2018
+    title: "Medium"
+    details:
+      - "Finanza e pagamenti, tra blockchain e bitcoin"
+      - "article (ITA): <https://medium.com/@nando1970/finanza-e-pagamenti-tra-blockchain-e-bitcoin-c916a6a810>"
+  - date: "2018-10-30"
+    year: 2018
+    title: "IlSole24Ore"
+    details:
+      - "Bitcoin 10 anni dopo: un mondo ad alta volatilità tra speculazione, promesse e rivoluzione"
+      - "article (ITA): <https://www.ilsole24ore.com/art/tecnologie/2018-10-30/il-bitcoin-dieci-anni-dopo-mondo-ad-alta-volatilita-speculazione-promesse-e-rivoluzione-134755.shtml>"
+  - date: "2018-10-16"
+    year: 2018
+    title: "Regione Lombardia, Milan"
+    details:
+      - "Bitcoin and Blockchain Technology"
+      - "video (ITA): <https://bit.ly/2EHgmev>"
+  - date: "2018-02-23"
+    year: 2018
+    title: "Class CNBC"
+    details:
+      - "Guest expert on bitcoin"
+  - date: "2018-02-21"
+    year: 2018
+    title: "Ambrosetti Live, Milan"
+    details:
+      - "Webinar: Undestanding Bitcoin: una rivoluzione fatta per durare?"
+      - "<https://live.ambrosetti.eu/20180221ametrano>"
+  - date: "2018-02-19"
+    year: 2018
+    title: "Radio Monte Carlo"
+    details:
+      - "Oscillazioni delle quotazioni dei Bitcoin"
+      - "Guest expert on bitcoin"
+  - date: "2018-02-14"
+    year: 2018
+    title: "Le Iene - Italia 1"
+    details:
+      - "Cosa sono e come funzionano i Bitcoin"
+      - "video (ITA): <https://goo.gl/EJN1jx>"
+  - date: "2018-02-14"
+    year: 2018
+    title: "Le Iene - Italia 1"
+    details:
+      - "Intervista: <https://www.mediasetplay.mediaset.it/video/leiene/ferdinando-ametrano_FD00000000028448>"
+  - date: "2018-02-13"
+    year: 2018
+    title: "Alground.com"
+    details:
+      - "Bitcoin. Basta balle: chi ci guadagna, e chi ha perso tutto."
+      - "article (ITA): <https://www.alground.com/site/bitcoin-inchiesta/51359/>"
+  - date: "2018-02-12"
+    year: 2018
+    title: "Radio3 Scienza"
+    details:
+      - "Blockchain, che cos'è"
+      - "audio (ITA): <https://goo.gl/BAHJ9s>"
+  - date: "2018-02-01"
+    year: 2018
+    title: "United Nations (Department of Economic and Social Affairs), New York"
+    details:
+      - "Bitcoin as Digital Gold: <https://goo.gl/NkEC9w>"
+  - date: "2018-01-31"
+    year: 2018
+    title: "SkyTG24 - Speciale Economia"
+    details:
+      - "Guest expert on bitcoin"
+  - date: "2018-01-29"
+    year: 2018
+    title: "Interlogica"
+    details:
+      - "video (ITA): <https://goo.gl/XLAoaX>"
+  - date: "2018-01-25"
+    year: 2018
+    title: "Storie di Eccellenza"
+    details:
+      - "article (ITA): <https://goo.gl/HywF5u>"
+  - date: "2018-01-17"
+    year: 2018
+    title: "IlSole24Ore"
+    details:
+      - "Bitcoin, ecco perché non è una moneta."
+      - "article (ITA): <https://goo.gl/Nngh1i>"
+  - date: "2018-01-12"
+    year: 2018
+    title: "La Repubblica"
+    details:
+      - "Bitcoin, arriva il film: una produzione 100% italiana"
+      - "article (ITA): <https://goo.gl/72A8b5>"
+  - date: "2018-01-11"
+    year: 2018
+    title: "Notizie.it"
+    details:
+      - "Il futuro dei Bitcoin secondo Ferdinando Ametrano"
+      - "article (ITA): <https://www.notizie.it/futuro-bitcoin-ferdinando-ametrano/>"
+  - date: "2018-01-10"
+    year: 2018
+    title: "Corriere della Sera (Bergamo):"
+    details:
+      - "Bitcoin, nel documentario di Aralla le istruzioni per l’uso"
+      - "article (ITA): <https://goo.gl/ZBy42e>"
+  - date: "2018-01-09"
+    year: 2018
+    title: "TGCom24 - Dentro i fatti"
+    details:
+      - "Bitcoin e geopolitica"
+  - date: "2018-01-08"
+    year: 2018
+    title: "Nòva IlSole24Ore"
+    details:
+      - "Oltre l’oro digitale? Ben poco altro"
+      - "article (ITA): <https://goo.gl/VgRkXp>"
+  - date: "2018-01-07"
+    year: 2018
+    title: "Il Fatto Quotidiano"
+    details:
+      - "Bitcoin, a furia di correre"
+      - "article (ITA): <https://goo.gl/aEJdaX>"
+  - date: "2017-12-27"
+    year: 2017
+    title: "SkyTG24 Economia"
+    details:
+      - "Guest expert on bitcoin"
+  - date: "2017-12-27"
+    year: 2017
+    title: "Nerdocracy - Twitch.tv"
+    details:
+      - "Guest expert on bitcoin"
+  - date: "2017-12-27"
+    year: 2017
+    title: "IlSole24Ore"
+    details:
+      - "I bitcoin nell’agenda del prossimo G20"
+      - "article (ITA): <https://goo.gl/RMQtSU>"
+  - date: "2017-12-21"
+    year: 2017
+    title: "The Digital Rush - trailer"
+    details:
+      - "video (ENG): <https://goo.gl/G8LPKh>"
+  - date: "2017-12-19"
+    year: 2017
+    title: "TGCOM24 - Paura Bitcoin"
+    details:
+      - "Guest expert on bitcoin"
+      - "video (ITA): <https://goo.gl/Roksux>"
+  - date: "2017-12-16"
+    year: 2017
+    title: "Radio Popolare"
+    details:
+      - "Abbobitcoin con PopUp all’Ostello Bello"
+      - "audio (ITA): <https://goo.gl/1tc4a5>"
+  - date: "2017-12-15"
+    year: 2017
+    title: "Lab Parlamento"
+    details:
+      - "Bitcoin: bolla? No, spillo che può farne scoppiare altre"
+      - "article (ITA): <https://goo.gl/W7MHtk>"
+  - date: "2017-12-14"
+    year: 2017
+    title: "Radio Montecarlo - Erina e Stefano"
+    details:
+      - "Guest expert on bitcoin"
+  - date: "2017-12-12"
+    year: 2017
+    title: "Rai Radio 1 - Radio anch'io"
+    details:
+      - "Guest expert on bitcoin"
+      - "audio (ITA): <https://goo.gl/UKcmQu>"
+  - date: "2017-12-11"
+    year: 2017
+    title: "Mister Trend"
+    details:
+      - "Il Bitcoin spiegato dal Prof. Ferdinando Ametrano"
+      - "audio (ITA): <https://goo.gl/wWN1oV>"
+  - date: "2017-12-11"
+    year: 2017
+    title: "SkyTG24 Economia"
+    details:
+      - "Guest expert on bitcoin"
+      - "video (ITA): <https://goo.gl/oqPPKW>"
+  - date: "2017-12-09"
+    year: 2017
+    title: "TGCOM24 Pil & contro Pil"
+    details:
+      - "Guest expert on bitcoin"
+      - "video (ITA): <https://goo.gl/Ucn6Ud>"
+  - date: "2017-12-06"
+    year: 2017
+    title: "Radio24 - Focus Economia"
+    details:
+      - "Nuovo record per i Bitcoin"
+      - "audio (ITA): <https://goo.gl/Kbuvod>"
+  - date: "2017-12-06"
+    year: 2017
+    title: "Rai Radio 1 - 6 su Radio 1"
+    details:
+      - "Guest expert on bitcoin"
+  - date: "2017-12-02"
+    year: 2017
+    title: "Radio24 - I Conti della belva"
+    details:
+      - "Febbre da bitcoin"
+      - "audio (ITA): <https://goo.gl/ki7G6Y>"
+  - date: "2017-12-01"
+    year: 2017
+    title: "CNBC Milano Finanza - Report"
+    details:
+      - "Guest expert on bitcoin"
+  - date: "2017-12-01"
+    year: 2017
+    title: "Donna Moderna"
+    details:
+      - "Vale la pena investire in bitcoin?"
+      - "article (ITA): <https://goo.gl/Wh7Xua>"
+  - date: "2017-12-00"
+    year: 2017
+    title: "Wired Italia"
+    details:
+      - "XXXXXX"
+  - date: "2017-11-16"
+    year: 2017
+    title: "IFAF - Scuola di Finanza"
+    details:
+      - "Blockchain, registro condiviso e notarizzazione: quale evoluzione per il Bitcoin?"
+      - "video (ITA): <https://goo.gl/bo1ME4>"
+  - date: "2017-10-25"
+    year: 2017
+    title: "Forum Banca"
+    details:
+      - "Intervista: Blockchain, Bitcoin e DLT"
+      - "video (ITA): <https://goo.gl/V6qdaF>"
+  - date: "2017-09-17"
+    year: 2017
+    title: "Business Insider Italia"
+    details:
+      - "Initial coin offering: una soluzione innovativa o speculazione selvaggia?"
+      - "<https://goo.gl/AU657K>"
+  - date: "2017-08-11"
+    year: 2017
+    title: "IlSole24Ore"
+    details:
+      - "Tra frodi e speculazioni è boom di criptovalute"
+      - "<https://goo.gl/tcGm6C>"
+  - date: "2017-06-11"
+    year: 2017
+    title: "IlSole24Ore"
+    details:
+      - "Il Far West dell’oro digitale"
+      - "<https://nova.ilsole24ore.com/progetti/il-far-west-delloro-digitale/>"
+  - date: "2017-05-21"
+    year: 2017
+    title: "Nòva IlSole24Ore"
+    details:
+      - "La blockchain dà il tempo al web"
+      - "<https://goo.gl/uddR7k>"
+  - date: "2017-05-15"
+    year: 2017
+    title: "IlSole24Ore"
+    details:
+      - "Il bitcoin mette una data certa alle pagine del web"
+      - "<https://goo.gl/jQeLQT>"
+  - date: "2017-04-23"
+    year: 2017
+    title: "Il Sole 24 Ore"
+    details:
+      - "Il volto industriale della blockchain"
+      - "<https://goo.gl/4d9zhy>"
+  - date: "2017-04-20"
+    year: 2017
+    title: "Il Sole 24 Ore"
+    details:
+      - "Vertice a Malta della cyber-payment community"
+      - "<https://goo.gl/uYkGdv>"
+  - date: "2017-04-06"
+    year: 2017
+    title: "RAI Radio 1 - Restate Scomodi"
+    details:
+      - "(ITA): bitcoin interview"
+      - "<https://goo.gl/DF7EUC> (at 1m38s)"
+  - date: "2017-04-05"
+    year: 2017
+    title: "Il Sole 24 Ore"
+    details:
+      - "Chi governa il bitcoin? Tredici domande per capire quale vincerà fra le visioni a confronto"
+      - "<https://goo.gl/X3kAjg>"
+  - date: "2017-03-08"
+    year: 2017
+    title: "Triwu"
+    details:
+      - "(ITA): video interview: Bitcoin Totale"
+      - "<https://vimeo.com/207371888>"
+  - date: "2017-03-03"
+    year: 2017
+    title: "StartupItalia!"
+    details:
+      - "(ITA): interview: Bitcoin è la luna, ma il Sole (24Ore) guarda il dito"
+      - "<https://goo.gl/KVV29t>"
+  - date: "2017-02-23"
+    year: 2017
+    title: "Interlogica"
+    details:
+      - "(ITA): video interview: Inside Blockchain"
+      - "<https://goo.gl/9Wzg8w>"
+  - date: "2017-02"
+    year: 2017
+    title: "Blockchain Business Board"
+    details:
+      - "video interview"
+      - "part 1 <https://goo.gl/trUYs8>"
+      - "part 2 <https://goo.gl/rLW6lS>"
+      - "part 3 <https://goo.gl/ZWBR8A>"
+  - date: "2017-02-09"
+    year: 2017
+    title: "Class CNBC"
+    details:
+      - "(ITA): Bitcoin come strumento di investimento"
+      - "video (original): <https://goo.gl/8e5HGh>"
+      - "video (only the bitcoin segment): <https://youtu.be/K8ZEz5f_LnY>"
+  - date: "2017-01-31"
+    year: 2017
+    title: "CoinDesk"
+    details:
+      - "Life After SegWit? Bitcoin Gridlock Takes the Stage"
+      - "<https://goo.gl/9bkmOU>"
+  - date: "2017-01-29"
+    year: 2017
+    title: "Nòva IlSole24Ore"
+    details:
+      - "Il valore vero della blockchain"
+      - "article (ITA): <https://goo.gl/wlRF5F>"
+  - date: "2017-01-04"
+    year: 2017
+    title: "CoinDesk"
+    details:
+      - "Why 2017 Will Prove 'Blockchain' Was a Bad Idea"
+      - "article: <https://goo.gl/Lq7Ncu>"
+  - date: "2016-11-16"
+    year: 2016
+    title: "The Swift Institute"
+    details:
+      - "Bitcoin, Blockchain and the DLT Chimera"
+      - "article: <https://goo.gl/KIKT32>"
+  - date: "2016-10-23"
+    year: 2016
+    title: "Il Sole 24 Ore"
+    details:
+      - "La blockchain entra all’Università"
+      - "<https://goo.gl/ZJXiPu>"
+  - date: "2016-06-01"
+    year: 2016
+    title: "Finextra interview"
+    details:
+      - "Blockchain needs a native digital asset"
+      - "<https://goo.gl/QdDTuN>"
+  - date: "2015-11-24"
+    year: 2015
+    title: "IlSole24Ore"
+    details:
+      - "Il bitcoin è oro digitale e sancirà la fine del contante"
+      - "interview (ITA): <https://goo.gl/SUZMnd>"
+  - date: "2015-05-03"
+    year: 2015
+    title: "IlSole24Ore"
+    details:
+      - "Criptovalute tra opportunità e voglia di regolamentazione"
+      - "roundtable (ITA): transcript <https://goo.gl/1i435b>"
+  - date: "2015-04-22"
+    year: 2015
+    title: "Radio24 SmartCity, Maurizio Melis"
+    details:
+      - "Soldi, trasparenza, anonimato e bitcoin"
+      - "audio (ITA): <https://goo.gl/1rXW0R>"
+  - date: "2015-03-20"
+    year: 2015
+    title: "Radio24 SmartCity, Maurizio Melis"
+    details:
+      - "La scomparsa del contante, bitcoin ed Hayek Money"
+      - "audio (ITA): <https://goo.gl/uD5Vd6>"
+  - date: "2015-02-26"
+    year: 2015
+    title: "Limes, rivista italiana di geopolitica"
+    details:
+      - "Bitcoin: come funziona una moneta virtuale, di Raffaele Mauro"
+      - "<https://www.limesonline.com/cartaceo/bitcoin-come-funziona-una-moneta-virtuale>"
+  - date: "2014-12"
+    year: 2014
+    title: "Intesa Sanpaolo Executive Education Educasts"
+    details:
+      - "video (ITA): <https://bit.ly/2J9KzSd>"

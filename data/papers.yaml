@@ -1,0 +1,54 @@
+# Converted from the Jekyll _pages/papers.md.
+papers:
+  - date: "2020-01"
+    year: 2020
+    title: "Bitcoin: oro digitale per nuovi standard monetari"
+    authors: "Ametrano, Ferdinando M."
+    note: "published in \"Dal sesterzio al bitcoin\" Rubettino Editore (edited by Miglietta, Angelo and Mingardi, Alberto)"
+  - date: "2016-09"
+    year: 2016
+    title: "Response to [ESMA Consultation](https://www.esma.europa.eu/press-news/esma-news/esma-assesses-usefulness-distributed-ledger-technologies) on _The Distributed Ledger Technology Applied to Securities Markets_"
+    authors: "Ametrano, Ferdinando M. and Barucci, Emilio and Marazzina, Daniele and Zanero, Stefano"
+    url: "https://ssrn.com/abstract=3265776"
+  - date: "2016-08"
+    year: 2016
+    title: "Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality"
+    authors: "Ametrano, Ferdinando M."
+    url: "https://ssrn.com/abstract=2832249"
+  - date: "2016-12"
+    year: 2016
+    title: "Advanced EONIA Curve Calibration"
+    authors: "Ametrano, Ferdinando M. and Bertocchi, Nicholas and Mazzocchi, Paolo"
+    url: "https://ssrn.com/abstract=2881445"
+  - date: "2015-11"
+    year: 2015
+    title: "The ABCD of Interest Rate Basis Spreads"
+    authors: "Ametrano, Ferdinando M. and Ballabio, Luigi and Mazzocchi, Paolo"
+    url: "https://ssrn.com/abstract=2696743"
+  - date: "2014-10"
+    year: 2014
+    title: "The Cryptocurrency Frontier in Commodity Monetary Standard"
+    authors: "Ametrano, Ferdinando M."
+    url: "https://ssrn.com/abstract=2508296"
+  - date: "2014-05"
+    year: 2014
+    title: "Hayek Money: The Cryptocurrency Price Stability Solution"
+    authors: "Ametrano, Ferdinando M."
+    url: "https://ssrn.com/abstract=2425270"
+  - date: "2013-02"
+    year: 2013
+    title: "Everything You Always Wanted to Know About Multiple Interest Rate Curve Bootstrapping but Were Afraid to Ask"
+    authors: "Ametrano, Ferdinando M. and Bianchetti, Marco"
+    url: "https://ssrn.com/abstract=2219548"
+  - date: "2009-04"
+    year: 2009
+    title: "Bootstrapping the Illiquidity: Multiple Yield Curves Construction for Market Coherent Forward Rates Estimation"
+    authors: "Ametrano, Ferdinando M. and Bianchetti, Marco"
+    url: "https://ssrn.com/abstract=1371311"
+    note: "A version of this paper has been published as chapter 1 in \"Modeling Interest Rates\", edited by Fabio Mercurio, Risk Books, 1 May 2009, ISBN 9781906348137"
+  - date: "2008-02"
+    year: 2008
+    title: "Smooth Simultaneous Calibration of the LMM to Caplets and Coterminal Swaptions"
+    authors: "Ametrano, Ferdinando M. and Joshi, Mark"
+    url: "https://ssrn.com/abstract=1092665"
+    note: "Quantitative Finance, vol. 11 (4), pp.547 - 558"

@@ -1,0 +1,46 @@
+---
+title: "Ferdinando Ametrano"
+description: "Ferdinando Ametrano: CheckSig founder and CEO, scientific director of Digital Gold Institute and Crypto Asset Lab, adjunct professor of Bitcoin and Blockchain Technology."
+hero:
+  eyebrow: "Bitcoin · Teaching · Research"
+  title: "Founder, professor, researcher. <em>Bitcoin</em> since 2014."
+  intro: "Founder and CEO of [CheckSig](https://checksig.com), an Italian regulated bitcoin custodian. Scientific Director of [Digital Gold Institute](https://dgi.io) and [Crypto Asset Lab](https://cryptoassetlab.org). Former physicist, 20 years in finance, [QuantLib](https://www.quantlib.org/) founder and [btclib](https://github.com/btclib-org/btclib) maintainer."
+  badges: ["CheckSig", "DGI", "Crypto Asset Lab", "Bicocca · Unimi · ESSEC", "QuantLib", "btclib"]
+  cta: "Invite me"
+  ctaUrl: "/contact/"
+  cta2: "About and press kit"
+  cta2Url: "/about/"
+  alt: "Portrait of Ferdinando Ametrano"
+cards:
+  - title: "Work"
+    icon: work
+    url: "/work/"
+    text: "CheckSig, Digital Gold Institute, Crypto Asset Lab, open source and the earlier career in finance."
+  - title: "Teaching & Research"
+    icon: teaching
+    url: "/teaching/"
+    text: "Bitcoin and Blockchain Technology at Milano-Bicocca, the University of Milan and ESSEC. Papers on Hayek Money and interest rates."
+  - title: "Writing & Talks"
+    icon: writing
+    url: "/writing/"
+    text: "Posts, past events and media coverage, from the United Nations to TEDx."
+  - title: "Bruce"
+    image: images/bruce-milan-2003.jpg
+    url: "/bruce/"
+    text: "A long-time Springsteen fan, with a few stories to tell."
+bitcoin:
+  title: "Digital gold, taught and built"
+  text: "I discovered bitcoin in 2014 after 20 years as a finance professional. Since then it has been my main professional and academic interest: [Hayek Money](https://ssrn.com/abstract=2425270) for price stability, a university course, a Python library and a custody company."
+  links:
+    - label: "Papers"
+      url: "/research/"
+    - label: "Courses"
+      url: "/teaching/"
+    - label: "btclib"
+      url: "https://github.com/btclib-org/btclib"
+contact:
+  title: "Invite me to speak"
+  text: "Depending on agenda and interest, I can be available pro-bono as speaker, panelist, lecturer, or MC for scientific, academic, and community-organized non-profit events. I charge a fee for commercial events with admission price or sponsors, and for consulting."
+  url: "/contact/"
+  more: "Contact and verify"
+---

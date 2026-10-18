@@ -1,0 +1,76 @@
+# Stories on the Bruce landing page. Text is a short retelling of the legacy
+# pages, which stay under /bruce/ as the archive.
+# TODO: he should check the wording of each story; image credits for the
+# 2003 and 2000 photos are not recorded in the legacy pages.
+stories:
+  - id: forever-friends
+    year: "2003"
+    title:
+      en: "Forever Friends"
+      it: "Forever Friends"
+    text:
+      en: "A book for Bruce, a lakeside hotel and a bootleg CD of rare songs for Patti. The very long and quite personal story of a Springsteen week-end in June 2003."
+      it: "Un libro per Bruce, un albergo sul lago e un CD pirata di rarità per Patti. La storia lunga e molto personale di un week-end springsteeniano del giugno 2003."
+    image: images/bruce-villa-deste.jpg
+    alt:
+      en: "Villa d'Este on Lake Como, seen from above"
+      it: "Villa d'Este sul lago di Como, vista dall'alto"
+    archive: /foreverfriends/
+  - id: milan-2003
+    year: "2003"
+    title:
+      en: "Milan, June 28"
+      it: "Milano, 28 giugno"
+    text:
+      en: "The Milan show that closed that week-end: photos, a banner in the crowd and the setlist."
+      it: "Il concerto di Milano che chiuse quel week-end: foto, uno striscione tra la folla e la scaletta."
+    archive: /bruce/Milan2003.html
+  - id: speak-up
+    year: "2001"
+    title:
+      en: "Speak Up"
+      it: "Speak Up"
+    text:
+      en: "Speak Up, an Italian magazine in English, published an interview with Bruce in June 2001 together with his voice on CD or tape. Not an exclusive, but a nice collectable."
+      it: "Speak Up, rivista italiana in inglese, pubblicò nel giugno 2001 un'intervista a Bruce insieme alla sua voce su CD o cassetta. Non un'esclusiva, ma un bel pezzo da collezione."
+    archive: /bruce/speakup.html
+  - id: born-to-run-30y
+    year: "30Y"
+    title:
+      en: "Born to Run, 30 years"
+      it: "Born to Run, 30 anni"
+    text:
+      en: "A long chronicle, in Italian, of 1975: the year of Born to Run, from the Bottom Line shows to the first European concerts."
+      it: "Una lunga cronaca del 1975, l'anno di Born to Run: dai concerti al Bottom Line ai primi concerti europei."
+    archive: /bruce/BtR30Y_ita.html
+  - id: springstone
+    year: "Rare"
+    title:
+      en: "Springstone"
+      it: "Springstone"
+    text:
+      en: "A collector's curiosity: Bruce and 'Bedrock Rap - Meet The Flintstones'."
+      it: "Una curiosità da collezionista: Bruce e 'Bedrock Rap - Meet The Flintstones'."
+    archive: /bruce/springstone.html
+  - id: pony
+    year: "2000"
+    title:
+      en: "The Stone Pony"
+      it: "Lo Stone Pony"
+    text:
+      en: "November 3, 2000: Bruce joins Joe Grushecky and The Houserockers at the Light of Day concert for the Parkinson's Disease Foundation."
+      it: "3 novembre 2000: Bruce sale sul palco con Joe Grushecky e The Houserockers al concerto Light of Day per la Parkinson's Disease Foundation."
+    archive: /bruce/pony.html
+more:
+  - url: /bruce/essay.html
+    title:
+      en: "The promise: Bruce Springsteen and the religious sense (essay)"
+      it: "The promise: Bruce Springsteen e il senso religioso (saggio, in inglese)"
+  - url: /bruce/asbury.html
+    title:
+      en: "Asbury Park holiday show, December 2000"
+      it: "Concerto natalizio di Asbury Park, dicembre 2000"
+  - url: /bruce/bruce.html
+    title:
+      en: "The original Springsteen pages"
+      it: "Le pagine springsteeniane originali"

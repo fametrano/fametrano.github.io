@@ -41,4 +41,4 @@ One line in the imperative that says what changes, e.g. "Add the 2026 ESSEC cour
 
 ## Licence
 
-See `LICENSE`: text and teaching material CC BY 4.0; photos and the Bruce section all rights reserved; code MIT.
+See `LICENSE`: text and teaching material CC BY 4.0; photos © Ferdinando Ametrano unless otherwise credited, the Bruce section all rights reserved; code MIT.

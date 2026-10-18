@@ -8,8 +8,8 @@ url: /2019/02/23/formigoni/
 
 Questa volta non parlo di bitcoin…
 
-<figure style="float: left; width: 300px; margin: 10px 20px 10px 0">
-<img src="/images/20190223-formigoni.jpg" alt="Roberto Formigoni" width="300" />
+<figure class="bfig left" style="--w:300px">
+<img src="/images/20190223-formigoni.jpg" alt="Roberto Formigoni" width="300" height="389" />
 <figcaption>Roberto Formigoni. Immagine: versione Medium di questo articolo.</figcaption>
 </figure>
 

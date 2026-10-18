@@ -162,7 +162,7 @@ Assistant lecturer: [Paolo Mazzocchi](https://www.linkedin.com/in/paolo-mazzocch
     * Blocks
     * Assignment: [Halving Blocks](https://drive.google.com/file/d/1AvICvFSJexzWiXcvYPO0UD6e8Es51BeP/)  
 01. [_Transactions and Blocks_](https://drive.google.com/file/d/1S-1ltRVYPo6N33nXNWWBmopEg6jYfntY)  
-    * Transaction Serializazion
+    * Transaction Serialization
     * Blocks
     * Block Header  
 01. [_Timestamping and the OpenTimestamps Protocol_](https://drive.google.com/file/d/1GksUgO54g1z7P4HUVmxXufmuM9y3EZ1b)  

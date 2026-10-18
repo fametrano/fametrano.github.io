@@ -67,7 +67,7 @@ YouTube playlist completa:
 
 ---
 
-## Cronological Media Coverage
+## Chronological Media Coverage
 
 2019-06-26 Il Sole 24 Ore, diretta Facebook  
 Bitcoin e Libra  
@@ -117,7 +117,7 @@ video (ITA): <https://bit.ly/2EHgmev>
 Guest expert on bitcoin
 
 2018-02-21 Ambrosetti Live, Milan  
-Webinar: Undestanding Bitcoin: una rivoluzione fatta per durare?  
+Webinar: Understanding Bitcoin: una rivoluzione fatta per durare?  
 <live.ambrosetti.eu/20180221ametrano>  
 
 2018-02-19 Radio Monte Carlo  

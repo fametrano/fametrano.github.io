@@ -180,7 +180,7 @@ Bitcoin: The Digital Rush
 lecture
 
 2018-02-21 Ambrosetti Live, Milan  
-Webinar: Undestanding Bitcoin: una rivoluzione fatta per durare?  
+Webinar: Understanding Bitcoin: una rivoluzione fatta per durare?  
 <live.ambrosetti.eu/20180221ametrano>  
 
 2018-02-01 United Nations (Department of Economic and Social Affairs), New York  

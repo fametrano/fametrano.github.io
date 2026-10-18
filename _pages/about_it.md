@@ -31,7 +31,7 @@ Amministratore delegato e fondatore di [CheckSig](https://checksig.com)
 * Professore a contratto di [_Bitcoin and Blockchain Technology_]({{ site.baseurl }}/bbt)  
   Department of Finance, ESSEC Business School  
   Dipartimento di Statistica e Metodi Quantitativi, Università degli Studi di Milano-Bicocca  
-  Dipartmento di Matematica, Università degli Studi di Milano  
+  Dipartimento di Matematica, Università degli Studi di Milano  
 * Fondatore e coamministratore, QuantLib e btclib  
   [quantlib.org](https://www.quantlib.org), [btclib.org](https://btclib.org)
 

@@ -40,7 +40,7 @@ Ferdinando Ametrano
 
 Former physicist,
 after almost twenty years
-in investment banking, asset management, and quantitive finance,
+in investment banking, asset management, and quantitative finance,
 Ferdinando Ametrano discovered bitcoin in 2014:
 since then bitcoin has been his major professional
 and academic interest.

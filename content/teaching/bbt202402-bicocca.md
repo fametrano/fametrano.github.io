@@ -17,6 +17,8 @@ University of Milano-Bicocca
 
 e-learning: <https://elearning.unimib.it/course/view.php?id=52337>
 
+Syllabus (Digital Innovation and Finance): <https://elearning.unimib.it/local/syllabus/export.php?courseid=52337&language=en>
+
 If you have an e-mail _@campus.unimib.it_
 please join the 202402-bicocca channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)

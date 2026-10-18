@@ -17,6 +17,8 @@ Department of Law, University of Milano-Bicocca
 
 e-learning: <https://elearning.unimib.it/course/view.php?id=31997>
 
+Syllabus (Smart Contracts, Bitcoin e Blockchain Technology): <https://elearning.unimib.it/local/syllabus/export.php?courseid=31997&language=en>
+
 If you have an e-mail _@campus.unimib.it_
 please join the 202102-bicocca channel in the Slack
 [BBT workspace](https://join.slack.com/t/bbt-training/signup)

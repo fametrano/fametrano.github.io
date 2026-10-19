@@ -1,0 +1,13 @@
+Key transition statement — 2026-10-18
+
+I, Ferdinando Ametrano <ferdinando@ametrano.net>, am replacing my
+OpenPGP key.
+
+Old key: 91D9 67D0 8A2F 3646 A0C4  2ED0 07B5 59B7 1373 BF5D
+New key: FFCF 3A68 D839 0BED 5EFF  EF7F 35DC D452 3E9E 1B1E
+
+The old key will be revoked as superseded. Please use the new key for
+encrypted messages and to verify my signatures from today on.
+Signatures made with the old key before today remain valid.
+
+This statement is signed with both keys.
